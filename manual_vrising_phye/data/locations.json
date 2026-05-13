@@ -19,15 +19,6 @@
     "requires": ""
   },
   {
-    "name": "Keely the Frost Archer (Frost Tier 1)",
-    "region": "Frost Archer",
-    "category": [
-      "Act 1 Bosses",
-      "Act1Bosse"
-    ],
-    "requires": ""
-  },
-  {
     "name": "Keely the Frost Archer (Tannery)",
     "region": "Frost Archer",
     "category": [
@@ -37,14 +28,6 @@
   },
   {
     "name": "Keely the Frost Archer (Leather)",
-    "region": "Frost Archer",
-    "category": [
-      "Act 1 Bosses"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Keely the Frost Archer (Traveller's Wrap)",
     "region": "Frost Archer",
     "category": [
       "Act 1 Bosses"
@@ -66,15 +49,6 @@
       "Act 1 Bosses",
       "Act1Bosse",
       "LostSouls"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Errol the Stonebreaker (Chaos Tier 1)",
-    "region": "Stonebreaker",
-    "category": [
-      "Act 1 Bosses",
-      "Act1Bosse"
     ],
     "requires": ""
   },
@@ -105,32 +79,7 @@
     "requires": ""
   },
   {
-    "name": "Rufus the Foreman (Blood Tier 1)",
-    "region": "Foreman",
-    "category": [
-      "Act 1 Bosses",
-      "Act1Bosse"
-    ],
-    "requires": ""
-  },
-  {
     "name": "Rufus the Foreman (Woodworking Bench)",
-    "region": "Foreman",
-    "category": [
-      "Act 1 Bosses"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Rufus the Foreman (Simple Furniture)",
-    "region": "Foreman",
-    "category": [
-      "Act 1 Bosses"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Rufus the Foreman (Dueling Banner)",
     "region": "Foreman",
     "category": [
       "Act 1 Bosses"
@@ -152,15 +101,6 @@
       "Act 1 Bosses",
       "Act1Bosse",
       "LostSouls"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Grayson the Armourer (Illusion Tier 1)",
-    "region": "Armourer",
-    "category": [
-      "Act 1 Bosses",
-      "Act1Bosse"
     ],
     "requires": ""
   },
@@ -198,15 +138,6 @@
     "requires": ""
   },
   {
-    "name": "Goreswine the Ravager (Unholy Tier 1)",
-    "region": "Ravager",
-    "category": [
-      "Act 1 Bosses",
-      "Act1Bosse"
-    ],
-    "requires": ""
-  },
-  {
     "name": "Goreswine the Ravager (Tomb)",
     "region": "Ravager",
     "category": [
@@ -224,14 +155,6 @@
   },
   {
     "name": "Goreswine the Ravager (Gravedigger Ring)",
-    "region": "Ravager",
-    "category": [
-      "Act 1 Bosses"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Goreswine the Ravager (Grave Dust)",
     "region": "Ravager",
     "category": [
       "Act 1 Bosses"
@@ -275,32 +198,7 @@
     "requires": ""
   },
   {
-    "name": "Lidia the Chaos Archer (Chaos Tier 1)",
-    "region": "Chaos Archer",
-    "category": [
-      "Act 1 Bosses",
-      "Act1Bosse"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Lidia the Chaos Archer (The Devourer)",
-    "region": "Chaos Archer",
-    "category": [
-      "Act 1 Bosses"
-    ],
-    "requires": ""
-  },
-  {
     "name": "Lidia the Chaos Archer (Leatherworking Station)",
-    "region": "Chaos Archer",
-    "category": [
-      "Act 1 Bosses"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Lidia the Chaos Archer (Leather Bag)",
     "region": "Chaos Archer",
     "category": [
       "Act 1 Bosses"
@@ -325,24 +223,7 @@
     "requires": ""
   },
   {
-    "name": "Clive the Firestarter (Chaos Tier 2)",
-    "region": "Firestarter",
-    "category": [
-      "Act 1 Bosses",
-      "Act1Bosse"
-    ],
-    "requires": ""
-  },
-  {
     "name": "Clive the Firestarter (Alchemy Table)",
-    "region": "Firestarter",
-    "category": [
-      "Act 1 Bosses"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Clive the Firestarter (Minor Explosive Box)",
     "region": "Firestarter",
     "category": [
       "Act 1 Bosses"
@@ -355,15 +236,6 @@
     "category": [
       "Act 1 Bosses",
       "LostSouls"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Finn the Fisherman (Frost Tier 1)",
-    "region": "Fisherman",
-    "category": [
-      "Act 1 Bosses",
-      "Act1Bosse"
     ],
     "requires": ""
   },
@@ -381,15 +253,6 @@
     "category": [
       "Act 1 Bosses",
       "LostSouls"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Polora the Feywalker (Illusion Tier 1)",
-    "region": "Feywalker",
-    "category": [
-      "Act 1 Bosses",
-      "Act1Bosse"
     ],
     "requires": ""
   },
@@ -477,15 +340,6 @@
     "requires": ""
   },
   {
-    "name": "Nicholaus the Fallen (Unholy Tier 3)",
-    "region": "The Fallen",
-    "category": [
-      "Act 1 Bosses",
-      "Act1Bosse"
-    ],
-    "requires": ""
-  },
-  {
     "name": "Nicholaus the Fallen (Paper Press)",
     "region": "The Fallen",
     "category": [
@@ -527,15 +381,6 @@
     "requires": ""
   },
   {
-    "name": "Quincey the Bandit King (Chaos Tier 3)",
-    "region": "Bandit King",
-    "category": [
-      "Act 1 Bosses",
-      "Act1Bosse"
-    ],
-    "requires": ""
-  },
-  {
     "name": "Quincey the Bandit King (Smithy)",
     "region": "Bandit King",
     "category": [
@@ -544,23 +389,7 @@
     "requires": ""
   },
   {
-    "name": "Quincey the Bandit King (Tailoring Bench)",
-    "region": "Bandit King",
-    "category": [
-      "Act 1 Bosses"
-    ],
-    "requires": ""
-  },
-  {
     "name": "Quincey the Bandit King (Ebonite Stairs & Doors)",
-    "region": "Bandit King",
-    "category": [
-      "Act 1 Bosses"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Quincey the Bandit King (Iron Ingot)",
     "region": "Bandit King",
     "category": [
       "Act 1 Bosses"
@@ -585,20 +414,12 @@
     "requires": ""
   },
   {
-    "name": "Beatrice the Tailor (Veil of Blood)",
-    "region": "Tailor",
-    "category": [
-      "Act 2 Bosses"
-    ],
-    "requires": ""
-  },
-  {
     "name": "Beatrice the Tailor (Loom)",
     "region": "Tailor",
     "category": [
       "Act 2 Bosses"
     ],
-    "requires": ""
+    "requires": "|Quincey the Bandit King (Smithy)|"
   },
   {
     "name": "Beatrice the Tailor (Assortment of Curtains)",
@@ -606,31 +427,7 @@
     "category": [
       "Act 2 Bosses"
     ],
-    "requires": ""
-  },
-  {
-    "name": "Beatrice the Tailor (Cloth)",
-    "region": "Tailor",
-    "category": [
-      "Act 2 Bosses"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Beatrice the Tailor (Cotton Yarn)",
-    "region": "Tailor",
-    "category": [
-      "Act 2 Bosses"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Beatrice the Tailor (Hunter's Cloak)",
-    "region": "Tailor",
-    "category": [
-      "Act 2 Bosses"
-    ],
-    "requires": ""
+    "requires": "|Quincey the Bandit King (Smithy)|"
   },
   {
     "name": "Beatrice the Tailor (Lost Soul)",
@@ -639,15 +436,7 @@
       "Act 2 Bosses",
       "LostSouls"
     ],
-    "requires": ""
-  },
-  {
-    "name": "Vincent the Frostbringer (Veil of Frost)",
-    "region": "Frostbringer",
-    "category": [
-      "Act 2 Bosses"
-    ],
-    "requires": ""
+    "requires": "|Quincey the Bandit King (Smithy)|"
   },
   {
     "name": "Vincent the Frostbringer (Prison Cell)",
@@ -655,7 +444,7 @@
     "category": [
       "Act 2 Bosses"
     ],
-    "requires": ""
+    "requires": "|Quincey the Bandit King (Smithy)|"
   },
   {
     "name": "Vincent the Frostbringer (Prison Framework)",
@@ -663,15 +452,7 @@
     "category": [
       "Act 2 Bosses"
     ],
-    "requires": ""
-  },
-  {
-    "name": "Vincent the Frostbringer (Reinforced Plank)",
-    "region": "Frostbringer",
-    "category": [
-      "Act 2 Bosses"
-    ],
-    "requires": ""
+    "requires": "|Quincey the Bandit King (Smithy)|"
   },
   {
     "name": "Vincent the Frostbringer (Lost Soul)",
@@ -680,15 +461,7 @@
       "Act 2 Bosses",
       "LostSouls"
     ],
-    "requires": ""
-  },
-  {
-    "name": "Christina the Sun Priestess (Illusion Tier 2)",
-    "region": "Sun Priestess",
-    "category": [
-      "Act 2 Bosses"
-    ],
-    "requires": ""
+    "requires": "|Quincey the Bandit King (Smithy)|"
   },
   {
     "name": "Christina the Sun Priestess (Candles)",
@@ -696,7 +469,7 @@
     "category": [
       "Act 2 Bosses"
     ],
-    "requires": ""
+    "requires": "|Quincey the Bandit King (Smithy)|"
   },
   {
     "name": "Christina the Sun Priestess (Wool Thread)",
@@ -704,15 +477,7 @@
     "category": [
       "Act 2 Bosses"
     ],
-    "requires": ""
-  },
-  {
-    "name": "Christina the Sun Priestess (Silver Thread Bag)",
-    "region": "Sun Priestess",
-    "category": [
-      "Act 2 Bosses"
-    ],
-    "requires": ""
+    "requires": "|Quincey the Bandit King (Smithy)|"
   },
   {
     "name": "Christina the Sun Priestess (Lost Soul)",
@@ -721,15 +486,7 @@
       "Act 2 Bosses",
       "LostSouls"
     ],
-    "requires": ""
-  },
-  {
-    "name": "Tristan the Vampire Hunter (Blood Tier 3)",
-    "region": "Tristan",
-    "category": [
-      "Act 2 Bosses"
-    ],
-    "requires": ""
+    "requires": "|Quincey the Bandit King (Smithy)|"
   },
   {
     "name": "Tristan the Vampire Hunter (Blood Hunter)",
@@ -737,15 +494,7 @@
     "category": [
       "Act 2 Bosses"
     ],
-    "requires": ""
-  },
-  {
-    "name": "Tristan the Vampire Hunter (Greater Blood Essence)",
-    "region": "Tristan",
-    "category": [
-      "Act 2 Bosses"
-    ],
-    "requires": ""
+    "requires": "|Quincey the Bandit King (Smithy)|"
   },
   {
     "name": "Tristan the Vampire Hunter (Greatsword)",
@@ -753,7 +502,7 @@
     "category": [
       "Act 2 Bosses"
     ],
-    "requires": ""
+    "requires": "|Quincey the Bandit King (Smithy)|"
   },
   {
     "name": "Tristan the Vampire Hunter (Lost Soul)",
@@ -762,15 +511,7 @@
       "Act 2 Bosses",
       "LostSouls"
     ],
-    "requires": ""
-  },
-  {
-    "name": "Sir Erwin the Gallant Cavalier (Storm Tier 1)",
-    "region": "Gallant Cavalier",
-    "category": [
-      "Act 2 Bosses"
-    ],
-    "requires": ""
+    "requires": "|Quincey the Bandit King (Smithy)|"
   },
   {
     "name": "Sir Erwin the Gallant Cavalier (Stables)",
@@ -778,15 +519,7 @@
     "category": [
       "Act 2 Bosses"
     ],
-    "requires": ""
-  },
-  {
-    "name": "Sir Erwin the Gallant Cavalier (Stables Furnishing Decor)",
-    "region": "Gallant Cavalier",
-    "category": [
-      "Act 2 Bosses"
-    ],
-    "requires": ""
+    "requires": "|Quincey the Bandit King (Smithy)|"
   },
   {
     "name": "Sir Erwin the Gallant Cavalier (Lost Soul)",
@@ -795,15 +528,7 @@
       "Act 2 Bosses",
       "LostSouls"
     ],
-    "requires": ""
-  },
-  {
-    "name": "Kriig the Undead General (Unholy Tier 2)",
-    "region": "Undead General",
-    "category": [
-      "Act 2 Bosses"
-    ],
-    "requires": ""
+    "requires": "|Quincey the Bandit King (Smithy)|"
   },
   {
     "name": "Kriig the Undead General (Castle Door Bells)",
@@ -811,7 +536,7 @@
     "category": [
       "Act 2 Bosses"
     ],
-    "requires": ""
+    "requires": "|Quincey the Bandit King (Smithy)|"
   },
   {
     "name": "Kriig the Undead General (Reaper)",
@@ -819,7 +544,7 @@
     "category": [
       "Act 2 Bosses"
     ],
-    "requires": ""
+    "requires": "|Quincey the Bandit King (Smithy)|"
   },
   {
     "name": "Kriig the Undead General (Skeleton Priest)",
@@ -827,7 +552,7 @@
     "category": [
       "Act 2 Bosses"
     ],
-    "requires": ""
+    "requires": "|Quincey the Bandit King (Smithy)|"
   },
   {
     "name": "Kriig the Undead General (Lost Soul)",
@@ -836,15 +561,7 @@
       "Act 2 Bosses",
       "LostSouls"
     ],
-    "requires": ""
-  },
-  {
-    "name": "Leandra the Shadow Priestess (Unholy Tier 1)",
-    "region": "Shadow Priestess",
-    "category": [
-      "Act 2 Bosses"
-    ],
-    "requires": ""
+    "requires": "|Quincey the Bandit King (Smithy)|"
   },
   {
     "name": "Leandra the Shadow Priestess (Scourgestone Pendant)",
@@ -852,23 +569,7 @@
     "category": [
       "Act 2 Bosses"
     ],
-    "requires": ""
-  },
-  {
-    "name": "Leandra the Shadow Priestess (Scourgestone)",
-    "region": "Shadow Priestess",
-    "category": [
-      "Act 2 Bosses"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Leandra the Shadow Priestess (Dusk Caller)",
-    "region": "Shadow Priestess",
-    "category": [
-      "Act 2 Bosses"
-    ],
-    "requires": ""
+    "requires": "|Quincey the Bandit King (Smithy)|"
   },
   {
     "name": "Leandra the Shadow Priestess (Lost Soul)",
@@ -877,15 +578,7 @@
       "Act 2 Bosses",
       "LostSouls"
     ],
-    "requires": ""
-  },
-  {
-    "name": "Maja the Dark Savant (Illusion Tier 1)",
-    "region": "Dark Savant",
-    "category": [
-      "Act 2 Bosses"
-    ],
-    "requires": ""
+    "requires": "|Quincey the Bandit King (Smithy)|"
   },
   {
     "name": "Maja the Dark Savant (Study)",
@@ -893,7 +586,7 @@
     "category": [
       "Act 2 Bosses"
     ],
-    "requires": ""
+    "requires": "|Quincey the Bandit King (Smithy)|"
   },
   {
     "name": "Maja the Dark Savant (Verdant Garden Fencing)",
@@ -901,7 +594,7 @@
     "category": [
       "Act 2 Bosses"
     ],
-    "requires": ""
+    "requires": "|Quincey the Bandit King (Smithy)|"
   },
   {
     "name": "Maja the Dark Savant (Wall Hanging Shelves)",
@@ -909,15 +602,7 @@
     "category": [
       "Act 2 Bosses"
     ],
-    "requires": ""
-  },
-  {
-    "name": "Maja the Dark Savant (Scroll)",
-    "region": "Dark Savant",
-    "category": [
-      "Act 2 Bosses"
-    ],
-    "requires": ""
+    "requires": "|Quincey the Bandit King (Smithy)|"
   },
   {
     "name": "Maja the Dark Savant (Midnight Ball Gown)",
@@ -925,7 +610,7 @@
     "category": [
       "Act 2 Bosses"
     ],
-    "requires": ""
+    "requires": "|Quincey the Bandit King (Smithy)|"
   },
   {
     "name": "Maja the Dark Savant (Lost Soul)",
@@ -934,15 +619,7 @@
       "Act 2 Bosses",
       "LostSouls"
     ],
-    "requires": ""
-  },
-  {
-    "name": "Bane the Shadowblade (Veil of Bones)",
-    "region": "Shadowblade",
-    "category": [
-      "Act 2 Bosses"
-    ],
-    "requires": ""
+    "requires": "|Quincey the Bandit King (Smithy)|"
   },
   {
     "name": "Bane the Shadowblade (Human Form)",
@@ -950,7 +627,7 @@
     "category": [
       "Act 2 Bosses"
     ],
-    "requires": ""
+    "requires": "|Quincey the Bandit King (Smithy)|"
   },
   {
     "name": "Bane the Shadowblade (Daggers)",
@@ -958,7 +635,7 @@
     "category": [
       "Act 2 Bosses"
     ],
-    "requires": ""
+    "requires": "|Quincey the Bandit King (Smithy)|"
   },
   {
     "name": "Bane the Shadowblade (Lost Soul)",
@@ -967,15 +644,7 @@
       "Act 2 Bosses",
       "LostSouls"
     ],
-    "requires": ""
-  },
-  {
-    "name": "Grethel the Glassblower (Storm Tier 1)",
-    "region": "Glassblower",
-    "category": [
-      "Act 2 Bosses"
-    ],
-    "requires": ""
+    "requires": "|Quincey the Bandit King (Smithy)|"
   },
   {
     "name": "Grethel the Glassblower (Wall Hanging Mirrors)",
@@ -983,7 +652,7 @@
     "category": [
       "Act 2 Bosses"
     ],
-    "requires": ""
+    "requires": "|Quincey the Bandit King (Smithy)|"
   },
   {
     "name": "Grethel the Glassblower (Glass)",
@@ -991,15 +660,7 @@
     "category": [
       "Act 2 Bosses"
     ],
-    "requires": ""
-  },
-  {
-    "name": "Grethel the Glassblower (Blood Rose Potion)",
-    "region": "Glassblower",
-    "category": [
-      "Act 2 Bosses"
-    ],
-    "requires": ""
+    "requires": "|Quincey the Bandit King (Smithy)|"
   },
   {
     "name": "Grethel the Glassblower (Lost Soul)",
@@ -1008,15 +669,7 @@
       "Act 2 Bosses",
       "LostSouls"
     ],
-    "requires": ""
-  },
-  {
-    "name": "Meredith the Bright Archer (Veil of Storm)",
-    "region": "Bright Archer",
-    "category": [
-      "Act 2 Bosses"
-    ],
-    "requires": ""
+    "requires": "|Quincey the Bandit King (Smithy)|"
   },
   {
     "name": "Meredith the Bright Archer (Holy Resistance Potion)",
@@ -1024,15 +677,7 @@
     "category": [
       "Act 2 Bosses"
     ],
-    "requires": ""
-  },
-  {
-    "name": "Meredith the Bright Archer (Elixir of the Prowler)",
-    "region": "Bright Archer",
-    "category": [
-      "Act 2 Bosses"
-    ],
-    "requires": ""
+    "requires": "|Quincey the Bandit King (Smithy)|"
   },
   {
     "name": "Meredith the Bright Archer (Lost Soul)",
@@ -1041,15 +686,7 @@
       "Act 2 Bosses",
       "LostSouls"
     ],
-    "requires": ""
-  },
-  {
-    "name": "Terah the Geomancer (Unholy Tier 3)",
-    "region": "Geomancer",
-    "category": [
-      "Act 2 Bosses"
-    ],
-    "requires": ""
+    "requires": "|Quincey the Bandit King (Smithy)|"
   },
   {
     "name": "Terah the Geomancer (Gem Cutting Table)",
@@ -1057,7 +694,7 @@
     "category": [
       "Act 2 Bosses"
     ],
-    "requires": ""
+    "requires": "|Quincey the Bandit King (Smithy)|"
   },
   {
     "name": "Terah the Geomancer (Regular Gems)",
@@ -1065,15 +702,7 @@
     "category": [
       "Act 2 Bosses"
     ],
-    "requires": ""
-  },
-  {
-    "name": "Terah the Geomancer (Siege Golem Stone)",
-    "region": "Geomancer",
-    "category": [
-      "Act 2 Bosses"
-    ],
-    "requires": ""
+    "requires": "|Quincey the Bandit King (Smithy)|"
   },
   {
     "name": "Terah the Geomancer (Obsidian)",
@@ -1081,7 +710,7 @@
     "category": [
       "Act 2 Bosses"
     ],
-    "requires": ""
+    "requires": "|Quincey the Bandit King (Smithy)|"
   },
   {
     "name": "Terah the Geomancer (Lost Soul)",
@@ -1090,15 +719,7 @@
       "Act 2 Bosses",
       "LostSouls"
     ],
-    "requires": ""
-  },
-  {
-    "name": "General Elena the Hollow (Frost Tier 2)",
-    "region": "The Hollow",
-    "category": [
-      "Act 2 Bosses"
-    ],
-    "requires": ""
+    "requires": "|Quincey the Bandit King (Smithy)|"
   },
   {
     "name": "General Elena the Hollow (Passive Slot)",
@@ -1106,7 +727,7 @@
     "category": [
       "Act 2 Bosses"
     ],
-    "requires": ""
+    "requires": "|Quincey the Bandit King (Smithy)|"
   },
   {
     "name": "General Elena the Hollow (Altar of Stygian Awakening)",
@@ -1114,7 +735,7 @@
     "category": [
       "Act 2 Bosses"
     ],
-    "requires": ""
+    "requires": "|Quincey the Bandit King (Smithy)|"
   },
   {
     "name": "General Elena the Hollow (Stately Carpets)",
@@ -1122,15 +743,7 @@
     "category": [
       "Act 2 Bosses"
     ],
-    "requires": ""
-  },
-  {
-    "name": "General Elena the Hollow (Elixir of the Raven)",
-    "region": "The Hollow",
-    "category": [
-      "Act 2 Bosses"
-    ],
-    "requires": ""
+    "requires": "|Quincey the Bandit King (Smithy)|"
   },
   {
     "name": "General Elena the Hollow (Lost Soul)",
@@ -1139,15 +752,7 @@
       "Act 2 Bosses",
       "LostSouls"
     ],
-    "requires": ""
-  },
-  {
-    "name": "Frostmaw the Mountain Terror (Frost Tier 3)",
-    "region": "Mountain Terror",
-    "category": [
-      "Act 2 Bosses"
-    ],
-    "requires": ""
+    "requires": "|Quincey the Bandit King (Smithy)|"
   },
   {
     "name": "Frostmaw the Mountain Terror (Thick Leather)",
@@ -1155,23 +760,7 @@
     "category": [
       "Act 2 Bosses"
     ],
-    "requires": ""
-  },
-  {
-    "name": "Frostmaw the Mountain Terror (Mountain Peak Bag)",
-    "region": "Mountain Terror",
-    "category": [
-      "Act 2 Bosses"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Frostmaw the Mountain Terror (Elixir of the Beast)",
-    "region": "Mountain Terror",
-    "category": [
-      "Act 2 Bosses"
-    ],
-    "requires": ""
+    "requires": "|Quincey the Bandit King (Smithy)|"
   },
   {
     "name": "Frostmaw the Mountain Terror (Claws)",
@@ -1179,7 +768,7 @@
     "category": [
       "Act 2 Bosses"
     ],
-    "requires": ""
+    "requires": "|Quincey the Bandit King (Smithy)|"
   },
   {
     "name": "Frostmaw the Mountain Terror (Lost Soul)",
@@ -1188,15 +777,7 @@
       "Act 2 Bosses",
       "LostSouls"
     ],
-    "requires": ""
-  },
-  {
-    "name": "Gaius the Cursed Champion (Unholy Tier 1)",
-    "region": "Cursed Champion",
-    "category": [
-      "Act 2 Bosses"
-    ],
-    "requires": ""
+    "requires": "|Quincey the Bandit King (Smithy)|"
   },
   {
     "name": "Gaius the Cursed Champion (Arena Station)",
@@ -1204,7 +785,7 @@
     "category": [
       "Act 2 Bosses"
     ],
-    "requires": ""
+    "requires": "|Quincey the Bandit King (Smithy)|"
   },
   {
     "name": "Gaius the Cursed Champion (Arena Decorations)",
@@ -1212,7 +793,7 @@
     "category": [
       "Act 2 Bosses"
     ],
-    "requires": ""
+    "requires": "|Quincey the Bandit King (Smithy)|"
   },
   {
     "name": "Gaius the Cursed Champion (Twinblades)",
@@ -1220,7 +801,7 @@
     "category": [
       "Act 2 Bosses"
     ],
-    "requires": ""
+    "requires": "|Quincey the Bandit King (Smithy)|"
   },
   {
     "name": "Gaius the Cursed Champion (Lost Soul)",
@@ -1229,15 +810,7 @@
       "Act 2 Bosses",
       "LostSouls"
     ],
-    "requires": ""
-  },
-  {
-    "name": "General Cassius the Betrayer (Unholy Tier 2)",
-    "region": "The Betrayer",
-    "category": [
-      "Act 2 Bosses"
-    ],
-    "requires": ""
+    "requires": "|Quincey the Bandit King (Smithy)|"
   },
   {
     "name": "General Cassius the Betrayer (Passive Slot)",
@@ -1245,7 +818,7 @@
     "category": [
       "Act 2 Bosses"
     ],
-    "requires": ""
+    "requires": "|Quincey the Bandit King (Smithy)|"
   },
   {
     "name": "General Cassius the Betrayer (Stygian Summoning Circle)",
@@ -1253,15 +826,7 @@
     "category": [
       "Act 2 Bosses"
     ],
-    "requires": ""
-  },
-  {
-    "name": "General Cassius the Betrayer (Elixir of the Bat)",
-    "region": "The Betrayer",
-    "category": [
-      "Act 2 Bosses"
-    ],
-    "requires": ""
+    "requires": "|Quincey the Bandit King (Smithy)|"
   },
   {
     "name": "General Cassius the Betrayer (Lost Soul)",
@@ -1270,23 +835,7 @@
       "Act 2 Bosses",
       "LostSouls"
     ],
-    "requires": ""
-  },
-  {
-    "name": "Jade the Vampire Hunter (Veil of Chaos)",
-    "region": "Jade",
-    "category": [
-      "Act 2 Bosses"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Jade the Vampire Hunter (Advanced Blood Press)",
-    "region": "Jade",
-    "category": [
-      "Act 2 Bosses"
-    ],
-    "requires": ""
+    "requires": "|Quincey the Bandit King (Smithy)|"
   },
   {
     "name": "Jade the Vampire Hunter (Primal Blood Essence)",
@@ -1294,23 +843,16 @@
     "category": [
       "Act 2 Bosses"
     ],
-    "requires": ""
+    "requires": "|Quincey the Bandit King (Smithy)|"
   },
-  {
-    "name": "Jade the Vampire Hunter (Elixir of the Crow)",
-    "region": "Jade",
-    "category": [
-      "Act 2 Bosses"
-    ],
-    "requires": ""
-  },
+
   {
     "name": "Jade the Vampire Hunter (Pistols)",
     "region": "Jade",
     "category": [
       "Act 2 Bosses"
     ],
-    "requires": ""
+    "requires": "|Quincey the Bandit King (Smithy)|"
   },
   {
     "name": "Jade the Vampire Hunter (Lost Soul)",
@@ -1319,15 +861,7 @@
       "Act 2 Bosses",
       "LostSouls"
     ],
-    "requires": ""
-  },
-  {
-    "name": "Raziel the Shepherd (Blood Tier 2)",
-    "region": "Shepherd",
-    "category": [
-      "Act 2 Bosses"
-    ],
-    "requires": ""
+    "requires": "|Quincey the Bandit King (Smithy)|"
   },
   {
     "name": "Raziel the Shepherd (Jewelcrafting Table)",
@@ -1335,7 +869,7 @@
     "category": [
       "Act 2 Bosses"
     ],
-    "requires": ""
+    "requires": "|Quincey the Bandit King (Smithy)|"
   },
   {
     "name": "Raziel the Shepherd (Cordial Stairs & Doors)",
@@ -1343,7 +877,7 @@
     "category": [
       "Act 2 Bosses"
     ],
-    "requires": ""
+    "requires": "|Quincey the Bandit King (Smithy)|"
   },
   {
     "name": "Raziel the Shepherd (Lost Soul)",
@@ -1352,15 +886,7 @@
       "Act 2 Bosses",
       "LostSouls"
     ],
-    "requires": ""
-  },
-  {
-    "name": "Octavian the Militia Captain (Storm Tier 3)",
-    "region": "Militia Captain",
-    "category": [
-      "Act 2 Bosses"
-    ],
-    "requires": ""
+    "requires": "|Quincey the Bandit King (Smithy)|"
   },
   {
     "name": "Octavian the Militia Captain (Ancestral Forge)",
@@ -1368,7 +894,7 @@
     "category": [
       "Act 2 Bosses"
     ],
-    "requires": ""
+    "requires": "|Quincey the Bandit King (Smithy)|"
   },
   {
     "name": "Octavian the Militia Captain (Wide Castle Entrance)",
@@ -1376,7 +902,7 @@
     "category": [
       "Act 2 Bosses"
     ],
-    "requires": ""
+    "requires": "|Quincey the Bandit King (Smithy)|"
   },
   {
     "name": "Octavian the Militia Captain (Equipment Storage)",
@@ -1384,7 +910,7 @@
     "category": [
       "Act 2 Bosses"
     ],
-    "requires": ""
+    "requires": "|Quincey the Bandit King (Smithy)|"
   },
   {
     "name": "Octavian the Militia Captain (Lost Soul)",
@@ -1393,15 +919,7 @@
       "Act 2 Bosses",
       "LostSouls"
     ],
-    "requires": ""
-  },
-  {
-    "name": "Ziva the Engineer (Storm Tier 2)",
-    "region": "Engineer",
-    "category": [
-      "Act 3 Bosses"
-    ],
-    "requires": ""
+    "requires": "|Quincey the Bandit King (Smithy)|"
   },
   {
     "name": "Ziva the Engineer (Fabricator)",
@@ -1409,31 +927,7 @@
     "category": [
       "Act 3 Bosses"
     ],
-    "requires": ""
-  },
-  {
-    "name": "Ziva the Engineer (Yellow Castle Teleporter)",
-    "region": "Engineer",
-    "category": [
-      "Act 3 Bosses"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Ziva the Engineer (Sludge-filled Canister)",
-    "region": "Engineer",
-    "category": [
-      "Act 3 Bosses"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Ziva the Engineer (Radium Alloy)",
-    "region": "Engineer",
-    "category": [
-      "Act 3 Bosses"
-    ],
-    "requires": ""
+    "requires": "|Quincey the Bandit King (Smithy)|"
   },
   {
     "name": "Ziva the Engineer (Lost Soul)",
@@ -1442,15 +936,7 @@
       "Act 3 Bosses",
       "LostSouls"
     ],
-    "requires": ""
-  },
-  {
-    "name": "Domina the Blade Dancer (Storm Tier 2)",
-    "region": "Blade Dancer",
-    "category": [
-      "Act 3 Bosses"
-    ],
-    "requires": ""
+    "requires": "|Quincey the Bandit King (Smithy)|"
   },
   {
     "name": "Domina the Blade Dancer (Advanced Grinder)",
@@ -1458,23 +944,7 @@
     "category": [
       "Act 3 Bosses"
     ],
-    "requires": ""
-  },
-  {
-    "name": "Domina the Blade Dancer (Red Castle Teleporter)",
-    "region": "Blade Dancer",
-    "category": [
-      "Act 3 Bosses"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Domina the Blade Dancer (Elixir of the Blasphemous)",
-    "region": "Blade Dancer",
-    "category": [
-      "Act 3 Bosses"
-    ],
-    "requires": ""
+    "requires": "|Quincey the Bandit King (Smithy)|"
   },
   {
     "name": "Domina the Blade Dancer (Iron Whip)",
@@ -1482,7 +952,7 @@
     "category": [
       "Act 3 Bosses"
     ],
-    "requires": ""
+    "requires": "|Quincey the Bandit King (Smithy)|"
   },
   {
     "name": "Domina the Blade Dancer (Lost Soul)",
@@ -1491,15 +961,7 @@
       "Act 3 Bosses",
       "LostSouls"
     ],
-    "requires": ""
-  },
-  {
-    "name": "Angram the Purifier (Chaos Tier 3)",
-    "region": "Purifier",
-    "category": [
-      "Act 3 Bosses"
-    ],
-    "requires": ""
+    "requires": "|Quincey the Bandit King (Smithy)|"
   },
   {
     "name": "Angram the Purifier (Dawnthorn Regalia)",
@@ -1507,7 +969,7 @@
     "category": [
       "Act 3 Bosses"
     ],
-    "requires": ""
+    "requires": "|Quincey the Bandit King (Smithy)|"
   },
   {
     "name": "Angram the Purifier (Mutated Rat)",
@@ -1515,15 +977,7 @@
     "category": [
       "Act 3 Bosses"
     ],
-    "requires": ""
-  },
-  {
-    "name": "Angram the Purifier (Major Explosive Box)",
-    "region": "Purifier",
-    "category": [
-      "Act 3 Bosses"
-    ],
-    "requires": ""
+    "requires": "|Quincey the Bandit King (Smithy)|"
   },
   {
     "name": "Angram the Purifier (Irradiant Gruel)",
@@ -1531,7 +985,7 @@
     "category": [
       "Act 3 Bosses"
     ],
-    "requires": ""
+    "requires": "|Quincey the Bandit King (Smithy)|"
   },
   {
     "name": "Angram the Purifier (Lost Soul)",
@@ -1540,23 +994,7 @@
       "Act 3 Bosses",
       "LostSouls"
     ],
-    "requires": ""
-  },
-  {
-    "name": "Ungora the Spider Queen (Unholy Tier 3)",
-    "region": "Spider Queen",
-    "category": [
-      "Act 3 Bosses"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Ungora the Spider Queen (Spider Form)",
-    "region": "Spider Queen",
-    "category": [
-      "Act 3 Bosses"
-    ],
-    "requires": ""
+    "requires": "|Quincey the Bandit King (Smithy)|"
   },
   {
     "name": "Ungora the Spider Queen (Silk)",
@@ -1564,15 +1002,7 @@
     "category": [
       "Act 3 Bosses"
     ],
-    "requires": ""
-  },
-  {
-    "name": "Ungora the Spider Queen (Spiderling)",
-    "region": "Spider Queen",
-    "category": [
-      "Act 3 Bosses"
-    ],
-    "requires": ""
+    "requires": "|Quincey the Bandit King (Smithy)| AND |Angram the Purifier (Dawnthorn Regalia)|"
   },
   {
     "name": "Ungora the Spider Queen (Lost Soul)",
@@ -1581,15 +1011,7 @@
       "Act 3 Bosses",
       "LostSouls"
     ],
-    "requires": ""
-  },
-  {
-    "name": "Ben the Old Wanderer (Frost Tier 1)",
-    "region": "Old Wanderer",
-    "category": [
-      "Act 3 Bosses"
-    ],
-    "requires": ""
+    "requires": "|Quincey the Bandit King (Smithy)| AND |Angram the Purifier (Dawnthorn Regalia)|"
   },
   {
     "name": "Ben the Old Wanderer (Pristine Leather)",
@@ -1597,15 +1019,7 @@
     "category": [
       "Act 3 Bosses"
     ],
-    "requires": ""
-  },
-  {
-    "name": "Ben the Old Wanderer (Shroud of the Forest)",
-    "region": "Old Wanderer",
-    "category": [
-      "Act 3 Bosses"
-    ],
-    "requires": ""
+    "requires": "|Quincey the Bandit King (Smithy)| AND |Angram the Purifier (Dawnthorn Regalia)|"
   },
   {
     "name": "Ben the Old Wanderer (Lost Soul)",
@@ -1614,15 +1028,7 @@
       "Act 3 Bosses",
       "LostSouls"
     ],
-    "requires": ""
-  },
-  {
-    "name": "Foulrot the Soultaker (Unholy Tier 2)",
-    "region": "Soultaker",
-    "category": [
-      "Act 3 Bosses"
-    ],
-    "requires": ""
+    "requires": "|Quincey the Bandit King (Smithy)| AND |Angram the Purifier (Dawnthorn Regalia)|"
   },
   {
     "name": "Foulrot the Soultaker (Spectral Dust)",
@@ -1630,15 +1036,7 @@
     "category": [
       "Act 3 Bosses"
     ],
-    "requires": ""
-  },
-  {
-    "name": "Foulrot the Soultaker (Banshee)",
-    "region": "Soultaker",
-    "category": [
-      "Act 3 Bosses"
-    ],
-    "requires": ""
+    "requires": "|Quincey the Bandit King (Smithy)| AND |Angram the Purifier (Dawnthorn Regalia)|"
   },
   {
     "name": "Foulrot the Soultaker (Lost Soul)",
@@ -1647,7 +1045,7 @@
       "Act 3 Bosses",
       "LostSouls"
     ],
-    "requires": ""
+    "requires": "|Quincey the Bandit King (Smithy)| AND |Angram the Purifier (Dawnthorn Regalia)|"
   },
   {
     "name": "Albert the Duke of Balaton (Toad Form)",
@@ -1655,15 +1053,7 @@
     "category": [
       "Act 3 Bosses"
     ],
-    "requires": ""
-  },
-  {
-    "name": "Albert the Duke of Balaton (Chess Table)",
-    "region": "Duke of Balaton",
-    "category": [
-      "Act 3 Bosses"
-    ],
-    "requires": ""
+    "requires": "|Quincey the Bandit King (Smithy)| AND |Angram the Purifier (Dawnthorn Regalia)|"
   },
   {
     "name": "Albert the Duke of Balaton (Coining)",
@@ -1671,7 +1061,7 @@
     "category": [
       "Act 3 Bosses"
     ],
-    "requires": ""
+    "requires": "|Quincey the Bandit King (Smithy)| AND |Angram the Purifier (Dawnthorn Regalia)|"
   },
   {
     "name": "Albert the Duke of Balaton (Lost Soul)",
@@ -1680,15 +1070,7 @@
       "Act 3 Bosses",
       "LostSouls"
     ],
-    "requires": ""
-  },
-  {
-    "name": "Willfred the Werewolf Chief (Blood Tier 3)",
-    "region": "Werewolf Chief",
-    "category": [
-      "Act 3 Bosses"
-    ],
-    "requires": ""
+    "requires": "|Quincey the Bandit King (Smithy)| AND |Angram the Purifier (Dawnthorn Regalia)|"
   },
   {
     "name": "Willfred the Werewolf Chief (Longcase Clocks)",
@@ -1696,15 +1078,7 @@
     "category": [
       "Act 3 Bosses"
     ],
-    "requires": ""
-  },
-  {
-    "name": "Willfred the Werewolf Chief (Silver Resistance Potion)",
-    "region": "Werewolf Chief",
-    "category": [
-      "Act 3 Bosses"
-    ],
-    "requires": ""
+    "requires": "|Quincey the Bandit King (Smithy)| AND |Angram the Purifier (Dawnthorn Regalia)|"
   },
   {
     "name": "Willfred the Werewolf Chief (Pristine Leather Bag)",
@@ -1712,15 +1086,7 @@
     "category": [
       "Act 3 Bosses"
     ],
-    "requires": ""
-  },
-  {
-    "name": "Willfred the Werewolf Chief (Elixir of the Werewolf)",
-    "region": "Werewolf Chief",
-    "category": [
-      "Act 3 Bosses"
-    ],
-    "requires": ""
+    "requires": "|Quincey the Bandit King (Smithy)| AND |Angram the Purifier (Dawnthorn Regalia)|"
   },
   {
     "name": "Willfred the Werewolf Chief (Lost Soul)",
@@ -1729,15 +1095,7 @@
       "Act 3 Bosses",
       "LostSouls"
     ],
-    "requires": ""
-  },
-  {
-    "name": "Cyril the Cursed Smith (Veil of Illusion)",
-    "region": "Cursed Smith",
-    "category": [
-      "Act 3 Bosses"
-    ],
-    "requires": ""
+    "requires": "|Quincey the Bandit King (Smithy)| AND |Angram the Purifier (Dawnthorn Regalia)|"
   },
   {
     "name": "Cyril the Cursed Smith (Passive Slot)",
@@ -1745,23 +1103,7 @@
     "category": [
       "Act 3 Bosses"
     ],
-    "requires": ""
-  },
-  {
-    "name": "Cyril the Cursed Smith (Anvil)",
-    "region": "Cursed Smith",
-    "category": [
-      "Act 3 Bosses"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Cyril the Cursed Smith (Advanced Furnace)",
-    "region": "Cursed Smith",
-    "category": [
-      "Act 3 Bosses"
-    ],
-    "requires": ""
+    "requires": "|Quincey the Bandit King (Smithy)| AND |Angram the Purifier (Dawnthorn Regalia)|"
   },
   {
     "name": "Cyril the Cursed Smith (Dark Silver Ingot)",
@@ -1769,7 +1111,7 @@
     "category": [
       "Act 3 Bosses"
     ],
-    "requires": ""
+    "requires": "|Quincey the Bandit King (Smithy)| AND |Angram the Purifier (Dawnthorn Regalia)|"
   },
   {
     "name": "Cyril the Cursed Smith (Lost Soul)",
@@ -1778,15 +1120,7 @@
       "Act 3 Bosses",
       "LostSouls"
     ],
-    "requires": ""
-  },
-  {
-    "name": "Sir Magnus the Overseer (Frost Tier 1)",
-    "region": "Overseer",
-    "category": [
-      "Act 4 Bosses"
-    ],
-    "requires": ""
+    "requires": "|Quincey the Bandit King (Smithy)| AND |Angram the Purifier (Dawnthorn Regalia)|"
   },
   {
     "name": "Sir Magnus the Overseer (Assortment of Wide Storage Shelves)",
@@ -1794,7 +1128,7 @@
     "category": [
       "Act 4 Bosses"
     ],
-    "requires": ""
+    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)|"
   },
   {
     "name": "Sir Magnus the Overseer (Phantom's Veil)",
@@ -1802,7 +1136,7 @@
     "category": [
       "Act 4 Bosses"
     ],
-    "requires": ""
+    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)|"
   },
   {
     "name": "Sir Magnus the Overseer (Lost Soul)",
@@ -1811,15 +1145,7 @@
       "Act 4 Bosses",
       "LostSouls"
     ],
-    "requires": ""
-  },
-  {
-    "name": "Baron du Bouchon the Sommelier (Blood Tier 2)",
-    "region": "Sommelier",
-    "category": [
-      "Act 4 Bosses"
-    ],
-    "requires": ""
+    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)|"
   },
   {
     "name": "Baron du Bouchon the Sommelier (Rural Garden Fencing)",
@@ -1827,7 +1153,7 @@
     "category": [
       "Act 4 Bosses"
     ],
-    "requires": ""
+    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)|"
   },
   {
     "name": "Baron du Bouchon the Sommelier (Barrel Disguise)",
@@ -1835,7 +1161,7 @@
     "category": [
       "Act 4 Bosses"
     ],
-    "requires": ""
+    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)|"
   },
   {
     "name": "Baron du Bouchon the Sommelier (Blood Merlot)",
@@ -1843,7 +1169,7 @@
     "category": [
       "Act 4 Bosses"
     ],
-    "requires": ""
+    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)|"
   },
   {
     "name": "Baron du Bouchon the Sommelier (Blood Merlot Amulet)",
@@ -1851,7 +1177,7 @@
     "category": [
       "Act 4 Bosses"
     ],
-    "requires": ""
+    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)|"
   },
   {
     "name": "Baron du Bouchon the Sommelier (Lost Soul)",
@@ -1860,15 +1186,7 @@
       "Act 4 Bosses",
       "LostSouls"
     ],
-    "requires": ""
-  },
-  {
-    "name": "Morian the Stormwing Matriarch (Chaos Tier 1)",
-    "region": "Stormwing Matriarch",
-    "category": [
-      "Act 4 Bosses"
-    ],
-    "requires": ""
+    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)|"
   },
   {
     "name": "Morian the Stormwing Matriarch (Flawless Gems)",
@@ -1876,7 +1194,7 @@
     "category": [
       "Act 4 Bosses"
     ],
-    "requires": ""
+    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)|"
   },
   {
     "name": "Morian the Stormwing Matriarch (Lost Soul)",
@@ -1885,15 +1203,7 @@
       "Act 4 Bosses",
       "LostSouls"
     ],
-    "requires": ""
-  },
-  {
-    "name": "Mairwyn the Elementalist (Storm Tier 1)",
-    "region": "Elementalist",
-    "category": [
-      "Act 4 Bosses"
-    ],
-    "requires": ""
+    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)|"
   },
   {
     "name": "Mairwyn the Elementalist (Crystal Light)",
@@ -1901,7 +1211,7 @@
     "category": [
       "Act 4 Bosses"
     ],
-    "requires": ""
+    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)|"
   },
   {
     "name": "Mairwyn the Elementalist (Holy Resistance Flask)",
@@ -1909,7 +1219,7 @@
     "category": [
       "Act 4 Bosses"
     ],
-    "requires": ""
+    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)|"
   },
   {
     "name": "Mairwyn the Elementalist (Greater Jewels)",
@@ -1917,7 +1227,7 @@
     "category": [
       "Act 4 Bosses"
     ],
-    "requires": ""
+    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)|"
   },
   {
     "name": "Mairwyn the Elementalist (Lost Soul)",
@@ -1926,15 +1236,7 @@
       "Act 4 Bosses",
       "LostSouls"
     ],
-    "requires": ""
-  },
-  {
-    "name": "Henry Blackbrew the Doctor (Storm Tier 3)",
-    "region": "Doctor",
-    "category": [
-      "Act 4 Bosses"
-    ],
-    "requires": ""
+    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)|"
   },
   {
     "name": "Henry Blackbrew the Doctor (Athenaeum)",
@@ -1942,31 +1244,7 @@
     "category": [
       "Act 4 Bosses"
     ],
-    "requires": ""
-  },
-  {
-    "name": "Henry Blackbrew the Doctor (Redistribution Engine)",
-    "region": "Doctor",
-    "category": [
-      "Act 4 Bosses"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Henry Blackbrew the Doctor (Luminescent Mushroom Terrarium)",
-    "region": "Doctor",
-    "category": [
-      "Act 4 Bosses"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Henry Blackbrew the Doctor (Schematic)",
-    "region": "Doctor",
-    "category": [
-      "Act 4 Bosses"
-    ],
-    "requires": ""
+    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)|"
   },
   {
     "name": "Henry Blackbrew the Doctor (Lost Soul)",
@@ -1975,15 +1253,7 @@
       "Act 4 Bosses",
       "LostSouls"
     ],
-    "requires": ""
-  },
-  {
-    "name": "Jakira the Shadow Huntress (Illusion Tier 2)",
-    "region": "Shadow Huntress",
-    "category": [
-      "Act 4 Bosses"
-    ],
-    "requires": ""
+    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)|"
   },
   {
     "name": "Jakira the Shadow Huntress (Passive Slot)",
@@ -1991,7 +1261,7 @@
     "category": [
       "Act 4 Bosses"
     ],
-    "requires": ""
+    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)|"
   },
   {
     "name": "Jakira the Shadow Huntress (Elixir of the Twisted)",
@@ -1999,7 +1269,7 @@
     "category": [
       "Act 4 Bosses"
     ],
-    "requires": ""
+    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)|"
   },
   {
     "name": "Jakira the Shadow Huntress (Slashers)",
@@ -2007,7 +1277,7 @@
     "category": [
       "Act 4 Bosses"
     ],
-    "requires": ""
+    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)|"
   },
   {
     "name": "Jakira the Shadow Huntress (Lost Soul)",
@@ -2016,15 +1286,7 @@
       "Act 4 Bosses",
       "LostSouls"
     ],
-    "requires": ""
-  },
-  {
-    "name": "Stavros the Carver (Chaos Tier 2)",
-    "region": "Carver",
-    "category": [
-      "Act 4 Bosses"
-    ],
-    "requires": ""
+    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)|"
   },
   {
     "name": "Stavros the Carver (Advanced Sawmill)",
@@ -2032,15 +1294,7 @@
     "category": [
       "Act 4 Bosses"
     ],
-    "requires": ""
-  },
-  {
-    "name": "Stavros the Carver (Purple Castle Teleporter)",
-    "region": "Carver",
-    "category": [
-      "Act 4 Bosses"
-    ],
-    "requires": ""
+    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)|"
   },
   {
     "name": "Stavros the Carver (Weapon Coatings)",
@@ -2048,7 +1302,7 @@
     "category": [
       "Act 4 Bosses"
     ],
-    "requires": ""
+    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)|"
   },
   {
     "name": "Stavros the Carver (Lost Soul)",
@@ -2057,15 +1311,7 @@
       "Act 4 Bosses",
       "LostSouls"
     ],
-    "requires": ""
-  },
-  {
-    "name": "Lucile the Venom Alchemist (Blood Tier 2)",
-    "region": "Venom Alchemist",
-    "category": [
-      "Act 4 Bosses"
-    ],
-    "requires": ""
+    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)|"
   },
   {
     "name": "Lucile the Venom Alchemist (Blood Homogenizer)",
@@ -2073,15 +1319,7 @@
     "category": [
       "Act 4 Bosses"
     ],
-    "requires": ""
-  },
-  {
-    "name": "Lucile the Venom Alchemist (Stand with Boiling Flask & Burner)",
-    "region": "Venom Alchemist",
-    "category": [
-      "Act 4 Bosses"
-    ],
-    "requires": ""
+    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)|"
   },
   {
     "name": "Lucile the Venom Alchemist (Lost Soul)",
@@ -2090,15 +1328,7 @@
       "Act 4 Bosses",
       "LostSouls"
     ],
-    "requires": ""
-  },
-  {
-    "name": "Matka the Curse Weaver (Illusion Tier 2)",
-    "region": "Curse Weaver",
-    "category": [
-      "Act 4 Bosses"
-    ],
-    "requires": ""
+    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)|"
   },
   {
     "name": "Matka the Curse Weaver (Advanced Loom)",
@@ -2106,23 +1336,7 @@
     "category": [
       "Act 4 Bosses"
     ],
-    "requires": ""
-  },
-  {
-    "name": "Matka the Curse Weaver (Ghost Yarn)",
-    "region": "Curse Weaver",
-    "category": [
-      "Act 4 Bosses"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Matka the Curse Weaver (Mosquito)",
-    "region": "Curse Weaver",
-    "category": [
-      "Act 4 Bosses"
-    ],
-    "requires": ""
+    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)|"
   },
   {
     "name": "Matka the Curse Weaver (Lost Soul)",
@@ -2131,15 +1345,7 @@
       "Act 4 Bosses",
       "LostSouls"
     ],
-    "requires": ""
-  },
-  {
-    "name": "Terrorclaw the Ogre (Frost Tier 3)",
-    "region": "Ogre",
-    "category": [
-      "Act 4 Bosses"
-    ],
-    "requires": ""
+    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)|"
   },
   {
     "name": "Terrorclaw the Ogre (Advanced Tannery)",
@@ -2147,7 +1353,7 @@
     "category": [
       "Act 4 Bosses"
     ],
-    "requires": ""
+    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)|"
   },
   {
     "name": "Terrorclaw the Ogre (Lost Soul)",
@@ -2156,15 +1362,7 @@
       "Act 4 Bosses",
       "LostSouls"
     ],
-    "requires": ""
-  },
-  {
-    "name": "Azariel the Sunbringer (Chaos Tier 3)",
-    "region": "Sunbringer",
-    "category": [
-      "Act 4 Bosses"
-    ],
-    "requires": ""
+    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)|"
   },
   {
     "name": "Azariel the Sunbringer (Ostentatious Carpets)",
@@ -2172,7 +1370,7 @@
     "category": [
       "Act 4 Bosses"
     ],
-    "requires": ""
+    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)|"
   },
   {
     "name": "Azariel the Sunbringer (Gold Ingot)",
@@ -2180,7 +1378,7 @@
     "category": [
       "Act 4 Bosses"
     ],
-    "requires": ""
+    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)|"
   },
   {
     "name": "Azariel the Sunbringer (Lost Soul)",
@@ -2189,23 +1387,7 @@
       "Act 4 Bosses",
       "LostSouls"
     ],
-    "requires": ""
-  },
-  {
-    "name": "Voltatia the Power Master (Storm Tier 2)",
-    "region": "Power Master",
-    "category": [
-      "Act 4 Bosses"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Voltatia the Power Master (Blue Castle Teleporter)",
-    "region": "Power Master",
-    "category": [
-      "Act 4 Bosses"
-    ],
-    "requires": ""
+    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)|"
   },
   {
     "name": "Voltatia the Power Master (Power Core)",
@@ -2213,15 +1395,7 @@
     "category": [
       "Act 4 Bosses"
     ],
-    "requires": ""
-  },
-  {
-    "name": "Voltatia the Power Master (EMP)",
-    "region": "Power Master",
-    "category": [
-      "Act 4 Bosses"
-    ],
-    "requires": ""
+    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)|"
   },
   {
     "name": "Voltatia the Power Master (Lost Soul)",
@@ -2230,7 +1404,7 @@
       "Act 4 Bosses",
       "LostSouls"
     ],
-    "requires": ""
+    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)|"
   },
   {
     "name": "Simon Belmont the Vampire Hunter (Passive Slot)",
@@ -2238,7 +1412,7 @@
     "category": [
       "Act 4 Bosses"
     ],
-    "requires": ""
+    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)|"
   },
   {
     "name": "Simon Belmont the Vampire Hunter (Sanguine Whip)",
@@ -2246,7 +1420,7 @@
     "category": [
       "Act 4 Bosses"
     ],
-    "requires": ""
+    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)|"
   },
   {
     "name": "Simon Belmont the Vampire Hunter (Lost Soul)",
@@ -2255,15 +1429,7 @@
       "Act 4 Bosses",
       "LostSouls"
     ],
-    "requires": ""
-  },
-  {
-    "name": "Dantos the Forgebinder (Frost Tier 2)",
-    "region": "Forgebinder",
-    "category": [
-      "Act 4 Bosses"
-    ],
-    "requires": ""
+    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)|"
   },
   {
     "name": "Dantos the Forgebinder (Fusion Forge)",
@@ -2271,15 +1437,7 @@
     "category": [
       "Act 4 Bosses"
     ],
-    "requires": ""
-  },
-  {
-    "name": "Dantos the Forgebinder (Ember Glass)",
-    "region": "Forgebinder",
-    "category": [
-      "Act 4 Bosses"
-    ],
-    "requires": ""
+    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)|"
   },
   {
     "name": "Dantos the Forgebinder (Lost Soul)",
@@ -2288,7 +1446,7 @@
       "Act 4 Bosses",
       "LostSouls"
     ],
-    "requires": ""
+    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)|"
   },
   {
     "name": "Lord Styx the Night Champion (Bat Form)",
@@ -2296,23 +1454,7 @@
     "category": [
       "Act 4 Bosses"
     ],
-    "requires": ""
-  },
-  {
-    "name": "Lord Styx the Night Champion (Onyx Tear)",
-    "region": "Night Champion",
-    "category": [
-      "Act 4 Bosses"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Lord Styx the Night Champion (Blood Key)",
-    "region": "Night Champion",
-    "category": [
-      "Act 4 Bosses"
-    ],
-    "requires": ""
+    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)|"
   },
   {
     "name": "Lord Styx the Night Champion (Lost Soul)",
@@ -2321,7 +1463,7 @@
       "Act 4 Bosses",
       "LostSouls"
     ],
-    "requires": ""
+    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)|"
   },
   {
     "name": "General Valencia the Depraved (Coat of Arms)",
@@ -2329,7 +1471,7 @@
     "category": [
       "Act 4 Bosses"
     ],
-    "requires": ""
+    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)|"
   },
   {
     "name": "General Valencia the Depraved (Shadow Weave)",
@@ -2337,7 +1479,7 @@
     "category": [
       "Act 4 Bosses"
     ],
-    "requires": ""
+    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)|"
   },
   {
     "name": "General Valencia the Depraved (Primal Jewels)",
@@ -2345,7 +1487,7 @@
     "category": [
       "Act 4 Bosses"
     ],
-    "requires": ""
+    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)|"
   },
   {
     "name": "General Valencia the Depraved (Lost Soul)",
@@ -2354,15 +1496,7 @@
       "Act 4 Bosses",
       "LostSouls"
     ],
-    "requires": ""
-  },
-  {
-    "name": "Gorecrusher the Behemoth (Illusion Tier 3)",
-    "region": "Behemoth",
-    "category": [
-      "Act 4 Bosses"
-    ],
-    "requires": ""
+    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)|"
   },
   {
     "name": "Gorecrusher the Behemoth (Bat Leather)",
@@ -2370,7 +1504,7 @@
     "category": [
       "Act 4 Bosses"
     ],
-    "requires": ""
+    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)|"
   },
   {
     "name": "Gorecrusher the Behemoth (Bat Leather Bag)",
@@ -2378,7 +1512,7 @@
     "category": [
       "Act 4 Bosses"
     ],
-    "requires": ""
+    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)|"
   },
   {
     "name": "Gorecrusher the Behemoth (Lost Soul)",
@@ -2387,7 +1521,7 @@
       "Act 4 Bosses",
       "LostSouls"
     ],
-    "requires": ""
+    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)|"
   },
   {
     "name": "Solarus the Immaculate (Pedestal of Solarus)",
@@ -2395,7 +1529,7 @@
     "category": [
       "Act 4 Bosses"
     ],
-    "requires": ""
+    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)|"
   },
   {
     "name": "Solarus the Immaculate (Dracula's Boots)",
@@ -2403,7 +1537,7 @@
     "category": [
       "Act 4 Bosses"
     ],
-    "requires": ""
+    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)|"
   },
   {
     "name": "Solarus the Immaculate (Lost Soul)",
@@ -2412,7 +1546,7 @@
       "Act 4 Bosses",
       "LostSouls"
     ],
-    "requires": ""
+    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)|"
   },
   {
     "name": "Talzur the Winged Horror (Pedestal of the Winged Horror)",
@@ -2420,7 +1554,7 @@
     "category": [
       "Act 4 Bosses"
     ],
-    "requires": ""
+    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)|"
   },
   {
     "name": "Talzur the Winged Horror (Dracula's Gloves)",
@@ -2428,7 +1562,7 @@
     "category": [
       "Act 4 Bosses"
     ],
-    "requires": ""
+    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)|"
   },
   {
     "name": "Talzur the Winged Horror (Lost Soul)",
@@ -2437,7 +1571,7 @@
       "Act 4 Bosses",
       "LostSouls"
     ],
-    "requires": ""
+    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)|"
   },
   {
     "name": "Adam the Firstborn (Pedestal of the Monster)",
@@ -2445,7 +1579,7 @@
     "category": [
       "Act 4 Bosses"
     ],
-    "requires": ""
+    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)|"
   },
   {
     "name": "Adam the Firstborn (Dracula's Chestguard)",
@@ -2453,7 +1587,7 @@
     "category": [
       "Act 4 Bosses"
     ],
-    "requires": ""
+    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)|"
   },
   {
     "name": "Adam the Firstborn (Lost Soul)",
@@ -2462,7 +1596,7 @@
       "Act 4 Bosses",
       "LostSouls"
     ],
-    "requires": ""
+    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)|"
   },
   {
     "name": "Megara the Serpent Queen (Pedestal of the Serpent)",
@@ -2470,7 +1604,7 @@
     "category": [
       "Act 4 Bosses"
     ],
-    "requires": ""
+    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)|"
   },
   {
     "name": "Megara the Serpent Queen (Dracula's Leggings)",
@@ -2478,7 +1612,7 @@
     "category": [
       "Act 4 Bosses"
     ],
-    "requires": ""
+    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)|"
   },
   {
     "name": "Megara the Serpent Queen (Lost Soul)",
@@ -2487,7 +1621,7 @@
       "Act 4 Bosses",
       "LostSouls"
     ],
-    "requires": ""
+    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)|"
   },
   {
     "name": "Dracula the Immortal King (Pedestal of Dracula)",
@@ -2495,7 +1629,7 @@
     "category": [
       "Act 5 Boss"
     ],
-    "requires": ""
+    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)|"
   },
   {
     "name": "Dracula the Immortal King (Lost Soul)",
@@ -2504,1174 +1638,7 @@
       "Act 4 Bosses",
       "LostSouls"
     ],
-    "requires": ""
-  },
-  {
-    "name": "Journal - Woke up from Coffin",
-    "region": "Journal",
-    "category": [
-      "Journal"
-    ],
-    "requires": "",
-    "sort-key": "row-0-0"
-  },
-  {
-    "name": "Journal - Collecting the Remains",
-    "region": "Journal",
-    "category": [
-      "Journal"
-    ],
-    "requires": "",
-    "sort-key": "row-0-1"
-  },
-  {
-    "name": "Journal - Wielding the Sword",
-    "region": "J1",
-    "category": [
-      "Journal"
-    ],
-    "requires": "",
-    "sort-key": "row-0-2"
-  },
-  {
-    "name": "Journal - Mastering Magic",
-    "region": "J1",
-    "category": [
-      "Journal"
-    ],
-    "requires": "",
-    "sort-key": "row-0-3"
-  },
-  {
-    "name": "Journal - Defensive Measures",
-    "region": "J1",
-    "category": [
-      "Journal"
-    ],
-    "requires": "",
-    "sort-key": "row-0-4"
-  },
-  {
-    "name": "Journal - Hides of the Wild",
-    "region": "J1",
-    "category": [
-      "Journal"
-    ],
-    "requires": "",
-    "sort-key": "row-0-5"
-  },
-  {
-    "name": "Journal - Into the Woods",
-    "region": "J2",
-    "category": [
-      "Journal"
-    ],
-    "requires": "",
-    "sort-key": "row-0-6"
-  },
-  {
-    "name": "Journal - Gathering",
-    "region": "J2",
-    "category": [
-      "Journal"
-    ],
-    "requires": "",
-    "sort-key": "row-0-7"
-  },
-  {
-    "name": "Journal - Lord of Shadows",
-    "region": "J2",
-    "category": [
-      "Journal"
-    ],
-    "requires": "",
-    "sort-key": "row-0-8"
-  },
-  {
-    "name": "Journal - Fortify",
-    "region": "J2",
-    "category": [
-      "Journal"
-    ],
-    "requires": "",
-    "sort-key": "row-0-9"
-  },
-  {
-    "name": "Journal - Shelter",
-    "region": "J2",
-    "category": [
-      "Journal"
-    ],
-    "requires": "",
-    "sort-key": "row-1-0"
-  },
-  {
-    "name": "Journal - Getting Ready for the Hunt",
-    "region": "J2",
-    "category": [
-      "Journal"
-    ],
-    "requires": "",
-    "sort-key": "row-1-1"
-  },
-  {
-    "name": "Journal - Blood Hunt",
-    "region": "J3",
-    "category": [
-      "Journal"
-    ],
-    "requires": "",
-    "sort-key": "row-1-2"
-  },
-  {
-    "name": "Journal - Thirst for Power",
-    "region": "J4",
-    "category": [
-      "Journal"
-    ],
-    "requires": "",
-    "sort-key": "row-1-3"
-  },
-  {
-    "name": "Journal - The First Book in the Library",
-    "region": "J4",
-    "category": [
-      "Journal"
-    ],
-    "requires": "",
-    "sort-key": "row-1-4"
-  },
-  {
-    "name": "Journal - Expanding my Domain",
-    "region": "J5",
-    "category": [
-      "Journal"
-    ],
-    "requires": "",
-    "sort-key": "row-1-5"
-  },
-  {
-    "name": "Journal - Building a Castle",
-    "region": "J5",
-    "category": [
-      "Journal"
-    ],
-    "requires": "",
-    "sort-key": "row-1-6"
-  },
-  {
-    "name": "Journal - Waygate",
-    "region": "J5",
-    "category": [
-      "Journal"
-    ],
-    "requires": "",
-    "sort-key": "row-1-7"
-  },
-  {
-    "name": "Journal - Lord of the Manor",
-    "region": "J5",
-    "category": [
-      "Journal"
-    ],
-    "requires": "",
-    "sort-key": "row-1-8"
-  },
-  {
-    "name": "Journal - Servants",
-    "region": "J5",
-    "category": [
-      "Journal"
-    ],
-    "requires": "",
-    "sort-key": "row-1-9"
-  },
-  {
-    "name": "Journal - Army of Darkness",
-    "region": "J5",
-    "category": [
-      "Journal"
-    ],
-    "requires": "",
-    "sort-key": "row-2-0"
-  },
-  {
-    "name": "Journal - Broaden Horizons",
-    "region": "J6",
-    "category": [
-      "Journal",
-      "Act2"
-    ],
-    "requires": "",
-    "sort-key": "row-2-1"
-  },
-  {
-    "name": "Journal - Blood on Tap",
-    "region": "J7",
-    "category": [
-      "Journal",
-      "Act2"
-    ],
-    "requires": "",
-    "sort-key": "row-2-2"
-  },
-  {
-    "name": "Journal - Throne of Command",
-    "region": "J7",
-    "category": [
-      "Journal",
-      "Act2"
-    ],
-    "requires": "",
-    "sort-key": "row-2-3"
-  },
-  {
-    "name": "Journal - Treasure Chamber",
-    "region": "J8",
-    "category": [
-      "Journal",
-      "Act2"
-    ],
-    "requires": "",
-    "sort-key": "row-2-4"
-  },
-  {
-    "name": "Journal - Reign Supreme",
-    "region": "J9",
-    "category": [
-      "Journal",
-      "Act2"
-    ],
-    "requires": "",
-    "sort-key": "row-2-5"
-  },
-  {
-    "name": "Journal - An Eye into Mortium",
-    "region": "J10",
-    "category": [
-      "Journal",
-      "Act2"
-    ],
-    "requires": "",
-    "sort-key": "row-2-6"
-  },
-  {
-    "name": "Journal - A Castle reaching the Sky",
-    "region": "J11",
-    "category": [
-      "Journal",
-      "Act3"
-    ],
-    "requires": "",
-    "sort-key": "row-2-7"
-  },
-  {
-    "name": "Journal - Nightfall Steed",
-    "region": "J11",
-    "category": [
-      "Journal",
-      "Act3"
-    ],
-    "requires": "",
-    "sort-key": "row-2-8"
-  },
-  {
-    "name": "Journal - Vampire Empire",
-    "region": "J12",
-    "category": [
-      "Journal",
-      "Act4"
-    ],
-    "requires": "",
-    "sort-key": "row-2-9"
-  },
-  {
-    "name": "Journal - Soul Stones",
-    "region": "J13",
-    "category": [
-      "Journal",
-      "Act4"
-    ],
-    "requires": "",
-    "sort-key": "row-3-0"
-  },
-  {
-    "name": "Journal - Lord of the Night",
-    "region": "J14",
-    "category": [
-      "Journal",
-      "Act4"
-    ],
-    "requires": "",
-    "sort-key": "row-3-1"
-  },
-  {
-    "name": "Discover Any Farbane Woods Waygate",
-    "region": "Farbane Woods",
-    "category": [
-      "Exploration - Farbane Woods"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Discover a Bandit Camp",
-    "region": "Farbane Woods",
-    "category": [
-      "Exploration - Farbane Woods"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Discover the Bandit Copper Camp",
-    "region": "Farbane Woods",
-    "category": [
-      "Exploration - Farbane Woods"
-    ],
-    "requires": "|Alpha Defeated|"
-  },
-  {
-    "name": "Discover a Bandit Encampment",
-    "region": "Farbane Woods",
-    "category": [
-      "Exploration - Farbane Woods"
-    ],
-    "requires": "|Alpha Defeated|"
-  },
-  {
-    "name": "Discover a Bandit Outpost",
-    "region": "Farbane Woods",
-    "category": [
-      "Exploration - Farbane Woods"
-    ],
-    "requires": "|Alpha Defeated|"
-  },
-  {
-    "name": "Discover a Wolf Den",
-    "region": "Farbane Woods",
-    "category": [
-      "Exploration - Farbane Woods"
-    ],
-    "requires": "|Alpha Defeated|"
-  },
-  {
-    "name": "Discover Bear Territory",
-    "region": "Farbane Woods",
-    "category": [
-      "Exploration - Farbane Woods"
-    ],
-    "requires": "|Alpha Defeated|"
-  },
-  {
-    "name": "Discover a Shady Merchants Camp",
-    "region": "Farbane Woods",
-    "category": [
-      "Exploration - Farbane Woods"
-    ],
-    "requires": "|Alpha Defeated|"
-  },
-  {
-    "name": "Discover the Bandit Trapper Camp",
-    "region": "Farbane Woods",
-    "category": [
-      "Exploration - Farbane Woods"
-    ],
-    "requires": "|Alpha Defeated|"
-  },
-  {
-    "name": "Discover the Bandit Logging Camp",
-    "region": "Farbane Woods",
-    "category": [
-      "Exploration - Farbane Woods"
-    ],
-    "requires": "|Alpha Defeated|"
-  },
-  {
-    "name": "Discover the Bandit Copper Mine",
-    "region": "Farbane Woods",
-    "category": [
-      "Exploration - Farbane Woods"
-    ],
-    "requires": "|Alpha Defeated|"
-  },
-  {
-    "name": "Discover the Bandit Copper Quarry",
-    "region": "Farbane Woods",
-    "category": [
-      "Exploration - Farbane Woods"
-    ],
-    "requires": "|Alpha Defeated|"
-  },
-  {
-    "name": "Discover the Bandit Armory",
-    "region": "Farbane Woods",
-    "category": [
-      "Exploration - Farbane Woods"
-    ],
-    "requires": "|Alpha Defeated|"
-  },
-  {
-    "name": "Discover a Hidden Cemetery",
-    "region": "Farbane Woods",
-    "category": [
-      "Exploration - Farbane Woods"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Discover the Desecrated Graveyard",
-    "region": "Farbane Woods",
-    "category": [
-      "Exploration - Farbane Woods"
-    ],
-    "requires": "|Alpha Defeated|"
-  },
-  {
-    "name": "Discover the Infested Graveyard",
-    "region": "Farbane Woods",
-    "category": [
-      "Exploration - Farbane Woods"
-    ],
-    "requires": "|Alpha Defeated|"
-  },
-  {
-    "name": "Discover the Forgotten Cementary",
-    "region": "Farbane Woods",
-    "category": [
-      "Exploration - Farbane Woods"
-    ],
-    "requires": "|Alpha Defeated|"
-  },
-  {
-    "name": "Discover the Fishing Lake",
-    "region": "Farbane Woods",
-    "category": [
-      "Exploration - Farbane Woods"
-    ],
-    "requires": "|Alpha Defeated|"
-  },
-  {
-    "name": "Discover the Gleaming Meadows",
-    "region": "Farbane Woods",
-    "category": [
-      "Exploration - Farbane Woods"
-    ],
-    "requires": "|Alpha Defeated|"
-  },
-  {
-    "name": "Discover the Bear Cave",
-    "region": "Farbane Woods",
-    "category": [
-      "Exploration - Farbane Woods"
-    ],
-    "requires": "|Alpha Defeated|"
-  },
-  {
-    "name": "Discover the Bandit Sulphur Quarry",
-    "region": "Farbane Woods",
-    "category": [
-      "Exploration - Farbane Woods"
-    ],
-    "requires": "|Alpha Defeated|"
-  },
-  {
-    "name": "Discover the Bandit Stronghold",
-    "region": "Farbane Woods",
-    "category": [
-      "Exploration - Farbane Woods"
-    ],
-    "requires": "|Clive Defeated| OR |Koda Defeated|"
-  },
-  {
-    "name": "Discover The Dreaded Peak",
-    "region": "Farbane Woods",
-    "category": [
-      "Exploration - Farbane Woods"
-    ],
-    "requires": "|Alpha Defeated|"
-  },
-  {
-    "name": "Discover a Dunley Farmlands Waygate",
-    "region": "Dunley Farmlands",
-    "category": [
-      "Exploration - Dunley Farmlands"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Discover a Militia Camp",
-    "region": "Dunley Farmlands",
-    "category": [
-      "Exploration - Dunley Farmlands"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Discover a Militia Encampment",
-    "region": "Dunley Farmlands",
-    "category": [
-      "Exploration - Dunley Farmlands"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Discover a Farm",
-    "region": "Dunley Farmlands",
-    "category": [
-      "Exploration - Dunley Farmlands"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Discover a Cotton Farm",
-    "region": "Dunley Farmlands",
-    "category": [
-      "Exploration - Dunley Farmlands"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Discover the Abandoned Farm",
-    "region": "Dunley Farmlands",
-    "category": [
-      "Exploration - Dunley Farmlands"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Discover the Colosseum",
-    "region": "Dunley Farmlands",
-    "category": [
-      "Exploration - Dunley Farmlands"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Discover the Sacrificial Site",
-    "region": "Dunley Farmlands",
-    "category": [
-      "Exploration - Dunley Farmlands"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Discover the Horse Track",
-    "region": "Dunley Farmlands",
-    "category": [
-      "Exploration - Dunley Farmlands"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Discover the List Field",
-    "region": "Dunley Farmlands",
-    "category": [
-      "Exploration - Dunley Farmlands"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Discover the Dunley Lumber Mill",
-    "region": "Dunley Farmlands",
-    "category": [
-      "Exploration - Dunley Farmlands"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Discover the Dunley Farmers Market",
-    "region": "Dunley Farmlands",
-    "category": [
-      "Exploration - Dunley Farmlands"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Discover Mosswick Village",
-    "region": "Dunley Farmlands",
-    "category": [
-      "Exploration - Dunley Farmlands"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Discover Dawnbreak Village",
-    "region": "Dunley Farmlands",
-    "category": [
-      "Exploration - Dunley Farmlands"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Discover the Haunted Iron Mine",
-    "region": "Dunley Farmlands",
-    "category": [
-      "Exploration - Dunley Farmlands"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Discover the Iron Cave",
-    "region": "Dunley Farmlands",
-    "category": [
-      "Exploration - Dunley Farmlands"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Discover Bedrock Pass",
-    "region": "Dunley Farmlands",
-    "category": [
-      "Exploration - Dunley Farmlands"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Discover the Quartz Quarry",
-    "region": "Dunley Farmlands",
-    "category": [
-      "Exploration - Dunley Farmlands"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Discover the Forbidden Tower",
-    "region": "Dunley Farmlands",
-    "category": [
-      "Exploration - Dunley Farmlands"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Discover the Church of the Damned",
-    "region": "Dunley Farmlands",
-    "category": [
-      "Exploration - Dunley Farmlands"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Discover the Bastion of Dunley",
-    "region": "Dunley Farmlands",
-    "category": [
-      "Exploration - Dunley Farmlands"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Discover the Dunley Monastery",
-    "region": "Dunley Farmlands",
-    "category": [
-      "Exploration - Dunley Farmlands"
-    ],
-    "requires": "|Clive Defeated| AND |Meredith Defeated|"
-  },
-  {
-    "name": "Discover Gracefall Village",
-    "region": "Dunley Farmlands",
-    "category": [
-      "Exploration - Dunley Farmlands"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Discover the Hallowed Mountains Waygate",
-    "region": "Hallowed Mountains",
-    "category": [
-      "Exploration - Hallowed Mountains"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Discover the Frozen Cave",
-    "region": "Hallowed Mountains",
-    "category": [
-      "Exploration - Hallowed Mountains"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Discover a Cursed Forest Waygate",
-    "region": "Cursed Forest",
-    "category": [
-      "Exploration - Cursed Forest"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Discover a Lurker Dwelling",
-    "region": "Cursed Forest",
-    "category": [
-      "Exploration - Cursed Forest"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Discover a Mosquito Nest",
-    "region": "Cursed Forest",
-    "category": [
-      "Exploration - Cursed Forest"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Discover a Witch Hut",
-    "region": "Cursed Forest",
-    "category": [
-      "Exploration - Cursed Forest"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Discover the Spider Cave",
-    "region": "Cursed Forest",
-    "category": [
-      "Exploration - Cursed Forest"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Discover the Swamp of Greed",
-    "region": "Cursed Forest",
-    "category": [
-      "Exploration - Cursed Forest"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Discover the Ancient Village",
-    "region": "Cursed Forest",
-    "category": [
-      "Exploration - Cursed Forest"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Discover the Cursed Village",
-    "region": "Cursed Forest",
-    "category": [
-      "Exploration - Cursed Forest"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Discover the Nest of the Curse Weaver",
-    "region": "Cursed Forest",
-    "category": [
-      "Exploration - Cursed Forest"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Discover the Lair of the Behemoth",
-    "region": "Cursed Forest",
-    "category": [
-      "Exploration - Cursed Forest"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Discover a Silverlight Hills Waygate",
-    "region": "Silverlight Hills",
-    "category": [
-      "Exploration - Silverlight Hills"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Discover an Army Camp",
-    "region": "Silverlight Hills",
-    "category": [
-      "Exploration - Silverlight Hills"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Discover an Army Outpost",
-    "region": "Silverlight Hills",
-    "category": [
-      "Exploration - Silverlight Hills"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Discover the Brighthaven Cathedral",
-    "region": "Silverlight Hills",
-    "category": [
-      "Exploration - Silverlight Hills"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Discover the Brighthaven Docks",
-    "region": "Silverlight Hills",
-    "category": [
-      "Exploration - Silverlight Hills"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Discover the Brighthaven Square",
-    "region": "Silverlight Hills",
-    "category": [
-      "Exploration - Silverlight Hills"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Discover the Bright Haven Trade District",
-    "region": "Silverlight Hills",
-    "category": [
-      "Exploration - Silverlight Hills"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Discover the Sacred Silver Mine",
-    "region": "Silverlight Hills",
-    "category": [
-      "Exploration - Silverlight Hills"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Discover a Harpy Nest",
-    "region": "Silverlight Hills",
-    "category": [
-      "Exploration - Silverlight Hills"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Discover the Brighthaven Vineyards",
-    "region": "Silverlight Hills",
-    "category": [
-      "Exploration - Silverlight Hills"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Discover the Emberleaf Grove",
-    "region": "Silverlight Hills",
-    "category": [
-      "Exploration - Silverlight Hills"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Discover the Fortress of Light",
-    "region": "Silverlight Hills",
-    "category": [
-      "Exploration - Silverlight Hills"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Discover a Gloomrot North Waygate",
-    "region": "Gloomrot North",
-    "category": [
-      "Exploration - Gloomrot North"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Discover a Trancendum Camp (Gloomrot North)",
-    "region": "Gloomrot North",
-    "category": [
-      "Exploration - Gloomrot North"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Discover the Treasure Hunter Trade Post",
-    "region": "Gloomrot North",
-    "category": [
-      "Exploration - Gloomrot North"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Discover the Stormdrain Hills",
-    "region": "Gloomrot North",
-    "category": [
-      "Exploration - Gloomrot North"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Discover the Thunderstrike Peak",
-    "region": "Gloomrot North",
-    "category": [
-      "Exploration - Gloomrot North"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Discover the Trancendum Laboratories",
-    "region": "Gloomrot North",
-    "category": [
-      "Exploration - Gloomrot North"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Discover the Trancendum Power Plant",
-    "region": "Gloomrot North",
-    "category": [
-      "Exploration - Gloomrot North"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Discover Doctor Blackbrew's Castle",
-    "region": "Power Master",
-    "category": [
-      "Exploration - Gloomrot North"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Discover a Gloomrot South Waygate",
-    "region": "Gloomrot South",
-    "category": [
-      "Exploration - Gloomrot South"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Discover a Trancendum Camp (Gloomrot South)",
-    "region": "Gloomrot South",
-    "category": [
-      "Exploration - Gloomrot South"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Discover a Gloomrot Farm",
-    "region": "Gloomrot South",
-    "category": [
-      "Exploration - Gloomrot South"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Discover the Trancendum Mine",
-    "region": "Gloomrot South",
-    "category": [
-      "Exploration - Gloomrot South"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Discover the Trancendum Machine Factory",
-    "region": "Gloomrot South",
-    "category": [
-      "Exploration - Gloomrot South"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Discover the Pools of Rebirth",
-    "region": "Gloomrot South",
-    "category": [
-      "Exploration - Gloomrot South"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Discover Rustlock Village",
-    "region": "Gloomrot South",
-    "category": [
-      "Exploration - Gloomrot South"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Discover Dracula's Demise",
-    "region": "Gloomrot South",
-    "category": [
-      "Exploration - Gloomrot South"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Discover an Oakveil Woodlands Waygate",
-    "region": "Oakveil Woodlands",
-    "category": [
-      "Exploration - Oakveil Woodlands"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Discover the Venom Blades Camp",
-    "region": "Oakveil Woodlands",
-    "category": [
-      "Exploration - Oakveil Woodlands"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Discover a Venom Blades Carvers Camp",
-    "region": "Oakveil Woodlands",
-    "category": [
-      "Exploration - Oakveil Woodlands"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Discover the Oakveil Shoreline",
-    "region": "Oakveil Woodlands",
-    "category": [
-      "Exploration - Oakveil Woodlands"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Discover the Carvers Logging Outpost",
-    "region": "Oakveil Woodlands",
-    "category": [
-      "Exploration - Oakveil Woodlands"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Discover the Venom Mixing Outpost",
-    "region": "Oakveil Woodlands",
-    "category": [
-      "Exploration - Oakveil Woodlands"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Discover the Venom Blades Bastion",
-    "region": "Oakveil Woodlands",
-    "category": [
-      "Exploration - Oakveil Woodlands"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Discover a Ruins of Mortium Waygate",
-    "region": "Ruins of Mortium",
-    "category": [
-      "Exploration - Ruins of Mortium"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Discover the Vampire Merchant Camp",
-    "region": "Ruins of Mortium",
-    "category": [
-      "Exploration - Ruins of Mortium"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Discover the Ancient Sacrificial Site",
-    "region": "Ruins of Mortium",
-    "category": [
-      "Exploration - Ruins of Mortium"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Discover the Frozen Lake Ruins",
-    "region": "Ruins of Mortium",
-    "category": [
-      "Exploration - Ruins of Mortium"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Discover the Vampire Cemetery",
-    "region": "Ruins of Mortium",
-    "category": [
-      "Exploration - Ruins of Mortium"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Discover the Vampire Village Ruins",
-    "region": "Ruins of Mortium",
-    "category": [
-      "Exploration - Ruins of Mortium"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Discover the North Fortress Ruins",
-    "region": "Ruins of Mortium",
-    "category": [
-      "Exploration - Ruins of Mortium"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Discover the South Fortress Ruins",
-    "region": "Ruins of Mortium",
-    "category": [
-      "Exploration - Ruins of Mortium"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Discover the West Fortress Ruins",
-    "region": "Ruins of Mortium",
-    "category": [
-      "Exploration - Ruins of Mortium"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Discover Dracula's Castle Courtyard",
-    "region": "Ruins of Mortium",
-    "category": [
-      "Exploration - Ruins of Mortium"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Discover Dracula's Castle Garden",
-    "region": "Ruins of Mortium",
-    "category": [
-      "Exploration - Ruins of Mortium"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Discover Dracula's Castle",
-    "region": "Night Champion",
-    "category": [
-      "Exploration - Ruins of Mortium",
-      "Act4"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Discover The Shadow Realm",
-    "region": "Night Champion",
-    "category": [
-      "Exploration - Ruins of Mortium",
-      "Act4"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Complete a Tier 1 Rift Incursion",
-    "region": "Old Wanderer",
-    "category": [
-      "Exploration - Ruins of Mortium",
-      "Act3"
-    ],
-    "requires": "|Mortium Rifts|"
-  },
-  {
-    "name": "Complete a Tier 2 Rift Incursion",
-    "region": "Sunbringer",
-    "category": [
-      "Exploration - Ruins of Mortium",
-      "Act4"
-    ],
-    "requires": "|Mortium Rifts|"
+    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)|"
   },
   {
     "name": "Research Desk - Learn Brew of Ferocity",
@@ -3680,7 +1647,7 @@
       "Knowledge - Research Desk",
       "MoreKnowledge"
     ],
-    "requires": "|Brew of Ferocity|"
+    "requires": ""
   },
   {
     "name": "Research Desk - Learn Enchanted Brew",
@@ -3689,7 +1656,7 @@
       "Knowledge - Research Desk",
       "MoreKnowledge"
     ],
-    "requires": "|Enchanted Brew|"
+    "requires": ""
   },
   {
     "name": "Research Desk - Learn Blood Rose Brew",
@@ -3698,7 +1665,7 @@
       "Knowledge - Research Desk",
       "MoreKnowledge"
     ],
-    "requires": "|Blood Rose Brew|"
+    "requires": ""
   },
   {
     "name": "Research Desk - Learn Minor Sun Resistance Brew",
@@ -3707,7 +1674,7 @@
       "Knowledge - Research Desk",
       "MoreKnowledge"
     ],
-    "requires": "|Minor Sun Resistance Brew|"
+    "requires": ""
   },
   {
     "name": "Research Desk - Learn Silver Resistance Brew",
@@ -3716,7 +1683,7 @@
       "Knowledge - Research Desk",
       "MoreKnowledge"
     ],
-    "requires": "|Silver Resistance Brew|"
+    "requires": ""
   },
   {
     "name": "Research Desk - Learn Ring of the Warrior",
@@ -3724,7 +1691,7 @@
     "category": [
       "Knowledge - Research Desk"
     ],
-    "requires": "|Ring of the Warrior|"
+    "requires": ""
   },
   {
     "name": "Research Desk - Learn Ring of the Warlock",
@@ -3732,7 +1699,7 @@
     "category": [
       "Knowledge - Research Desk"
     ],
-    "requires": "|Ring of the Warlock|"
+    "requires": ""
   },
   {
     "name": "Research Desk - Learn Ring of the Sorcerer",
@@ -3740,7 +1707,7 @@
     "category": [
       "Knowledge - Research Desk"
     ],
-    "requires": "|Ring of the Sorcerer|"
+    "requires": ""
   },
   {
     "name": "Research Desk - Learn Ring of the Dawnrunner",
@@ -3748,7 +1715,7 @@
     "category": [
       "Knowledge - Research Desk"
     ],
-    "requires": "|Ring of the Dawnrunner|"
+    "requires": ""
   },
   {
     "name": "Research Desk - Learn Ring of the Spellweaver",
@@ -3756,7 +1723,7 @@
     "category": [
       "Knowledge - Research Desk"
     ],
-    "requires": "|Ring of the Spellweaver|"
+    "requires": ""
   },
   {
     "name": "Research Desk - Learn Ring of the Duskwatcher",
@@ -3764,7 +1731,7 @@
     "category": [
       "Knowledge - Research Desk"
     ],
-    "requires": "|Ring of the Duskwatcher|"
+    "requires": ""
   },
   {
     "name": "Research Desk - Learn Merciless Copper Sword",
@@ -3772,7 +1739,7 @@
     "category": [
       "Knowledge - Research Desk"
     ],
-    "requires": "|Progressive Sword:2|"
+    "requires": ""
   },
   {
     "name": "Research Desk - Learn Merciless Copper Axes",
@@ -3780,7 +1747,7 @@
     "category": [
       "Knowledge - Research Desk"
     ],
-    "requires": "|Progressive Axes:2|"
+    "requires": ""
   },
   {
     "name": "Research Desk - Learn Merciless Copper Mace",
@@ -3788,7 +1755,7 @@
     "category": [
       "Knowledge - Research Desk"
     ],
-    "requires": "|Progressive Mace:2|"
+    "requires": ""
   },
   {
     "name": "Research Desk - Learn Merciless Copper Spear",
@@ -3796,7 +1763,7 @@
     "category": [
       "Knowledge - Research Desk"
     ],
-    "requires": "|Progressive Spear:2|"
+    "requires": ""
   },
   {
     "name": "Research Desk - Learn Merciless Copper Crossbow",
@@ -3804,7 +1771,7 @@
     "category": [
       "Knowledge - Research Desk"
     ],
-    "requires": "|Progressive Crossbow:2|"
+    "requires": ""
   },
   {
     "name": "Research Desk - Learn Merciless Copper Longbow",
@@ -3812,7 +1779,7 @@
     "category": [
       "Knowledge - Research Desk"
     ],
-    "requires": "|Progressive Longbow|"
+    "requires": ""
   },
   {
     "name": "Research Desk - Learn Shadewalker Vest",
@@ -3820,7 +1787,7 @@
     "category": [
       "Knowledge - Research Desk"
     ],
-    "requires": "|Shadewalker Vest|"
+    "requires": ""
   },
   {
     "name": "Research Desk - Learn Shadewalker Leggings",
@@ -3828,7 +1795,7 @@
     "category": [
       "Knowledge - Research Desk"
     ],
-    "requires": "|Shadewalker Leggings|"
+    "requires": ""
   },
   {
     "name": "Research Desk - Learn Shadewalker Gloves",
@@ -3836,7 +1803,7 @@
     "category": [
       "Knowledge - Research Desk"
     ],
-    "requires": "|Shadewalker Gloves|"
+    "requires": ""
   },
   {
     "name": "Research Desk - Learn Shadewalker Boots",
@@ -3844,7 +1811,7 @@
     "category": [
       "Knowledge - Research Desk"
     ],
-    "requires": "|Shadewalker Boots|"
+    "requires": ""
   },
   {
     "name": "Research Desk - Learn Marauder Vest",
@@ -3852,7 +1819,7 @@
     "category": [
       "Knowledge - Research Desk"
     ],
-    "requires": "|Marauder Vest|"
+    "requires": ""
   },
   {
     "name": "Research Desk - Learn Marauder Leggings",
@@ -3860,7 +1827,7 @@
     "category": [
       "Knowledge - Research Desk"
     ],
-    "requires": "|Marauder Leggings|"
+    "requires": ""
   },
   {
     "name": "Research Desk - Learn Marauder Gloves",
@@ -3868,7 +1835,7 @@
     "category": [
       "Knowledge - Research Desk"
     ],
-    "requires": "|Marauder Gloves|"
+    "requires": ""
   },
   {
     "name": "Research Desk - Learn Marauder Boots",
@@ -3876,7 +1843,7 @@
     "category": [
       "Knowledge - Research Desk"
     ],
-    "requires": "|Marauder Boots|"
+    "requires": ""
   },
   {
     "name": "Research Desk - Learn Grim Ranger Vest",
@@ -3884,7 +1851,7 @@
     "category": [
       "Knowledge - Research Desk"
     ],
-    "requires": "|Grim Ranger Vest|"
+    "requires": ""
   },
   {
     "name": "Research Desk - Learn Grim Ranger Leggings",
@@ -3892,7 +1859,7 @@
     "category": [
       "Knowledge - Research Desk"
     ],
-    "requires": "|Grim Ranger Leggings|"
+    "requires": ""
   },
   {
     "name": "Research Desk - Learn Grim Ranger Gloves",
@@ -3900,7 +1867,7 @@
     "category": [
       "Knowledge - Research Desk"
     ],
-    "requires": "|Grim Ranger Gloves|"
+    "requires": ""
   },
   {
     "name": "Research Desk - Learn Grim Ranger Boots",
@@ -3908,7 +1875,7 @@
     "category": [
       "Knowledge - Research Desk"
     ],
-    "requires": "|Grim Ranger Boots|"
+    "requires": ""
   },
   {
     "name": "Research Desk - Learn Warlock Vest",
@@ -3916,7 +1883,7 @@
     "category": [
       "Knowledge - Research Desk"
     ],
-    "requires": "|Warlock Vest|"
+    "requires": ""
   },
   {
     "name": "Research Desk - Learn Warlock Leggings",
@@ -3924,7 +1891,7 @@
     "category": [
       "Knowledge - Research Desk"
     ],
-    "requires": "|Warlock Leggings|"
+    "requires": ""
   },
   {
     "name": "Research Desk - Learn Warlock Gloves",
@@ -3932,7 +1899,7 @@
     "category": [
       "Knowledge - Research Desk"
     ],
-    "requires": "|Warlock Gloves|"
+    "requires": ""
   },
   {
     "name": "Research Desk - Learn Warlock Boots",
@@ -3940,7 +1907,7 @@
     "category": [
       "Knowledge - Research Desk"
     ],
-    "requires": "|Warlock Boots|"
+    "requires": ""
   },
   {
     "name": "Research Desk - Learn Forge Flooring",
@@ -3949,7 +1916,7 @@
       "Knowledge - Research Desk",
       "MoreKnowledge"
     ],
-    "requires": "|Forge Flooring|"
+    "requires": ""
   },
   {
     "name": "Research Desk - Learn Alchemy Lab Flooring",
@@ -3958,7 +1925,7 @@
       "Knowledge - Research Desk",
       "MoreKnowledge"
     ],
-    "requires": "|Alchemy Lab Flooring|"
+    "requires": ""
   },
   {
     "name": "Research Desk - Learn Water Well",
@@ -3967,7 +1934,7 @@
       "Knowledge - Research Desk",
       "MoreKnowledge"
     ],
-    "requires": "|Water Well|"
+    "requires": ""
   },
   {
     "name": "Research Desk - Learn Gravel Paths",
@@ -3976,7 +1943,7 @@
       "Knowledge - Research Desk",
       "MoreKnowledge"
     ],
-    "requires": "|Gravel Paths|"
+    "requires": ""
   },
   {
     "name": "Research Desk - Learn Assortment of fine Paintings",
@@ -3985,7 +1952,7 @@
       "Knowledge - Research Desk",
       "MoreKnowledge"
     ],
-    "requires": "|Assortment of fine Paintings|"
+    "requires": ""
   },
   {
     "name": "Research Desk - Learn Vases and Plants",
@@ -3994,7 +1961,7 @@
       "Knowledge - Research Desk",
       "MoreKnowledge"
     ],
-    "requires": "|Vases and Plants|"
+    "requires": ""
   },
   {
     "name": "Research Desk - Learn Stone Ornaments",
@@ -4003,7 +1970,7 @@
       "Knowledge - Research Desk",
       "MoreKnowledge"
     ],
-    "requires": "|Stone Ornaments|"
+    "requires": ""
   },
   {
     "name": "Research Desk - Learn Assortment of Windows",
@@ -4012,7 +1979,7 @@
       "Knowledge - Research Desk",
       "MoreKnowledge"
     ],
-    "requires": "|Assortment of Windows|"
+    "requires": ""
   },
   {
     "name": "Research Desk - Learn Simple Garden Planters",
@@ -4021,7 +1988,7 @@
       "Knowledge - Research Desk",
       "MoreKnowledge"
     ],
-    "requires": "|Simple Garden Planters|"
+    "requires": ""
   },
   {
     "name": "Research Desk - Learn Simple Carpets",
@@ -4030,7 +1997,7 @@
       "Knowledge - Research Desk",
       "MoreKnowledge"
     ],
-    "requires": "|Simple Carpets|"
+    "requires": ""
   },
   {
     "name": "Research Desk - Learn Hearth Wall Panels",
@@ -4039,7 +2006,7 @@
       "Knowledge - Research Desk",
       "MoreKnowledge"
     ],
-    "requires": "|Hearth Wall Panels|"
+    "requires": ""
   },
   {
     "name": "Research Desk - Learn Decorative Stone Walls",
@@ -4048,34 +2015,31 @@
       "Knowledge - Research Desk",
       "MoreKnowledge"
     ],
-    "requires": "|Decorative Stone Walls|"
+    "requires": ""
   },
   {
     "name": "Study - Learn Fire Resistance Brew",
     "region": "Study",
     "category": [
-      "Knowledge - Study",
-      "MoreKnowledge"
+      "Knowledge - Study"
     ],
-    "requires": "|Fire Resistance Brew|"
+    "requires": "|Maja the Dark Savant (Study)|"
   },
   {
     "name": "Study - Learn Wrangler's Potion",
     "region": "Study",
     "category": [
-      "Knowledge - Study",
-      "MoreKnowledge"
+      "Knowledge - Study"
     ],
-    "requires": "|Wrangler's Potion|"
+    "requires": "|Maja the Dark Savant (Study)|"
   },
   {
     "name": "Study - Learn Garlic Resistance Potion",
     "region": "Study",
     "category": [
-      "Knowledge - Study",
-      "MoreKnowledge"
+      "Knowledge - Study"
     ],
-    "requires": "|Garlic Resistance Potion|"
+    "requires": "|Maja the Dark Savant (Study)|"
   },
   {
     "name": "Study - Learn Pendant of the Warrior",
@@ -4083,7 +2047,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Pendant of the Warrior|"
+    "requires": "|Maja the Dark Savant (Study)|"
   },
   {
     "name": "Study - Learn Pendant of the Sorcerer",
@@ -4091,7 +2055,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Pendant of the Sorcerer|"
+    "requires": "|Maja the Dark Savant (Study)|"
   },
   {
     "name": "Study - Learn Pendant of the Dawnrunner",
@@ -4099,7 +2063,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Pendant of the Dawnrunner|"
+    "requires": "|Maja the Dark Savant (Study)|"
   },
   {
     "name": "Study - Learn Pendant of the Spellweaver",
@@ -4107,7 +2071,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Pendant of the Spellweaver|"
+    "requires": "|Maja the Dark Savant (Study)|"
   },
   {
     "name": "Study - Learn Pendant of the Warlock",
@@ -4115,7 +2079,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Pendant of the Warlock|"
+    "requires": "|Maja the Dark Savant (Study)|"
   },
   {
     "name": "Study - Learn Pendant of the Duskwatcher",
@@ -4123,7 +2087,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Pendant of the Duskwatcher|"
+    "requires": "|Maja the Dark Savant (Study)|"
   },
   {
     "name": "Study - Learn Merciless Iron Sword",
@@ -4131,7 +2095,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Progressive Sword:3|"
+    "requires": "|Maja the Dark Savant (Study)|"
   },
   {
     "name": "Study - Learn Merciless Iron Axes",
@@ -4139,7 +2103,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Progressive Axes:3|"
+    "requires": "|Maja the Dark Savant (Study)|"
   },
   {
     "name": "Study - Learn Merciless Iron Mace",
@@ -4147,7 +2111,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Progressive Mace:3|"
+    "requires": "|Maja the Dark Savant (Study)|"
   },
   {
     "name": "Study - Learn Merciless Iron Spear",
@@ -4155,7 +2119,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Progressive Spear:3|"
+    "requires": "|Maja the Dark Savant (Study)|"
   },
   {
     "name": "Study - Learn Merciless Iron Reaper",
@@ -4163,7 +2127,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Progressive Reaper|"
+    "requires": "|Maja the Dark Savant (Study)|"
   },
   {
     "name": "Study - Learn Merciless Iron Crossbow",
@@ -4171,7 +2135,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Progressive Crossbow:3|"
+    "requires": "|Maja the Dark Savant (Study)|"
   },
   {
     "name": "Study - Learn Merciless Iron Longbow",
@@ -4179,7 +2143,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Progressive Longbow:2|"
+    "requires": "|Maja the Dark Savant (Study)|"
   },
   {
     "name": "Study - Learn Merciless Iron Greatsword",
@@ -4187,7 +2151,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Progressive Greatsword|"
+    "requires": "|Maja the Dark Savant (Study)|"
   },
   {
     "name": "Study - Learn Merciless Iron Daggers",
@@ -4195,7 +2159,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Progressive Daggers|"
+    "requires": "|Maja the Dark Savant (Study)|"
   },
   {
     "name": "Study - Learn Merciless Iron Twinblade",
@@ -4203,7 +2167,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Progressive Twinblade|"
+    "requires": "|Maja the Dark Savant (Study)|"
   },
   {
     "name": "Study - Learn Merciless Iron Claws",
@@ -4211,7 +2175,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Progressive Claws|"
+    "requires": "|Maja the Dark Savant (Study)|"
   },
   {
     "name": "Study - Learn Merciless Iron Pistols",
@@ -4219,7 +2183,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Progressive Pistols|"
+    "requires": "|Maja the Dark Savant (Study)|"
   },
   {
     "name": "Study - Learn Merciless Iron Slashers",
@@ -4228,7 +2192,7 @@
       "Knowledge - Study",
       "Act4"
     ],
-    "requires": "|Progressive Slashers|"
+    "requires": "|Maja the Dark Savant (Study)|"
   },
   {
     "name": "Study - Learn Merciless Iron Whip",
@@ -4237,7 +2201,7 @@
       "Knowledge - Study",
       "Act3"
     ],
-    "requires": "|Progressive Whip|"
+    "requires": "|Maja the Dark Savant (Study)|"
   },
   {
     "name": "Study - Learn Duskwatcher Chestguard",
@@ -4245,7 +2209,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Duskwatcher Chestguard|"
+    "requires": "|Maja the Dark Savant (Study)|"
   },
   {
     "name": "Study - Learn Duskwatcher Leggings",
@@ -4253,7 +2217,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Duskwatcher Leggings|"
+    "requires": "|Maja the Dark Savant (Study)|"
   },
   {
     "name": "Study - Learn Duskwatcher Boots",
@@ -4261,7 +2225,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Duskwatcher Boots|"
+    "requires": "|Maja the Dark Savant (Study)|"
   },
   {
     "name": "Study - Learn Duskwatcher Gloves",
@@ -4269,7 +2233,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Duskwatcher Gloves|"
+    "requires": "|Maja the Dark Savant (Study)|"
   },
   {
     "name": "Study - Learn Crimson Templar Chestguard",
@@ -4277,7 +2241,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Crimson Templar Chestguard|"
+    "requires": "|Maja the Dark Savant (Study)|"
   },
   {
     "name": "Study - Learn Crimson Templar Leggings",
@@ -4285,7 +2249,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Crimson Templar Leggings|"
+    "requires": "|Maja the Dark Savant (Study)|"
   },
   {
     "name": "Study - Learn Crimson Templar Boots",
@@ -4293,7 +2257,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Crimson Templar Boots|"
+    "requires": "|Maja the Dark Savant (Study)|"
   },
   {
     "name": "Study - Learn Crimson Templar Gloves",
@@ -4301,7 +2265,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Crimson Templar Gloves|"
+    "requires": "|Maja the Dark Savant (Study)|"
   },
   {
     "name": "Study - Learn Blood Hunter Chestguard",
@@ -4309,7 +2273,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Blood Hunter Chestguard|"
+    "requires": "|Maja the Dark Savant (Study)|"
   },
   {
     "name": "Study - Learn Blood Hunter Leggings",
@@ -4317,7 +2281,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Blood Hunter Leggings|"
+    "requires": "|Maja the Dark Savant (Study)|"
   },
   {
     "name": "Study - Learn Blood Hunter Boots",
@@ -4325,7 +2289,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Blood Hunter Boots|"
+    "requires": "|Maja the Dark Savant (Study)|"
   },
   {
     "name": "Study - Learn Blood Hunter Gloves",
@@ -4333,7 +2297,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Blood Hunter Gloves|"
+    "requires": "|Maja the Dark Savant (Study)|"
   },
   {
     "name": "Study - Learn Dark Magus Chestguard",
@@ -4341,7 +2305,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Dark Magus Chestguard|"
+    "requires": "|Maja the Dark Savant (Study)|"
   },
   {
     "name": "Study - Learn Dark Magus Leggings",
@@ -4349,7 +2313,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Dark Magus Leggings|"
+    "requires": "|Maja the Dark Savant (Study)|"
   },
   {
     "name": "Study - Learn Dark Magus Boots",
@@ -4357,7 +2321,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Dark Magus Boots|"
+    "requires": "|Maja the Dark Savant (Study)|"
   },
   {
     "name": "Study - Learn Dark Magus Gloves",
@@ -4365,205 +2329,183 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Dark Magus Gloves|"
+    "requires": "|Maja the Dark Savant (Study)|"
   },
   {
     "name": "Study - Learn Tailor's Flooring",
     "region": "Study",
     "category": [
-      "Knowledge - Study",
-      "MoreKnowledge"
+      "Knowledge - Study"
     ],
-    "requires": "|Tailor's Flooring|"
+    "requires": "|Maja the Dark Savant (Study)|"
   },
   {
     "name": "Study - Learn Library Flooring",
     "region": "Study",
     "category": [
-      "Knowledge - Study",
-      "MoreKnowledge"
+      "Knowledge - Study"
     ],
-    "requires": "|Library Flooring|"
+    "requires": "|Maja the Dark Savant (Study)|"
   },
   {
     "name": "Study - Learn Assortment of Storage Lockers",
     "region": "Study",
     "category": [
-      "Knowledge - Study",
-      "MoreKnowledge"
+      "Knowledge - Study"
     ],
-    "requires": "|Assortment of Storage Lockers|"
+    "requires": "|Maja the Dark Savant (Study)|"
   },
   {
     "name": "Study - Learn Assortment of Fine Braziers",
     "region": "Study",
     "category": [
-      "Knowledge - Study",
-      "MoreKnowledge"
+      "Knowledge - Study"
     ],
-    "requires": "|Assortment of Fine Braziers|"
+    "requires": "|Maja the Dark Savant (Study)|"
   },
   {
     "name": "Study - Learn Assortment of Fine Candle Stands",
     "region": "Study",
     "category": [
-      "Knowledge - Study",
-      "MoreKnowledge"
+      "Knowledge - Study"
     ],
-    "requires": "|Assortment of Fine Candle Stands|"
+    "requires": "|Maja the Dark Savant (Study)|"
   },
   {
     "name": "Study - Learn Assortment of Castle Chairs",
     "region": "Study",
     "category": [
-      "Knowledge - Study",
-      "MoreKnowledge"
+      "Knowledge - Study"
     ],
-    "requires": "|Assortment of Castle Chairs|"
+    "requires": "|Maja the Dark Savant (Study)|"
   },
   {
     "name": "Study - Learn Fireplaces",
     "region": "Study",
     "category": [
-      "Knowledge - Study",
-      "MoreKnowledge"
+      "Knowledge - Study"
     ],
-    "requires": "|Fireplaces|"
+    "requires": "|Maja the Dark Savant (Study)|"
   },
   {
     "name": "Study - Learn Cobblestone Paths",
     "region": "Study",
     "category": [
-      "Knowledge - Study",
-      "MoreKnowledge"
+      "Knowledge - Study"
     ],
-    "requires": "|Cobblestone Paths|"
+    "requires": "|Maja the Dark Savant (Study)|"
   },
   {
     "name": "Study - Learn Dux Carpet Collection",
     "region": "Study",
     "category": [
-      "Knowledge - Study",
-      "MoreKnowledge"
+      "Knowledge - Study"
     ],
-    "requires": "|Dux Carpet Collection|"
+    "requires": "|Maja the Dark Savant (Study)|"
   },
   {
     "name": "Study - Learn Noble Fences & Fountains",
     "region": "Study",
     "category": [
-      "Knowledge - Study",
-      "MoreKnowledge"
+      "Knowledge - Study"
     ],
-    "requires": "|Noble Fences & Fountains|"
+    "requires": "|Maja the Dark Savant (Study)|"
   },
   {
     "name": "Study - Learn Fine Dining Table Collection",
     "region": "Study",
     "category": [
-      "Knowledge - Study",
-      "MoreKnowledge"
+      "Knowledge - Study"
     ],
-    "requires": "|Fine Dining Table Collection|"
+    "requires": "|Maja the Dark Savant (Study)|"
   },
   {
     "name": "Study - Learn Hanging Lanterns",
     "region": "Study",
     "category": [
-      "Knowledge - Study",
-      "MoreKnowledge"
+      "Knowledge - Study"
     ],
-    "requires": "|Hanging Lanterns|"
+    "requires": "|Maja the Dark Savant (Study)|"
   },
   {
     "name": "Study - Learn Banners",
     "region": "Study",
     "category": [
-      "Knowledge - Study",
-      "MoreKnowledge"
+      "Knowledge - Study"
     ],
-    "requires": "|Banners|"
+    "requires": "|Maja the Dark Savant (Study)|"
   },
   {
     "name": "Study - Learn Modest Garden Planters",
     "region": "Study",
     "category": [
-      "Knowledge - Study",
-      "MoreKnowledge"
+      "Knowledge - Study"
     ],
-    "requires": "|Modest Garden Planters|"
+    "requires": "|Maja the Dark Savant (Study)|"
   },
   {
     "name": "Study - Learn Garden Furniture and Lanterns",
     "region": "Study",
     "category": [
-      "Knowledge - Study",
-      "MoreKnowledge"
+      "Knowledge - Study"
     ],
-    "requires": "|Garden Furniture and Lanterns|"
+    "requires": "|Maja the Dark Savant (Study)|"
   },
   {
     "name": "Study - Learn Prison Walls",
     "region": "Study",
     "category": [
-      "Knowledge - Study",
-      "MoreKnowledge"
+      "Knowledge - Study"
     ],
-    "requires": "|Prison Walls|"
+    "requires": "|Maja the Dark Savant (Study)|"
   },
   {
     "name": "Study - Learn Cordial Wall Panels",
     "region": "Study",
     "category": [
-      "Knowledge - Study",
-      "MoreKnowledge"
+      "Knowledge - Study"
     ],
-    "requires": "|Cordial Wall Panels|"
+    "requires": "|Maja the Dark Savant (Study)|"
   },
   {
     "name": "Study - Learn Assortment of Workshop Decorations",
     "region": "Study",
     "category": [
-      "Knowledge - Study",
-      "MoreKnowledge"
+      "Knowledge - Study"
     ],
-    "requires": "|Assortment of Workshop Decorations|"
+    "requires": "|Maja the Dark Savant (Study)|"
   },
   {
     "name": "Study - Learn Assortment of Desks",
     "region": "Study",
     "category": [
-      "Knowledge - Study",
-      "MoreKnowledge"
+      "Knowledge - Study"
     ],
-    "requires": "|Assortment of Desks|"
+    "requires": "|Maja the Dark Savant (Study)|"
   },
   {
     "name": "Study - Learn Assortment of Desk Chairs",
     "region": "Study",
     "category": [
-      "Knowledge - Study",
-      "MoreKnowledge"
+      "Knowledge - Study"
     ],
-    "requires": "|Tailor's Flooring|"
+    "requires": "|Maja the Dark Savant (Study)|"
   },
   {
     "name": "Athenaeum - Learn Potion of Rage",
     "region": "Athenaeum",
     "category": [
-      "Knowledge - Athenaeum",
-      "MoreKnowledge"
+      "Knowledge - Athenaeum"
     ],
-    "requires": "|Potion of Rage|"
+    "requires": "|Henry Blackbrew the Doctor (Athenaeum)|"
   },
   {
     "name": "Athenaeum - Learn Witch Potion",
     "region": "Athenaeum",
     "category": [
-      "Knowledge - Athenaeum",
-      "MoreKnowledge"
+      "Knowledge - Athenaeum"
     ],
-    "requires": "|Witch Potion|"
+    "requires": "|Henry Blackbrew the Doctor (Athenaeum)|"
   },
   {
     "name": "Athenaeum - Learn Amulet of the Crimson Commander",
@@ -4571,7 +2513,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Amulet of the Crimson Commander|"
+    "requires": "|Henry Blackbrew the Doctor (Athenaeum)|"
   },
   {
     "name": "Athenaeum - Learn Amulet of the Wicked Prophet",
@@ -4579,7 +2521,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Amulet of the Wicked Prophet|"
+    "requires": "|Henry Blackbrew the Doctor (Athenaeum)|"
   },
   {
     "name": "Athenaeum - Learn Amulet of the Unyielding Charger",
@@ -4587,7 +2529,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Amulet of the Unyielding Charger|"
+    "requires": "|Henry Blackbrew the Doctor (Athenaeum)|"
   },
   {
     "name": "Athenaeum - Learn Amulet of the Master Spellweaver",
@@ -4595,7 +2537,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Amulet of the Master Spellweaver|"
+    "requires": "|Henry Blackbrew the Doctor (Athenaeum)|"
   },
   {
     "name": "Athenaeum - Learn Amulet of the Arch-Warlock",
@@ -4603,7 +2545,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Amulet of the Arch-Warlock|"
+    "requires": "|Henry Blackbrew the Doctor (Athenaeum)|"
   },
   {
     "name": "Athenaeum - Learn Amulet of the Blademaster",
@@ -4611,7 +2553,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Amulet of the Blademaster|"
+    "requires": "|Henry Blackbrew the Doctor (Athenaeum)|"
   },
   {
     "name": "Athenaeum - Learn Sanguine Sword",
@@ -4619,7 +2561,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Progressive Sword:6|"
+    "requires": "|Henry Blackbrew the Doctor (Athenaeum)|"
   },
   {
     "name": "Athenaeum - Learn Sanguine Axes",
@@ -4627,7 +2569,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Progressive Axes:6|"
+    "requires": "|Henry Blackbrew the Doctor (Athenaeum)|"
   },
   {
     "name": "Athenaeum - Learn Sanguine Mace",
@@ -4635,7 +2577,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Progressive Mace:6|"
+    "requires": "|Henry Blackbrew the Doctor (Athenaeum)|"
   },
   {
     "name": "Athenaeum - Learn Sanguine Spear",
@@ -4643,7 +2585,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Progressive Spear:6|"
+    "requires": "|Henry Blackbrew the Doctor (Athenaeum)|"
   },
   {
     "name": "Athenaeum - Learn Sanguine Crossbow",
@@ -4651,7 +2593,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Progressive Crossbow:6|"
+    "requires": "|Henry Blackbrew the Doctor (Athenaeum)|"
   },
   {
     "name": "Athenaeum - Learn Sanguine Longbow",
@@ -4659,7 +2601,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Progressive Sword:5|"
+    "requires": "|Henry Blackbrew the Doctor (Athenaeum)|"
   },
   {
     "name": "Athenaeum - Learn Sanguine Reaper",
@@ -4667,7 +2609,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Progressive Sword:4|"
+    "requires": "|Henry Blackbrew the Doctor (Athenaeum)|"
   },
   {
     "name": "Athenaeum - Learn Sanguine Greatsword",
@@ -4675,7 +2617,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Progressive Sword:4|"
+    "requires": "|Henry Blackbrew the Doctor (Athenaeum)|"
   },
   {
     "name": "Athenaeum - Learn Sanguine Daggers",
@@ -4683,7 +2625,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Progressive Sword:4|"
+    "requires": "|Henry Blackbrew the Doctor (Athenaeum)|"
   },
   {
     "name": "Athenaeum - Learn Sanguine Twinblade",
@@ -4691,7 +2633,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Progressive Sword:4|"
+    "requires": "|Henry Blackbrew the Doctor (Athenaeum)|"
   },
   {
     "name": "Athenaeum - Learn Sanguine Claws",
@@ -4699,7 +2641,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Progressive Claws:4|"
+    "requires": "|Henry Blackbrew the Doctor (Athenaeum)|"
   },
   {
     "name": "Athenaeum - Learn Sanguine Pistols",
@@ -4707,15 +2649,15 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Progressive Pistols:4|"
+    "requires": "|Henry Blackbrew the Doctor (Athenaeum)|"
   },
   {
     "name": "Athenaeum - Learn Sanguine Slashers",
-    "region": "Athenaeum",
+    "region": "Athenaeum", 
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Progressive Slashers:4|"
+    "requires": "|Henry Blackbrew the Doctor (Athenaeum)|"
   },
   {
     "name": "Athenaeum - Learn Shadowmoon Chestguard",
@@ -4723,7 +2665,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Shadowmoon Chestguard|"
+    "requires": "|Henry Blackbrew the Doctor (Athenaeum)|"
   },
   {
     "name": "Athenaeum - Learn Shadowmoon Leggings",
@@ -4731,7 +2673,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Shadowmoon Leggings|"
+    "requires": "|Henry Blackbrew the Doctor (Athenaeum)|"
   },
   {
     "name": "Athenaeum - Learn Shadowmoon Gloves",
@@ -4739,7 +2681,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Shadowmoon Gloves|"
+    "requires": "|Henry Blackbrew the Doctor (Athenaeum)|"
   },
   {
     "name": "Athenaeum - Learn Shadowmoon Boots",
@@ -4747,7 +2689,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Shadowmoon Boots|"
+    "requires": "|Henry Blackbrew the Doctor (Athenaeum)|"
   },
   {
     "name": "Athenaeum - Learn Grim Knight Chestguard",
@@ -4755,7 +2697,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Grim Knight Chestguard|"
+    "requires": "|Henry Blackbrew the Doctor (Athenaeum)|"
   },
   {
     "name": "Athenaeum - Learn Grim Knight Leggings",
@@ -4763,7 +2705,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Grim Knight Leggings|"
+    "requires": "|Henry Blackbrew the Doctor (Athenaeum)|"
   },
   {
     "name": "Athenaeum - Learn Grim Knight Gloves",
@@ -4771,7 +2713,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Grim Knight Gloves|"
+    "requires": "|Henry Blackbrew the Doctor (Athenaeum)|"
   },
   {
     "name": "Athenaeum - Learn Grim Knight Boots",
@@ -4779,7 +2721,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Grim Knight Boots|"
+    "requires": "|Henry Blackbrew the Doctor (Athenaeum)|"
   },
   {
     "name": "Athenaeum - Learn Dread Plate Chestguard",
@@ -4787,7 +2729,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Dread Plate Chestguard|"
+    "requires": "|Henry Blackbrew the Doctor (Athenaeum)|"
   },
   {
     "name": "Athenaeum - Learn Dread Plate Leggings",
@@ -4795,7 +2737,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Dread Plate Leggings|"
+    "requires": "|Henry Blackbrew the Doctor (Athenaeum)|"
   },
   {
     "name": "Athenaeum - Learn Dread Plate Gloves",
@@ -4803,7 +2745,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Dread Plate Gloves|"
+    "requires": "|Henry Blackbrew the Doctor (Athenaeum)|"
   },
   {
     "name": "Athenaeum - Learn Dread Plate Boots",
@@ -4811,7 +2753,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Dread Plate Boots|"
+    "requires": "|Henry Blackbrew the Doctor (Athenaeum)|"
   },
   {
     "name": "Athenaeum - Learn Maleficer Scholar Chestguard",
@@ -4819,7 +2761,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Maleficer Scholar Chestguard|"
+    "requires": "|Henry Blackbrew the Doctor (Athenaeum)|"
   },
   {
     "name": "Athenaeum - Learn Maleficer Scholar Leggings",
@@ -4827,7 +2769,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Maleficer Scholar Leggings|"
+    "requires": "|Henry Blackbrew the Doctor (Athenaeum)|"
   },
   {
     "name": "Athenaeum - Learn Maleficer Scholar Gloves",
@@ -4835,7 +2777,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Maleficer Scholar Gloves|"
+    "requires": "|Henry Blackbrew the Doctor (Athenaeum)|"
   },
   {
     "name": "Athenaeum - Learn Maleficer Scholar Boots",
@@ -4843,1861 +2785,501 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Maleficer Scholar Boots|"
+    "requires": "|Henry Blackbrew the Doctor (Athenaeum)|"
   },
   {
     "name": "Athenaeum - Learn Assortment of Cabinets",
     "region": "Athenaeum",
     "category": [
-      "Knowledge - Athenaeum",
-      "MoreKnowledge"
+      "Knowledge - Athenaeum"
     ],
-    "requires": "|Assortment of Cabinets|"
+    "requires": "|Henry Blackbrew the Doctor (Athenaeum)|"
   },
   {
     "name": "Athenaeum - Learn Assortment of Great Braziers",
     "region": "Athenaeum",
     "category": [
-      "Knowledge - Athenaeum",
-      "MoreKnowledge"
+      "Knowledge - Athenaeum"
     ],
-    "requires": "|Assortment of Great Braziers|"
+    "requires": "|Henry Blackbrew the Doctor (Athenaeum)|"
   },
   {
     "name": "Athenaeum - Learn Distinguished Carpet Collection",
     "region": "Athenaeum",
     "category": [
-      "Knowledge - Athenaeum",
-      "MoreKnowledge"
+      "Knowledge - Athenaeum"
     ],
-    "requires": "|Distinguished Carpet Collection|"
+    "requires": "|Henry Blackbrew the Doctor (Athenaeum)|"
   },
   {
     "name": "Athenaeum - Learn Assortment of Royal Curtains",
     "region": "Athenaeum",
     "category": [
-      "Knowledge - Athenaeum",
-      "MoreKnowledge"
+      "Knowledge - Athenaeum"
     ],
-    "requires": "|Assortment of Royal Curtains|"
+    "requires": "|Henry Blackbrew the Doctor (Athenaeum)|"
   },
   {
     "name": "Athenaeum - Learn Sofa & Divan Collection",
     "region": "Athenaeum",
     "category": [
-      "Knowledge - Athenaeum",
-      "MoreKnowledge"
+      "Knowledge - Athenaeum"
     ],
-    "requires": "|Sofa & Divan Collection|"
+    "requires": "|Henry Blackbrew the Doctor (Athenaeum)|"
   },
   {
     "name": "Athenaeum - Learn Dressing Tables & Folding Walls",
     "region": "Athenaeum",
     "category": [
-      "Knowledge - Athenaeum",
-      "MoreKnowledge"
+      "Knowledge - Athenaeum"
     ],
-    "requires": "|Dressing Tables & Folding Walls|"
+    "requires": "|Henry Blackbrew the Doctor (Athenaeum)|"
   },
   {
     "name": "Athenaeum - Learn Lamp Posts",
     "region": "Athenaeum",
     "category": [
-      "Knowledge - Athenaeum",
-      "MoreKnowledge"
+      "Knowledge - Athenaeum"
     ],
-    "requires": "|Lamp Posts|"
+    "requires": "|Henry Blackbrew the Doctor (Athenaeum)|"
   },
   {
     "name": "Athenaeum - Learn Flying Lights",
     "region": "Athenaeum",
     "category": [
-      "Knowledge - Athenaeum",
-      "MoreKnowledge"
+      "Knowledge - Athenaeum"
     ],
-    "requires": "|Flying Lights|"
+    "requires": "|Henry Blackbrew the Doctor (Athenaeum)|"
   },
   {
     "name": "Athenaeum - Learn Garden Archways & Pergolas",
     "region": "Athenaeum",
     "category": [
-      "Knowledge - Athenaeum",
-      "MoreKnowledge"
+      "Knowledge - Athenaeum"
     ],
-    "requires": "|Garden Archways & Pergolas|"
+    "requires": "|Henry Blackbrew the Doctor (Athenaeum)|"
   },
   {
     "name": "Athenaeum - Learn Large Fountain",
     "region": "Athenaeum",
     "category": [
-      "Knowledge - Athenaeum",
-      "MoreKnowledge"
+      "Knowledge - Athenaeum"
     ],
-    "requires": "|Large Fountain|"
+    "requires": "|Henry Blackbrew the Doctor (Athenaeum)|"
   },
   {
     "name": "Athenaeum - Learn Stately Stone Walls",
     "region": "Athenaeum",
     "category": [
-      "Knowledge - Athenaeum",
-      "MoreKnowledge"
+      "Knowledge - Athenaeum"
     ],
-    "requires": "|Stately Stone Walls|"
+    "requires": "|Henry Blackbrew the Doctor (Athenaeum)|"
   },
-  {
-    "name": "Mastery over Blood Magic",
-    "region": "Venom Alchemist",
+    {
+    "name": "Blood Rage",
     "category": [
-      "Player Progression"
-    ],
-    "requires": "{OptOne(|Blood Magic|)} AND |@Spellbook - Blood Magic:all| AND |Rufus Defeated| AND |Raziel Defeated| AND |Clive Defeated| AND |Meredith Defeated|"
-  },
-  {
-    "name": "Mastery over Chaos Magic",
-    "region": "Sunbringer",
-    "category": [
-      "Player Progression"
-    ],
-    "requires": "{OptOne(|Chaos Magic|)} AND |@Spellbook - Chaos Magic:all| AND |Errol Defeated| AND |Lidia Defeated| AND |Morian Defeated| AND |Clive Defeated| AND |Stavros Defeated|"
-  },
-  {
-    "name": "Mastery over Unholy Magic",
-    "region": "Spider Queen",
-    "category": [
-      "Player Progression"
-    ],
-    "requires": "{OptOne(|Unholy Magic|)} AND |@Spellbook - Unholy Magic:all| AND |Gaius Defeated| AND |Bane Defeated| AND |Kriig Defeated| AND |General Cassius Defeated| AND |Foulrot Defeated| AND |Nicholaus Defeated|"
-  },
-  {
-    "name": "Mastery over Illusion Magic",
-    "region": "Behemoth",
-    "category": [
-      "Player Progression"
-    ],
-    "requires": "{OptOne(|Illusion Magic|)} AND |@Spellbook - Illusion Magic:all| AND |Grayson Defeated| AND |Polora Defeated| AND |Christina Defeated| AND |Jakira Defeated| AND |Terah Defeated|"
-  },
-  {
-    "name": "Mastery over Frost Magic",
-    "region": "Forgebinder",
-    "category": [
-      "Player Progression"
-    ],
-    "requires": "{OptOne(|Frost Magic|)} AND |@Spellbook - Frost Magic:all| AND |Finn Defeated| AND |Sir Magnus Defeated| AND |General Elena Defeated| AND |Terrorclaw Defeated|"
-  },
-  {
-    "name": "Mastery over Storm Magic",
-    "region": "Power Master",
-    "category": [
-      "Player Progression"
-    ],
-    "requires": "{OptOne(|Storm Magic|)} AND |@Spellbook - Storm Magic:all| AND |Sir Erwin Defeated| AND |Mairwyn Defeated| AND |Meredith Defeated| AND |Domina Defeated|"
-  },
-  {
-    "name": "Farbane Woods - Buy something at the Shady Merchants Camp",
-    "region": "Farbane Woods",
-    "category": [
-      "Shopping"
-    ],
-    "requires": "|Alpha Defeated|"
-  },
-  {
-    "name": "Dunley Farmlands - Buy something at the Dunley Farmer's Market",
-    "region": "Shadowblade",
-    "category": [
-      "Shopping"
+      "Spellbook - Blood Magic"
     ],
     "requires": ""
   },
   {
-    "name": "Gloomrot North - Buy something at the Treasure Hunter Trade Post",
-    "region": "Gloomrot North",
+    "name": "Blood Fountain",
     "category": [
-      "Shopping"
+      "Spellbook - Blood Magic",
+      "Act2"
+    ],
+    "requires": "|Quincey the Bandit King (Smithy)|"
+  },
+  {
+    "name": "Sanguine Coil",
+    "category": [
+      "Spellbook - Blood Magic",
+      "Act2"
+    ],
+    "requires": "|Quincey the Bandit King (Smithy)|"
+  },
+  {
+    "name": "Carrion Swarm",
+    "category": [
+      "Spellbook - Blood Magic",
+      "Act2"
+    ],
+    "requires": "|Quincey the Bandit King (Smithy)|"
+  },
+  {
+    "name": "Veil of Blood",
+    "category": [
+      "Spellbook - Blood Magic",
+      "Act2"
+    ],
+    "requires": "|Quincey the Bandit King (Smithy)|"
+  },
+  {
+    "name": "Crimson Beam",
+    "category": [
+      "Spellbook - Blood Magic",
+      "Act2"
+    ],
+    "requires": "|Quincey the Bandit King (Smithy)|"
+  },
+  {
+    "name": "Heart Strike",
+    "category": [
+      "Spellbook - Blood Magic",
+      "Act2"
+    ],
+    "requires": "|Quincey the Bandit King (Smithy)|"
+  },
+  {
+    "name": "Chaos Volley",
+    "category": [
+      "Spellbook - Chaos Magic",
+      "Tier 1 Chaos"
     ],
     "requires": ""
   },
   {
-    "name": "Silverlight Hills - Buy something in the Bright Haven Trade District",
-    "region": "Silverlight Hills",
+    "name": "Power Surge",
     "category": [
-      "Shopping"
+      "Spellbook - Chaos Magic",
+      "Tier 1 Chaos"
     ],
-    "requires": "|Bane Defeated|"
+    "requires": ""
   },
   {
-    "name": "Ruins of Mortium - Buy something at a Vampire Merchant Camp",
-    "region": "Old Wanderer",
+    "name": "Aftershock",
     "category": [
-      "Shopping"
+      "Spellbook - Chaos Magic",
+      "Tier 1 Chaos"
     ],
-    "requires": "|Mortium Rifts|"
+    "requires": ""
   },
   {
-    "name": "Progressive Sword 1 (Bone Sword)",
-    "region": "General",
+    "name": "Void",
     "category": [
-      "Weapons - Swords"
+      "Spellbook - Chaos Magic"
     ],
-    "requires": "|Progressive Sword|",
-    "place_item": [ "Bone Sword" ]
+    "requires": ""
   },
   {
-    "name": "Progressive Sword 1 (Reinforced Bone Sword)",
-    "region": "General",
+    "name": "Chaos Barrier",
     "category": [
-      "Weapons - Swords"
+      "Spellbook - Chaos Magic"
     ],
-    "requires": "|Progressive Sword|",
-    "place_item": [ "Reinforced Bone Sword" ]
+    "requires": ""
   },
   {
-    "name": "Progressive Sword 2 (Copper Sword)",
-    "region": "General",
+    "name": "Rain of Chaos",
     "category": [
-      "Weapons - Swords"
+      "Spellbook - Chaos Magic"
     ],
-    "requires": "|Progressive Sword:2|",
-    "place_item": [ "Copper Sword" ]
+    "requires": ""
   },
   {
-    "name": "Progressive Sword 2 (Merciless Copper Sword)",
-    "region": "General",
+    "name": "Veil of Chaos",
     "category": [
-      "Weapons - Swords"
-    ],
-    "requires": "|Progressive Sword:2|",
-    "place_item": [ "Merciless Copper Sword" ]
-  },
-  {
-    "name": "Progressive Sword 3 (Iron Sword)",
-    "region": "General",
-    "category": [
-      "Weapons - Swords",
+      "Spellbook - Chaos Magic",
       "Act2"
     ],
-    "requires": "|Progressive Sword:3|",
-    "place_item": [ "Iron Sword" ]
+    "requires": "|Quincey the Bandit King (Smithy)|"
   },
   {
-    "name": "Progressive Sword 3 (Merciless Iron Sword)",
-    "region": "General",
+    "name": "Merciless Charge",
     "category": [
-      "Weapons - Swords",
+      "Spellbook - Chaos Magic",
       "Act2"
     ],
-    "requires": "|Progressive Sword:3|",
-    "place_item": [ "Merciless Iron Sword" ]
+    "requires": "|Quincey the Bandit King (Smithy)|"
   },
   {
-    "name": "Progressive Sword 4 (Rare Ancestral Sword)",
-    "region": "General",
+    "name": "Chaos Barrage",
     "category": [
-      "Weapons - Swords",
+      "Spellbook - Chaos Magic",
+      "Act2"
+    ],
+    "requires": "|Quincey the Bandit King (Smithy)|"
+  },
+  {
+    "name": "Corrupted Skull",
+    "category": [
+      "Spellbook - Unholy Magic"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Ward of the Damned",
+    "category": [
+      "Spellbook - Unholy Magic"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Bone Explosion",
+    "category": [
+      "Spellbook - Unholy Magic"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Death Knight",
+    "category": [
+      "Spellbook - Unholy Magic",
+      "Act2"
+    ],
+    "requires": "|Quincey the Bandit King (Smithy)|"
+  },
+  {
+    "name": "Soulburn",
+    "category": [
+      "Spellbook - Unholy Magic",
+      "Act2"
+    ],
+    "requires": "|Quincey the Bandit King (Smithy)|"
+  },
+  {
+    "name": "Unholy Chains",
+    "category": [
+      "Spellbook - Unholy Magic",
+      "Act2"
+    ],
+    "requires": "|Quincey the Bandit King (Smithy)|"
+  },
+  {
+    "name": "Veil of Bones",
+    "category": [
+      "Spellbook - Unholy Magic",
+      "Act2"
+    ],
+    "requires": "|Quincey the Bandit King (Smithy)|"
+  },
+  {
+    "name": "Army of the Dead",
+    "category": [
+      "Spellbook - Unholy Magic"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Volatile Arachnid",
+    "category": [
+      "Spellbook - Unholy Magic"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Spectral Wolf",
+    "category": [
+      "Spellbook - Illusion Magic"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Phantom Aegis",
+    "category": [
+      "Spellbook - Illusion Magic"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Wraith Spear",
+    "category": [
+      "Spellbook - Illusion Magic"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mosquito",
+    "category": [
+      "Spellbook - Illusion Magic",
+      "Act2"
+    ],
+    "requires": "|Quincey the Bandit King (Smithy)|"
+  },
+  {
+    "name": "Mist Trance",
+    "category": [
+      "Spellbook - Illusion Magic",
+      "Act2"
+    ],
+    "requires": "|Quincey the Bandit King (Smithy)|"
+  },
+  {
+    "name": "Curse",
+    "category": [
+      "Spellbook - Illusion Magic",
+      "Act2"
+    ],
+    "requires": "|Quincey the Bandit King (Smithy)|"
+  },
+  {
+    "name": "Veil of Illusion",
+    "category": [
+      "Spellbook - Illusion Magic",
+      "Act4"
+    ],
+    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)|"
+  },
+  {
+    "name": "Spectral Guardian",
+    "category": [
+      "Spellbook - Illusion Magic",
+      "Act2"
+    ],
+    "requires": "|Quincey the Bandit King (Smithy)|"
+  },
+  {
+    "name": "Wisp Dance",
+    "category": [
+      "Spellbook - Illusion Magic",
+      "Act2"
+    ],
+    "requires": "|Quincey the Bandit King (Smithy)|"
+  },
+  {
+    "name": "Frost Bat",
+    "category": [
+      "Spellbook - Frost Magic",
+      "Tier 1 Frost"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Cold Snap",
+    "category": [
+      "Spellbook - Frost Magic",
+      "Tier 1 Frost"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Ice Nova",
+    "category": [
+      "Spellbook - Frost Magic",
+      "Tier 1 Frost"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Crystal Lance",
+    "category": [
+      "Spellbook - Frost Magic",
+      "Act2"
+    ],
+    "requires": "|Quincey the Bandit King (Smithy)|"
+  },
+  {
+    "name": "Frost Barrier",
+    "category": [
+      "Spellbook - Frost Magic",
+      "Act2"
+    ],
+    "requires": "|Quincey the Bandit King (Smithy)|"
+  },
+  {
+    "name": "Arctic Storm",
+    "category": [
+      "Spellbook - Frost Magic",
+      "Act2"
+    ],
+    "requires": "|Quincey the Bandit King (Smithy)|"
+  },
+  {
+    "name": "Veil of Frost",
+    "category": [
+      "Spellbook - Frost Magic",
+      "Act2"
+    ],
+    "requires": "|Quincey the Bandit King (Smithy)|"
+  },
+  {
+    "name": "Arctic Leap",
+    "category": [
+      "Spellbook - Frost Magic",
+      "Act2"
+    ],
+    "requires": "|Quincey the Bandit King (Smithy)|"
+  },
+  {
+    "name": "Ice Block",
+    "category": [
+      "Spellbook - Frost Magic",
+      "Act2"
+    ],
+    "requires": "|Quincey the Bandit King (Smithy)|"
+  },
+  {
+    "name": "Cyclone",
+    "category": [
+      "Spellbook - Storm Magic",
+      "Act2"
+    ],
+    "requires": "|Quincey the Bandit King (Smithy)|"
+  },
+  {
+    "name": "Discharge",
+    "category": [
+      "Spellbook - Storm Magic",
+      "Act2"
+    ],
+    "requires": "|Quincey the Bandit King (Smithy)|"
+  },
+  {
+    "name": "Ball Lightning",
+    "category": [
+      "Spellbook - Storm Magic",
+      "Act2"
+    ],
+    "requires": "|Quincey the Bandit King (Smithy)|"
+  },
+  {
+    "name": "Polarity Shift",
+    "category": [
+      "Spellbook - Storm Magic",
       "Act3"
     ],
-    "requires": "|Progressive Sword:4|",
-    "place_item": [ "Rare Ancestral Sword" ]
+    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)|"
   },
   {
-    "name": "Progressive Sword 5 (Dark Silver Sword)",
-    "region": "General",
+    "name": "Lightning Curtain",
     "category": [
-      "Weapons - Swords",
-      "Act4"
-    ],
-    "requires": "|Progressive Sword:5|",
-    "place_item": [ "Dark Silver Sword" ]
-  },
-  {
-    "name": "Progressive Sword 6 (Sanguine Sword)",
-    "region": "General",
-    "category": [
-      "Weapons - Swords",
-      "Act4"
-    ],
-    "requires": "|Progressive Sword:6|",
-    "place_item": [ "Sanguine Sword" ]
-  },
-  {
-    "name": "Progressive Sword 7 (Epic Ancestral Sword)",
-    "region": "General",
-    "category": [
-      "Weapons - Swords",
-      "Act4"
-    ],
-    "requires": "|Progressive Sword:7|",
-    "place_item": [ "Epic Ancestral Sword" ]
-  },
-  {
-    "name": "Progressive Sword 8 (The Gravecaller)",
-    "region": "General",
-    "category": [
-      "Weapons - Swords",
-      "Act4"
-    ],
-    "requires": "|Progressive Sword:8|",
-    "place_item": [ "The Gravecaller" ]
-  },
-  {
-    "name": "Progressive Axes 1 (Bone Axes)",
-    "region": "General",
-    "category": [
-      "Weapons - Axes"
-    ],
-    "requires": "|Progressive Axes|",
-    "place_item": [ "Bone Axes" ]
-  },
-  {
-    "name": "Progressive Axes 1 (Reinforced Bone Axes)",
-    "region": "General",
-    "category": [
-      "Weapons - Axes"
-    ],
-    "requires": "|Progressive Axes|",
-    "place_item": [ "Reinforced Bone Axes" ]
-  },
-  {
-    "name": "Progressive Axes 2 (Copper Axes)",
-    "region": "General",
-    "category": [
-      "Weapons - Axes"
-    ],
-    "requires": "|Progressive Axes:2|",
-    "place_item": [ "Copper Axes" ]
-  },
-  {
-    "name": "Progressive Axes 2 (Merciless Copper Axes)",
-    "region": "General",
-    "category": [
-      "Weapons - Axes"
-    ],
-    "requires": "|Progressive Axes:2|",
-    "place_item": [ "Merciless Copper Axes" ]
-  },
-  {
-    "name": "Progressive Axes 3 (Iron Axes)",
-    "region": "General",
-    "category": [
-      "Weapons - Axes",
-      "Act2"
-    ],
-    "requires": "|Progressive Axes:3|",
-    "place_item": [ "Iron Axes" ]
-  },
-  {
-    "name": "Progressive Axes 3 (Merciless Iron Axes)",
-    "region": "General",
-    "category": [
-      "Weapons - Axes",
-      "Act2"
-    ],
-    "requires": "|Progressive Axes:3|",
-    "place_item": [ "Merciless Iron Axes" ]
-  },
-  {
-    "name": "Progressive Axes 4 (Rare Ancestral Axes)",
-    "region": "General",
-    "category": [
-      "Weapons - Axes",
+      "Spellbook - Storm Magic",
       "Act3"
     ],
-    "requires": "|Progressive Axes:4|",
-    "place_item": [ "Rare Ancestral Axes" ]
+    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)|"
   },
   {
-    "name": "Progressive Axes 5 (Dark Silver Axes)",
-    "region": "General",
+    "name": "Lightning Tendrils",
     "category": [
-      "Weapons - Axes",
-      "Act4"
-    ],
-    "requires": "|Progressive Axes:5|",
-    "place_item": [ "Dark Silver Axes" ]
-  },
-  {
-    "name": "Progressive Axes 6 (Sanguine Axes)",
-    "region": "General",
-    "category": [
-      "Weapons - Axes",
-      "Act4"
-    ],
-    "requires": "|Progressive Axes:6|",
-    "place_item": [ "Sanguine Axes" ]
-  },
-  {
-    "name": "Progressive Axes 7 (Epic Ancestral Axes)",
-    "region": "General",
-    "category": [
-      "Weapons - Axes",
-      "Act4"
-    ],
-    "requires": "|Progressive Axes:7|",
-    "place_item": [ "Epic Ancestral Axes" ]
-  },
-  {
-    "name": "Progressive Axes 8 (The Red Twins)",
-    "region": "General",
-    "category": [
-      "Weapons - Axes",
-      "Act4"
-    ],
-    "requires": "|Progressive Axes:8|",
-    "place_item": [ "The Red Twins" ]
-  },
-  {
-    "name": "Progressive Mace 1 (Bone Mace)",
-    "region": "General",
-    "category": [
-      "Weapons - Maces"
-    ],
-    "requires": "|Progressive Mace|",
-    "place_item": [ "Bone Mace" ]
-  },
-  {
-    "name": "Progressive Mace 1 (Reinforced Bone Mace)",
-    "region": "General",
-    "category": [
-      "Weapons - Maces"
-    ],
-    "requires": "|Progressive Mace|",
-    "place_item": [ "Reinforced Bone Mace" ]
-  },
-  {
-    "name": "Progressive Mace 2 (Copper Mace)",
-    "region": "General",
-    "category": [
-      "Weapons - Maces"
-    ],
-    "requires": "|Progressive Mace:2|",
-    "place_item": [ "Copper Mace" ]
-  },
-  {
-    "name": "Progressive Mace 2 (Merciless Copper Mace)",
-    "region": "General",
-    "category": [
-      "Weapons - Maces"
-    ],
-    "requires": "|Progressive Mace:2|",
-    "place_item": [ "Merciless Copper Mace" ]
-  },
-  {
-    "name": "Progressive Mace 3 (Iron Mace)",
-    "region": "General",
-    "category": [
-      "Weapons - Maces",
-      "Act2"
-    ],
-    "requires": "|Progressive Mace:3|",
-    "place_item": [ "Iron Mace" ]
-  },
-  {
-    "name": "Progressive Mace 3 (Merciless Iron Mace)",
-    "region": "General",
-    "category": [
-      "Weapons - Maces",
-      "Act2"
-    ],
-    "requires": "|Progressive Mace:3|",
-    "place_item": [ "Merciless Iron Mace" ]
-  },
-  {
-    "name": "Progressive Mace 4 (Rare Ancestral Mace)",
-    "region": "General",
-    "category": [
-      "Weapons - Maces",
+      "Spellbook - Storm Magic",
       "Act3"
     ],
-    "requires": "|Progressive Mace:4|",
-    "place_item": [ "Rare Ancestral Mace" ]
+    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)|"
   },
   {
-    "name": "Progressive Mace 5 (Dark Silver Mace)",
-    "region": "General",
+    "name": "Veil of Storm",
     "category": [
-      "Weapons - Maces",
-      "Act4"
-    ],
-    "requires": "|Progressive Mace:5|",
-    "place_item": [ "Dark Silver Mace" ]
-  },
-  {
-    "name": "Progressive Mace 6 (Sanguine Mace)",
-    "region": "General",
-    "category": [
-      "Weapons - Maces",
-      "Act4"
-    ],
-    "requires": "|Progressive Mace:6|",
-    "place_item": [ "Sanguine Mace" ]
-  },
-  {
-    "name": "Progressive Mace 7 (Epic Ancestral Mace)",
-    "region": "General",
-    "category": [
-      "Weapons - Maces",
-      "Act4"
-    ],
-    "requires": "|Progressive Mace:7|",
-    "place_item": [ "Epic Ancestral Mace" ]
-  },
-  {
-    "name": "Progressive Mace 8 (Hand of Winter)",
-    "region": "General",
-    "category": [
-      "Weapons - Maces",
-      "Act4"
-    ],
-    "requires": "|Progressive Mace:8|",
-    "place_item": [ "Hand of Winter" ]
-  },
-  {
-    "name": "Progressive Spear 1 (Bone Spear)",
-    "region": "General",
-    "category": [
-      "Weapons - Spears"
-    ],
-    "requires": "|Progressive Spear|",
-    "place_item": [ "Bone Spear" ]
-  },
-  {
-    "name": "Progressive Spear 1 (Reinforced Bone Spear)",
-    "region": "General",
-    "category": [
-      "Weapons - Spears"
-    ],
-    "requires": "|Progressive Spear|",
-    "place_item": [ "Reinforced Bone Spear" ]
-  },
-  {
-    "name": "Progressive Spear 2 (Copper Spear)",
-    "region": "General",
-    "category": [
-      "Weapons - Spears"
-    ],
-    "requires": "|Progressive Spear:2|",
-    "place_item": [ "Copper Spear" ]
-  },
-  {
-    "name": "Progressive Spear 2 (Merciless Copper Spear)",
-    "region": "General",
-    "category": [
-      "Weapons - Spears"
-    ],
-    "requires": "|Progressive Spear:2|",
-    "place_item": [ "Merciless Copper Spear" ]
-  },
-  {
-    "name": "Progressive Spear 3 (Iron Spear)",
-    "region": "General",
-    "category": [
-      "Weapons - Spears",
+      "Spellbook - Storm Magic",
       "Act2"
     ],
-    "requires": "|Progressive Spear:3|",
-    "place_item": [ "Iron Spear" ]
+    "requires": ""
   },
   {
-    "name": "Progressive Spear 3 (Merciless Iron Spear)",
-    "region": "General",
+    "name": "Raging Tempest",
     "category": [
-      "Weapons - Spears",
-      "Act2"
-    ],
-    "requires": "|Progressive Spear:3|",
-    "place_item": [ "Merciless Iron Spear" ]
-  },
-  {
-    "name": "Progressive Spear 4 (Rare Ancestral Spear)",
-    "region": "General",
-    "category": [
-      "Weapons - Spears",
+      "Spellbook - Storm Magic",
       "Act3"
     ],
-    "requires": "|Progressive Spear:4|",
-    "place_item": [ "Rare Ancestral Spear" ]
+    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)|"
   },
   {
-    "name": "Progressive Spear 5 (Dark Silver Spear)",
-    "region": "General",
+    "name": "Lightning Typhoon",
     "category": [
-      "Weapons - Spears",
-      "Act4"
-    ],
-    "requires": "|Progressive Spear:5|",
-    "place_item": [ "Dark Silver Spear" ]
-  },
-  {
-    "name": "Progressive Spear 6 (Sanguine Spear)",
-    "region": "General",
-    "category": [
-      "Weapons - Spears",
-      "Act4"
-    ],
-    "requires": "|Progressive Spear:6|",
-    "place_item": [ "Sanguine Spear" ]
-  },
-  {
-    "name": "Progressive Spear 7 (Epic Ancestral Spear)",
-    "region": "General",
-    "category": [
-      "Weapons - Spears",
-      "Act4"
-    ],
-    "requires": "|Progressive Spear:7|",
-    "place_item": [ "Epic Ancestral Spear" ]
-  },
-  {
-    "name": "Progressive Spear 8 (The Thousand Storms)",
-    "region": "General",
-    "category": [
-      "Weapons - Spears",
-      "Act4"
-    ],
-    "requires": "|Progressive Mace:8|",
-    "place_item": [ "The Thousand Storms" ]
-  },
-  {
-    "name": "Progressive Reaper 1 (Iron Reaper)",
-    "region": "General",
-    "category": [
-      "Weapons - Reapers",
-      "Act2"
-    ],
-    "requires": "|Progressive Reaper|",
-    "place_item": [ "Iron Reaper" ]
-  },
-  {
-    "name": "Progressive Reaper 1 (Merciless Iron Reaper)",
-    "region": "General",
-    "category": [
-      "Weapons - Reapers",
-      "Act2"
-    ],
-    "requires": "|Progressive Reaper|",
-    "place_item": [ "Merciless Iron Reaper" ]
-  },
-  {
-    "name": "Progressive Reaper 2 (Rare Ancestral Reaper)",
-    "region": "General",
-    "category": [
-      "Weapons - Reapers",
+      "Spellbook - Storm Magic",
       "Act3"
     ],
-    "requires": "|Progressive Reaper:2|",
-    "place_item": [ "Rare Ancestral Reaper" ]
+    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)|"
   },
-  {
-    "name": "Progressive Reaper 3 (Dark Silver Reaper)",
-    "region": "General",
-    "category": [
-      "Weapons - Reapers",
-      "Act4"
-    ],
-    "requires": "|Progressive Reaper:3|",
-    "place_item": [ "Dark Silver Reaper" ]
-  },
-  {
-    "name": "Progressive Reaper 4 (Sanguine Reaper)",
-    "region": "General",
-    "category": [
-      "Weapons - Reapers",
-      "Act4"
-    ],
-    "requires": "|Progressive Reaper:4|",
-    "place_item": [ "Sanguine Reaper" ]
-  },
-  {
-    "name": "Progressive Reaper 5 (Epic Ancestral Reaper)",
-    "region": "General",
-    "category": [
-      "Weapons - Reapers",
-      "Act4"
-    ],
-    "requires": "|Progressive Reaper:5|",
-    "place_item": [ "Epic Ancestral Reaper" ]
-  },
-  {
-    "name": "Progressive Reaper 6 (Mortira's Lament)",
-    "region": "General",
-    "category": [
-      "Weapons - Reapers",
-      "Act4"
-    ],
-    "requires": "|Progressive Reaper:6|",
-    "place_item": [ "Mortira's Lament" ]
-  },
-  {
-    "name": "Progressive Greatsword 1 (Iron Greatsword)",
-    "region": "General",
-    "category": [
-      "Weapons - Greatswords",
-      "Act2"
-    ],
-    "requires": "|Progressive Greatsword|",
-    "place_item": [ "Iron Greatsword" ]
-  },
-  {
-    "name": "Progressive Greatsword 1 (Merciless Iron Greatsword)",
-    "region": "General",
-    "category": [
-      "Weapons - Greatswords",
-      "Act2"
-    ],
-    "requires": "|Progressive Greatsword|",
-    "place_item": [ "Merciless Iron Greatsword" ]
-  },
-  {
-    "name": "Progressive Greatsword 2 (Rare Ancestral Greatsword)",
-    "region": "General",
-    "category": [
-      "Weapons - Greatswords",
-      "Act3"
-    ],
-    "requires": "|Progressive Greatsword:2|",
-    "place_item": [ "Rare Ancestral Greatsword" ]
-  },
-  {
-    "name": "Progressive Greatsword 3 (Dark Silver Greatsword)",
-    "region": "General",
-    "category": [
-      "Weapons - Greatswords",
-      "Act4"
-    ],
-    "requires": "|Progressive Greatsword:3|",
-    "place_item": [ "Dark Silver Greatsword" ]
-  },
-  {
-    "name": "Progressive Greatsword 4 (Sanguine Greatsword)",
-    "region": "General",
-    "category": [
-      "Weapons - Greatswords",
-      "Act4"
-    ],
-    "requires": "|Progressive Greatsword:4|",
-    "place_item": [ "Sanguine Greatsword" ]
-  },
-  {
-    "name": "Progressive Greatsword 5 (Epic Ancestral Greatsword)",
-    "region": "General",
-    "category": [
-      "Weapons - Greatswords",
-      "Act4"
-    ],
-    "requires": "|Progressive Greatsword:5|",
-    "place_item": [ "Epic Ancestral Greatsword" ]
-  },
-  {
-    "name": "Progressive Greatsword 6 (Apocalypse)",
-    "region": "General",
-    "category": [
-      "Weapons - Greatswords",
-      "Act4"
-    ],
-    "requires": "|Progressive Greatsword:6|",
-    "place_item": [ "Apocalypse" ]
-  },
-  {
-    "name": "Progressive Whip 1 (Iron Whip)",
-    "region": "General",
-    "category": [
-      "Weapons - Whips",
-      "Act3"
-    ],
-    "requires": "|Progressive Whip|",
-    "place_item": [ "Iron Whip" ]
-  },
-  {
-    "name": "Progressive Whip 1 (Merciless Iron Whip)",
-    "region": "General",
-    "category": [
-      "Weapons - Whips",
-      "Act3"
-    ],
-    "requires": "|Progressive Whip|",
-    "place_item": [ "Merciless Iron Whip" ]
-  },
-  {
-    "name": "Progressive Whip 2 (Rare Ancestral Whip)",
-    "region": "General",
-    "category": [
-      "Weapons - Whips",
-      "Act3"
-    ],
-    "requires": "|Progressive Whip:2|",
-    "place_item": [ "Rare Ancestral Whip" ]
-  },
-  {
-    "name": "Progressive Whip 3 (Dark Silver Whip)",
-    "region": "General",
-    "category": [
-      "Weapons - Whips",
-      "Act4"
-    ],
-    "requires": "|Progressive Whip:3|",
-    "place_item": [ "Dark Silver Whip" ]
-  },
-  {
-    "name": "Progressive Whip 4 (Sanguine Whip)",
-    "region": "General",
-    "category": [
-      "Weapons - Whips",
-      "Act4"
-    ],
-    "requires": "|Progressive Whip:4|",
-    "place_item": [ "Sanguine Whip" ]
-  },
-  {
-    "name": "Progressive Whip 5 (Epic Ancestral Whip)",
-    "region": "General",
-    "category": [
-      "Weapons - Whips",
-      "Act4"
-    ],
-    "requires": "|Progressive Whip:5|",
-    "place_item": [ "Epic Ancestral Whip" ]
-  },
-  {
-    "name": "Progressive Whip 6 (The Morning Star)",
-    "region": "General",
-    "category": [
-      "Weapons - Whips",
-      "Act4"
-    ],
-    "requires": "|Progressive Whip:6|",
-    "place_item": [ "The Morning Star" ]
-  },
-  {
-    "name": "Progressive Slashers 1 (Iron Slashers)",
-    "region": "General",
-    "category": [
-      "Weapons - Slashers",
-      "Act4"
-    ],
-    "requires": "|Progressive Slashers|",
-    "place_item": [ "Iron Slashers" ]
-  },
-  {
-    "name": "Progressive Slashers 1 (Merciless Iron Slashers)",
-    "region": "General",
-    "category": [
-      "Weapons - Slashers",
-      "Act4"
-    ],
-    "requires": "|Progressive Slashers|",
-    "place_item": [ "Merciless Iron Slashers" ]
-  },
-  {
-    "name": "Progressive Slashers 2 (Rare Ancestral Slashers)",
-    "region": "General",
-    "category": [
-      "Weapons - Slashers",
-      "Act4"
-    ],
-    "requires": "|Progressive Slashers:2|",
-    "place_item": [ "Rare Ancestral Slashers" ]
-  },
-  {
-    "name": "Progressive Slashers 3 (Dark Silver Whip)",
-    "region": "General",
-    "category": [
-      "Weapons - Slashers",
-      "Act4"
-    ],
-    "requires": "|Progressive Slashers:3|",
-    "place_item": [ "Dark Silver Slashers" ]
-  },
-  {
-    "name": "Progressive Slashers 4 (Sanguine Slashers)",
-    "region": "General",
-    "category": [
-      "Weapons - Slashers",
-      "Act4"
-    ],
-    "requires": "|Progressive Slashers:4|",
-    "place_item": [ "Sanguine Slashers" ]
-  },
-  {
-    "name": "Progressive Slashers 5 (Epic Ancestral Slashers)",
-    "region": "General",
-    "category": [
-      "Weapons - Slashers",
-      "Act4"
-    ],
-    "requires": "|Progressive Slashers:5|",
-    "place_item": [ "Epic Ancestral Slashers" ]
-  },
-  {
-    "name": "Progressive Slashers 6 (Cloud Dancers)",
-    "region": "General",
-    "category": [
-      "Weapons - Slashers",
-      "Act4"
-    ],
-    "requires": "|Progressive Slashers:6|",
-    "place_item": [ "Cloud Dancers" ]
-  },
-  {
-    "name": "Progressive Slashers 6 (Wings of the Fallen)",
-    "region": "General",
-    "category": [
-      "Weapons - Slashers",
-      "Act4"
-    ],
-    "requires": "|Progressive Slashers:6|",
-    "place_item": [ "Wings of the Fallen" ]
-  },
-  {
-    "name": "Progressive Claws 1 (Iron Claws)",
-    "region": "General",
-    "category": [
-      "Weapons - Claws",
-      "Act2"
-    ],
-    "requires": "|Progressive Claws|",
-    "place_item": [ "Iron Claws" ]
-  },
-  {
-    "name": "Progressive Claws 1 (Merciless Iron Claws)",
-    "region": "General",
-    "category": [
-      "Weapons - Claws",
-      "Act2"
-    ],
-    "requires": "|Progressive Claws|",
-    "place_item": [ "Merciless Iron Claws" ]
-  },
-  {
-    "name": "Progressive Claws 2 (Rare Ancestral Claws)",
-    "region": "General",
-    "category": [
-      "Weapons - Claws",
-      "Act3"
-    ],
-    "requires": "|Progressive Claws:2|",
-    "place_item": [ "Rare Ancestral Claws" ]
-  },
-  {
-    "name": "Progressive Claws 3 (Dark Silver Claws)",
-    "region": "General",
-    "category": [
-      "Weapons - Claws",
-      "Act4"
-    ],
-    "requires": "|Progressive Claws:3|",
-    "place_item": [ "Dark Silver Claws" ]
-  },
-  {
-    "name": "Progressive Claws 4 (Sanguine Claws)",
-    "region": "General",
-    "category": [
-      "Weapons - Claws",
-      "Act4"
-    ],
-    "requires": "|Progressive Claws:4|",
-    "place_item": [ "Sanguine Claws" ]
-  },
-  {
-    "name": "Progressive Claws 5 (Epic Ancestral Claws)",
-    "region": "General",
-    "category": [
-      "Weapons - Claws",
-      "Act4"
-    ],
-    "requires": "|Progressive Claws:5|",
-    "place_item": [ "Epic Ancestral Claws" ]
-  },
-  {
-    "name": "Progressive Claws 6 (Talons of the Lich Beast)",
-    "region": "General",
-    "category": [
-      "Weapons - Claws",
-      "Act4"
-    ],
-    "requires": "|Progressive Claws:6|",
-    "place_item": [ "Talons of the Lich Beast" ]
-  },
-  {
-    "name": "Progressive Twinblade 1 (Iron Twinblade)",
-    "region": "General",
-    "category": [
-      "Weapons - Twinblades",
-      "Act2"
-    ],
-    "requires": "|Progressive Twinblade|",
-    "place_item": [ "Iron Twinblade" ]
-  },
-  {
-    "name": "Progressive Twinblade 1 (Merciless Iron Twinblade)",
-    "region": "General",
-    "category": [
-      "Weapons - Twinblades",
-      "Act2"
-    ],
-    "requires": "|Progressive Twinblade|",
-    "place_item": [ "Merciless Iron Twinblade" ]
-  },
-  {
-    "name": "Progressive Twinblade 2 (Rare Ancestral Twinblade)",
-    "region": "General",
-    "category": [
-      "Weapons - Twinblades",
-      "Act3"
-    ],
-    "requires": "|Progressive Twinblade:2|",
-    "place_item": [ "Rare Ancestral Twinblade" ]
-  },
-  {
-    "name": "Progressive Twinblade 3 (Dark Silver Twinblade)",
-    "region": "General",
-    "category": [
-      "Weapons - Twinblades",
-      "Act4"
-    ],
-    "requires": "|Progressive Twinblade:3|",
-    "place_item": [ "Dark Silver Twinblade" ]
-  },
-  {
-    "name": "Progressive Twinblade 4 (Sanguine Twinblade)",
-    "region": "General",
-    "category": [
-      "Weapons - Twinblades",
-      "Act4"
-    ],
-    "requires": "|Progressive Twinblade:4|",
-    "place_item": [ "Sanguine Twinblade" ]
-  },
-  {
-    "name": "Progressive Twinblade 5 (Epic Ancestral Twinblade)",
-    "region": "General",
-    "category": [
-      "Weapons - Twinblades",
-      "Act4"
-    ],
-    "requires": "|Progressive Twinblade:5|",
-    "place_item": [ "Epic Ancestral Twinblade" ]
-  },
-  {
-    "name": "Progressive Twinblade 6 (The Fate Dancers)",
-    "region": "General",
-    "category": [
-      "Weapons - Twinblades",
-      "Act4"
-    ],
-    "requires": "|Progressive Twinblade:6|",
-    "place_item": [ "The Fate Dancers" ]
-  },
-  {
-    "name": "Progressive Crossbow 1 (Bone Crossbow)",
-    "region": "General",
-    "category": [
-      "Weapons - Crossbows"
-    ],
-    "requires": "|Progressive Crossbow|",
-    "place_item": [ "Bone Crossbow" ]
-  },
-  {
-    "name": "Progressive Crossbow 1 (Reinforced Bone Crossbow)",
-    "region": "General",
-    "category": [
-      "Weapons - Crossbows"
-    ],
-    "requires": "|Progressive Crossbow|",
-    "place_item": [ "Reinforced Bone Crossbow" ]
-  },
-  {
-    "name": "Progressive Crossbow 2 (Copper Crossbow)",
-    "region": "General",
-    "category": [
-      "Weapons - Crossbows"
-    ],
-    "requires": "|Progressive Crossbow:2|",
-    "place_item": [ "Copper Crossbow" ]
-  },
-  {
-    "name": "Progressive Crossbow 2 (Merciless Copper Crossbow)",
-    "region": "General",
-    "category": [
-      "Weapons - Crossbows"
-    ],
-    "requires": "|Progressive Crossbow:2|",
-    "place_item": [ "Merciless Copper Crossbow" ]
-  },
-  {
-    "name": "Progressive Crossbow 3 (Iron Crossbow)",
-    "region": "General",
-    "category": [
-      "Weapons - Crossbows",
-      "Act2"
-    ],
-    "requires": "|Progressive Crossbow:3|",
-    "place_item": [ "Iron Crossbow" ]
-  },
-  {
-    "name": "Progressive Crossbow 3 (Merciless Iron Crossbow)",
-    "region": "General",
-    "category": [
-      "Weapons - Crossbows",
-      "Act2"
-    ],
-    "requires": "|Progressive Crossbow:3|",
-    "place_item": [ "Merciless Iron Crossbow" ]
-  },
-  {
-    "name": "Progressive Crossbow 4 (Rare Ancestral Crossbow)",
-    "region": "General",
-    "category": [
-      "Weapons - Crossbows",
-      "Act3"
-    ],
-    "requires": "|Progressive Crossbow:4|",
-    "place_item": [ "Rare Ancestral Crossbow" ]
-  },
-  {
-    "name": "Progressive Crossbow 5 (Dark Silver Crossbow)",
-    "region": "General",
-    "category": [
-      "Weapons - Crossbows",
-      "Act4"
-    ],
-    "requires": "|Progressive Crossbow:5|",
-    "place_item": [ "Dark Silver Crossbow" ]
-  },
-  {
-    "name": "Progressive Crossbow 6 (Sanguine Crossbow)",
-    "region": "General",
-    "category": [
-      "Weapons - Crossbows",
-      "Act4"
-    ],
-    "requires": "|Progressive Crossbow:6|",
-    "place_item": [ "Sanguine Crossbow" ]
-  },
-  {
-    "name": "Progressive Crossbow 7 (Epic Ancestral Crossbow)",
-    "region": "General",
-    "category": [
-      "Weapons - Crossbows",
-      "Act4"
-    ],
-    "requires": "|Progressive Crossbow:7|",
-    "place_item": [ "Epic Ancestral Crossbow" ]
-  },
-  {
-    "name": "Progressive Crossbow 8 (The Siren's Wail)",
-    "region": "General",
-    "category": [
-      "Weapons - Crossbows",
-      "Act4"
-    ],
-    "requires": "|Progressive Crossbow:8|",
-    "place_item": [ "The Siren's Wail" ]
-  },
-  {
-    "name": "Progressive Longbow 1 (Copper Longbow)",
-    "region": "General",
-    "category": [
-      "Weapons - Longbows"
-    ],
-    "requires": "|Progressive Longbow|",
-    "place_item": [ "Copper Longbow" ]
-  },
-  {
-    "name": "Progressive Longbow 1 (Merciless Copper Longbow)",
-    "region": "General",
-    "category": [
-      "Weapons - Longbows"
-    ],
-    "requires": "|Progressive Longbow|",
-    "place_item": [ "Merciless Copper Longbow" ]
-  },
-  {
-    "name": "Progressive Longbow 2 (Iron Longbow)",
-    "region": "General",
-    "category": [
-      "Weapons - Longbows",
-      "Act2"
-    ],
-    "requires": "|Progressive Crossbow:2|",
-    "place_item": [ "Iron Longbow" ]
-  },
-  {
-    "name": "Progressive Longbow 2 (Merciless Iron Longbow)",
-    "region": "General",
-    "category": [
-      "Weapons - Longbows",
-      "Act2"
-    ],
-    "requires": "|Progressive Longbow:2|",
-    "place_item": [ "Merciless Iron Longbow" ]
-  },
-  {
-    "name": "Progressive Longbow 3 (Rare Ancestral Longbow)",
-    "region": "General",
-    "category": [
-      "Weapons - Longbows",
-      "Act3"
-    ],
-    "requires": "|Progressive Longbow:3|",
-    "place_item": [ "Rare Ancestral Longbow" ]
-  },
-  {
-    "name": "Progressive Longbow 4 (Dark Silver Longbow)",
-    "region": "General",
-    "category": [
-      "Weapons - Longbows",
-      "Act4"
-    ],
-    "requires": "|Progressive Longbow:4|",
-    "place_item": [ "Dark Silver Longbow" ]
-  },
-  {
-    "name": "Progressive Longbow 5 (Sanguine Longbow)",
-    "region": "General",
-    "category": [
-      "Weapons - Longbows",
-      "Act4"
-    ],
-    "requires": "|Progressive Longbow:5|",
-    "place_item": [ "Sanguine Longbow" ]
-  },
-  {
-    "name": "Progressive Crossbow 6 (Epic Ancestral Longbow)",
-    "region": "General",
-    "category": [
-      "Weapons - Longbows",
-      "Act4"
-    ],
-    "requires": "|Progressive Longbow:6|",
-    "place_item": [ "Epic Ancestral Longbow" ]
-  },
-  {
-    "name": "Progressive Crossbow 7 (Oaksong)",
-    "region": "General",
-    "category": [
-      "Weapons - Longbow",
-      "Act4"
-    ],
-    "requires": "|Progressive Longbow:7|",
-    "place_item": [ "Oaksong" ]
-  },
-  {
-    "name": "Progressive Daggers 1 (Iron Daggers)",
-    "region": "General",
-    "category": [
-      "Weapons - Daggers",
-      "Act2"
-    ],
-    "requires": "|Progressive Daggers|",
-    "place_item": [ "Iron Daggers" ]
-  },
-  {
-    "name": "Progressive Daggers 1 (Merciless Iron Daggers)",
-    "region": "General",
-    "category": [
-      "Weapons - Daggers",
-      "Act2"
-    ],
-    "requires": "|Progressive Daggers|",
-    "place_item": [ "Merciless Iron Daggers" ]
-  },
-  {
-    "name": "Progressive Daggers 2 (Rare Ancestral Daggers)",
-    "region": "General",
-    "category": [
-      "Weapons - Daggers",
-      "Act3"
-    ],
-    "requires": "|Progressive Daggers:2|",
-    "place_item": [ "Rare Ancestral Daggers" ]
-  },
-  {
-    "name": "Progressive Daggers 3 (Dark Silver Daggers)",
-    "region": "General",
-    "category": [
-      "Weapons - Daggers",
-      "Act4"
-    ],
-    "requires": "|Progressive Daggers:3|",
-    "place_item": [ "Dark Silver Daggers" ]
-  },
-  {
-    "name": "Progressive Daggers 4 (Sanguine Daggers)",
-    "region": "General",
-    "category": [
-      "Weapons - Daggers",
-      "Act4"
-    ],
-    "requires": "|Progressive Daggers:4|",
-    "place_item": [ "Sanguine Daggers" ]
-  },
-  {
-    "name": "Progressive Daggers 5 (Epic Ancestral Daggers)",
-    "region": "General",
-    "category": [
-      "Weapons - Daggers",
-      "Act4"
-    ],
-    "requires": "|Progressive Daggers:5|",
-    "place_item": [ "Epic Ancestral Daggers" ]
-  },
-  {
-    "name": "Progressive Daggers 6 (The Wraithblades)",
-    "region": "General",
-    "category": [
-      "Weapons - Daggers",
-      "Act4"
-    ],
-    "requires": "|Progressive Daggers:6|",
-    "place_item": [ "The Wraithblades" ]
-  },
-  {
-    "name": "Progressive Pistols 1 (Iron Pistols)",
-    "region": "General",
-    "category": [
-      "Weapons - Pistols",
-      "Act2"
-    ],
-    "requires": "|Progressive Pistols|",
-    "place_item": [ "Iron Pistols" ]
-  },
-  {
-    "name": "Progressive Pistols 1 (Merciless Iron Pistols)",
-    "region": "General",
-    "category": [
-      "Weapons - Pistols",
-      "Act2"
-    ],
-    "requires": "|Progressive Pistols|",
-    "place_item": [ "Merciless Iron Pistols" ]
-  },
-  {
-    "name": "Progressive Pistols 2 (Rare Ancestral Pistols)",
-    "region": "General",
-    "category": [
-      "Weapons - Pistols",
-      "Act3"
-    ],
-    "requires": "|Progressive Pistols:2|",
-    "place_item": [ "Rare Ancestral Pistols" ]
-  },
-  {
-    "name": "Progressive Pistols 3 (Dark Silver Pistols)",
-    "region": "General",
-    "category": [
-      "Weapons - Pistols",
-      "Act4"
-    ],
-    "requires": "|Progressive Pistols:3|",
-    "place_item": [ "Dark Silver Pistols" ]
-  },
-  {
-    "name": "Progressive Pistols 4 (Sanguine Pistols)",
-    "region": "General",
-    "category": [
-      "Weapons - Pistols",
-      "Act4"
-    ],
-    "requires": "|Progressive Pistols:4|",
-    "place_item": [ "Sanguine Pistols" ]
-  },
-  {
-    "name": "Progressive Pistols 5 (Epic Ancestral Pistols)",
-    "region": "General",
-    "category": [
-      "Weapons - Pistols",
-      "Act4"
-    ],
-    "requires": "|Progressive Pistols:5|",
-    "place_item": [ "Epic Ancestral Pistols" ]
-  },
-  {
-    "name": "Progressive Pistols 6 (The Endbringers)",
-    "region": "General",
-    "category": [
-      "Weapons - Pistols",
-      "Act4"
-    ],
-    "requires": "|Progressive Pistols:6|",
-    "place_item": [ "The Endbringers" ]
-  },
-  {
-    "name": "Fished up a Fat Goby anywhere",
-    "region": "Farbane Woods",
-    "category": [
-      "Fishing Locations"
-    ],
-    "requires": "|Finn Defeated|"
-  },
-  {
-    "name": "Fished up a Rainbow Trout in Farbane Woods, Dunley Farmlands or Silverlight Hills",
-    "region": "Farbane Woods",
-    "category": [
-      "Fishing Locations"
-    ],
-    "requires": "|Finn Defeated|"
-  },
-  {
-    "name": "Fished up a Fierce Stinger in Farbane Woods, Dunley Farmlands or Hallowed Mountains",
-    "region": "Farbane Woods",
-    "category": [
-      "Fishing Locations"
-    ],
-    "requires": "|Finn Defeated|"
-  },
-  {
-    "name": "Fished up a Twilight Snapper anywhere",
-    "region": "Farbane Woods",
-    "category": [
-      "Fishing Locations"
-    ],
-    "requires": "|Finn Defeated|"
-  },
-  {
-    "name": "Fished up a Sage Fish in Dunley Farmlands or Silverlight Hills",
-    "region": "Dunley Farmlands",
-    "category": [
-      "Fishing Locations",
-      "Act2"
-    ],
-    "requires": "|Finn Defeated|"
-  },
-  {
-    "name": "Fished up a Blood Snapper in the Cursed Forest",
-    "region": "Cursed Forest",
-    "category": [
-      "Fishing Locations",
-      "Act3"
-    ],
-    "requires": "|Finn Defeated|"
-  },
-  {
-    "name": "Fished up a Swamp Dweller in the Cursed Forest",
-    "region": "Cursed Forest",
-    "category": [
-      "Fishing Locations",
-      "Act3"
-    ],
-    "requires": "|Finn Defeated|"
-  },
-  {
-    "name": "Fished up a Golden River Bass in Silverlight Hills",
-    "region": "Silverlight Hills",
-    "category": [
-      "Fishing Locations",
-      "Act4"
-    ],
-    "requires": "|Finn Defeated|"
-  },
-  {
-    "name": "Fished up a Corrupted Fish in Oakveil Woodlands",
-    "region": "Oakveil Woodlands",
-    "category": [
-      "Fishing Locations",
-      "Act4"
-    ],
-    "requires": "|Finn Defeated|"
-  },
-  {
-    "name": "Fished up The Fish in the Cursed Forest or Brighthaven Docks",
-    "region": "Cursed Forest",
-    "category": [
-      "Fishing Locations",
-      "Act3"
-    ],
-    "requires": "|Finn Defeated|"
-  },
-  {
-    "name": "Achievement - A First Taste",
-    "region": "Farbane Woods",
-    "category": [
-      "Steam Achievements"
-    ],
-    "requires": "",
-    "hint_entrance": "Feed from a living creature."
-  },
-  {
-    "name": "Achievement - Lord of the Land",
-    "region": "J2",
-    "category": [
-      "Steam Achievements"
-    ],
-    "requires": "",
-    "hint_entrance": "Place a Castle Heart and claim an unoccupied territory."
-  },
-  {
-    "name": "Achievement - First of Many",
-    "region": "White Wolf",
-    "category": [
-      "Steam Achievements"
-    ],
-    "requires": "",
-    "hint_entrance": "Drink the blood of a V Blood."
-  },
-  {
-    "name": "Achievement - A Creature of Many Forms",
-    "region": "White Wolf",
-    "category": [
-      "Steam Achievements"
-    ],
-    "requires": "",
-    "hint_entrance": "Use your Vampire powers to shapeshift into another form."
-  },
-  {
-    "name": "Achievement - Work Smart, Not Hard",
-    "region": "J5",
-    "category": [
-      "Steam Achievements"
-    ],
-    "requires": "",
-    "hint_entrance": "Interact with a work station that has the room and floor bonus active."
-  },
-  {
-    "name": "Achievement - Vampire Rising",
-    "region": "J5",
-    "category": [
-      "Steam Achievements"
-    ],
-    "requires": "",
-    "hint_entrance": "Place a staircase."
-  },
-  {
-    "name": "Achievement - Ultimate Power",
-    "region": "General",
-    "category": [
-      "Steam Achievements"
-    ],
-    "requires": "|Ultimate Ability|",
-    "hint_entrance": "Cast an ultimate ability."
-  },
-  {
-    "name": "Achievement - Upon a Pale Horse",
-    "region": "Dunley Farmlands",
-    "category": [
-      "Steam Achievements",
-      "Act2"
-    ],
-    "requires": "",
-    "hint_entrance": "Ride a horse."
-  },
-  {
-    "name": "Achievement - Larger Pockets!",
-    "region": "Chaos Archer",
-    "category": [
-      "Steam Achievements"
-    ],
-    "requires": "",
-    "hint_entrance": "Equip a bag."
-  },
-  {
-    "name": "Achievement - Dressed to Impress",
-    "region": "J2",
-    "category": [
-      "Steam Achievements"
-    ],
-    "requires": "",
-    "hint_entrance": "Equip an item in a Cosmetic Slot."
-  },
-  {
-    "name": "Achievement - The Allure of Coin",
-    "region": "White Wolf",
-    "category": [
-      "Steam Achievements"
-    ],
-    "requires": "",
-    "hint_entrance": "Trade with a Shady Merchant in the Farbane Woods."
-  },
-  {
-    "name": "Achievement - Master of Disguise",
-    "region": "Shadowblade",
-    "category": [
-      "Steam Achievements",
-      "Act2"
-    ],
-    "requires": "",
-    "hint_entrance": "Trade with a merchant as a very ordinary human."
-  },
-  {
-    "name": "Achievement - A Vampire with a Hobby",
-    "region": "J2",
-    "category": [
-      "Steam Achievements"
-    ],
-    "requires": "",
-    "hint_entrance": "Plant a seed in a planter."
-  },
-  {
-    "name": "Achievement - Exquisite Blood",
-    "region": "Gloomrot South",
-    "category": [
-      "Steam Achievements",
-      "Act3"
-    ],
-    "requires": "",
-    "hint_entrance": "Drink blood from a 100% blood quality source."
-  },
-  {
-    "name": "Achievement - Gone Fishing",
-    "region": "Fisherman",
-    "category": [
-      "Steam Achievements"
-    ],
-    "requires": "",
-    "hint_entrance": "Catch a fish using a fishing rod."
-  },
-  {
-    "name": "Achievement - Your Number One Fan",
-    "region": "J5",
-    "category": [
-      "Steam Achievements"
-    ],
-    "requires": "",
-    "hint_entrance": "Fully equip a servant."
-  },
-  {
-    "name": "Achievement - Symphony of the Night",
-    "region": "J6",
-    "category": [
-      "Steam Achievements"
-    ],
-    "requires": "",
-    "hint_entrance": "Interact with a music box."
-  },
-  {
-    "name": "Achievement - Oh No!",
-    "region": "White Wolf",
-    "category": [
-      "Steam Achievements"
-    ],
-    "requires": "",
-    "hint_entrance": "Eat the wrong mushroom."
-  },
-  {
-    "name": "Achievement - It's a Tight Squeeze",
-    "region": "Silverlight Hills",
-    "category": [
-      "Steam Achievements",
-      "Act4"
-    ],
-    "requires": "|Nibbles Defeated|",
-    "hint_entrance": "Use Rat Form and traverse through a small hole."
-  },
-  {
-    "name": "Achievement - A Weapon From a More Civilized Age",
-    "region": "General",
-    "category": [
-      "Steam Achievements",
-      "Act3"
-    ],
-    "requires": "|Ancestral Weapon|",
-    "hint_entrance": "Reforge a shattered weapon at the Ancestral Forge."
-  },
-  {
-    "name": "Achievement - Riftslayer",
-    "region": "Old Wanderer",
-    "category": [
-      "Steam Achievements",
-      "Act3"
-    ],
-    "requires": "|Mortium Rifts|",
-    "hint_entrance": "Participate in closing a rift to the Shadow Realm."
-  },
-  {
-    "name": "Achievement - To the Skies",
-    "region": "Night Champion",
-    "category": [
-      "Steam Achievements",
-      "Act4"
-    ],
-    "requires": "",
-    "hint_entrance": "Find a way to fly."
-  },
-  {
-    "name": "Achievement - A Whole New World",
-    "region": "Farbane Woods",
-    "category": [
-      "Steam Achievements"
-    ],
-    "requires": "",
-    "hint_entrance": "Venture into the Farbane Woods area."
-  },
-  {
-    "name": "Achievement - A Fox in the Hen House",
-    "region": "Dunley Farmlands",
-    "category": [
-      "Steam Achievements",
-      "Act2"
-    ],
-    "requires": "",
-    "hint_entrance": "Venture into the Dunley Farmlands area."
-  },
-  {
-    "name": "Achievement - Footsteps in the Snow",
-    "region": "Hallowed Mountains",
-    "category": [
-      "Steam Achievements",
-      "Act2"
-    ],
-    "requires": "",
-    "hint_entrance": "Venture into the Hallowed Mountains area."
-  },
-  {
-    "name": "Achievement - The Forgotten Reaches",
-    "region": "Ruins of Mortium",
-    "category": [
-      "Steam Achievements",
-      "Act2"
-    ],
-    "requires": "",
-    "hint_entrance": "Venture into the Ruins of Mortium area."
-  },
-  {
-    "name": "Achievement - Don't Drink the Water",
-    "region": "Gloomrot South",
-    "category": [
-      "Steam Achievements",
-      "Act3"
-    ],
-    "requires": "",
-    "hint_entrance": "Venture into the Gloomrot South area."
-  },
-  {
-    "name": "Achievement - March of the Machines",
-    "region": "Gloomrot North",
-    "category": [
-      "Steam Achievements",
-      "Act4"
-    ],
-    "requires": "",
-    "hint_entrance": "Venture into the Gloomrot North area."
-  },
-  {
-    "name": "Achievement - Forbidden Footsteps",
-    "region": "Cursed Forest",
-    "category": [
-      "Steam Achievements",
-      "Act3"
-    ],
-    "requires": "",
-    "hint_entrance": "Venture into the Cursed Forest area."
-  },
-  {
-    "name": "Achievement - Godless Intrusion",
-    "region": "Silverlight Hills",
-    "category": [
-      "Steam Achievements",
-      "Act4"
-    ],
-    "requires": "",
-    "hint_entrance": "Venture into the Silverlight area."
-  },
-  {
-    "name": "Achievement - Every Corner of the World",
-    "region": "Silverlight Hills",
-    "category": [
-      "Steam Achievements",
-      "Act4"
-    ],
-    "requires": "",
-    "hint_entrance": "Venture to all major regions."
-  },
-  {
-    "name": "Achievement - Collector of Forgotten Lore I",
-    "region": "Research Desk",
-    "category": [
-      "Steam Achievements"
-    ],
-    "requires": "|@Knowledge - Research Desk:all|",
-    "hint_entrance": "Interact with a Research Desk that has all technologies unlocked."
-  },
-  {
-    "name": "Achievement - Collector of Forgotten Lore II",
-    "region": "Study",
-    "category": [
-      "Steam Achievements",
-      "Act2"
-    ],
-    "requires": "|@Knowledge - Study:all|",
-    "hint_entrance": "Interact with a Study that has all technologies unlocked."
-  },
-  {
-    "name": "Achievement - Collector of Forgotten Lore III",
-    "region": "Athenaeum",
-    "category": [
-      "Steam Achievements",
-      "Act4"
-    ],
-    "requires": "|@Knowledge - Athenaeum:all|",
-    "hint_entrance": "Interact with an Athenaeum that has all technologies unlocked."
-  },
-  {
-    "name": "Achievement - An Eye for Quality",
-    "region": "J5",
-    "category": [
-      "Steam Achievements",
-      "Act4"
-    ],
-    "requires": "|Cyril Defeated|",
-    "hint_entrance": "Successfully charm a human that has 100% blood quality."
-  },
-  {
-    "name": "Achievement - A Perfect Test Subject",
-    "region": "General",
-    "category": [
-      "Steam Achievements",
-      "Act3"
-    ],
-    "requires": "|Angram Defeated| AND |Clive Defeated|",
-    "hint_entrance": "Feed a prisoner with Irradiant Gruel and have them reach 100% blood quality as a result."
-  },
-  {
-    "name": "Achievement - Completed Act 1",
-    "region": "Bandit King",
-    "category": [
-      "Steam Achievements"
-    ],
-    "requires": "",
-    "hint_entrance": "Defeat Quincey the Bandit King and complete Act I."
-  },
-  {
-    "name": "Achievement - Completed Act 2",
-    "region": "Militia Captain",
-    "category": [
-      "Steam Achievements",
-      "Act2"
-    ],
-    "requires": "",
-    "hint_entrance": "Defeat Octavian the Militia Leader and complete Act II."
-  },
-  {
-    "name": "Achievement - Completed Act 3",
-    "region": "Cursed Smith",
-    "category": [
-      "Steam Achievements",
-      "Act3"
-    ],
-    "requires": "",
-    "hint_entrance": "Defeat Cyril the Cursed Smith and complete Act III."
-  },
-  {
-    "name": "Achievement - Completed Act 4",
-    "region": "The Immaculate",
-    "category": [
-      "Steam Achievements",
-      "Act4"
-    ],
-    "requires": "",
-    "hint_entrance": "Defeat Solarus the Immaculate and complete Act IV."
-  },
-  {
-    "name": "Achievement - Slayer of the Immortal King",
-    "region": "Immortal King",
-    "category": [
-      "Steam Achievements",
-      "Act4"
-    ],
-    "requires": "",
-    "hint_entrance": "Defeat Dracula, the Immortal King."
-  },
+
   {
     "name": "Goal Achieved",
     "region": "Goal",
@@ -6705,6 +3287,6 @@
     "category": [
       "Goal"
     ],
-    "requires": "(|Journal Finished| AND {YamlEnabled(Dracula_Goal)}) OR (|Quincey Defeated| AND {YamlEnabled(Act1_Goal)}) OR (|Octavian Defeated| AND {YamlEnabled(Act2_Goal)}) OR (|Cyril Defeated| AND {YamlEnabled(Act3_Goal)}) OR (|@VBlood:64| AND {YamlEnabled(DefeatThemAll_Goal)}) OR ({YamlEnabled(Lost_Souls_Goal)} AND |@Lost Souls:ALL|)"
+    "requires": "|Dracula Defeated|"
   }
 ]

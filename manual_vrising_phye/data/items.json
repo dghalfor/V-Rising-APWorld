@@ -1,564 +1,1782 @@
 [
   {
-    "count": 1,
-    "name": "Alpha the White Wolf",
+    "count": "1",
+    "name": "Alpha the White Wolf (Wolf Form)",
+    "region": "White Wolf",
     "category": [
-      "Act 1 - V Bloods"
-    ],
-    "progression": true,
-    "early": true
-  },
-  {
-    "count": 1,
-    "name": "Keely the Frost Archer",
-    "category": [
-      "Act 1 - V Bloods"
+      "Act 1 Bosses",
+      "Act1Bosse"
     ],
     "progression": true
   },
   {
-    "count": 1,
-    "name": "Errol the Stonebreaker",
+    "count": "1",
+    "name": "Keely the Frost Archer (Tannery)",
+    "region": "Frost Archer",
     "category": [
-      "Act 1 - V Bloods"
+      "Act 1 Bosses"
     ],
     "progression": true
   },
   {
-    "count": 1,
-    "name": "Rufus the Foreman",
+    "count": "1",
+    "name": "Keely the Frost Archer (Leather)",
+    "region": "Frost Archer",
     "category": [
-      "Act 1 - V Bloods"
+      "Act 1 Bosses"
     ],
     "progression": true
   },
   {
-    "count": 1,
-    "name": "Grayson the Armourer",
+    "count": "1",
+    "name": "Keely the Frost Archer (Empty Waterskin)",
+    "region": "Frost Archer",
     "category": [
-      "Act 1 - V Bloods"
+      "Act 1 Bosses"
     ],
     "progression": true
   },
   {
-    "count": 1,
-    "name": "Goreswine the Ravager",
+    "count": "1",
+    "name": "Keely the Frost Archer (Lost Soul)",
+    "region": "Frost Archer",
     "category": [
-      "Act 1 - V Bloods"
+      "Act 1 Bosses",
+      "Act1Bosse",
+      "LostSouls"
     ],
     "progression": true
   },
   {
-    "count": 1,
-    "name": "Lidia the Chaos Archer",
+    "count": "1",
+    "name": "Errol the Stonebreaker (Material and Gem Storage)",
+    "region": "Stonebreaker",
     "category": [
-      "Act 1 - V Bloods"
+      "Act 1 Bosses"
     ],
     "progression": true
   },
   {
-    "count": 1,
-    "name": "Clive the Firestarter",
+    "count": "1",
+    "name": "Errol the Stonebreaker (Copper Torch & Brazier)",
+    "region": "Stonebreaker",
     "category": [
-      "Act 1 - V Bloods"
+      "Act 1 Bosses"
     ],
     "progression": true
   },
   {
-    "count": 1,
-    "name": "Nibbles the Putrid Rat",
+    "count": "1",
+    "name": "Errol the Stonebreaker (Lost Soul)",
+    "region": "Stonebreaker",
     "category": [
-      "Act 1 - V Bloods"
+      "Act 1 Bosses",
+      "Act1Bosse",
+      "LostSouls"
     ],
     "progression": true
   },
   {
-    "count": 1,
-    "name": "Finn the Fisherman",
+    "count": "1",
+    "name": "Rufus the Foreman (Woodworking Bench)",
+    "region": "Foreman",
     "category": [
-      "Act 1 - V Bloods"
+      "Act 1 Bosses"
     ],
     "progression": true
   },
   {
-    "count": 1,
-    "name": "Polora the Feywalker",
+    "count": "1",
+    "name": "Rufus the Foreman (Copper Crossbow)",
+    "region": "Foreman",
     "category": [
-      "Act 1 - V Bloods"
+      "Act 1 Bosses"
     ],
     "progression": true
   },
   {
-    "count": 1,
-    "name": "Kodia the Ferocious Bear",
+    "count": "1",
+    "name": "Rufus the Foreman (Lost Soul)",
+    "region": "Foreman",
     "category": [
-      "Act 1 - V Bloods"
+      "Act 1 Bosses",
+      "Act1Bosse",
+      "LostSouls"
     ],
     "progression": true
   },
   {
-    "count": 1,
-    "name": "Nicholaus the Fallen",
+    "count": "1",
+    "name": "Grayson the Armourer (Workshop Flooring)",
+    "region": "Armourer",
     "category": [
-      "Act 1 - V Bloods"
+      "Act 1 Bosses"
     ],
     "progression": true
   },
   {
-    "count": 1,
-    "name": "Quincey the Bandit King",
+    "count": "1",
+    "name": "Grayson the Armourer (Target Dummies)",
+    "region": "Armourer",
     "category": [
-      "Act 1 - V Bloods"
+      "Act 1 Bosses"
     ],
     "progression": true
   },
   {
-    "count": 1,
-    "name": "Beatrice the Tailor",
+    "count": "1",
+    "name": "Grayson the Armourer (Whetstone)",
+    "region": "Armourer",
     "category": [
-      "Act 2 - V Bloods",
-      "Act2"
+      "Act 1 Bosses"
     ],
     "progression": true
   },
   {
-    "count": 1,
-    "name": "Vincent the Frostbringer",
+    "count": "1",
+    "name": "Grayson the Armourer (Lost Soul)",
+    "region": "Armourer",
     "category": [
-      "Act 2 - V Bloods",
-      "Act2"
+      "Act 1 Bosses",
+      "LostSouls"
     ],
     "progression": true
   },
   {
-    "count": 1,
-    "name": "Christina the Sun Priestess",
+    "count": "1",
+    "name": "Goreswine the Ravager (Tomb)",
+    "region": "Ravager",
     "category": [
-      "Act 2 - V Bloods",
-      "Act2"
+      "Act 1 Bosses"
     ],
     "progression": true
   },
   {
-    "count": 1,
-    "name": "Tristan the Vampire Hunter",
+    "count": "1",
+    "name": "Goreswine the Ravager (Graveyard decor)",
+    "region": "Ravager",
     "category": [
-      "Act 2 - V Bloods",
-      "Act2"
+      "Act 1 Bosses"
     ],
     "progression": true
   },
   {
-    "count": 1,
-    "name": "Sir Erwin the Gallant Cavalier",
+    "count": "1",
+    "name": "Goreswine the Ravager (Gravedigger Ring)",
+    "region": "Ravager",
     "category": [
-      "Act 2 - V Bloods",
-      "Act2"
+      "Act 1 Bosses"
     ],
     "progression": true
   },
   {
-    "count": 1,
-    "name": "Kriig the Undead General",
+    "count": "1",
+    "name": "Goreswine the Ravager (Raise Skeleton & Ghouls)",
+    "region": "Ravager",
     "category": [
-      "Act 2 - V Bloods",
-      "Act2"
+      "Act 1 Bosses"
     ],
     "progression": true
   },
   {
-    "count": 1,
-    "name": "Leandra the Shadow Priestess",
+    "count": "1",
+    "name": "Goreswine the Ravager (Lost Souls)",
+    "region": "Ravager",
     "category": [
-      "Act 2 - V Bloods",
-      "Act2"
+      "Act 1 Bosses",
+      "LostSouls"
     ],
     "progression": true
   },
   {
-    "count": 1,
-    "name": "Maja the Dark Savant",
+    "count": "1",
+    "name": "Nibbles the Putrid Rat (Rat Form)",
+    "region": "Putrid Rat",
     "category": [
-      "Act 2 - V Bloods",
-      "Act2"
+      "Act 1 Bosses",
+      "Act1Bosse"
     ],
     "progression": true
   },
   {
-    "count": 1,
-    "name": "Bane the Shadowblade",
+    "count": "1",
+    "name": "Nibbles the Putrid Rat (Lost Soul)",
+    "region": "Putrid Rat",
     "category": [
-      "Act 2 - V Bloods",
-      "Act2"
+      "Act 1 Bosses",
+      "Act1Bosse",
+      "LostSouls"
     ],
     "progression": true
   },
   {
-    "count": 1,
-    "name": "Grethel the Glassblower",
+    "count": "1",
+    "name": "Lidia the Chaos Archer (Leatherworking Station)",
+    "region": "Chaos Archer",
     "category": [
-      "Act 2 - V Bloods",
-      "Act2"
+      "Act 1 Bosses"
     ],
     "progression": true
   },
   {
-    "count": 1,
-    "name": "Meredith the Bright Archer",
+    "count": "1",
+    "name": "Lidia the Chaos Archer (Longbow)",
+    "region": "Chaos Archer",
     "category": [
-      "Act 2 - V Bloods",
-      "Act2"
+      "Act 1 Bosses"
     ],
     "progression": true
   },
   {
-    "count": 1,
-    "name": "Terah the Geomancer",
+    "count": "1",
+    "name": "Lidia the Chaos Archer (Lost Soul)",
+    "region": "Chaos Archer",
     "category": [
-      "Act 2 - V Bloods",
-      "Act2"
+      "Act 1 Bosses",
+      "LostSouls"
     ],
     "progression": true
   },
   {
-    "count": 1,
-    "name": "Frostmaw the Mountain Terror",
+    "count": "1",
+    "name": "Clive the Firestarter (Alchemy Table)",
+    "region": "Firestarter",
     "category": [
-      "Act 2 - V Bloods",
-      "Act2"
+      "Act 1 Bosses"
     ],
     "progression": true
   },
   {
-    "count": 1,
-    "name": "General Elena the Hollow",
+    "count": "1",
+    "name": "Clive the Firestarter (Lost Soul)",
+    "region": "Firestarter",
     "category": [
-      "Act 2 - V Bloods",
-      "Act2"
+      "Act 1 Bosses",
+      "LostSouls"
     ],
     "progression": true
   },
   {
-    "count": 1,
-    "name": "Gaius the Cursed Champion",
+    "count": "1",
+    "name": "Finn the Fisherman (Fishing Pole)",
+    "region": "Fisherman",
     "category": [
-      "Act 2 - V Bloods",
-      "Act2"
+      "Act 1 Bosses"
     ],
     "progression": true
   },
   {
-    "count": 1,
-    "name": "General Cassius the Betrayer",
+    "count": "1",
+    "name": "Finn the Fisherman (Lost Soul)",
+    "region": "Fisherman",
     "category": [
-      "Act 2 - V Bloods",
-      "Act2"
+      "Act 1 Bosses",
+      "LostSouls"
     ],
     "progression": true
   },
   {
-    "count": 1,
-    "name": "Jade the Vampire Hunter",
+    "count": "1",
+    "name": "Polora the Feywalker (Garden Foundations)",
+    "region": "Feywalker",
     "category": [
-      "Act 2 - V Bloods",
-      "Act2"
+      "Act 1 Bosses"
     ],
     "progression": true
   },
   {
-    "count": 1,
-    "name": "Raziel the Shepherd",
+    "count": "1",
+    "name": "Polora the Feywalker (Garden Hedges)",
+    "region": "Feywalker",
     "category": [
-      "Act 2 - V Bloods",
-      "Act2"
+      "Act 1 Bosses"
     ],
     "progression": true
   },
   {
-    "count": 1,
-    "name": "Octavian the Militia Captain",
+    "count": "1",
+    "name": "Polora the Feywalker (Large Growing Plots)",
+    "region": "Feywalker",
     "category": [
-      "Act 2 - V Bloods",
-      "Act2"
+      "Act 1 Bosses"
     ],
     "progression": true
   },
   {
-    "count": 1,
-    "name": "Ziva the Engineer",
+    "count": "1",
+    "name": "Polora the Feywalker (Minor Garlic Resistance Brew)",
+    "region": "Feywalker",
     "category": [
-      "Act 3 - V Bloods",
-      "Act3"
+      "Act 1 Bosses"
     ],
     "progression": true
   },
   {
-    "count": 1,
-    "name": "Domina the Blade Dancer",
+    "count": "1",
+    "name": "Polora the Feywalker (Growing Plot Collection)",
+    "region": "Feywalker",
     "category": [
-      "Act 3 - V Bloods",
-      "Act3"
+      "Act 1 Bosses"
     ],
     "progression": true
   },
   {
-    "count": 1,
-    "name": "Angram the Purifier",
+    "count": "1",
+    "name": "Polora the Feywalker (Lost Soul)",
+    "region": "Feywalker",
     "category": [
-      "Act 3 - V Bloods",
-      "Act3"
+      "Act 1 Bosses",
+      "LostSouls"
     ],
     "progression": true
   },
   {
-    "count": 1,
-    "name": "Ungora the Spider Queen",
+    "count": "1",
+    "name": "Kodia the Ferocious Bear (Bear Form)",
+    "region": "Ferocious Bear",
     "category": [
-      "Act 3 - V Bloods",
-      "Act3"
+      "Act 1 Bosses",
+      "Act1Bosse"
     ],
     "progression": true
   },
   {
-    "count": 1,
-    "name": "Ben the Old Wanderer",
+    "count": "1",
+    "name": "Kodia the Ferocious Bear (Hunting Trophy)",
+    "region": "Ferocious Bear",
     "category": [
-      "Act 3 - V Bloods",
-      "Act3"
+      "Act 1 Bosses"
     ],
     "progression": true
   },
   {
-    "count": 1,
-    "name": "Foulrot the Soultaker",
+    "count": "1",
+    "name": "Kodia the Ferocious Bear (Fur Rugs)",
+    "region": "Ferocious Bear",
     "category": [
-      "Act 3 - V Bloods",
-      "Act3"
+      "Act 1 Bosses"
     ],
     "progression": true
   },
   {
-    "count": 1,
-    "name": "Albert the Duke of Balaton",
+    "count": "1",
+    "name": "Kodia the Ferocious Bear (Lost Soul)",
+    "region": "Ferocious Bear",
     "category": [
-      "Act 3 - V Bloods",
-      "Act3"
+      "Act 1 Bosses",
+      "LostSouls"
     ],
     "progression": true
   },
   {
-    "count": 1,
-    "name": "Willfred the Werewolf Chief",
+    "count": "1",
+    "name": "Nicholaus the Fallen (Paper Press)",
+    "region": "The Fallen",
     "category": [
-      "Act 3 - V Bloods",
-      "Act3"
+      "Act 1 Bosses"
     ],
     "progression": true
   },
   {
-    "count": 1,
-    "name": "Cyril the Cursed Smith",
+    "count": "1",
+    "name": "Nicholaus the Fallen (Assortment of Simple Candle Stands)",
+    "region": "The Fallen",
     "category": [
-      "Act 3 - V Bloods",
-      "Act3"
+      "Act 1 Bosses"
     ],
     "progression": true
   },
   {
-    "count": 1,
-    "name": "Sir Magnus the Overseer",
+    "count": "1",
+    "name": "Nicholaus the Fallen (Frayed Rugs, Banners & Curtains)",
+    "region": "The Fallen",
     "category": [
-      "Act 4 - V Bloods",
-      "Act4"
+      "Act 1 Bosses"
     ],
     "progression": true
   },
   {
-    "count": 1,
-    "name": "Baron du Bouchon the Sommelier",
+    "count": "1",
+    "name": "Nicholaus the Fallen (Treasury Flooring)",
+    "region": "The Fallen",
     "category": [
-      "Act 4 - V Bloods",
-      "Act4"
+      "Act 1 Bosses"
     ],
     "progression": true
   },
   {
-    "count": 1,
-    "name": "Morian the Stormwing Matriarch",
+    "count": "1",
+    "name": "Nicholaus the Fallen (Lost Soul)",
+    "region": "The Fallen",
     "category": [
-      "Act 4 - V Bloods",
-      "Act4"
+      "Act 1 Bosses",
+      "LostSouls"
     ],
     "progression": true
   },
   {
-    "count": 1,
-    "name": "Mairwyn the Elementalist",
+    "count": "1",
+    "name": "Quincey the Bandit King (Smithy)",
+    "region": "Bandit King",
     "category": [
-      "Act 4 - V Bloods",
-      "Act4"
+      "Act 1 Bosses"
     ],
     "progression": true
   },
   {
-    "count": 1,
-    "name": "Henry Blackbrew the Doctor",
+    "count": "1",
+    "name": "Quincey the Bandit King (Ebonite Stairs & Doors)",
+    "region": "Bandit King",
     "category": [
-      "Act 4 - V Bloods",
-      "Act4"
+      "Act 1 Bosses"
     ],
     "progression": true
   },
   {
-    "count": 1,
-    "name": "Jakira the Shadow Huntress",
+    "count": "1",
+    "name": "Quincey the Bandit King (Hollowfang Battlegear)",
+    "region": "Bandit King",
     "category": [
-      "Act 4 - V Bloods",
-      "Act4"
+      "Act 1 Bosses"
     ],
     "progression": true
   },
   {
-    "count": 1,
-    "name": "Stavros the Carver",
+    "count": "1",
+    "name": "Quincey the Bandit King (Lost Soul)",
+    "region": "Bandit King",
     "category": [
-      "Act 4 - V Bloods",
-      "Act4"
+      "Act 1 Bosses",
+      "LostSouls"
     ],
     "progression": true
   },
   {
-    "count": 1,
-    "name": "Lucile the Venom Alchemist",
+    "count": "1",
+    "name": "Beatrice the Tailor (Loom)",
+    "region": "Tailor",
     "category": [
-      "Act 4 - V Bloods",
-      "Act4"
+      "Act 2 Bosses"
     ],
     "progression": true
   },
   {
-    "count": 1,
-    "name": "Matka the Curse Weaver",
+    "count": "1",
+    "name": "Beatrice the Tailor (Assortment of Curtains)",
+    "region": "Tailor",
     "category": [
-      "Act 4 - V Bloods",
-      "Act4"
+      "Act 2 Bosses"
     ],
     "progression": true
   },
   {
-    "count": 1,
-    "name": "Terrorclaw the Ogre",
+    "count": "1",
+    "name": "Beatrice the Tailor (Lost Soul)",
+    "region": "Tailor",
     "category": [
-      "Act 4 - V Bloods",
-      "Act4"
+      "Act 2 Bosses",
+      "LostSouls"
     ],
     "progression": true
   },
   {
-    "count": 1,
-    "name": "Azariel the Sunbringer",
+    "count": "1",
+    "name": "Vincent the Frostbringer (Prison Cell)",
+    "region": "Frostbringer",
     "category": [
-      "Act 4 - V Bloods",
-      "Act4"
+      "Act 2 Bosses"
     ],
     "progression": true
   },
   {
-    "count": 1,
-    "name": "Voltatia the Power Master",
+    "count": "1",
+    "name": "Vincent the Frostbringer (Prison Framework)",
+    "region": "Frostbringer",
     "category": [
-      "Act 4 - V Bloods",
-      "Act4"
+      "Act 2 Bosses"
     ],
     "progression": true
   },
   {
-    "count": 1,
-    "name": "Simon Belmont the Vampire Hunter",
+    "count": "1",
+    "name": "Vincent the Frostbringer (Lost Soul)",
+    "region": "Frostbringer",
     "category": [
-      "Act 4 - V Bloods",
-      "Act4"
+      "Act 2 Bosses",
+      "LostSouls"
     ],
     "progression": true
   },
   {
-    "count": 1,
-    "name": "Dantos the Forgebinder",
+    "count": "1",
+    "name": "Christina the Sun Priestess (Candles)",
+    "region": "Sun Priestess",
     "category": [
-      "Act 4 - V Bloods",
-      "Act4"
+      "Act 2 Bosses"
     ],
     "progression": true
   },
   {
-    "count": 1,
-    "name": "Lord Styx the Night Champion",
+    "count": "1",
+    "name": "Christina the Sun Priestess (Wool Thread)",
+    "region": "Sun Priestess",
     "category": [
-      "Act 4 - V Bloods",
-      "Act4"
+      "Act 2 Bosses"
     ],
     "progression": true
   },
   {
-    "count": 1,
-    "name": "Gorecrusher the Behemoth",
+    "count": "1",
+    "name": "Christina the Sun Priestess (Lost Soul)",
+    "region": "Sun Priestess",
     "category": [
-      "Act 4 - V Bloods",
-      "Act4"
+      "Act 2 Bosses",
+      "LostSouls"
     ],
     "progression": true
   },
   {
-    "count": 1,
-    "name": "General Valencia the Depraved",
+    "count": "1",
+    "name": "Tristan the Vampire Hunter (Blood Hunter)",
+    "region": "Tristan",
     "category": [
-      "Act 4 - V Bloods",
-      "Act4"
+      "Act 2 Bosses"
     ],
     "progression": true
   },
   {
-    "count": 1,
-    "name": "Solarus the Immaculate",
+    "count": "1",
+    "name": "Tristan the Vampire Hunter (Greatsword)",
+    "region": "Tristan",
     "category": [
-      "Act 4 - V Bloods",
-      "Act4"
+      "Act 2 Bosses"
     ],
     "progression": true
   },
   {
-    "count": 1,
-    "name": "Talzur the Winged Horror",
+    "count": "1",
+    "name": "Tristan the Vampire Hunter (Lost Soul)",
+    "region": "Tristan",
     "category": [
-      "Act 4 - V Bloods",
-      "Act4"
+      "Act 2 Bosses",
+      "LostSouls"
     ],
     "progression": true
   },
   {
-    "count": 1,
-    "name": "Adam the Firstborn",
+    "count": "1",
+    "name": "Sir Erwin the Gallant Cavalier (Stables)",
+    "region": "Gallant Cavalier",
     "category": [
-      "Act 4 - V Bloods",
-      "Act4"
+      "Act 2 Bosses"
     ],
     "progression": true
   },
   {
-    "count": 1,
-    "name": "Megara the Serpent Queen",
+    "count": "1",
+    "name": "Sir Erwin the Gallant Cavalier (Lost Soul)",
+    "region": "Gallant Cavalier",
     "category": [
-      "Act 4 - V Bloods",
-      "Act4"
+      "Act 2 Bosses",
+      "LostSouls"
     ],
     "progression": true
   },
   {
-    "count": 1,
-    "name": "Dracula the Immortal King",
+    "count": "1",
+    "name": "Kriig the Undead General (Castle Door Bells)",
+    "region": "Undead General",
     "category": [
-      "Act 5 - V Blood",
-      "Act4"
+      "Act 2 Bosses"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Kriig the Undead General (Reaper)",
+    "region": "Undead General",
+    "category": [
+      "Act 2 Bosses"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Kriig the Undead General (Skeleton Priest)",
+    "region": "Undead General",
+    "category": [
+      "Act 2 Bosses"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Kriig the Undead General (Lost Soul)",
+    "region": "Undead General",
+    "category": [
+      "Act 2 Bosses",
+      "LostSouls"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Leandra the Shadow Priestess (Scourgestone Pendant)",
+    "region": "Shadow Priestess",
+    "category": [
+      "Act 2 Bosses"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Leandra the Shadow Priestess (Lost Soul)",
+    "region": "Shadow Priestess",
+    "category": [
+      "Act 2 Bosses",
+      "LostSouls"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Maja the Dark Savant (Study)",
+    "region": "Dark Savant",
+    "category": [
+      "Act 2 Bosses"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Maja the Dark Savant (Verdant Garden Fencing)",
+    "region": "Dark Savant",
+    "category": [
+      "Act 2 Bosses"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Maja the Dark Savant (Wall Hanging Shelves)",
+    "region": "Dark Savant",
+    "category": [
+      "Act 2 Bosses"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Maja the Dark Savant (Midnight Ball Gown)",
+    "region": "Dark Savant",
+    "category": [
+      "Act 2 Bosses"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Maja the Dark Savant (Lost Soul)",
+    "region": "Dark Savant",
+    "category": [
+      "Act 2 Bosses",
+      "LostSouls"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Bane the Shadowblade (Human Form)",
+    "region": "Shadowblade",
+    "category": [
+      "Act 2 Bosses"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Bane the Shadowblade (Daggers)",
+    "region": "Shadowblade",
+    "category": [
+      "Act 2 Bosses"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Bane the Shadowblade (Lost Soul)",
+    "region": "Shadowblade",
+    "category": [
+      "Act 2 Bosses",
+      "LostSouls"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Grethel the Glassblower (Wall Hanging Mirrors)",
+    "region": "Glassblower",
+    "category": [
+      "Act 2 Bosses"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Grethel the Glassblower (Glass)",
+    "region": "Glassblower",
+    "category": [
+      "Act 2 Bosses"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Grethel the Glassblower (Lost Soul)",
+    "region": "Glassblower",
+    "category": [
+      "Act 2 Bosses",
+      "LostSouls"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Meredith the Bright Archer (Holy Resistance Potion)",
+    "region": "Bright Archer",
+    "category": [
+      "Act 2 Bosses"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Meredith the Bright Archer (Lost Soul)",
+    "region": "Bright Archer",
+    "category": [
+      "Act 2 Bosses",
+      "LostSouls"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Terah the Geomancer (Gem Cutting Table)",
+    "region": "Geomancer",
+    "category": [
+      "Act 2 Bosses"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Terah the Geomancer (Regular Gems)",
+    "region": "Geomancer",
+    "category": [
+      "Act 2 Bosses"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Terah the Geomancer (Obsidian)",
+    "region": "Geomancer",
+    "category": [
+      "Act 2 Bosses"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Terah the Geomancer (Lost Soul)",
+    "region": "Geomancer",
+    "category": [
+      "Act 2 Bosses",
+      "LostSouls"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "General Elena the Hollow (Altar of Stygian Awakening)",
+    "region": "The Hollow",
+    "category": [
+      "Act 2 Bosses"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "General Elena the Hollow (Stately Carpets)",
+    "region": "The Hollow",
+    "category": [
+      "Act 2 Bosses"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "General Elena the Hollow (Lost Soul)",
+    "region": "The Hollow",
+    "category": [
+      "Act 2 Bosses",
+      "LostSouls"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Frostmaw the Mountain Terror (Thick Leather)",
+    "region": "Mountain Terror",
+    "category": [
+      "Act 2 Bosses"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Frostmaw the Mountain Terror (Claws)",
+    "region": "Mountain Terror",
+    "category": [
+      "Act 2 Bosses"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Frostmaw the Mountain Terror (Lost Soul)",
+    "region": "Mountain Terror",
+    "category": [
+      "Act 2 Bosses",
+      "LostSouls"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Gaius the Cursed Champion (Arena Station)",
+    "region": "Cursed Champion",
+    "category": [
+      "Act 2 Bosses"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Gaius the Cursed Champion (Arena Decorations)",
+    "region": "Cursed Champion",
+    "category": [
+      "Act 2 Bosses"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Gaius the Cursed Champion (Twinblades)",
+    "region": "Cursed Champion",
+    "category": [
+      "Act 2 Bosses"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Gaius the Cursed Champion (Lost Soul)",
+    "region": "Cursed Champion",
+    "category": [
+      "Act 2 Bosses",
+      "LostSouls"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "General Cassius the Betrayer (Stygian Summoning Circle)",
+    "region": "The Betrayer",
+    "category": [
+      "Act 2 Bosses"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "General Cassius the Betrayer (Lost Soul)",
+    "region": "The Betrayer",
+    "category": [
+      "Act 2 Bosses",
+      "LostSouls"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Jade the Vampire Hunter (Primal Blood Essence)",
+    "region": "Jade",
+    "category": [
+      "Act 2 Bosses"
+    ],
+    "progression": true
+  },
+
+  {
+    "count": "1",
+    "name": "Jade the Vampire Hunter (Pistols)",
+    "region": "Jade",
+    "category": [
+      "Act 2 Bosses"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Jade the Vampire Hunter (Lost Soul)",
+    "region": "Jade",
+    "category": [
+      "Act 2 Bosses",
+      "LostSouls"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Raziel the Shepherd (Jewelcrafting Table)",
+    "region": "Shepherd",
+    "category": [
+      "Act 2 Bosses"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Raziel the Shepherd (Cordial Stairs & Doors)",
+    "region": "Shepherd",
+    "category": [
+      "Act 2 Bosses"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Raziel the Shepherd (Lost Soul)",
+    "region": "Shepherd",
+    "category": [
+      "Act 2 Bosses",
+      "LostSouls"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Octavian the Militia Captain (Ancestral Forge)",
+    "region": "Militia Captain",
+    "category": [
+      "Act 2 Bosses"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Octavian the Militia Captain (Wide Castle Entrance)",
+    "region": "Militia Captain",
+    "category": [
+      "Act 2 Bosses"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Octavian the Militia Captain (Equipment Storage)",
+    "region": "Militia Captain",
+    "category": [
+      "Act 2 Bosses"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Octavian the Militia Captain (Lost Soul)",
+    "region": "Shepherd",
+    "category": [
+      "Act 2 Bosses",
+      "LostSouls"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Ziva the Engineer (Fabricator)",
+    "region": "Engineer",
+    "category": [
+      "Act 3 Bosses"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Ziva the Engineer (Lost Soul)",
+    "region": "Engineer",
+    "category": [
+      "Act 3 Bosses",
+      "LostSouls"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Domina the Blade Dancer (Advanced Grinder)",
+    "region": "Blade Dancer",
+    "category": [
+      "Act 3 Bosses"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Domina the Blade Dancer (Iron Whip)",
+    "region": "Blade Dancer",
+    "category": [
+      "Act 3 Bosses"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Domina the Blade Dancer (Lost Soul)",
+    "region": "Blade Dancer",
+    "category": [
+      "Act 3 Bosses",
+      "LostSouls"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Angram the Purifier (Dawnthorn Regalia)",
+    "region": "Purifier",
+    "category": [
+      "Act 3 Bosses"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Angram the Purifier (Mutated Rat)",
+    "region": "Purifier",
+    "category": [
+      "Act 3 Bosses"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Angram the Purifier (Irradiant Gruel)",
+    "region": "Purifier",
+    "category": [
+      "Act 3 Bosses"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Angram the Purifier (Lost Soul)",
+    "region": "Purifier",
+    "category": [
+      "Act 3 Bosses",
+      "LostSouls"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Ungora the Spider Queen (Silk)",
+    "region": "Spider Queen",
+    "category": [
+      "Act 3 Bosses"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Ungora the Spider Queen (Lost Soul)",
+    "region": "Spider Queen",
+    "category": [
+      "Act 3 Bosses",
+      "LostSouls"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Ben the Old Wanderer (Pristine Leather)",
+    "region": "Old Wanderer",
+    "category": [
+      "Act 3 Bosses"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Ben the Old Wanderer (Lost Soul)",
+    "region": "Old Wanderer",
+    "category": [
+      "Act 3 Bosses",
+      "LostSouls"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Foulrot the Soultaker (Spectral Dust)",
+    "region": "Soultaker",
+    "category": [
+      "Act 3 Bosses"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Foulrot the Soultaker (Lost Soul)",
+    "region": "Soultaker",
+    "category": [
+      "Act 3 Bosses",
+      "LostSouls"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Albert the Duke of Balaton (Toad Form)",
+    "region": "Duke of Balaton",
+    "category": [
+      "Act 3 Bosses"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Albert the Duke of Balaton (Coining)",
+    "region": "Duke of Balaton",
+    "category": [
+      "Act 3 Bosses"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Albert the Duke of Balaton (Lost Soul)",
+    "region": "Duke of Balaton",
+    "category": [
+      "Act 3 Bosses",
+      "LostSouls"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Willfred the Werewolf Chief (Longcase Clocks)",
+    "region": "Werewolf Chief",
+    "category": [
+      "Act 3 Bosses"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Willfred the Werewolf Chief (Pristine Leather Bag)",
+    "region": "Werewolf Chief",
+    "category": [
+      "Act 3 Bosses"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Willfred the Werewolf Chief (Lost Soul)",
+    "region": "Werewolf Chief",
+    "category": [
+      "Act 3 Bosses",
+      "LostSouls"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Cyril the Cursed Smith (Dark Silver Ingot)",
+    "region": "Cursed Smith",
+    "category": [
+      "Act 3 Bosses"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Cyril the Cursed Smith (Lost Soul)",
+    "region": "Cursed Smith",
+    "category": [
+      "Act 3 Bosses",
+      "LostSouls"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Sir Magnus the Overseer (Assortment of Wide Storage Shelves)",
+    "region": "Overseer",
+    "category": [
+      "Act 4 Bosses"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Sir Magnus the Overseer (Phantom's Veil)",
+    "region": "Overseer",
+    "category": [
+      "Act 4 Bosses"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Sir Magnus the Overseer (Lost Soul)",
+    "region": "Overseer",
+    "category": [
+      "Act 4 Bosses",
+      "LostSouls"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Baron du Bouchon the Sommelier (Rural Garden Fencing)",
+    "region": "Sommelier",
+    "category": [
+      "Act 4 Bosses"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Baron du Bouchon the Sommelier (Barrel Disguise)",
+    "region": "Sommelier",
+    "category": [
+      "Act 4 Bosses"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Baron du Bouchon the Sommelier (Blood Merlot)",
+    "region": "Sommelier",
+    "category": [
+      "Act 4 Bosses"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Baron du Bouchon the Sommelier (Blood Merlot Amulet)",
+    "region": "Sommelier",
+    "category": [
+      "Act 4 Bosses"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Baron du Bouchon the Sommelier (Lost Soul)",
+    "region": "Sommelier",
+    "category": [
+      "Act 4 Bosses",
+      "LostSouls"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Morian the Stormwing Matriarch (Flawless Gems)",
+    "region": "Stormwing Matriarch",
+    "category": [
+      "Act 4 Bosses"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Morian the Stormwing Matriarch (Lost Soul)",
+    "region": "Stormwing Matriarch",
+    "category": [
+      "Act 4 Bosses",
+      "LostSouls"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Mairwyn the Elementalist (Crystal Light)",
+    "region": "Elementalist",
+    "category": [
+      "Act 4 Bosses"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Mairwyn the Elementalist (Holy Resistance Flask)",
+    "region": "Elementalist",
+    "category": [
+      "Act 4 Bosses"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Mairwyn the Elementalist (Greater Jewels)",
+    "region": "Elementalist",
+    "category": [
+      "Act 4 Bosses"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Mairwyn the Elementalist (Lost Soul)",
+    "region": "Elementalist",
+    "category": [
+      "Act 4 Bosses",
+      "LostSouls"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Henry Blackbrew the Doctor (Athenaeum)",
+    "region": "Doctor",
+    "category": [
+      "Act 4 Bosses"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Henry Blackbrew the Doctor (Lost Soul)",
+    "region": "Doctor",
+    "category": [
+      "Act 4 Bosses",
+      "LostSouls"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Jakira the Shadow Huntress (Elixir of the Twisted)",
+    "region": "Shadow Huntress",
+    "category": [
+      "Act 4 Bosses"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Jakira the Shadow Huntress (Slashers)",
+    "region": "Shadow Huntress",
+    "category": [
+      "Act 4 Bosses"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Jakira the Shadow Huntress (Lost Soul)",
+    "region": "Shadow Huntress",
+    "category": [
+      "Act 4 Bosses",
+      "LostSouls"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Stavros the Carver (Advanced Sawmill)",
+    "region": "Carver",
+    "category": [
+      "Act 4 Bosses"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Stavros the Carver (Weapon Coatings)",
+    "region": "Carver",
+    "category": [
+      "Act 4 Bosses"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Stavros the Carver (Lost Soul)",
+    "region": "Carver",
+    "category": [
+      "Act 4 Bosses",
+      "LostSouls"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Lucile the Venom Alchemist (Blood Homogenizer)",
+    "region": "Venom Alchemist",
+    "category": [
+      "Act 4 Bosses"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Lucile the Venom Alchemist (Lost Soul)",
+    "region": "Venom Alchemist",
+    "category": [
+      "Act 4 Bosses",
+      "LostSouls"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Matka the Curse Weaver (Advanced Loom)",
+    "region": "Curse Weaver",
+    "category": [
+      "Act 4 Bosses"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Matka the Curse Weaver (Lost Soul)",
+    "region": "Curse Weaver",
+    "category": [
+      "Act 4 Bosses",
+      "LostSouls"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Terrorclaw the Ogre (Advanced Tannery)",
+    "region": "Ogre",
+    "category": [
+      "Act 4 Bosses"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Terrorclaw the Ogre (Lost Soul)",
+    "region": "Ogre",
+    "category": [
+      "Act 4 Bosses",
+      "LostSouls"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Azariel the Sunbringer (Ostentatious Carpets)",
+    "region": "Sunbringer",
+    "category": [
+      "Act 4 Bosses"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Azariel the Sunbringer (Gold Ingot)",
+    "region": "Sunbringer",
+    "category": [
+      "Act 4 Bosses"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Azariel the Sunbringer (Lost Soul)",
+    "region": "Sunbringer",
+    "category": [
+      "Act 4 Bosses",
+      "LostSouls"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Voltatia the Power Master (Power Core)",
+    "region": "Power Master",
+    "category": [
+      "Act 4 Bosses"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Voltatia the Power Master (Lost Soul)",
+    "region": "Power Master",
+    "category": [
+      "Act 4 Bosses",
+      "LostSouls"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Simon Belmont the Vampire Hunter (Sanguine Whip)",
+    "region": "Simon Belmont",
+    "category": [
+      "Act 4 Bosses"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Simon Belmont the Vampire Hunter (Lost Soul)",
+    "region": "Simon Belmont",
+    "category": [
+      "Act 4 Bosses",
+      "LostSouls"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Dantos the Forgebinder (Fusion Forge)",
+    "region": "Forgebinder",
+    "category": [
+      "Act 4 Bosses"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Dantos the Forgebinder (Lost Soul)",
+    "region": "Forgebinder",
+    "category": [
+      "Act 4 Bosses",
+      "LostSouls"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Lord Styx the Night Champion (Bat Form)",
+    "region": "Night Champion",
+    "category": [
+      "Act 4 Bosses"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Lord Styx the Night Champion (Lost Soul)",
+    "region": "Night Champion",
+    "category": [
+      "Act 4 Bosses",
+      "LostSouls"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "General Valencia the Depraved (Coat of Arms)",
+    "region": "The Depraved",
+    "category": [
+      "Act 4 Bosses"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "General Valencia the Depraved (Shadow Weave)",
+    "region": "The Depraved",
+    "category": [
+      "Act 4 Bosses"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "General Valencia the Depraved (Primal Jewels)",
+    "region": "The Depraved",
+    "category": [
+      "Act 4 Bosses"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "General Valencia the Depraved (Lost Soul)",
+    "region": "The Depraved",
+    "category": [
+      "Act 4 Bosses",
+      "LostSouls"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Gorecrusher the Behemoth (Bat Leather)",
+    "region": "Behemoth",
+    "category": [
+      "Act 4 Bosses"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Gorecrusher the Behemoth (Bat Leather Bag)",
+    "region": "Behemoth",
+    "category": [
+      "Act 4 Bosses"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Gorecrusher the Behemoth (Lost Soul)",
+    "region": "Behemoth",
+    "category": [
+      "Act 4 Bosses",
+      "LostSouls"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Solarus the Immaculate (Pedestal of Solarus)",
+    "region": "The Immaculate",
+    "category": [
+      "Act 4 Bosses"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Solarus the Immaculate (Dracula's Boots)",
+    "region": "The Immaculate",
+    "category": [
+      "Act 4 Bosses"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Solarus the Immaculate (Lost Soul)",
+    "region": "The Immaculate",
+    "category": [
+      "Act 4 Bosses",
+      "LostSouls"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Talzur the Winged Horror (Pedestal of the Winged Horror)",
+    "region": "Winged Horror",
+    "category": [
+      "Act 4 Bosses"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Talzur the Winged Horror (Dracula's Gloves)",
+    "region": "Winged Horror",
+    "category": [
+      "Act 4 Bosses"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Talzur the Winged Horror (Lost Soul)",
+    "region": "Winged Horror",
+    "category": [
+      "Act 4 Bosses",
+      "LostSouls"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Adam the Firstborn (Pedestal of the Monster)",
+    "region": "Firstborn",
+    "category": [
+      "Act 4 Bosses"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Adam the Firstborn (Dracula's Chestguard)",
+    "region": "Firstborn",
+    "category": [
+      "Act 4 Bosses"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Adam the Firstborn (Lost Soul)",
+    "region": "Firstborn",
+    "category": [
+      "Act 4 Bosses",
+      "LostSouls"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Megara the Serpent Queen (Pedestal of the Serpent)",
+    "region": "Serpent Queen",
+    "category": [
+      "Act 4 Bosses"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Megara the Serpent Queen (Dracula's Leggings)",
+    "region": "Serpent Queen",
+    "category": [
+      "Act 4 Bosses"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Megara the Serpent Queen (Lost Soul)",
+    "region": "Serpent Queen",
+    "category": [
+      "Act 4 Bosses",
+      "LostSouls"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Dracula the Immortal King (Pedestal of Dracula)",
+    "region": "Immortal King",
+    "category": [
+      "Act 5 Boss"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Dracula the Immortal King (Lost Soul)",
+    "region": "Immortal King",
+    "category": [
+      "Act 4 Bosses",
+      "LostSouls"
     ],
     "progression": true
   },
@@ -1020,349 +2238,11 @@
   },
   {
     "count": "1",
-    "name": "Blood Spray Passive",
-    "category": [
-      "Passives - Elemental Awakenings",
-      "Act2"
-    ],
-    "useful": true
-  },
-  {
-    "count": "1",
-    "name": "Sanguine Mastery Passive",
-    "category": [
-      "Passives - Elemental Awakenings",
-      "Act2"
-    ],
-    "useful": true
-  },
-  {
-    "count": "1",
-    "name": "Chaos Kindling Passive",
-    "category": [
-      "Passives - Elemental Awakenings",
-      "Act2"
-    ],
-    "useful": true
-  },
-  {
-    "count": "1",
-    "name": "Renewing Flames Passive",
-    "category": [
-      "Passives - Elemental Awakenings",
-      "Act2"
-    ],
-    "useful": true
-  },
-  {
-    "count": "1",
-    "name": "Arcane Animator Passive",
-    "category": [
-      "Passives - Elemental Awakenings",
-      "Act2"
-    ],
-    "useful": true
-  },
-  {
-    "count": "1",
-    "name": "Soul Drinker Passive",
-    "category": [
-      "Passives - Elemental Awakenings",
-      "Act2"
-    ],
-    "useful": true
-  },
-  {
-    "count": "1",
-    "name": "Spiritual Infusion Passive",
-    "category": [
-      "Passives - Elemental Awakenings",
-      "Act2"
-    ],
-    "useful": true
-  },
-  {
-    "count": "1",
-    "name": "Flowing Sorcery Passive",
-    "category": [
-      "Passives - Elemental Awakenings",
-      "Act2"
-    ],
-    "useful": true
-  },
-  {
-    "count": "1",
-    "name": "Cold Soul Passive",
-    "category": [
-      "Passives - Elemental Awakenings",
-      "Act2"
-    ],
-    "useful": true
-  },
-  {
-    "count": "1",
-    "name": "Chillweave Passive",
-    "category": [
-      "Passives - Elemental Awakenings",
-      "Act2"
-    ],
-    "useful": true
-  },
-  {
-    "count": "1",
-    "name": "Lightning Strikes Passive",
-    "category": [
-      "Passives - Elemental Awakenings",
-      "Act2"
-    ],
-    "useful": true
-  },
-  {
-    "count": "1",
-    "name": "Enhanced Conductivity Passive",
-    "category": [
-      "Passives - Elemental Awakenings",
-      "Act2"
-    ],
-    "useful": true
-  },
-  {
-    "count": "1",
-    "name": "Hunger for Blood Passive",
-    "category": [
-      "Passives - Vampire Awakenings",
-      "Act4"
-    ],
-    "useful": true
-  },
-  {
-    "count": "1",
-    "name": "Overpower Passive",
-    "category": [
-      "Passives - Vampire Awakenings",
-      "Act4"
-    ],
-    "useful": true
-  },
-  {
-    "count": "1",
-    "name": "Lethal Strikes Passive",
-    "category": [
-      "Passives - Vampire Awakenings",
-      "Act4"
-    ],
-    "useful": true
-  },
-  {
-    "count": "1",
-    "name": "Feral Haste Passive",
-    "category": [
-      "Passives - Vampire Awakenings",
-      "Act4"
-    ],
-    "useful": true
-  },
-  {
-    "count": "1",
-    "name": "Bastion Passive",
-    "category": [
-      "Passives - Vampire Awakenings",
-      "Act4"
-    ],
-    "useful": true
-  },
-  {
-    "count": "1",
-    "name": "Hunger for Power Passive",
-    "category": [
-      "Passives - Vampire Awakenings",
-      "Act4"
-    ],
-    "useful": true
-  },
-  {
-    "count": "1",
-    "name": "Rampage Passive",
-    "category": [
-      "Passives - Vampire Awakenings",
-      "Act4"
-    ],
-    "useful": true
-  },
-  {
-    "count": "1",
-    "name": "Ravenous Strikes Passive",
-    "category": [
-      "Passives - Vampire Awakenings",
-      "Act4"
-    ],
-    "useful": true
-  },
-  {
-    "count": "1",
-    "name": "Embrace Mayhem Passive",
-    "category": [
-      "Passives - Vampire Awakenings",
-      "Act4"
-    ],
-    "useful": true
-  },
-  {
-    "count": "1",
-    "name": "Wicked Power Passive",
-    "category": [
-      "Passives - Vampire Awakenings",
-      "Act4"
-    ],
-    "useful": true
-  },
-  {
-    "count": "1",
-    "name": "Dark Enchantment Passive",
-    "category": [
-      "Passives - Vampire Awakenings",
-      "Act4"
-    ],
-    "useful": true
-  },
-  {
-    "count": "1",
-    "name": "Turbulent Velocity Passive",
-    "category": [
-      "Passives - Vampire Awakenings",
-      "Act4"
-    ],
-    "useful": true
-  },
-  {
-    "count": "1",
-    "name": "Blood Type - Creature",
-    "category": [
-      "Blood Types",
-      "EarlyBloodType"
-    ],
-    "progression": true
-  },
-  {
-    "count": "1",
-    "name": "Blood Type - Worker",
-    "category": [
-      "Blood Types",
-      "EarlyBloodType"
-    ],
-    "progression": true
-  },
-  {
-    "count": "1",
-    "name": "Blood Type - Brute",
-    "category": [
-      "Blood Types",
-      "EarlyBloodType"
-    ],
-    "progression": true
-  },
-  {
-    "count": "1",
-    "name": "Blood Type - Rogue",
-    "category": [
-      "Blood Types",
-      "EarlyBloodType"
-    ],
-    "progression": true
-  },
-  {
-    "count": "1",
-    "name": "Blood Type - Warrior",
-    "category": [
-      "Blood Types",
-      "EarlyBloodType"
-    ],
-    "progression": true
-  },
-  {
-    "count": "1",
-    "name": "Blood Type - Scholar",
-    "category": [
-      "Blood Types",
-      "Act2"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Blood Type - Mutant",
-    "category": [
-      "Blood Types",
-      "Act3"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Blood Type - Draculin",
-    "category": [
-      "Blood Types",
-      "Act2"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Blood Type - Corrupted",
-    "category": [
-      "Blood Types",
-      "Act4"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "8",
-    "name": "Progressive Sword",
-    "category": [
-      "Progressive Weapons"
-    ],
-    "progression": true
-  },
-  {
-    "count": "1",
-    "name": "Bone Sword",
-    "category": [
-      "Weapons - Swords"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Reinforced Bone Sword",
-    "category": [
-      "Weapons - Swords"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Copper Sword",
-    "category": [
-      "Weapons - Swords"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
     "name": "Merciless Copper Sword",
     "category": [
       "Weapons - Swords"
     ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Iron Sword",
-    "category": [
-      "Weapons - Swords",
-      "Act2"
-    ],
-    "progression_skip_balancing": true
+    "progression": true
   },
   {
     "count": "1",
@@ -1371,25 +2251,7 @@
       "Weapons - Swords",
       "Act2"
     ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Rare Ancestral Sword",
-    "category": [
-      "Weapons - Swords",
-      "Act3"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Dark Silver Sword",
-    "category": [
-      "Weapons - Swords",
-      "Act4"
-    ],
-    "progression_skip_balancing": true
+    "progression": true
   },
   {
     "count": "1",
@@ -1398,57 +2260,7 @@
       "Weapons - Swords",
       "Act4"
     ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Epic Ancestral Sword",
-    "category": [
-      "Weapons - Swords",
-      "Act4"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "The Gravecaller",
-    "category": [
-      "Weapons - Swords",
-      "Act4"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "8",
-    "name": "Progressive Axes",
-    "category": [
-      "Progressive Weapons"
-    ],
     "progression": true
-  },
-  {
-    "count": "1",
-    "name": "Bone Axes",
-    "category": [
-      "Weapons - Axes"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Reinforced Bone Axes",
-    "category": [
-      "Weapons - Axes"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Copper Axes",
-    "category": [
-      "Weapons - Axes"
-    ],
-    "progression_skip_balancing": true
   },
   {
     "count": "1",
@@ -1456,16 +2268,7 @@
     "category": [
       "Weapons - Axes"
     ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Iron Axes",
-    "category": [
-      "Weapons - Axes",
-      "Act2"
-    ],
-    "progression_skip_balancing": true
+    "progression": true
   },
   {
     "count": "1",
@@ -1474,25 +2277,7 @@
       "Weapons - Axes",
       "Act2"
     ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Rare Ancestral Axes",
-    "category": [
-      "Weapons - Axes",
-      "Act3"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Dark Silver Axes",
-    "category": [
-      "Weapons - Axes",
-      "Act4"
-    ],
-    "progression_skip_balancing": true
+    "progression": true
   },
   {
     "count": "1",
@@ -1501,57 +2286,7 @@
       "Weapons - Axes",
       "Act4"
     ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Epic Ancestral Axes",
-    "category": [
-      "Weapons - Axes",
-      "Act4"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "The Red Twins",
-    "category": [
-      "Weapons - Axes",
-      "Act4"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "8",
-    "name": "Progressive Mace",
-    "category": [
-      "Progressive Weapons"
-    ],
     "progression": true
-  },
-  {
-    "count": "1",
-    "name": "Bone Mace",
-    "category": [
-      "Weapons - Maces"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Reinforced Bone Mace",
-    "category": [
-      "Weapons - Maces"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Copper Mace",
-    "category": [
-      "Weapons - Maces"
-    ],
-    "progression_skip_balancing": true
   },
   {
     "count": "1",
@@ -1559,16 +2294,7 @@
     "category": [
       "Weapons - Maces"
     ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Iron Mace",
-    "category": [
-      "Weapons - Maces",
-      "Act2"
-    ],
-    "progression_skip_balancing": true
+    "progression": true
   },
   {
     "count": "1",
@@ -1577,25 +2303,7 @@
       "Weapons - Maces",
       "Act2"
     ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Rare Ancestral Mace",
-    "category": [
-      "Weapons - Maces",
-      "Act3"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Dark Silver Mace",
-    "category": [
-      "Weapons - Maces",
-      "Act4"
-    ],
-    "progression_skip_balancing": true
+    "progression": true
   },
   {
     "count": "1",
@@ -1604,57 +2312,7 @@
       "Weapons - Maces",
       "Act4"
     ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Epic Ancestral Mace",
-    "category": [
-      "Weapons - Maces",
-      "Act4"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Hand of Winter",
-    "category": [
-      "Weapons - Maces",
-      "Act4"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "8",
-    "name": "Progressive Spear",
-    "category": [
-      "Progressive Weapons"
-    ],
     "progression": true
-  },
-  {
-    "count": "1",
-    "name": "Bone Spear",
-    "category": [
-      "Weapons - Spears"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Reinforced Bone Spear",
-    "category": [
-      "Weapons - Spears"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Copper Spear",
-    "category": [
-      "Weapons - Spears"
-    ],
-    "progression_skip_balancing": true
   },
   {
     "count": "1",
@@ -1662,16 +2320,7 @@
     "category": [
       "Weapons - Spears"
     ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Iron Spear",
-    "category": [
-      "Weapons - Spears",
-      "Act2"
-    ],
-    "progression_skip_balancing": true
+    "progression": true
   },
   {
     "count": "1",
@@ -1680,70 +2329,7 @@
       "Weapons - Spears",
       "Act2"
     ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Rare Ancestral Spear",
-    "category": [
-      "Weapons - Spears",
-      "Act3"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Dark Silver Spear",
-    "category": [
-      "Weapons - Spears",
-      "Act4"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Sanguine Spear",
-    "category": [
-      "Weapons - Spears",
-      "Act4"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Epic Ancestral Spear",
-    "category": [
-      "Weapons - Spears",
-      "Act4"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "The Thousand Storms",
-    "category": [
-      "Weapons - Spears",
-      "Act4"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "6",
-    "name": "Progressive Reaper",
-    "category": [
-      "Progressive Weapons",
-      "Act2"
-    ],
     "progression": true
-  },
-  {
-    "count": "1",
-    "name": "Iron Reaper",
-    "category": [
-      "Weapons - Reapers",
-      "Act2"
-    ],
-    "progression_skip_balancing": true
   },
   {
     "count": "1",
@@ -1752,25 +2338,7 @@
       "Weapons - Reapers",
       "Act2"
     ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Rare Ancestral Reaper",
-    "category": [
-      "Weapons - Reapers",
-      "Act3"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Dark Silver Reaper",
-    "category": [
-      "Weapons - Reapers",
-      "Act4"
-    ],
-    "progression_skip_balancing": true
+    "progression": true
   },
   {
     "count": "1",
@@ -1779,43 +2347,7 @@
       "Weapons - Reapers",
       "Act4"
     ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Epic Ancestral Reaper",
-    "category": [
-      "Weapons - Reapers",
-      "Act4"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Mortira's Lament",
-    "category": [
-      "Weapons - Reapers",
-      "Act4"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "6",
-    "name": "Progressive Greatsword",
-    "category": [
-      "Progressive Weapons",
-      "Act2"
-    ],
     "progression": true
-  },
-  {
-    "count": "1",
-    "name": "Iron Greatsword",
-    "category": [
-      "Weapons - Greatswords",
-      "Act2"
-    ],
-    "progression_skip_balancing": true
   },
   {
     "count": "1",
@@ -1824,25 +2356,7 @@
       "Weapons - Greatswords",
       "Act2"
     ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Rare Ancestral Greatsword",
-    "category": [
-      "Weapons - Greatswords",
-      "Act3"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Dark Silver Greatsword",
-    "category": [
-      "Weapons - Greatswords",
-      "Act4"
-    ],
-    "progression_skip_balancing": true
+    "progression": true
   },
   {
     "count": "1",
@@ -1851,43 +2365,7 @@
       "Weapons - Greatswords",
       "Act4"
     ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Epic Ancestral Greatsword",
-    "category": [
-      "Weapons - Greatswords",
-      "Act4"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Apocalypse",
-    "category": [
-      "Weapons - Greatswords",
-      "Act4"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "6",
-    "name": "Progressive Whip",
-    "category": [
-      "Progressive Weapons",
-      "Act3"
-    ],
     "progression": true
-  },
-  {
-    "count": "1",
-    "name": "Iron Whip",
-    "category": [
-      "Weapons - Whips",
-      "Act3"
-    ],
-    "progression_skip_balancing": true
   },
   {
     "count": "1",
@@ -1896,25 +2374,7 @@
       "Weapons - Whips",
       "Act3"
     ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Rare Ancestral Whip",
-    "category": [
-      "Weapons - Whips",
-      "Act3"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Dark Silver Whip",
-    "category": [
-      "Weapons - Whips",
-      "Act4"
-    ],
-    "progression_skip_balancing": true
+    "progression": true
   },
   {
     "count": "1",
@@ -1923,43 +2383,7 @@
       "Weapons - Whips",
       "Act4"
     ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Epic Ancestral Whip",
-    "category": [
-      "Weapons - Whips",
-      "Act4"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "The Morning Star",
-    "category": [
-      "Weapons - Whips",
-      "Act4"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "6",
-    "name": "Progressive Slashers",
-    "category": [
-      "Progressive Weapons",
-      "Act4"
-    ],
     "progression": true
-  },
-  {
-    "count": "1",
-    "name": "Iron Slashers",
-    "category": [
-      "Weapons - Slashers",
-      "Act4"
-    ],
-    "progression_skip_balancing": true
   },
   {
     "count": "1",
@@ -1968,25 +2392,7 @@
       "Weapons - Slashers",
       "Act4"
     ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Rare Ancestral Slashers",
-    "category": [
-      "Weapons - Slashers",
-      "Act4"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Dark Silver Slashers",
-    "category": [
-      "Weapons - Slashers",
-      "Act4"
-    ],
-    "progression_skip_balancing": true
+    "progression": true
   },
   {
     "count": "1",
@@ -1995,52 +2401,7 @@
       "Weapons - Slashers",
       "Act4"
     ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Epic Ancestral Slashers",
-    "category": [
-      "Weapons - Slashers",
-      "Act4"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Cloud Dancers",
-    "category": [
-      "Weapons - Slashers",
-      "Act4"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Wings of the Fallen",
-    "category": [
-      "Weapons - Slashers",
-      "Act4"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "6",
-    "name": "Progressive Claws",
-    "category": [
-      "Progressive Weapons",
-      "Act2"
-    ],
     "progression": true
-  },
-  {
-    "count": "1",
-    "name": "Iron Claws",
-    "category": [
-      "Weapons - Claws",
-      "Act2"
-    ],
-    "progression_skip_balancing": true
   },
   {
     "count": "1",
@@ -2049,25 +2410,7 @@
       "Weapons - Claws",
       "Act2"
     ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Rare Ancestral Claws",
-    "category": [
-      "Weapons - Claws",
-      "Act3"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Dark Silver Claws",
-    "category": [
-      "Weapons - Claws",
-      "Act4"
-    ],
-    "progression_skip_balancing": true
+    "progression": true
   },
   {
     "count": "1",
@@ -2076,43 +2419,7 @@
       "Weapons - Claws",
       "Act4"
     ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Epic Ancestral Claws",
-    "category": [
-      "Weapons - Claws",
-      "Act4"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Talons of the Lich Beast",
-    "category": [
-      "Weapons - Claws",
-      "Act4"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "6",
-    "name": "Progressive Twinblade",
-    "category": [
-      "Progressive Weapons",
-      "Act2"
-    ],
     "progression": true
-  },
-  {
-    "count": "1",
-    "name": "Iron Twinblade",
-    "category": [
-      "Weapons - Twinblades",
-      "Act2"
-    ],
-    "progression_skip_balancing": true
   },
   {
     "count": "1",
@@ -2121,25 +2428,7 @@
       "Weapons - Twinblades",
       "Act2"
     ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Rare Ancestral Twinblade",
-    "category": [
-      "Weapons - Twinblades",
-      "Act3"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Dark Silver Twinblade",
-    "category": [
-      "Weapons - Twinblades",
-      "Act4"
-    ],
-    "progression_skip_balancing": true
+    "progression": true
   },
   {
     "count": "1",
@@ -2148,57 +2437,7 @@
       "Weapons - Twinblades",
       "Act4"
     ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Epic Ancestral Twinblade",
-    "category": [
-      "Weapons - Twinblades",
-      "Act4"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "The Fate Dancers",
-    "category": [
-      "Weapons - Twinblades",
-      "Act4"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "8",
-    "name": "Progressive Crossbow",
-    "category": [
-      "Progressive Weapons"
-    ],
     "progression": true
-  },
-  {
-    "count": "1",
-    "name": "Bone Crossbow",
-    "category": [
-      "Weapons - Crossbows"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Reinforced Bone Crossbow",
-    "category": [
-      "Weapons - Crossbows"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Copper Crossbow",
-    "category": [
-      "Weapons - Crossbows"
-    ],
-    "progression_skip_balancing": true
   },
   {
     "count": "1",
@@ -2206,16 +2445,7 @@
     "category": [
       "Weapons - Crossbows"
     ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Iron Crossbow",
-    "category": [
-      "Weapons - Crossbows",
-      "Act2"
-    ],
-    "progression_skip_balancing": true
+    "progression": true
   },
   {
     "count": "1",
@@ -2224,25 +2454,7 @@
       "Weapons - Crossbows",
       "Act2"
     ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Rare Ancestral Crossbow",
-    "category": [
-      "Weapons - Crossbows",
-      "Act3"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Dark Silver Crossbow",
-    "category": [
-      "Weapons - Crossbows",
-      "Act4"
-    ],
-    "progression_skip_balancing": true
+    "progression": true
   },
   {
     "count": "1",
@@ -2251,41 +2463,7 @@
       "Weapons - Crossbows",
       "Act4"
     ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Epic Ancestral Crossbow",
-    "category": [
-      "Weapons - Crossbows",
-      "Act4"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "The Siren's Wail",
-    "category": [
-      "Weapons - Crossbows",
-      "Act4"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "7",
-    "name": "Progressive Longbow",
-    "category": [
-      "Progressive Weapons"
-    ],
     "progression": true
-  },
-  {
-    "count": "1",
-    "name": "Copper Longbow",
-    "category": [
-      "Weapons - Longbows"
-    ],
-    "progression_skip_balancing": true
   },
   {
     "count": "1",
@@ -2293,16 +2471,7 @@
     "category": [
       "Weapons - Longbows"
     ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Iron Longbow",
-    "category": [
-      "Weapons - Longbows",
-      "Act2"
-    ],
-    "progression_skip_balancing": true
+    "progression": true
   },
   {
     "count": "1",
@@ -2311,25 +2480,7 @@
       "Weapons - Longbows",
       "Act2"
     ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Rare Ancestral Longbow",
-    "category": [
-      "Weapons - Longbows",
-      "Act3"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Dark Silver Longbow",
-    "category": [
-      "Weapons - Longbows",
-      "Act4"
-    ],
-    "progression_skip_balancing": true
+    "progression": true
   },
   {
     "count": "1",
@@ -2338,43 +2489,7 @@
       "Weapons - Longbows",
       "Act4"
     ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Epic Ancestral Longbow",
-    "category": [
-      "Weapons - Longbows",
-      "Act4"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Oaksong",
-    "category": [
-      "Weapons - Longbows",
-      "Act4"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "6",
-    "name": "Progressive Daggers",
-    "category": [
-      "Progressive Weapons",
-      "Act2"
-    ],
     "progression": true
-  },
-  {
-    "count": "1",
-    "name": "Iron Daggers",
-    "category": [
-      "Weapons - Daggers",
-      "Act2"
-    ],
-    "progression_skip_balancing": true
   },
   {
     "count": "1",
@@ -2383,25 +2498,7 @@
       "Weapons - Daggers",
       "Act2"
     ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Rare Ancestral Daggers",
-    "category": [
-      "Weapons - Daggers",
-      "Act3"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Dark Silver Daggers",
-    "category": [
-      "Weapons - Daggers",
-      "Act4"
-    ],
-    "progression_skip_balancing": true
+    "progression": true
   },
   {
     "count": "1",
@@ -2410,43 +2507,7 @@
       "Weapons - Daggers",
       "Act4"
     ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Epic Ancestral Daggers",
-    "category": [
-      "Weapons - Daggers",
-      "Act4"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "The Wraithblades",
-    "category": [
-      "Weapons - Daggers",
-      "Act4"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "6",
-    "name": "Progressive Pistols",
-    "category": [
-      "Progressive Weapons",
-      "Act2"
-    ],
     "progression": true
-  },
-  {
-    "count": "1",
-    "name": "Iron Pistols",
-    "category": [
-      "Weapons - Pistols",
-      "Act2"
-    ],
-    "progression_skip_balancing": true
   },
   {
     "count": "1",
@@ -2455,25 +2516,7 @@
       "Weapons - Pistols",
       "Act2"
     ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Rare Ancestral Pistols",
-    "category": [
-      "Weapons - Pistols",
-      "Act3"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Dark Silver Pistols",
-    "category": [
-      "Weapons - Pistols",
-      "Act4"
-    ],
-    "progression_skip_balancing": true
+    "progression": true
   },
   {
     "count": "1",
@@ -2481,433 +2524,6 @@
     "category": [
       "Weapons - Pistols",
       "Act4"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "Epic Ancestral Pistols",
-    "category": [
-      "Weapons - Pistols",
-      "Act4"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "1",
-    "name": "The Endbringers",
-    "category": [
-      "Weapons - Pistols",
-      "Act4"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "4",
-    "name": "Shadowbolt Jewel Tier",
-    "category": [
-      "Jewels - Blood"
-    ],
-    "useful": true
-  },
-  {
-    "count": "4",
-    "name": "Blood Rite Jewel Tier",
-    "category": [
-      "Jewels - Blood"
-    ],
-    "useful": true
-  },
-  {
-    "count": "4",
-    "name": "Blood Rage Jewel Tier",
-    "category": [
-      "Jewels - Blood"
-    ],
-    "useful": true
-  },
-  {
-    "count": "4",
-    "name": "Blood Fountain Jewel Tier",
-    "category": [
-      "Jewels - Blood",
-      "Act2"
-    ],
-    "useful": true
-  },
-  {
-    "count": "4",
-    "name": "Sanguine Coil Jewel Tier",
-    "category": [
-      "Jewels - Blood",
-      "Act2"
-    ],
-    "useful": true
-  },
-  {
-    "count": "4",
-    "name": "Carrion Swarm Jewel Tier",
-    "category": [
-      "Jewels - Blood",
-      "Act2"
-    ],
-    "useful": true
-  },
-  {
-    "count": "4",
-    "name": "Veil of Blood Jewel Tier",
-    "category": [
-      "Jewels - Blood",
-      "Act2"
-    ],
-    "useful": true
-  },
-  {
-    "count": "4",
-    "name": "Chaos Volley Jewel Tier",
-    "category": [
-      "Jewels - Chaos"
-    ],
-    "useful": true
-  },
-  {
-    "count": "4",
-    "name": "Power Surge Jewel Tier",
-    "category": [
-      "Jewels - Chaos"
-    ],
-    "useful": true
-  },
-  {
-    "count": "4",
-    "name": "Aftershock Jewel Tier",
-    "category": [
-      "Jewels - Chaos"
-    ],
-    "useful": true
-  },
-  {
-    "count": "4",
-    "name": "Void Jewel Tier",
-    "category": [
-      "Jewels - Chaos"
-    ],
-    "useful": true
-  },
-  {
-    "count": "4",
-    "name": "Chaos Barrier Jewel Tier",
-    "category": [
-      "Jewels - Chaos"
-    ],
-    "useful": true
-  },
-  {
-    "count": "4",
-    "name": "Rain of Chaos Jewel Tier",
-    "category": [
-      "Jewels - Chaos"
-    ],
-    "useful": true
-  },
-  {
-    "count": "4",
-    "name": "Veil of Chaos Jewel Tier",
-    "category": [
-      "Jewels - Chaos",
-      "Act2"
-    ],
-    "useful": true
-  },
-  {
-    "count": "4",
-    "name": "Corrupted Skull Jewel Tier",
-    "category": [
-      "Jewels - Unholy"
-    ],
-    "useful": true
-  },
-  {
-    "count": "4",
-    "name": "Ward of the Damned Jewel Tier",
-    "category": [
-      "Jewels - Unholy"
-    ],
-    "useful": true
-  },
-  {
-    "count": "4",
-    "name": "Bone Explosion Jewel Tier",
-    "category": [
-      "Jewels - Unholy"
-    ],
-    "useful": true
-  },
-  {
-    "count": "4",
-    "name": "Death Knight Jewel Tier",
-    "category": [
-      "Jewels - Unholy",
-      "Act2"
-    ],
-    "useful": true
-  },
-  {
-    "count": "4",
-    "name": "Soulburn Jewel Tier",
-    "category": [
-      "Jewels - Unholy",
-      "Act2"
-    ],
-    "useful": true
-  },
-  {
-    "count": "4",
-    "name": "Unholy Chains Jewel Tier",
-    "category": [
-      "Jewels - Unholy",
-      "Act2"
-    ],
-    "useful": true
-  },
-  {
-    "count": "4",
-    "name": "Veil of Bones Jewel Tier",
-    "category": [
-      "Jewels - Unholy",
-      "Act2"
-    ],
-    "useful": true
-  },
-  {
-    "count": "4",
-    "name": "Spectral Wolf Jewel Tier",
-    "category": [
-      "Jewels - Illusion"
-    ],
-    "useful": true
-  },
-  {
-    "count": "4",
-    "name": "Phantom Aegis Jewel Tier",
-    "category": [
-      "Jewels - Illusion"
-    ],
-    "useful": true
-  },
-  {
-    "count": "4",
-    "name": "Wraith Spear Jewel Tier",
-    "category": [
-      "Jewels - Illusion"
-    ],
-    "useful": true
-  },
-  {
-    "count": "4",
-    "name": "Mosquito Jewel Tier",
-    "category": [
-      "Jewels - Illusion",
-      "Act2"
-    ],
-    "useful": true
-  },
-  {
-    "count": "4",
-    "name": "Mist Trance Jewel Tier",
-    "category": [
-      "Jewels - Illusion",
-      "Act2"
-    ],
-    "useful": true
-  },
-  {
-    "count": "4",
-    "name": "Curse Jewel Tier",
-    "category": [
-      "Jewels - Illusion",
-      "Act2"
-    ],
-    "useful": true
-  },
-  {
-    "count": "4",
-    "name": "Veil of Illusion Jewel Tier",
-    "category": [
-      "Jewels - Illusion",
-      "Act4"
-    ],
-    "useful": true
-  },
-  {
-    "count": "4",
-    "name": "Frost Bat Jewel Tier",
-    "category": [
-      "Jewels - Frost"
-    ],
-    "useful": true
-  },
-  {
-    "count": "4",
-    "name": "Cold Snap Jewel Tier",
-    "category": [
-      "Jewels - Frost"
-    ],
-    "useful": true
-  },
-  {
-    "count": "4",
-    "name": "Ice Nova Jewel Tier",
-    "category": [
-      "Jewels - Frost"
-    ],
-    "useful": true
-  },
-  {
-    "count": "4",
-    "name": "Crystal Lance Jewel Tier",
-    "category": [
-      "Jewels - Frost",
-      "Act2"
-    ],
-    "useful": true
-  },
-  {
-    "count": "4",
-    "name": "Frost Barrier Jewel Tier",
-    "category": [
-      "Jewels - Frost",
-      "Act2"
-    ],
-    "useful": true
-  },
-  {
-    "count": "4",
-    "name": "Arctic Storm Jewel Tier",
-    "category": [
-      "Jewels - Frost",
-      "Act2"
-    ],
-    "useful": true
-  },
-  {
-    "count": "4",
-    "name": "Veil of Frost Jewel Tier",
-    "category": [
-      "Jewels - Frost",
-      "Act2"
-    ],
-    "useful": true
-  },
-  {
-    "count": "4",
-    "name": "Cyclone Jewel Tier",
-    "category": [
-      "Jewels - Storm",
-      "Act2"
-    ],
-    "useful": true
-  },
-  {
-    "count": "4",
-    "name": "Discharge Jewel Tier",
-    "category": [
-      "Jewels - Storm",
-      "Act2"
-    ],
-    "useful": true
-  },
-  {
-    "count": "4",
-    "name": "Ball Lightning Jewel Tier",
-    "category": [
-      "Jewels - Storm",
-      "Act2"
-    ],
-    "useful": true
-  },
-  {
-    "count": "4",
-    "name": "Polarity Shift Jewel Tier",
-    "category": [
-      "Jewels - Storm",
-      "Act3"
-    ],
-    "useful": true
-  },
-  {
-    "count": "4",
-    "name": "Lightning Curtain Jewel Tier",
-    "category": [
-      "Jewels - Storm",
-      "Act3"
-    ],
-    "useful": true
-  },
-  {
-    "count": "4",
-    "name": "Lightning Tendrils Jewel Tier",
-    "category": [
-      "Jewels - Storm",
-      "Act3"
-    ],
-    "useful": true
-  },
-  {
-    "count": "4",
-    "name": "Veil of Storm Jewel Tier",
-    "category": [
-      "Jewels - Storm",
-      "Act2"
-    ],
-    "useful": true
-  },
-  {
-    "count": "1",
-    "name": "Blood Magic",
-    "category": [
-      "Spell School Mastery"
-    ],
-    "progression": true
-  },
-  {
-    "count": "1",
-    "name": "Chaos Magic",
-    "category": [
-      "Spell School Mastery"
-    ],
-    "progression": true
-  },
-  {
-    "count": "1",
-    "name": "Unholy Magic",
-    "category": [
-      "Spell School Mastery"
-    ],
-    "progression": true
-  },
-  {
-    "count": "1",
-    "name": "Illusion Magic",
-    "category": [
-      "Spell School Mastery"
-    ],
-    "progression": true
-  },
-  {
-    "count": "1",
-    "name": "Frost Magic",
-    "category": [
-      "Spell School Mastery"
-    ],
-    "progression": true
-  },
-  {
-    "count": "1",
-    "name": "Storm Magic",
-    "category": [
-      "Spell School Mastery",
-      "Act2"
     ],
     "progression": true
   },
@@ -4077,125 +3693,6 @@
     "category": [
       "Knowledge - Athenaeum",
       "Structures"
-    ],
-    "progression": true
-  },
-  {
-    "count": "1",
-    "name": "Fat Goby",
-    "category": [
-      "Fishes"
-    ],
-    "filler": true
-  },
-  {
-    "count": "1",
-    "name": "Rainbow Trout",
-    "category": [
-      "Fishes"
-    ],
-    "filler": true
-  },
-  {
-    "count": "1",
-    "name": "Fierce Stinger",
-    "category": [
-      "Fishes"
-    ],
-    "filler": true
-  },
-  {
-    "count": "1",
-    "name": "Twilight Snapper",
-    "category": [
-      "Fishes"
-    ],
-    "filler": true
-  },
-  {
-    "count": "1",
-    "name": "Sage Fish",
-    "category": [
-      "Fishes"
-    ],
-    "filler": true
-  },
-  {
-    "count": "1",
-    "name": "Blood Snapper",
-    "category": [
-      "Fishes"
-    ],
-    "filler": true
-  },
-  {
-    "count": "1",
-    "name": "Swamp Dweller",
-    "category": [
-      "Fishes"
-    ],
-    "filler": true
-  },
-  {
-    "count": "1",
-    "name": "Golden River Bass",
-    "category": [
-      "Fishes"
-    ],
-    "filler": true
-  },
-  {
-    "count": "1",
-    "name": "Corrupted Fish",
-    "category": [
-      "Fishes"
-    ],
-    "filler": true
-  },
-  {
-    "count": "1",
-    "name": "The Fish",
-    "category": [
-      "Fishes"
-    ],
-    "filler": true
-  },
-  {
-    "count": "14",
-    "name": "Lesser Lost Soul",
-    "category": [
-      "Lost Souls",
-      "LostSouls"
-    ],
-    "progression": true
-  },
-  {
-    "count": "19",
-    "name": "Lost Soul",
-    "category": [
-      "Lost Souls",
-      "LostSouls",
-      "Act2"
-    ],
-    "progression": true
-  },
-  {
-    "count": "9",
-    "name": "Corrupted Lost Soul",
-    "category": [
-      "Lost Souls",
-      "LostSouls",
-      "Act3"
-    ],
-    "progression": true
-  },
-  {
-    "count": "22",
-    "name": "Abyssal Lost Soul",
-    "category": [
-      "Lost Souls",
-      "LostSouls",
-      "Act4"
     ],
     "progression": true
   }

@@ -13,14 +13,14 @@
       "Act 1-1",
       "Farbane Woods"
     ],
-    "requires": "{YamlDisabled(Progressive_Bosses)}"
+    "requires": ""
   },
   "Act 1 Alt": {
     "connects_to": [
       "Act 1-1a",
       "Farbane Woods"
     ],
-    "requires": "{YamlEnabled(Progressive_Bosses)}"
+    "requires": ""
   },
   "Act 1-1": {
     "connects_to": [
@@ -30,7 +30,7 @@
       "Stonebreaker",
       "Foreman"
     ],
-    "requires": "|Alpha the White Wolf| AND |Progressive Sword| AND |Progressive Axes| AND |Progressive Mace|"
+    "requires": ""
   },
   "Act 1-2": {
     "connects_to": [
@@ -38,7 +38,7 @@
       "Armourer",
       "Ravager"
     ],
-    "requires": "|Keely the Frost Archer| AND ((|Rufus the Foreman| AND |Progressive Crossbow:2|) OR |Progressive Sword:2| OR |Progressive Axes:2| OR |Progressive Mace:2| OR |Progressive Spear:2|) AND ((|Errol the Stonebreaker| AND ((|@Tier 1 Chaos| AND {OptOne(Chaos Magic)}) OR (|@Tier 1 Frost| AND {OptOne(Frost Magic)})) OR (|Rufus the Foreman| AND ((|Blood Rage| AND {OptOne(Blood Magic)}) OR (|@Tier 1 Frost| AND {OptOne(Frost Magic)}))))"
+    "requires": ""
   },
   "Act 1-3": {
     "connects_to": [
@@ -47,14 +47,14 @@
       "Chaos Archer",
       "Firestarter"
     ],
-    "requires": "|Goreswine the Ravager|"
+    "requires": ""
   },
   "Act 1-4": {
     "connects_to": [
       "Act 1-5",
       "Fisherman"
     ],
-    "requires": "|@Rings| OR |Merciless Copper| OR |Tier 1 Armor (3)|"
+    "requires": ""
   },
   "Act 1-5": {
     "connects_to": [
@@ -63,20 +63,20 @@
       "Ferocious Bear",
       "The Fallen"
     ],
-    "requires": "(|@Rings| AND |Merciless Copper|) OR (|@Rings| AND |Tier 1 Armor (3)|) OR (|Merciless Copper| AND |Tier 1 Armor (3)|) OR |Tier 1 Armor|"
+    "requires": ""
   },
   "Act 1-6": {
     "connects_to": [
       "Bandit King"
     ],
-    "requires": "|@Rings| AND |Merciless Copper| AND |Tier 1 Armor (3)|"
+    "requires": ""
   },
   "Act 1-1a": {
     "connects_to": [
       "Act 1-2a",
       "White Wolf"
     ],
-    "requires": "|Progressive Sword| AND |Progressive Axes| AND |Progressive Mace|"
+    "requires": ""
   },
   "Act 1-2a": {
     "connects_to": [
@@ -85,7 +85,7 @@
       "Stonebreaker",
       "Foreman"
     ],
-    "requires": "|Alpha the White Wolf|"
+    "requires": ""
   },
     "Act 1-3a": {
         "connects_to": [
@@ -93,7 +93,7 @@
             "Armourer",
             "Ravager"
         ],
-        "requires": "|Keely the Frost Archer| AND |Errol the Stonebreaker| AND |Rufus the Foreman| AND (|Progressive Crossbow:2| OR |Progressive Sword:2| OR |Progressive Axes:2| OR |Progressive Mace:2| OR |Progressive Spear:2|) AND ((|@Tier 1 Frost| AND {OptOne(Frost Magic)}) OR (|@Tier 1 Chaos| AND {OptOne(Chaos Magic)}) OR (|Blood Rage| AND {OptOne(Blood Magic)}))"
+        "requires": ""
     },
   "Act 1-4a": {
     "connects_to": [
@@ -102,14 +102,14 @@
       "Firestarter",
       "Putrid Rat"
     ],
-    "requires": "|Grayson the Armourer| AND |Goreswine the Ravager|"
+    "requires": ""
   },
   "Act 1-5a": {
     "connects_to": [
       "Act 1-6a",
       "Fisherman"
     ],
-    "requires": "|Lidia the Chaos Archer| AND |Clive the Firestarter| AND |Nibbles the Putrid Rat| AND (|@Rings| OR |Merciless Copper| OR |Tier 1 Armor (3)|)"
+    "requires": ""
   },
   "Act 1-6a": {
     "connects_to": [
@@ -118,86 +118,86 @@
       "Ferocious Bear",
       "The Fallen"
     ],
-    "requires": "|Finn the Fisherman| AND ((|@Rings| AND |Merciless Copper|) OR (|@Rings| AND |Tier 1 Armor (3)|) OR (|Merciless Copper| AND |Tier 1 Armor (3)|) OR |Tier 1 Armor|)"
+    "requires": ""
   },
   "Act 1-7a": {
     "connects_to": [
       "Bandit King"
     ],
-    "requires": "|Polora the Feywalker| AND |Kodia the Ferocious Bear| AND |Nicholaus the Fallen| AND |@Rings| AND |Merciless Copper| AND |Tier 1 Armor (3)|"
+    "requires": ""
   },
   "White Wolf": {
     "connects_to": [],
-    "requires": "|Alpha the White Wolf|"
+    "requires": ""
   },
   "Frost Archer": {
     "connects_to": [],
-    "requires": "|Keely the Frost Archer|"
+    "requires": ""
   },
   "Stonebreaker": {
     "connects_to": [],
-    "requires": "|Errol the Stonebreaker|"
+    "requires": ""
   },
   "Foreman": {
     "connects_to": [],
-    "requires": "|Rufus the Foreman|"
+    "requires": ""
   },
   "Armourer": {
     "connects_to": [],
-    "requires": "|Grayson the Armourer|"
+    "requires": ""
   },
   "Ravager": {
     "connects_to": [],
-    "requires": "|Goreswine the Ravager|"
+    "requires": ""
   },
   "Putrid Rat": {
     "connects_to": [],
-    "requires": "|Nibbles the Putrid Rat|"
+    "requires": ""
   },
   "Chaos Archer": {
     "connects_to": [],
-    "requires": "|Lidia the Chaos Archer|"
+    "requires": ""
   },
   "Firestarter": {
     "connects_to": [],
-    "requires": "|Clive the Firestarter|"
+    "requires": ""
   },
   "Fisherman": {
     "connects_to": [],
-    "requires": "|Finn the Fisherman|"
+    "requires": ""
   },
   "Feywalker": {
     "connects_to": [],
-    "requires": "|Polora the Feywalker|"
+    "requires": ""
   },
   "Ferocious Bear": {
     "connects_to": [],
-    "requires": "|Kodia the Ferocious Bear|"
+    "requires": ""
   },
   "The Fallen": {
     "connects_to": [],
-    "requires": "|Nicholaus the Fallen|"
+    "requires": ""
   },
   "Bandit King": {
     "connects_to": [
       "Act 2",
       "Act 2 Alt"
     ],
-    "requires": "|Quincey the Bandit King| AND (|Clive the Firestarter| OR |Kodia the Ferocious Bear|) AND |@EarlyBloodType|"
+    "requires": ""
   },
   "Act 2": {
     "connects_to": [
       "Act 2-1",
       "Dunley Farmlands"
     ],
-    "requires": "{YamlDisabled(Progressive_Bosses)}"
+    "requires": ""
   },
   "Act 2 Alt": {
     "connects_to": [
       "Act 2-1a",
       "Dunley Farmlands"
     ],
-    "requires": "{YamlEnabled(Progressive_Bosses)}"
+    "requires": ""
   },
   "Act 2-1": {
     "connects_to": [
@@ -207,7 +207,7 @@
       "Sun Priestess",
       "Tristan"
     ],
-    "requires": "|Progressive Sword:3| OR |Progressive Axes:3| OR |Progressive Mace:3| OR |Progressive Spear:3| OR (|Progressive Crossbow:3| AND |Rufus the Foreman|) OR (|Progressive Longbow:2| AND |Lidia the Chaos Archer|)"
+    "requires": "|Quincey the Bandit King (Smithy)|"
   },
   "Act 2-2": {
     "connects_to": [
@@ -217,7 +217,7 @@
       "Shadow Priestess",
       "Dark Savant"
     ],
-    "requires": "|Beatrice the Tailor| AND |Christina the Sun Priestess|"
+    "requires": ""
   },
   "Act 2-3": {
     "connects_to": [
@@ -226,7 +226,7 @@
       "Glassblower",
       "Bright Archer"
     ],
-    "requires": "|Leandra the Shadow Priestess| OR |Merciless Iron 1|"
+    "requires": "|Maja the Dark Savant (Study)|"
   },
   "Act 2-4": {
     "connects_to": [
@@ -237,14 +237,14 @@
       "Ruins of Mortium",
       "Hallowed Mountains"
     ],
-    "requires": "|Leandra the Shadow Priestess| AND (|Merciless Iron 2| OR |@Pendants|)"
+    "requires": ""
   },
   "Act 2-5": {
     "connects_to": [
       "Act 2-6",
       "Cursed Champion"
     ],
-    "requires": "(|Merciless Iron 3| AND |@Pendants|) OR (|Merciless Iron 3| AND |Tier 2 Armor (2)| OR (|@Pendants| AND |Tier 2 Armor (2)|)"
+    "requires": ""
   },
   "Act 2-6": {
     "connects_to": [
@@ -254,14 +254,14 @@
       "Shepherd",
       "Militia Captain"
     ],
-    "requires": "|Merciless Iron 4| AND |@Pendants| AND |Tier 2 Armor (2)|"
+    "requires": ""
   },
   "Act 2-1a": {
     "connects_to": [
       "Act 2-2a",
       "Tailor"
     ],
-    "requires": "|Progressive Sword:3| OR |Progressive Axes:3| OR |Progressive Mace:3| OR |Progressive Spear:3| OR |Progressive Crossbow:3| OR |Progressive Longbow:2|"
+    "requires": ""
   },
   "Act 2-2a": {
     "connects_to": [
@@ -270,14 +270,14 @@
       "Sun Priestess",
       "Tristan"
     ],
-    "requires": "|Beatrice the Tailor|"
+    "requires": ""
   },
   "Act 2-3a": {
     "connects_to": [
       "Act 2-4a",
       "Gallant Cavalier"
     ],
-    "requires": "|Vincent the Frostbringer| AND |Christina the Sun Priestess| AND |Tristan the Vampire Hunter|"
+    "requires": ""
   },
   "Act 2-4a": {
     "connects_to": [
@@ -286,7 +286,7 @@
       "Shadow Priestess",
       "Dark Savant"
     ],
-    "requires": "|Sir Erwin the Gallant Cavalier|"
+    "requires": ""
   },
   "Act 2-5a": {
     "connects_to": [
@@ -295,7 +295,7 @@
       "Glassblower",
       "Bright Archer"
     ],
-    "requires": "|Kriig the Undead General| AND |Leandra the Shadow Priestess| AND |Maja the Dark Savant|"
+    "requires": ""
   },
   "Act 2-6a": {
     "connects_to": [
@@ -306,14 +306,14 @@
       "Ruins of Mortium",
       "Hallowed Mountains"
     ],
-    "requires": "|Bane the Shadowblade| AND |Grethel the Glassblower| AND |Meredith the Bright Archer| AND (|Merciless Iron 2| OR |@Pendants|)"
+    "requires": ""
   },
   "Act 2-7a": {
     "connects_to": [
       "Act 2-8a",
       "Cursed Champion"
     ],
-    "requires": "|Terah the Geomancer| AND |Frostmaw the Mountain Terror| AND |General Elena the Hollow| AND ((|Merciless Iron 3| AND |@Pendants|) OR (|Merciless Iron 3| AND |Tier 2 Armor (2)| OR (|@Pendants| AND |Tier 2 Armor (2)|))"
+    "requires": ""
   },
   "Act 2-8a": {
     "connects_to": [
@@ -322,92 +322,92 @@
       "Jade",
       "Shepherd"
     ],
-    "requires": "|Gaius the Cursed Champion| AND |Merciless Iron 4| AND |@Pendants| AND |Tier 2 Armor (2)|"
+    "requires": ""
   },
   "Act 2-9a": {
     "connects_to": [
       "Militia Captain",
       "Act 3 Alt"
     ],
-    "requires": "|General Cassius the Betrayer| AND |Jade the Vampire Hunter| AND |Raziel the Shepherd|"
+    "requires": ""
   },
   "Tailor": {
     "connects_to": [],
-    "requires": "|Beatrice the Tailor|"
+    "requires": ""
   },
   "Frostbringer": {
     "connects_to": [],
-    "requires": "|Vincent the Frostbringer|"
+    "requires": ""
   },
   "Sun Priestess": {
     "connects_to": [],
-    "requires": "|Christina the Sun Priestess|"
+    "requires": ""
   },
   "Tristan": {
     "connects_to": [],
-    "requires": "|Tristan the Vampire Hunter|"
+    "requires": ""
   },
   "Gallant Cavalier": {
     "connects_to": [],
-    "requires": "|Sir Erwin the Gallant Cavalier|"
+    "requires": ""
   },
   "Undead General": {
     "connects_to": [],
-    "requires": "|Kriig the Undead General|"
+    "requires": ""
   },
   "Shadow Priestess": {
     "connects_to": [],
-    "requires": "|Leandra the Shadow Priestess|"
+    "requires": ""
   },
   "Dark Savant": {
     "connects_to": [
         "Study"
     ],
-    "requires": "|Maja the Dark Savant|"
+    "requires": ""
   },
   "Shadowblade": {
     "connects_to": [],
-    "requires": "|Bane the Shadowblade|"
+    "requires": ""
   },
   "Glassblower": {
     "connects_to": [],
-    "requires": "|Grethel the Glassblower|"
+    "requires": ""
   },
   "Bright Archer": {
     "connects_to": [],
-    "requires": "|Meredith the Bright Archer|"
+    "requires": ""
   },
   "Geomancer": {
     "connects_to": [],
-    "requires": "|Terah the Geomancer|"
+    "requires": ""
   },
   "The Hollow": {
     "connects_to": [],
-    "requires": "|General Elena the Hollow|"
+    "requires": ""
   },
   "Mountain Terror": {
     "connects_to": [],
-    "requires": "|Frostmaw the Mountain Terror|"
+    "requires": ""
   },
   "Cursed Champion": {
     "connects_to": [],
-    "requires": "|Gaius the Cursed Champion|"
+    "requires": ""
   },
   "The Betrayer": {
     "connects_to": [],
-    "requires": "|General Cassius the Betrayer|"
+    "requires": ""
   },
   "Jade": {
     "connects_to": [],
-    "requires": "|Jade the Vampire Hunter|"
+    "requires": ""
   },
   "Shepherd": {
     "connects_to": [],
-    "requires": "|Raziel the Shepherd| AND |Clive the Firestarter| AND |Meredith the Bright Archer|"
+    "requires": ""
   },
   "Militia Captain": {
     "connects_to": [],
-    "requires": "|Octavian the Militia Captain|"
+    "requires": ""
   },
   "Act 3": {
     "connects_to": [
@@ -416,14 +416,14 @@
       "Blade Dancer",
       "Gloomrot South"
     ],
-    "requires": "(|Octavian the Militia Captain| AND {YamlEnabled(Act2_Goal)}) OR {YamlDisabled(Act2_Goal)}"
+    "requires": ""
   },
   "Act 3-1": {
     "connects_to": [
       "Act 3-2",
       "Purifier"
     ],
-    "requires": "|Tier 2 Armor| OR |Ancestral Weapon|"
+    "requires": ""
   },
   "Act 3-2": {
     "connects_to": [
@@ -433,7 +433,7 @@
       "Soultaker",
       "Cursed Forest"
     ],
-    "requires": "|Ben the Old Wanderer| AND |Jade the Vampire Hunter| AND |Tristan the Vampire Hunter| AND |Ziva the Engineer| AND |Octavian the Militia Captain| AND |Grethel the Glassblower|"
+    "requires": ""
   },
   "Act 3-3": {
     "connects_to": [
@@ -442,45 +442,45 @@
       "Cursed Smith",
       "Act 4"
     ],
-    "requires": "|Ungora the Spider Queen| AND |Angram the Purifier|"
+    "requires": ""
   },
   "Engineer": {
     "connects_to": [],
-    "requires": "|Ziva the Engineer|"
+    "requires": ""
   },
   "Blade Dancer": {
     "connects_to": [],
-    "requires": "|Domina the Blade Dancer|"
+    "requires": ""
   },
   "Purifier": {
     "connects_to": [],
-    "requires": "|Angram the Purifier|"
+    "requires": ""
   },
   "Spider Queen": {
     "connects_to": [],
-    "requires": "|Ungora the Spider Queen|"
+    "requires": ""
   },
   "Old Wanderer": {
     "connects_to": [],
-    "requires": "|Ben the Old Wanderer|"
+    "requires": ""
   },
   "Soultaker": {
     "connects_to": [],
-    "requires": "|Foulrot the Soultaker|"
+    "requires": ""
   },
   "Duke of Balaton": {
     "connects_to": [],
-    "requires": "|Albert the Duke of Balaton|"
+    "requires": ""
   },
   "Werewolf Chief": {
     "connects_to": [],
-    "requires": "|Willfred the Werewolf Chief|"
+    "requires": ""
   },
   "Cursed Smith": {
     "connects_to": [
       "Act 4 Alt"
     ],
-    "requires": "|Cyril the Cursed Smith|"
+    "requires": ""
   },
   "Act 3 Alt": {
     "connects_to": [
@@ -489,14 +489,14 @@
       "Blade Dancer",
       "Gloomrot South"
     ],
-    "requires": "|Octavian the Militia Captain|"
+    "requires": ""
   },
   "Act 3-1a": {
     "connects_to": [
       "Act 3-2a",
       "Purifier"
     ],
-    "requires": "|Ziva the Engineer| AND |Domina the Blade Dancer| AND |Tier 2 Armor|"
+    "requires": ""
   },
   "Act 3-2a": {
     "connects_to": [
@@ -506,7 +506,7 @@
       "Soultaker",
       "Cursed Forest"
     ],
-    "requires": "|Angram the Purifier|"
+    "requires": ""
   },
   "Act 3-3a": {
     "connects_to": [
@@ -514,13 +514,13 @@
       "Duke of Balaton",
       "Werewolf Chief"
     ],
-    "requires": "|Ungora the Spider Queen| AND |Ben the Old Wanderer| AND |Foulrot the Soultaker|"
+    "requires": ""
   },
   "Act 3-4a": {
     "connects_to": [
       "Cursed Smith"
     ],
-    "requires": "|Albert the Duke of Balaton| AND |Willfred the Werewolf Chief|"
+    "requires": ""
   },
   "Act 4": {
     "connects_to": [
@@ -528,7 +528,7 @@
       "Overseer",
       "Silverlight Hills"
     ],
-    "requires": "{YamlDisabled(Progressive_Bosses)}"
+    "requires": "|Cyril the Cursed Smith (Dark Silver Ingot)|"
   },
   "Act 4-1": {
     "connects_to": [
@@ -537,7 +537,7 @@
       "Stormwing Matriarch",
       "Elementalist"
     ],
-    "requires": "|Cyril the Cursed Smith| AND |Willfred the Werewolf Chief| AND |Foulrot the Soultaker| AND (|Progressive Sword:5| OR |Progressive Axes:5| OR |Progressive Mace:5| OR |Progressive Spear:5| OR (|Progressive Reaper:3| AND |Kriig the Undead General|) OR |Progressive Greatsword:3| OR |Progressive Claws:3| OR (|Progressive Twinblade:3| AND |Gaius the Cursed Champion|) OR (|Progressive Crossbow:5| AND |Rufus the Foreman|) OR (|Progressive Longbow:4| AND |Lidia the Chaos Archer|) OR (|Progressive Daggers:3| AND |Bane the Shadowblade|) OR |Progressive Pistols:3| OR (|Domina the Blade Dancer| AND |Progressive Whip:3|)"
+    "requires": ""
   },
   "Act 4-2": {
     "connects_to": [
@@ -551,7 +551,7 @@
       "Gloomrot North",
       "Oakveil Woodlands"
     ],
-    "requires": "|Baron du Bouchon the Sommelier|"
+    "requires": ""
   },
   "Act 4-3": {
     "connects_to": [
@@ -559,7 +559,7 @@
       "Sunbringer",
       "Power Master"
     ],
-    "requires": "|Henry Blackbrew the Doctor| AND |Matka the Curse Weaver|"
+    "requires": "|Henry Blackbrew the Doctor (Athenaeum)|"
   },
   "Act 4-4": {
     "connects_to": [
@@ -570,7 +570,7 @@
       "The Depraved",
       "Behemoth"
     ],
-    "requires": "|Azariel the Sunbringer| AND |Mairwyn the Elementalist|"
+    "requires": ""
   },
   "Act 4-5": {
     "connects_to": [
@@ -578,7 +578,7 @@
       "The Immaculate",
       "Winged Horror"
     ],
-    "requires": "|Voltatia the Power Master| AND |Lord Styx the Night Champion| AND |Dantos the Forgebinder|"
+    "requires": ""
   },
   "Act 4-6": {
     "connects_to": [
@@ -586,7 +586,7 @@
       "Serpent Queen",
       "Immortal King"
     ],
-    "requires": "|Gorecrusher the Behemoth| AND |General Valencia the Depraved| AND |Terrorclaw the Ogre|"
+    "requires": ""
   },
   "Act 4 Alt": {
     "connects_to": [
@@ -594,7 +594,7 @@
       "Overseer",
       "Silverlight Hills"
     ],
-    "requires": "{YamlEnabled(Progressive_Bosses)} AND (|Progressive Whip:2| OR |Progressive Sword:4| OR |Progressive Axes:4| OR |Progressive Mace:4| OR |Progressive Spear:4| OR |Progressive Reaper:2| OR |Progressive Greatsword:2| OR |Progressive Claws:2| OR |Progressive Twinblade:2| OR |Progressive Crossbow:4| OR |Progressive Longbow:3| OR |Progressive Daggers:2| OR |Progressive Pistols:2|)"
+    "requires": ""
   },
   "Act 4-1a": {
     "connects_to": [
@@ -603,7 +603,7 @@
       "Stormwing Matriarch",
       "Elementalist"
     ],
-    "requires": "|Sir Magnus the Overseer|"
+    "requires": ""
   },
   "Act 4-2a": {
     "connects_to": [
@@ -611,7 +611,7 @@
       "Doctor",
       "Gloomrot North"
     ],
-    "requires": "|Baron du Bouchon the Sommelier| AND |Morian the Stormwing Matriarch| AND |Mairwyn the Elementalist|"
+    "requires": ""
   },
   "Act 4-3a": {
     "connects_to": [
@@ -620,7 +620,7 @@
       "Carver",
       "Oakveil Woodlands"
     ],
-    "requires": "|Henry Blackbrew the Doctor|"
+    "requires": ""
   },
   "Act 4-4a": {
     "connects_to": [
@@ -629,7 +629,7 @@
       "Curse Weaver",
       "Ogre"
     ],
-    "requires": "|Jakira the Shadow Huntress| AND |Stavros the Carver|"
+    "requires": ""
   },
   "Act 4-5a": {
     "connects_to": [
@@ -637,21 +637,21 @@
       "Sunbringer",
       "Power Master"
     ],
-    "requires": "|Lucile the Venom Alchemist| AND |Matka the Curse Weaver| AND |Terrorclaw the Ogre|"
+    "requires": ""
   },
   "Act 4-6a": {
     "connects_to": [
       "Act 4-7a",
       "Simon Belmont"
     ],
-    "requires": "|Azariel the Sunbringer| AND |Voltatia the Power Master|"
+    "requires": ""
   },
   "Act 4-7a": {
     "connects_to": [
       "Act 4-8a",
       "Forgebinder"
     ],
-    "requires": "|Simon Belmont the Vampire Hunter|"
+    "requires": ""
   },
   "Act 4-8a": {
     "connects_to": [
@@ -660,7 +660,7 @@
       "The Depraved",
       "Behemoth"
     ],
-    "requires": "|Dantos the Forgebinder|"
+    "requires": ""
   },
   "Act 4-9a": {
     "connects_to": [
@@ -668,7 +668,7 @@
       "The Immaculate",
       "Winged Horror"
     ],
-    "requires": "|Lord Styx the Night Champion| AND |General Valencia the Depraved| AND |Gorecrusher the Behemoth|"
+    "requires": ""
   },
   "Act 4-10a": {
     "connects_to": [
@@ -676,97 +676,97 @@
       "Serpent Queen",
       "Immortal King"
     ],
-    "requires": "|Solarus the Immaculate| AND |Talzur the Winged Horror|"
+    "requires": ""
   },
   "Overseer": {
     "connects_to": [],
-    "requires": "|Sir Magnus the Overseer|"
+    "requires": ""
   },
   "Sommelier": {
     "connects_to": [],
-    "requires": "|Baron du Bouchon the Sommelier|"
+    "requires": ""
   },
   "Stormwing Matriarch": {
     "connects_to": [],
-    "requires": "|Morian the Stormwing Matriarch|"
+    "requires": ""
   },
   "Elementalist": {
     "connects_to": [],
-    "requires": "|Mairwyn the Elementalist|"
+    "requires": ""
   },
   "Doctor": {
     "connects_to": [
         "Athenaeum"
     ],
-    "requires": "|Henry Blackbrew the Doctor|"
+    "requires": ""
   },
   "Shadow Huntress": {
     "connects_to": [],
-    "requires": "|Jakira the Shadow Huntress|"
+    "requires": ""
   },
   "Carver": {
     "connects_to": [],
-    "requires": "|Stavros the Carver|"
+    "requires": ""
   },
   "Venom Alchemist": {
     "connects_to": [],
-    "requires": "|Lucile the Venom Alchemist|"
+    "requires": ""
   },
   "Curse Weaver": {
     "connects_to": [],
-    "requires": "|Matka the Curse Weaver|"
+    "requires": ""
   },
   "Ogre": {
     "connects_to": [],
-    "requires": "|Terrorclaw the Ogre|"
+    "requires": ""
   },
   "Sunbringer": {
     "connects_to": [],
-    "requires": "|Azariel the Sunbringer| AND |Mairwyn the Elementalist|"
+    "requires": ""
   },
   "Power Master": {
     "connects_to": [],
-    "requires": "|Voltatia the Power Master|"
+    "requires": ""
   },
   "Simon Belmont": {
     "connects_to": [],
-    "requires": "|Simon Belmont the Vampire Hunter|"
+    "requires": ""
   },
   "Forgebinder": {
     "connects_to": [],
-    "requires": "|Dantos the Forgebinder|"
+    "requires": ""
   },
   "Night Champion": {
     "connects_to": [],
-    "requires": "|Lord Styx the Night Champion|"
+    "requires": ""
   },
   "The Depraved": {
     "connects_to": [],
-    "requires": "|General Valencia the Depraved|"
+    "requires": ""
   },
   "Behemoth": {
     "connects_to": [],
-    "requires": "|Gorecrusher the Behemoth|"
+    "requires": ""
   },
   "The Immaculate": {
     "connects_to": [],
-    "requires": "|Solarus the Immaculate|"
+    "requires": ""
   },
   "Winged Horror": {
     "connects_to": [],
-    "requires": "|Talzur the Winged Horror| AND |Lord Styx the Night Champion|"
+    "requires": ""
   },
   "Firstborn": {
     "connects_to": [],
-    "requires": "|Adam the Firstborn| AND |Voltatia the Power Master|"
+    "requires": ""
   },
   "Serpent Queen": {
     "connects_to": [],
-    "requires": "|Megara the Serpent Queen|"
+    "requires": ""
   },
   "Immortal King": {
     "connects_to": [],
-    "requires": "|@DracBoss:all| AND |Dracula the Immortal King|"
+    "requires": "|Solarus the Immaculate (Dracula's Boots)| AND |Talzur the Winged Horror (Dracula's Gloves)| AND |Adam the Firstborn (Dracula's Chestguard)| AND |Megara the Serpent Queen (Dracula's Leggings)|"
   },
   "Farbane Woods": {
     "connects_to": [],
@@ -814,96 +814,96 @@
     "connects_to": [
       "J2"
     ],
-    "requires": "|Progressive Sword|"
+    "requires": ""
   },
   "J2": {
     "connects_to": [
       "J3"
     ],
-    "requires": "|Progressive Axes| AND |Progressive Mace|"
+    "requires": ""
   },
   "J3": {
     "connects_to": [
       "J4"
     ],
-    "requires": "|Alpha the White Wolf|"
+    "requires": ""
   },
   "J4": {
     "connects_to": [
      "J5",
      "Research Desk"
     ],
-   "requires": "(|Keely Defeated| AND |Errol Defeated| AND ((|@Tier 1 Frost| AND {OptOne(Frost Magic)}) or (|@Tier 1 Chaos| AND {OptOne(Chaos Magic)}))) OR (|Rufus Defeated| AND |Keely Defeated| AND ((|@Tier 1 Frost| AND {OptOne(Frost Magic)}) or (|Blood Rage| AND {OptOne(Blood Magic)}))) OR (|Errol Defeated| and |Rufus Defeated| AND ((|Blood Rage| AND {OptOne(Blood Magic)}) or (|@Tier 1 Chaos| AND {OptOne(Chaos Magic)})))"
+   "requires": ""
   },
   "J5": {
     "connects_to": [
       "J6"
     ],
-    "requires": "|Keely Defeated|"
+    "requires": ""
   },
   "J6": {
     "connects_to": [
       "J7"
     ],
-    "requires": "|Quincey Defeated|"
+    "requires": ""
   },
   "J7": {
     "connects_to": [
       "J8"
     ],
-    "requires": "|Vincent Defeated|"
+    "requires": ""
   },
   "J8": {
     "connects_to": [
       "J9"
     ],
-    "requires": "|Nicholaus Defeated|"
+    "requires": ""
   },
   "J9": {
     "connects_to": [
       "J10"
     ],
-    "requires": "|Grethel Defeated| AND |Tristan Defeated|"
+    "requires": ""
   },
   "J10": {
     "connects_to": [
       "J11"
     ],
-    "requires": "|Leandra Defeated|"
+    "requires": ""
   },
   "J11": {
     "connects_to": [
       "J12"
     ],
-    "requires": "|Ziva Defeated| AND |Jade Defeated|"
+    "requires": ""
   },
   "J12": {
     "connects_to": [
       "J13"
     ],
-    "requires": "|Voltatia Defeated|"
+    "requires": ""
   },
   "J13": {
     "connects_to": [
       "J14"
     ],
-    "requires": "|Azariel Defeated|"
+    "requires": ""
   },
   "J14": {
     "connects_to": [],
-    "requires": "|Dracula Defeated|"
+    "requires": ""
   },
   "Research Desk": {
     "connects_to": [],
-    "requires": "|@Knowledge - Research Desk|"
+    "requires": ""
   },
   "Study": {
     "connects_to": [],
-    "requires": "|Vincent Defeated| AND |@Knowledge - Study|"
+    "requires": ""
   },
   "Athenaeum": {
     "connects_to": [],
-    "requires": "|@Knowledge - Athenaeum|"
+    "requires": ""
   },
   "Goal": {
     "starting": true,
