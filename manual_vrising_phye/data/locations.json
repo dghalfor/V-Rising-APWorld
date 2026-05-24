@@ -27,14 +27,6 @@
     "requires": ""
   },
   {
-    "name": "Keely the Frost Archer (Leather)",
-    "region": "Frost Archer",
-    "category": [
-      "Act 1 Bosses"
-    ],
-    "requires": ""
-  },
-  {
     "name": "Keely the Frost Archer (Empty Waterskin)",
     "region": "Frost Archer",
     "category": [
@@ -311,14 +303,6 @@
     "category": [
       "Act 1 Bosses",
       "Act1Bosse"
-    ],
-    "requires": "|Goreswine the Ravager (Gravedigger Ring)|"
-  },
-  {
-    "name": "Kodia the Ferocious Bear (Hunting Trophy)",
-    "region": "Ferocious Bear",
-    "category": [
-      "Act 1 Bosses"
     ],
     "requires": "|Goreswine the Ravager (Gravedigger Ring)|"
   },
@@ -722,14 +706,6 @@
     "requires": "|Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
-    "name": "General Elena the Hollow (Passive Slot)",
-    "region": "The Hollow",
-    "category": [
-      "Act 2 Bosses"
-    ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
-  },
-  {
     "name": "General Elena the Hollow (Altar of Stygian Awakening)",
     "region": "The Hollow",
     "category": [
@@ -809,14 +785,6 @@
     "category": [
       "Act 2 Bosses",
       "LostSouls"
-    ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
-  },
-  {
-    "name": "General Cassius the Betrayer (Passive Slot)",
-    "region": "The Betrayer",
-    "category": [
-      "Act 2 Bosses"
     ],
     "requires": "|Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
@@ -1098,14 +1066,6 @@
     "requires": "|Quincey the Bandit King (Smithy)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
-    "name": "Cyril the Cursed Smith (Passive Slot)",
-    "region": "Cursed Smith",
-    "category": [
-      "Act 3 Bosses"
-    ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
-  },
-  {
     "name": "Cyril the Cursed Smith (Dark Silver Ingot)",
     "region": "Cursed Smith",
     "category": [
@@ -1256,14 +1216,6 @@
     "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
-    "name": "Jakira the Shadow Huntress (Passive Slot)",
-    "region": "Shadow Huntress",
-    "category": [
-      "Act 4 Bosses"
-    ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
-  },
-  {
     "name": "Jakira the Shadow Huntress (Elixir of the Twisted)",
     "region": "Shadow Huntress",
     "category": [
@@ -1403,14 +1355,6 @@
     "category": [
       "Act 4 Bosses",
       "LostSouls"
-    ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
-  },
-  {
-    "name": "Simon Belmont the Vampire Hunter (Passive Slot)",
-    "region": "Simon Belmont",
-    "category": [
-      "Act 4 Bosses"
     ],
     "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
@@ -1626,7 +1570,9 @@
   {
     "name": "Dracula the Immortal King (Pedestal of Dracula)",
     "region": "Immortal King",
+    "victory": true,
     "category": [
+      "Goal",
       "Act 5 Boss"
     ],
     "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
@@ -2023,7 +1969,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Maja the Dark Savant (Study)|"
+    "requires": "|Maja the Dark Savant (Study)| AND |Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Study - Learn Wrangler's Potion",
@@ -2031,7 +1977,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Maja the Dark Savant (Study)|"
+    "requires": "|Maja the Dark Savant (Study)| AND |Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Study - Learn Garlic Resistance Potion",
@@ -2039,7 +1985,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Maja the Dark Savant (Study)|"
+    "requires": "|Maja the Dark Savant (Study)| AND |Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Study - Learn Pendant of the Warrior",
@@ -2047,7 +1993,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Maja the Dark Savant (Study)|"
+    "requires": "|Maja the Dark Savant (Study)| AND |Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Study - Learn Pendant of the Sorcerer",
@@ -2055,7 +2001,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Maja the Dark Savant (Study)|"
+    "requires": "|Maja the Dark Savant (Study)| AND |Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Study - Learn Pendant of the Dawnrunner",
@@ -2063,7 +2009,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Maja the Dark Savant (Study)|"
+    "requires": "|Maja the Dark Savant (Study)| AND |Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Study - Learn Pendant of the Spellweaver",
@@ -2071,7 +2017,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Maja the Dark Savant (Study)|"
+    "requires": "|Maja the Dark Savant (Study)| AND |Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Study - Learn Pendant of the Warlock",
@@ -2079,7 +2025,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Maja the Dark Savant (Study)|"
+    "requires": "|Maja the Dark Savant (Study)| AND |Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Study - Learn Pendant of the Duskwatcher",
@@ -2087,7 +2033,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Maja the Dark Savant (Study)|"
+    "requires": "|Maja the Dark Savant (Study)| AND |Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Study - Learn Merciless Iron Sword",
@@ -2095,7 +2041,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Maja the Dark Savant (Study)|"
+    "requires": "|Maja the Dark Savant (Study)| AND |Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Study - Learn Merciless Iron Axes",
@@ -2103,7 +2049,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Maja the Dark Savant (Study)|"
+    "requires": "|Maja the Dark Savant (Study)| AND |Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Study - Learn Merciless Iron Mace",
@@ -2111,7 +2057,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Maja the Dark Savant (Study)|"
+    "requires": "|Maja the Dark Savant (Study)| AND |Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Study - Learn Merciless Iron Spear",
@@ -2119,7 +2065,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Maja the Dark Savant (Study)|"
+    "requires": "|Maja the Dark Savant (Study)| AND |Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Study - Learn Merciless Iron Reaper",
@@ -2127,7 +2073,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Maja the Dark Savant (Study)|"
+    "requires": "|Maja the Dark Savant (Study)| AND |Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Study - Learn Merciless Iron Crossbow",
@@ -2135,7 +2081,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Maja the Dark Savant (Study)|"
+    "requires": "|Maja the Dark Savant (Study)| AND |Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Study - Learn Merciless Iron Longbow",
@@ -2143,7 +2089,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Maja the Dark Savant (Study)|"
+    "requires": "|Maja the Dark Savant (Study)| AND |Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Study - Learn Merciless Iron Greatsword",
@@ -2151,7 +2097,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Maja the Dark Savant (Study)|"
+    "requires": "|Maja the Dark Savant (Study)| AND |Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Study - Learn Merciless Iron Daggers",
@@ -2159,7 +2105,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Maja the Dark Savant (Study)|"
+    "requires": "|Maja the Dark Savant (Study)| AND |Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Study - Learn Merciless Iron Twinblade",
@@ -2167,7 +2113,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Maja the Dark Savant (Study)|"
+    "requires": "|Maja the Dark Savant (Study)| AND |Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Study - Learn Merciless Iron Claws",
@@ -2175,7 +2121,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Maja the Dark Savant (Study)|"
+    "requires": "|Maja the Dark Savant (Study)| AND |Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Study - Learn Merciless Iron Pistols",
@@ -2183,7 +2129,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Maja the Dark Savant (Study)|"
+    "requires": "|Maja the Dark Savant (Study)| AND |Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Study - Learn Merciless Iron Slashers",
@@ -2192,7 +2138,7 @@
       "Knowledge - Study",
       "Act4"
     ],
-    "requires": "|Maja the Dark Savant (Study)|"
+    "requires": "|Maja the Dark Savant (Study)| AND |Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Study - Learn Merciless Iron Whip",
@@ -2201,7 +2147,7 @@
       "Knowledge - Study",
       "Act3"
     ],
-    "requires": "|Maja the Dark Savant (Study)|"
+    "requires": "|Maja the Dark Savant (Study)| AND |Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Study - Learn Duskwatcher Chestguard",
@@ -2209,7 +2155,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Maja the Dark Savant (Study)|"
+    "requires": "|Maja the Dark Savant (Study)| AND |Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Study - Learn Duskwatcher Leggings",
@@ -2217,7 +2163,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Maja the Dark Savant (Study)|"
+    "requires": "|Maja the Dark Savant (Study)| AND |Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Study - Learn Duskwatcher Boots",
@@ -2225,7 +2171,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Maja the Dark Savant (Study)|"
+    "requires": "|Maja the Dark Savant (Study)| AND |Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Study - Learn Duskwatcher Gloves",
@@ -2233,7 +2179,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Maja the Dark Savant (Study)|"
+    "requires": "|Maja the Dark Savant (Study)| AND |Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Study - Learn Crimson Templar Chestguard",
@@ -2241,7 +2187,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Maja the Dark Savant (Study)|"
+    "requires": "|Maja the Dark Savant (Study)| AND |Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Study - Learn Crimson Templar Leggings",
@@ -2249,7 +2195,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Maja the Dark Savant (Study)|"
+    "requires": "|Maja the Dark Savant (Study)| AND |Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Study - Learn Crimson Templar Boots",
@@ -2257,7 +2203,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Maja the Dark Savant (Study)|"
+    "requires": "|Maja the Dark Savant (Study)| AND |Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Study - Learn Crimson Templar Gloves",
@@ -2265,7 +2211,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Maja the Dark Savant (Study)|"
+    "requires": "|Maja the Dark Savant (Study)| AND |Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Study - Learn Blood Hunter Chestguard",
@@ -2273,7 +2219,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Maja the Dark Savant (Study)|"
+    "requires": "|Maja the Dark Savant (Study)| AND |Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Study - Learn Blood Hunter Leggings",
@@ -2281,7 +2227,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Maja the Dark Savant (Study)|"
+    "requires": "|Maja the Dark Savant (Study)| AND |Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Study - Learn Blood Hunter Boots",
@@ -2289,7 +2235,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Maja the Dark Savant (Study)|"
+    "requires": "|Maja the Dark Savant (Study)| AND |Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Study - Learn Blood Hunter Gloves",
@@ -2297,7 +2243,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Maja the Dark Savant (Study)|"
+    "requires": "|Maja the Dark Savant (Study)| AND |Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Study - Learn Dark Magus Chestguard",
@@ -2305,7 +2251,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Maja the Dark Savant (Study)|"
+    "requires": "|Maja the Dark Savant (Study)| AND |Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Study - Learn Dark Magus Leggings",
@@ -2313,7 +2259,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Maja the Dark Savant (Study)|"
+    "requires": "|Maja the Dark Savant (Study)| AND |Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Study - Learn Dark Magus Boots",
@@ -2321,7 +2267,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Maja the Dark Savant (Study)|"
+    "requires": "|Maja the Dark Savant (Study)| AND |Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Study - Learn Dark Magus Gloves",
@@ -2329,7 +2275,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Maja the Dark Savant (Study)|"
+    "requires": "|Maja the Dark Savant (Study)| AND |Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Study - Learn Tailor's Flooring",
@@ -2337,7 +2283,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Maja the Dark Savant (Study)|"
+    "requires": "|Maja the Dark Savant (Study)| AND |Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Study - Learn Library Flooring",
@@ -2345,7 +2291,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Maja the Dark Savant (Study)|"
+    "requires": "|Maja the Dark Savant (Study)| AND |Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Study - Learn Assortment of Storage Lockers",
@@ -2353,7 +2299,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Maja the Dark Savant (Study)|"
+    "requires": "|Maja the Dark Savant (Study)| AND |Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Study - Learn Assortment of Fine Braziers",
@@ -2361,7 +2307,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Maja the Dark Savant (Study)|"
+    "requires": "|Maja the Dark Savant (Study)| AND |Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Study - Learn Assortment of Fine Candle Stands",
@@ -2369,7 +2315,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Maja the Dark Savant (Study)|"
+    "requires": "|Maja the Dark Savant (Study)| AND |Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Study - Learn Assortment of Castle Chairs",
@@ -2377,7 +2323,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Maja the Dark Savant (Study)|"
+    "requires": "|Maja the Dark Savant (Study)| AND |Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Study - Learn Fireplaces",
@@ -2385,7 +2331,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Maja the Dark Savant (Study)|"
+    "requires": "|Maja the Dark Savant (Study)| AND |Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Study - Learn Cobblestone Paths",
@@ -2393,7 +2339,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Maja the Dark Savant (Study)|"
+    "requires": "|Maja the Dark Savant (Study)| AND |Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Study - Learn Dux Carpet Collection",
@@ -2401,7 +2347,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Maja the Dark Savant (Study)|"
+    "requires": "|Maja the Dark Savant (Study)| AND |Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Study - Learn Noble Fences & Fountains",
@@ -2409,7 +2355,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Maja the Dark Savant (Study)|"
+    "requires": "|Maja the Dark Savant (Study)| AND |Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Study - Learn Fine Dining Table Collection",
@@ -2417,7 +2363,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Maja the Dark Savant (Study)|"
+    "requires": "|Maja the Dark Savant (Study)| AND |Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Study - Learn Hanging Lanterns",
@@ -2425,7 +2371,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Maja the Dark Savant (Study)|"
+    "requires": "|Maja the Dark Savant (Study)| AND |Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Study - Learn Banners",
@@ -2433,7 +2379,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Maja the Dark Savant (Study)|"
+    "requires": "|Maja the Dark Savant (Study)| AND |Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Study - Learn Modest Garden Planters",
@@ -2441,7 +2387,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Maja the Dark Savant (Study)|"
+    "requires": "|Maja the Dark Savant (Study)| AND |Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Study - Learn Garden Furniture and Lanterns",
@@ -2449,7 +2395,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Maja the Dark Savant (Study)|"
+    "requires": "|Maja the Dark Savant (Study)| AND |Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Study - Learn Prison Walls",
@@ -2457,7 +2403,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Maja the Dark Savant (Study)|"
+    "requires": "|Maja the Dark Savant (Study)| AND |Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Study - Learn Cordial Wall Panels",
@@ -2465,7 +2411,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Maja the Dark Savant (Study)|"
+    "requires": "|Maja the Dark Savant (Study)| AND |Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Study - Learn Assortment of Workshop Decorations",
@@ -2473,7 +2419,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Maja the Dark Savant (Study)|"
+    "requires": "|Maja the Dark Savant (Study)| AND |Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Study - Learn Assortment of Desks",
@@ -2481,7 +2427,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Maja the Dark Savant (Study)|"
+    "requires": "|Maja the Dark Savant (Study)| AND |Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Study - Learn Assortment of Desk Chairs",
@@ -2489,7 +2435,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Maja the Dark Savant (Study)|"
+    "requires": "|Maja the Dark Savant (Study)| AND |Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Athenaeum - Learn Potion of Rage",
@@ -2497,7 +2443,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Henry Blackbrew the Doctor (Athenaeum)|"
+    "requires": "|Henry Blackbrew the Doctor (Athenaeum)| AND |Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Athenaeum - Learn Witch Potion",
@@ -2505,7 +2451,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Henry Blackbrew the Doctor (Athenaeum)|"
+    "requires": "|Henry Blackbrew the Doctor (Athenaeum)| AND |Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Athenaeum - Learn Amulet of the Crimson Commander",
@@ -2513,7 +2459,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Henry Blackbrew the Doctor (Athenaeum)|"
+    "requires": "|Henry Blackbrew the Doctor (Athenaeum)| AND |Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Athenaeum - Learn Amulet of the Wicked Prophet",
@@ -2521,7 +2467,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Henry Blackbrew the Doctor (Athenaeum)|"
+    "requires": "|Henry Blackbrew the Doctor (Athenaeum)| AND |Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Athenaeum - Learn Amulet of the Unyielding Charger",
@@ -2529,7 +2475,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Henry Blackbrew the Doctor (Athenaeum)|"
+    "requires": "|Henry Blackbrew the Doctor (Athenaeum)| AND |Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Athenaeum - Learn Amulet of the Master Spellweaver",
@@ -2537,7 +2483,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Henry Blackbrew the Doctor (Athenaeum)|"
+    "requires": "|Henry Blackbrew the Doctor (Athenaeum)| AND |Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Athenaeum - Learn Amulet of the Arch-Warlock",
@@ -2545,7 +2491,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Henry Blackbrew the Doctor (Athenaeum)|"
+    "requires": "|Henry Blackbrew the Doctor (Athenaeum)| AND |Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Athenaeum - Learn Amulet of the Blademaster",
@@ -2553,7 +2499,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Henry Blackbrew the Doctor (Athenaeum)|"
+    "requires": "|Henry Blackbrew the Doctor (Athenaeum)| AND |Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Athenaeum - Learn Sanguine Sword",
@@ -2561,7 +2507,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Henry Blackbrew the Doctor (Athenaeum)|"
+    "requires": "|Henry Blackbrew the Doctor (Athenaeum)| AND |Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Athenaeum - Learn Sanguine Axes",
@@ -2569,7 +2515,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Henry Blackbrew the Doctor (Athenaeum)|"
+    "requires": "|Henry Blackbrew the Doctor (Athenaeum)| AND |Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Athenaeum - Learn Sanguine Mace",
@@ -2577,7 +2523,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Henry Blackbrew the Doctor (Athenaeum)|"
+    "requires": "|Henry Blackbrew the Doctor (Athenaeum)| AND |Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Athenaeum - Learn Sanguine Spear",
@@ -2585,7 +2531,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Henry Blackbrew the Doctor (Athenaeum)|"
+    "requires": "|Henry Blackbrew the Doctor (Athenaeum)| AND |Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Athenaeum - Learn Sanguine Crossbow",
@@ -2593,7 +2539,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Henry Blackbrew the Doctor (Athenaeum)|"
+    "requires": "|Henry Blackbrew the Doctor (Athenaeum)| AND |Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Athenaeum - Learn Sanguine Longbow",
@@ -2601,7 +2547,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Henry Blackbrew the Doctor (Athenaeum)|"
+    "requires": "|Henry Blackbrew the Doctor (Athenaeum)| AND |Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Athenaeum - Learn Sanguine Reaper",
@@ -2609,7 +2555,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Henry Blackbrew the Doctor (Athenaeum)|"
+    "requires": "|Henry Blackbrew the Doctor (Athenaeum)| AND |Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Athenaeum - Learn Sanguine Greatsword",
@@ -2617,7 +2563,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Henry Blackbrew the Doctor (Athenaeum)|"
+    "requires": "|Henry Blackbrew the Doctor (Athenaeum)| AND |Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Athenaeum - Learn Sanguine Daggers",
@@ -2625,7 +2571,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Henry Blackbrew the Doctor (Athenaeum)|"
+    "requires": "|Henry Blackbrew the Doctor (Athenaeum)| AND |Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Athenaeum - Learn Sanguine Twinblade",
@@ -2633,7 +2579,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Henry Blackbrew the Doctor (Athenaeum)|"
+    "requires": "|Henry Blackbrew the Doctor (Athenaeum)| AND |Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Athenaeum - Learn Sanguine Claws",
@@ -2641,7 +2587,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Henry Blackbrew the Doctor (Athenaeum)|"
+    "requires": "|Henry Blackbrew the Doctor (Athenaeum)| AND |Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Athenaeum - Learn Sanguine Pistols",
@@ -2649,7 +2595,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Henry Blackbrew the Doctor (Athenaeum)|"
+    "requires": "|Henry Blackbrew the Doctor (Athenaeum)| AND |Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Athenaeum - Learn Sanguine Slashers",
@@ -2657,7 +2603,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Henry Blackbrew the Doctor (Athenaeum)|"
+    "requires": "|Henry Blackbrew the Doctor (Athenaeum)| AND |Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Athenaeum - Learn Shadowmoon Chestguard",
@@ -2665,7 +2611,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Henry Blackbrew the Doctor (Athenaeum)|"
+    "requires": "|Henry Blackbrew the Doctor (Athenaeum)| AND |Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Athenaeum - Learn Shadowmoon Leggings",
@@ -2673,7 +2619,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Henry Blackbrew the Doctor (Athenaeum)|"
+    "requires": "|Henry Blackbrew the Doctor (Athenaeum)| AND |Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Athenaeum - Learn Shadowmoon Gloves",
@@ -2681,7 +2627,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Henry Blackbrew the Doctor (Athenaeum)|"
+    "requires": "|Henry Blackbrew the Doctor (Athenaeum)| AND |Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Athenaeum - Learn Shadowmoon Boots",
@@ -2689,7 +2635,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Henry Blackbrew the Doctor (Athenaeum)|"
+    "requires": "|Henry Blackbrew the Doctor (Athenaeum)| AND |Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Athenaeum - Learn Grim Knight Chestguard",
@@ -2697,7 +2643,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Henry Blackbrew the Doctor (Athenaeum)|"
+    "requires": "|Henry Blackbrew the Doctor (Athenaeum)| AND |Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Athenaeum - Learn Grim Knight Leggings",
@@ -2705,7 +2651,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Henry Blackbrew the Doctor (Athenaeum)|"
+    "requires": "|Henry Blackbrew the Doctor (Athenaeum)| AND |Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Athenaeum - Learn Grim Knight Gloves",
@@ -2713,7 +2659,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Henry Blackbrew the Doctor (Athenaeum)|"
+    "requires": "|Henry Blackbrew the Doctor (Athenaeum)| AND |Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Athenaeum - Learn Grim Knight Boots",
@@ -2721,7 +2667,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Henry Blackbrew the Doctor (Athenaeum)|"
+    "requires": "|Henry Blackbrew the Doctor (Athenaeum)| AND |Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Athenaeum - Learn Dread Plate Chestguard",
@@ -2729,7 +2675,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Henry Blackbrew the Doctor (Athenaeum)|"
+    "requires": "|Henry Blackbrew the Doctor (Athenaeum)| AND |Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Athenaeum - Learn Dread Plate Leggings",
@@ -2737,7 +2683,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Henry Blackbrew the Doctor (Athenaeum)|"
+    "requires": "|Henry Blackbrew the Doctor (Athenaeum)| AND |Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Athenaeum - Learn Dread Plate Gloves",
@@ -2745,7 +2691,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Henry Blackbrew the Doctor (Athenaeum)|"
+    "requires": "|Henry Blackbrew the Doctor (Athenaeum)| AND |Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Athenaeum - Learn Dread Plate Boots",
@@ -2753,7 +2699,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Henry Blackbrew the Doctor (Athenaeum)|"
+    "requires": "|Henry Blackbrew the Doctor (Athenaeum)| AND |Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Athenaeum - Learn Maleficer Scholar Chestguard",
@@ -2761,7 +2707,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Henry Blackbrew the Doctor (Athenaeum)|"
+    "requires": "|Henry Blackbrew the Doctor (Athenaeum)| AND |Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Athenaeum - Learn Maleficer Scholar Leggings",
@@ -2769,7 +2715,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Henry Blackbrew the Doctor (Athenaeum)|"
+    "requires": "|Henry Blackbrew the Doctor (Athenaeum)| AND |Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Athenaeum - Learn Maleficer Scholar Gloves",
@@ -2777,7 +2723,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Henry Blackbrew the Doctor (Athenaeum)|"
+    "requires": "|Henry Blackbrew the Doctor (Athenaeum)| AND |Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Athenaeum - Learn Maleficer Scholar Boots",
@@ -2785,7 +2731,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Henry Blackbrew the Doctor (Athenaeum)|"
+    "requires": "|Henry Blackbrew the Doctor (Athenaeum)| AND |Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Athenaeum - Learn Assortment of Cabinets",
@@ -2793,7 +2739,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Henry Blackbrew the Doctor (Athenaeum)|"
+    "requires": "|Henry Blackbrew the Doctor (Athenaeum)| AND |Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Athenaeum - Learn Assortment of Great Braziers",
@@ -2801,7 +2747,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Henry Blackbrew the Doctor (Athenaeum)|"
+    "requires": "|Henry Blackbrew the Doctor (Athenaeum)| AND |Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Athenaeum - Learn Distinguished Carpet Collection",
@@ -2809,7 +2755,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Henry Blackbrew the Doctor (Athenaeum)|"
+    "requires": "|Henry Blackbrew the Doctor (Athenaeum)| AND |Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Athenaeum - Learn Assortment of Royal Curtains",
@@ -2817,7 +2763,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Henry Blackbrew the Doctor (Athenaeum)|"
+    "requires": "|Henry Blackbrew the Doctor (Athenaeum)| AND |Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Athenaeum - Learn Sofa & Divan Collection",
@@ -2825,7 +2771,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Henry Blackbrew the Doctor (Athenaeum)|"
+    "requires": "|Henry Blackbrew the Doctor (Athenaeum)| AND |Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Athenaeum - Learn Dressing Tables & Folding Walls",
@@ -2833,7 +2779,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Henry Blackbrew the Doctor (Athenaeum)|"
+    "requires": "|Henry Blackbrew the Doctor (Athenaeum)| AND |Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Athenaeum - Learn Lamp Posts",
@@ -2841,7 +2787,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Henry Blackbrew the Doctor (Athenaeum)|"
+    "requires": "|Henry Blackbrew the Doctor (Athenaeum)| AND |Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Athenaeum - Learn Flying Lights",
@@ -2849,7 +2795,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Henry Blackbrew the Doctor (Athenaeum)|"
+    "requires": "|Henry Blackbrew the Doctor (Athenaeum)| AND |Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Athenaeum - Learn Garden Archways & Pergolas",
@@ -2857,7 +2803,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Henry Blackbrew the Doctor (Athenaeum)|"
+    "requires": "|Henry Blackbrew the Doctor (Athenaeum)| AND |Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Athenaeum - Learn Large Fountain",
@@ -2865,7 +2811,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Henry Blackbrew the Doctor (Athenaeum)|"
+    "requires": "|Henry Blackbrew the Doctor (Athenaeum)| AND |Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Athenaeum - Learn Stately Stone Walls",
@@ -2873,7 +2819,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Henry Blackbrew the Doctor (Athenaeum)|"
+    "requires": "|Henry Blackbrew the Doctor (Athenaeum)| AND |Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
     {
     "name": "Blood Rage",

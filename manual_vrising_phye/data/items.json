@@ -20,15 +20,6 @@
   },
   {
     "count": "1",
-    "name": "Keely the Frost Archer (Leather)",
-    "region": "Frost Archer",
-    "category": [
-      "Act 1 Bosses"
-    ],
-    "progression": true
-  },
-  {
-    "count": "1",
     "name": "Keely the Frost Archer (Empty Waterskin)",
     "region": "Frost Archer",
     "category": [
@@ -337,15 +328,6 @@
     "category": [
       "Act 1 Bosses",
       "Act1Bosse"
-    ],
-    "progression": true
-  },
-  {
-    "count": "1",
-    "name": "Kodia the Ferocious Bear (Hunting Trophy)",
-    "region": "Ferocious Bear",
-    "category": [
-      "Act 1 Bosses"
     ],
     "progression": true
   },
@@ -1624,15 +1606,6 @@
   {
     "count": "1",
     "name": "Gorecrusher the Behemoth (Bat Leather)",
-    "region": "Behemoth",
-    "category": [
-      "Act 4 Bosses"
-    ],
-    "progression": true
-  },
-  {
-    "count": "1",
-    "name": "Gorecrusher the Behemoth (Bat Leather Bag)",
     "region": "Behemoth",
     "category": [
       "Act 4 Bosses"
