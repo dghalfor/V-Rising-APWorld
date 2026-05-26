@@ -1451,14 +1451,6 @@
     "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
-    "name": "Gorecrusher the Behemoth (Bat Leather Bag)",
-    "region": "Behemoth",
-    "category": [
-      "Act 4 Bosses"
-    ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
-  },
-  {
     "name": "Gorecrusher the Behemoth (Lost Soul)",
     "region": "Behemoth",
     "category": [
@@ -1570,7 +1562,6 @@
   {
     "name": "Dracula the Immortal King (Pedestal of Dracula)",
     "region": "Immortal King",
-    "victory": true,
     "category": [
       "Goal",
       "Act 5 Boss"
@@ -2599,7 +2590,7 @@
   },
   {
     "name": "Athenaeum - Learn Sanguine Slashers",
-    "region": "Athenaeum", 
+    "region": "Athenaeum",
     "category": [
       "Knowledge - Athenaeum"
     ],
@@ -2821,7 +2812,7 @@
     ],
     "requires": "|Henry Blackbrew the Doctor (Athenaeum)| AND |Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
-    {
+  {
     "name": "Blood Rage",
     "category": [
       "Spellbook - Blood Magic"
@@ -3233,6 +3224,6 @@
     "category": [
       "Goal"
     ],
-    "requires": "|Dracula Defeated|"
+    "requires": "|Dracula the Immortal King (Pedestal of Dracula)|"
   }
 ]
