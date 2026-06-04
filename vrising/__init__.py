@@ -103,12 +103,17 @@ class ManualWorld(World):
 
         create_events(self, self.multiworld, self.player)
 
-        location_game_complete = self.multiworld.get_location(victory_names[get_option_value(self.multiworld, self.player, 'goal')], self.player)
+        goal_value = get_option_value(self.multiworld, self.player, 'goal')
+
+        if isinstance(goal_value, str):
+            # UT re-gen passthrough: slot_data stored the resolved name already
+            victory_location_name = goal_value if goal_value in victory_names else victory_names[0]
+        else:
+            # Normal generation: goal_value is an integer index
+            victory_location_name = victory_names[int(goal_value)]
+
+        location_game_complete = self.multiworld.get_location(victory_location_name, self.player)
         location_game_complete.address = None
-
-        for unused_goal in [self.multiworld.get_location(name, self.player) for name in victory_names if name != location_game_complete.name]:
-            unused_goal.parent_region.locations.remove(unused_goal)
-
         location_game_complete.place_locked_item(
             ManualItem("__Victory__", ItemClassification.progression, None, player=self.player))
 
@@ -419,7 +424,7 @@ class ManualWorld(World):
             if option_key in common_options:
                 continue
             slot_data[option_key] = get_option_value(self.multiworld, self.player, option_key)
-
+        slot_data["goal"] = victory_names[get_option_value(self.multiworld, self.player, "goal")]
         slot_data["visible_events"] = {}
         for _, event in self.event_name_to_event.items():
             event_name = event["name"]

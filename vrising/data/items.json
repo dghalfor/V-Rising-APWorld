@@ -556,6 +556,15 @@
   },
   {
     "count": "1",
+    "name": "Sir Erwin the Gallant Cavalier (Stables Furnishing Decor)",
+    "region": "Gallant Cavalier",
+    "category": [
+      "Act 2 Bosses"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
     "name": "Sir Erwin the Gallant Cavalier (Lost Soul)",
     "region": "Gallant Cavalier",
     "category": [
@@ -1731,15 +1740,6 @@
     "category": [
       "Act 4 Bosses",
       "LostSouls"
-    ],
-    "progression": true
-  },
-  {
-    "count": "1",
-    "name": "Dracula the Immortal King (Pedestal of Dracula)",
-    "region": "Immortal King",
-    "category": [
-      "Act 5 Boss"
     ],
     "progression": true
   },

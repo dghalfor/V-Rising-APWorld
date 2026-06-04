@@ -27,6 +27,15 @@
     "requires": ""
   },
   {
+    "name": "Keely the Frost Archer (Frost Tier 1)",
+    "region": "Frost Archer",
+    "category": [
+      "Act 1 Bosses",
+      "Act1Bosse"
+    ],
+    "requires": ""
+  },
+  {
     "name": "Keely the Frost Archer (Empty Waterskin)",
     "region": "Frost Archer",
     "category": [
@@ -61,6 +70,15 @@
     "requires": ""
   },
   {
+    "name": "Errol the Stonebreaker (Chaos Tier 1)",
+    "region": "Stonebreaker",
+    "category": [
+      "Act 1 Bosses",
+      "Act1Bosse"
+    ],
+    "requires": ""
+  },
+  {
     "name": "Errol the Stonebreaker (Lost Soul)",
     "region": "Stonebreaker",
     "category": [
@@ -87,6 +105,15 @@
     "requires": ""
   },
   {
+    "name": "Rufus the Foreman (Blood Tier 1)",
+    "region": "Foreman",
+    "category": [
+      "Act 1 Bosses",
+      "Act1Bosse"
+    ],
+    "requires": ""
+  },
+  {
     "name": "Rufus the Foreman (Lost Soul)",
     "region": "Foreman",
     "category": [
@@ -109,6 +136,15 @@
     "region": "Armourer",
     "category": [
       "Act 1 Bosses"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Grayson the Armourer (Illusion Tier 1)",
+    "region": "Armourer",
+    "category": [
+      "Act 1 Bosses",
+      "Act1Bosse"
     ],
     "requires": ""
   },
@@ -142,6 +178,15 @@
     "region": "Ravager",
     "category": [
       "Act 1 Bosses"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Goreswine the Ravager (Unholy Tier 1)",
+    "region": "Ravager",
+    "category": [
+      "Act 1 Bosses",
+      "Act1Bosse"
     ],
     "requires": ""
   },
@@ -206,6 +251,15 @@
     "requires": "|Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
+    "name": "Lidia the Chaos Archer (Chaos Tier 1)",
+    "region": "Chaos Archer",
+    "category": [
+      "Act 1 Bosses",
+      "Act1Bosse"
+    ],
+    "requires": "|Goreswine the Ravager (Gravedigger Ring)|"
+  },
+  {
     "name": "Lidia the Chaos Archer (Lost Soul)",
     "region": "Chaos Archer",
     "category": [
@@ -223,6 +277,15 @@
     "requires": "|Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
+    "name": "Clive the Firestarter (Chaos Tier 2)",
+    "region": "Firestarter",
+    "category": [
+      "Act 1 Bosses",
+      "Act1Bosse"
+    ],
+    "requires": "|Goreswine the Ravager (Gravedigger Ring)|"
+  },
+  {
     "name": "Clive the Firestarter (Lost Soul)",
     "region": "Firestarter",
     "category": [
@@ -236,6 +299,15 @@
     "region": "Fisherman",
     "category": [
       "Act 1 Bosses"
+    ],
+    "requires": "|Goreswine the Ravager (Gravedigger Ring)|"
+  },
+  {
+    "name": "Finn the Fisherman (Frost Tier 1)",
+    "region": "Fisherman",
+    "category": [
+      "Act 1 Bosses",
+      "Act1Bosse"
     ],
     "requires": "|Goreswine the Ravager (Gravedigger Ring)|"
   },
@@ -269,6 +341,15 @@
     "region": "Feywalker",
     "category": [
       "Act 1 Bosses"
+    ],
+    "requires": "|Goreswine the Ravager (Gravedigger Ring)|"
+  },
+  {
+    "name": "Polora the Feywalker (Illusion Tier 1)",
+    "region": "Feywalker",
+    "category": [
+      "Act 1 Bosses",
+      "Act1Bosse"
     ],
     "requires": "|Goreswine the Ravager (Gravedigger Ring)|"
   },
@@ -332,6 +413,15 @@
     "requires": "|Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
+    "name": "Nicholaus the Fallen (Unholy Tier 3)",
+    "region": "The Fallen",
+    "category": [
+      "Act 1 Bosses",
+      "Act1Bosse"
+    ],
+    "requires": "|Goreswine the Ravager (Gravedigger Ring)|"
+  },
+  {
     "name": "Nicholaus the Fallen (Assortment of Simple Candle Stands)",
     "region": "The Fallen",
     "category": [
@@ -367,10 +457,21 @@
   {
     "name": "Quincey the Bandit King (Smithy)",
     "region": "Bandit King",
+    "victory": true,
     "category": [
+      "Goal",
       "Act 1 Bosses"
     ],
-    "requires": "|Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Goreswine the Ravager (Gravedigger Ring)| AND (|Lord Styx the Night Champion (Bat Form)| OR |Kodia the Ferocious Bear (Bear Form)| OR |Clive the Firestarter (Alchemy Table)|)"
+  },
+  {
+    "name": "Quincey the Bandit King (Chaos Tier 3)",
+    "region": "Bandit King",
+    "category": [
+      "Act 1 Bosses",
+      "Act1Bosse"
+    ],
+    "requires": "|Goreswine the Ravager (Gravedigger Ring)| AND (|Lord Styx the Night Champion (Bat Form)| OR |Kodia the Ferocious Bear (Bear Form)| OR |Clive the Firestarter (Alchemy Table)|)"
   },
   {
     "name": "Quincey the Bandit King (Ebonite Stairs & Doors)",
@@ -378,7 +479,7 @@
     "category": [
       "Act 1 Bosses"
     ],
-    "requires": "|Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Goreswine the Ravager (Gravedigger Ring)| AND (|Lord Styx the Night Champion (Bat Form)| OR |Kodia the Ferocious Bear (Bear Form)| OR |Clive the Firestarter (Alchemy Table)|)"
   },
   {
     "name": "Quincey the Bandit King (Hollowfang Battlegear)",
@@ -386,7 +487,7 @@
     "category": [
       "Act 1 Bosses"
     ],
-    "requires": "|Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Goreswine the Ravager (Gravedigger Ring)| AND (|Lord Styx the Night Champion (Bat Form)| OR |Kodia the Ferocious Bear (Bear Form)| OR |Clive the Firestarter (Alchemy Table)|)"
   },
   {
     "name": "Quincey the Bandit King (Lost Soul)",
@@ -395,7 +496,7 @@
       "Act 1 Bosses",
       "LostSouls"
     ],
-    "requires": "|Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Goreswine the Ravager (Gravedigger Ring)| AND (|Lord Styx the Night Champion (Bat Form)| OR |Kodia the Ferocious Bear (Bear Form)| OR |Clive the Firestarter (Alchemy Table)|)"
   },
   {
     "name": "Beatrice the Tailor (Loom)",
@@ -464,6 +565,14 @@
     "requires": "|Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
+    "name": "Christina the Sun Priestess (Illusion Tier 2)",
+    "region": "Sun Priestess",
+    "category": [
+      "Act 2 Bosses"
+    ],
+    "requires": "|Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+  },
+  {
     "name": "Christina the Sun Priestess (Lost Soul)",
     "region": "Sun Priestess",
     "category": [
@@ -489,6 +598,14 @@
     "requires": "|Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
+    "name": "Tristan the Vampire Hunter (Blood Tier 3)",
+    "region": "Tristan",
+    "category": [
+      "Act 2 Bosses"
+    ],
+    "requires": "|Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+  },
+  {
     "name": "Tristan the Vampire Hunter (Lost Soul)",
     "region": "Tristan",
     "category": [
@@ -499,6 +616,22 @@
   },
   {
     "name": "Sir Erwin the Gallant Cavalier (Stables)",
+    "region": "Gallant Cavalier",
+    "category": [
+      "Act 2 Bosses"
+    ],
+    "requires": "|Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+  },
+  {
+    "name": "Sir Erwin the Gallant Cavalier (Stables Furnishing Decor)",
+    "region": "Gallant Cavalier",
+    "category": [
+      "Act 2 Bosses"
+    ],
+    "requires": "|Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+  },
+  {
+    "name": "Sir Erwin the Gallant Cavalier (Storm Tier 1)",
     "region": "Gallant Cavalier",
     "category": [
       "Act 2 Bosses"
@@ -531,6 +664,14 @@
     "requires": "|Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
+    "name": "Kriig the Undead General (Unholy Tier 2)",
+    "region": "Undead General",
+    "category": [
+      "Act 2 Bosses"
+    ],
+    "requires": "|Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+  },
+  {
     "name": "Kriig the Undead General (Skeleton Priest)",
     "region": "Undead General",
     "category": [
@@ -556,6 +697,14 @@
     "requires": "|Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
+    "name": "Leandra the Shadow Priestess (Unholy Tier 1)",
+    "region": "Shadow Priestess",
+    "category": [
+      "Act 2 Bosses"
+    ],
+    "requires": "|Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+  },
+  {
     "name": "Leandra the Shadow Priestess (Lost Soul)",
     "region": "Shadow Priestess",
     "category": [
@@ -574,6 +723,14 @@
   },
   {
     "name": "Maja the Dark Savant (Verdant Garden Fencing)",
+    "region": "Dark Savant",
+    "category": [
+      "Act 2 Bosses"
+    ],
+    "requires": "|Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+  },
+  {
+    "name": "Maja the Dark Savant (Illusion Tier 1)",
     "region": "Dark Savant",
     "category": [
       "Act 2 Bosses"
@@ -639,6 +796,14 @@
     "requires": "|Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
+    "name": "Grethel the Glassblower (Storm Tier 1)",
+    "region": "Glassblower",
+    "category": [
+      "Act 2 Bosses"
+    ],
+    "requires": "|Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+  },
+  {
     "name": "Grethel the Glassblower (Glass)",
     "region": "Glassblower",
     "category": [
@@ -674,6 +839,14 @@
   },
   {
     "name": "Terah the Geomancer (Gem Cutting Table)",
+    "region": "Geomancer",
+    "category": [
+      "Act 2 Bosses"
+    ],
+    "requires": "|Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+  },
+  {
+    "name": "Terah the Geomancer (Unholy Tier 3)",
     "region": "Geomancer",
     "category": [
       "Act 2 Bosses"
@@ -722,6 +895,14 @@
     "requires": "|Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
+    "name": "General Elena the Hollow (Frost Tier 2)",
+    "region": "The Hollow",
+    "category": [
+      "Act 2 Bosses"
+    ],
+    "requires": "|Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+  },
+  {
     "name": "General Elena the Hollow (Lost Soul)",
     "region": "The Hollow",
     "category": [
@@ -740,6 +921,14 @@
   },
   {
     "name": "Frostmaw the Mountain Terror (Claws)",
+    "region": "Mountain Terror",
+    "category": [
+      "Act 2 Bosses"
+    ],
+    "requires": "|Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+  },
+  {
+    "name": "Frostmaw the Mountain Terror (Frost Tier 3)",
     "region": "Mountain Terror",
     "category": [
       "Act 2 Bosses"
@@ -780,6 +969,14 @@
     "requires": "|Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
+    "name": "Gaius the Cursed Champion (Unholy Tier 1)",
+    "region": "Cursed Champion",
+    "category": [
+      "Act 2 Bosses"
+    ],
+    "requires": "|Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+  },
+  {
     "name": "Gaius the Cursed Champion (Lost Soul)",
     "region": "Cursed Champion",
     "category": [
@@ -790,6 +987,14 @@
   },
   {
     "name": "General Cassius the Betrayer (Stygian Summoning Circle)",
+    "region": "The Betrayer",
+    "category": [
+      "Act 2 Bosses"
+    ],
+    "requires": "|Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+  },
+  {
+    "name": "General Cassius the Betrayer (Unholy Tier 2)",
     "region": "The Betrayer",
     "category": [
       "Act 2 Bosses"
@@ -837,7 +1042,7 @@
     "category": [
       "Act 2 Bosses"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Clive the Firestarter (Alchemy Table)| AND |Meredith the Bright Archer (Holy Resistance Potion)| AND |Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Raziel the Shepherd (Cordial Stairs & Doors)",
@@ -845,7 +1050,15 @@
     "category": [
       "Act 2 Bosses"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Clive the Firestarter (Alchemy Table)| AND |Meredith the Bright Archer (Holy Resistance Potion)| AND |Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+  },
+  {
+    "name": "Raziel the Shepherd (Blood Tier 2)",
+    "region": "Shepherd",
+    "category": [
+      "Act 2 Bosses"
+    ],
+    "requires": "|Clive the Firestarter (Alchemy Table)| AND |Meredith the Bright Archer (Holy Resistance Potion)| AND |Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Raziel the Shepherd (Lost Soul)",
@@ -854,11 +1067,12 @@
       "Act 2 Bosses",
       "LostSouls"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Clive the Firestarter (Alchemy Table)| AND |Meredith the Bright Archer (Holy Resistance Potion)| AND |Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Octavian the Militia Captain (Ancestral Forge)",
     "region": "Militia Captain",
+    "victory": true,
     "category": [
       "Act 2 Bosses"
     ],
@@ -881,6 +1095,14 @@
     "requires": "|Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
+    "name": "Octavian the Militia Captain (Storm Tier 3)",
+    "region": "Militia Captain",
+    "category": [
+      "Act 2 Bosses"
+    ],
+    "requires": "|Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+  },
+  {
     "name": "Octavian the Militia Captain (Lost Soul)",
     "region": "Shepherd",
     "category": [
@@ -891,6 +1113,14 @@
   },
   {
     "name": "Ziva the Engineer (Fabricator)",
+    "region": "Engineer",
+    "category": [
+      "Act 3 Bosses"
+    ],
+    "requires": "|Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+  },
+  {
+    "name": "Ziva the Engineer (Storm Tier 2)",
     "region": "Engineer",
     "category": [
       "Act 3 Bosses"
@@ -916,6 +1146,14 @@
   },
   {
     "name": "Domina the Blade Dancer (Iron Whip)",
+    "region": "Blade Dancer",
+    "category": [
+      "Act 3 Bosses"
+    ],
+    "requires": "|Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+  },
+  {
+    "name": "Domina the Blade Dancer (Storm Tier 2)",
     "region": "Blade Dancer",
     "category": [
       "Act 3 Bosses"
@@ -956,6 +1194,14 @@
     "requires": "|Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
+    "name": "Angram the Purifier (Chaos Tier 3)",
+    "region": "Purifier",
+    "category": [
+      "Act 3 Bosses"
+    ],
+    "requires": "|Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+  },
+  {
     "name": "Angram the Purifier (Lost Soul)",
     "region": "Purifier",
     "category": [
@@ -966,6 +1212,14 @@
   },
   {
     "name": "Ungora the Spider Queen (Silk)",
+    "region": "Spider Queen",
+    "category": [
+      "Act 3 Bosses"
+    ],
+    "requires": "|Quincey the Bandit King (Smithy)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+  },
+  {
+    "name": "Ungora the Spider Queen (Unholy Tier 3)",
     "region": "Spider Queen",
     "category": [
       "Act 3 Bosses"
@@ -990,6 +1244,14 @@
     "requires": "|Quincey the Bandit King (Smithy)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
+    "name": "Ben the Old Wanderer (Frost Tier 1)",
+    "region": "Old Wanderer",
+    "category": [
+      "Act 3 Bosses"
+    ],
+    "requires": "|Quincey the Bandit King (Smithy)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+  },
+  {
     "name": "Ben the Old Wanderer (Lost Soul)",
     "region": "Old Wanderer",
     "category": [
@@ -1000,6 +1262,14 @@
   },
   {
     "name": "Foulrot the Soultaker (Spectral Dust)",
+    "region": "Soultaker",
+    "category": [
+      "Act 3 Bosses"
+    ],
+    "requires": "|Quincey the Bandit King (Smithy)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+  },
+  {
+    "name": "Foulrot the Soultaker (Unholy Tier 2)",
     "region": "Soultaker",
     "category": [
       "Act 3 Bosses"
@@ -1057,6 +1327,14 @@
     "requires": "|Quincey the Bandit King (Smithy)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
+    "name": "Willfred the Werewolf Chief (Blood Tier 3)",
+    "region": "Werewolf Chief",
+    "category": [
+      "Act 3 Bosses"
+    ],
+    "requires": "|Quincey the Bandit King (Smithy)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+  },
+  {
     "name": "Willfred the Werewolf Chief (Lost Soul)",
     "region": "Werewolf Chief",
     "category": [
@@ -1068,6 +1346,7 @@
   {
     "name": "Cyril the Cursed Smith (Dark Silver Ingot)",
     "region": "Cursed Smith",
+    "victory": true,
     "category": [
       "Act 3 Bosses"
     ],
@@ -1092,6 +1371,14 @@
   },
   {
     "name": "Sir Magnus the Overseer (Phantom's Veil)",
+    "region": "Overseer",
+    "category": [
+      "Act 4 Bosses"
+    ],
+    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+  },
+  {
+    "name": "Sir Magnus the Overseer (Frost Tier 1)",
     "region": "Overseer",
     "category": [
       "Act 4 Bosses"
@@ -1140,6 +1427,14 @@
     "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
+    "name": "Baron du Bouchon the Sommelier (Blood Tier 2)",
+    "region": "Sommelier",
+    "category": [
+      "Act 4 Bosses"
+    ],
+    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+  },
+  {
     "name": "Baron du Bouchon the Sommelier (Lost Soul)",
     "region": "Sommelier",
     "category": [
@@ -1150,6 +1445,14 @@
   },
   {
     "name": "Morian the Stormwing Matriarch (Flawless Gems)",
+    "region": "Stormwing Matriarch",
+    "category": [
+      "Act 4 Bosses"
+    ],
+    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+  },
+  {
+    "name": "Morian the Stormwing Matriarch (Chaos Tier 1)",
     "region": "Stormwing Matriarch",
     "category": [
       "Act 4 Bosses"
@@ -1190,6 +1493,14 @@
     "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
+    "name": "Mairwyn the Elementalist (Storm Tier 1)",
+    "region": "Elementalist",
+    "category": [
+      "Act 4 Bosses"
+    ],
+    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+  },
+  {
     "name": "Mairwyn the Elementalist (Lost Soul)",
     "region": "Elementalist",
     "category": [
@@ -1200,6 +1511,14 @@
   },
   {
     "name": "Henry Blackbrew the Doctor (Athenaeum)",
+    "region": "Doctor",
+    "category": [
+      "Act 4 Bosses"
+    ],
+    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+  },
+  {
+    "name": "Henry Blackbrew the Doctor (Storm Tier 3)",
     "region": "Doctor",
     "category": [
       "Act 4 Bosses"
@@ -1232,6 +1551,14 @@
     "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
+    "name": "Jakira the Shadow Huntress (Illusion Tier 2)",
+    "region": "Shadow Huntress",
+    "category": [
+      "Act 4 Bosses"
+    ],
+    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+  },
+  {
     "name": "Jakira the Shadow Huntress (Lost Soul)",
     "region": "Shadow Huntress",
     "category": [
@@ -1257,6 +1584,14 @@
     "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
+    "name": "Stavros the Carver (Chaos Tier 2)",
+    "region": "Carver",
+    "category": [
+      "Act 4 Bosses"
+    ],
+    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+  },
+  {
     "name": "Stavros the Carver (Lost Soul)",
     "region": "Carver",
     "category": [
@@ -1267,6 +1602,14 @@
   },
   {
     "name": "Lucile the Venom Alchemist (Blood Homogenizer)",
+    "region": "Venom Alchemist",
+    "category": [
+      "Act 4 Bosses"
+    ],
+    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+  },
+  {
+    "name": "Lucile the Venom Alchemist (Blood Tier 2)",
     "region": "Venom Alchemist",
     "category": [
       "Act 4 Bosses"
@@ -1291,6 +1634,14 @@
     "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
+    "name": "Matka the Curse Weaver (Illusion Tier 2)",
+    "region": "Curse Weaver",
+    "category": [
+      "Act 4 Bosses"
+    ],
+    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+  },
+  {
     "name": "Matka the Curse Weaver (Lost Soul)",
     "region": "Curse Weaver",
     "category": [
@@ -1301,6 +1652,14 @@
   },
   {
     "name": "Terrorclaw the Ogre (Advanced Tannery)",
+    "region": "Ogre",
+    "category": [
+      "Act 4 Bosses"
+    ],
+    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+  },
+  {
+    "name": "Terrorclaw the Ogre (Frost Tier 3)",
     "region": "Ogre",
     "category": [
       "Act 4 Bosses"
@@ -1322,7 +1681,7 @@
     "category": [
       "Act 4 Bosses"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Clive the Firestarter (Alchemy Table)| AND |Meredith the Bright Archer (Holy Resistance Potion)| AND |Mairwyn the Elementalist (Holy Resistance Flask)| AND |Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Azariel the Sunbringer (Gold Ingot)",
@@ -1330,7 +1689,15 @@
     "category": [
       "Act 4 Bosses"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Clive the Firestarter (Alchemy Table)| AND |Meredith the Bright Archer (Holy Resistance Potion)| AND |Mairwyn the Elementalist (Holy Resistance Flask)| AND |Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+  },
+  {
+    "name": "Azariel the Sunbringer (Chaos Tier 3)",
+    "region": "Sunbringer",
+    "category": [
+      "Act 4 Bosses"
+    ],
+    "requires": "|Clive the Firestarter (Alchemy Table)| AND |Meredith the Bright Archer (Holy Resistance Potion)| AND |Mairwyn the Elementalist (Holy Resistance Flask)| AND |Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Azariel the Sunbringer (Lost Soul)",
@@ -1339,10 +1706,18 @@
       "Act 4 Bosses",
       "LostSouls"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Clive the Firestarter (Alchemy Table)| AND |Meredith the Bright Archer (Holy Resistance Potion)| AND |Mairwyn the Elementalist (Holy Resistance Flask)| AND |Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Voltatia the Power Master (Power Core)",
+    "region": "Power Master",
+    "category": [
+      "Act 4 Bosses"
+    ],
+    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+  },
+  {
+    "name": "Voltatia the Power Master (Storm Tier 2)",
     "region": "Power Master",
     "category": [
       "Act 4 Bosses"
@@ -1377,6 +1752,14 @@
   },
   {
     "name": "Dantos the Forgebinder (Fusion Forge)",
+    "region": "Forgebinder",
+    "category": [
+      "Act 4 Bosses"
+    ],
+    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+  },
+  {
+    "name": "Dantos the Forgebinder (Frost Tier 2)",
     "region": "Forgebinder",
     "category": [
       "Act 4 Bosses"
@@ -1451,6 +1834,14 @@
     "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
+    "name": "Gorecrusher the Behemoth (Illusion Tier 3)",
+    "region": "Behemoth",
+    "category": [
+      "Act 4 Bosses"
+    ],
+    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+  },
+  {
     "name": "Gorecrusher the Behemoth (Lost Soul)",
     "region": "Behemoth",
     "category": [
@@ -1462,10 +1853,11 @@
   {
     "name": "Solarus the Immaculate (Pedestal of Solarus)",
     "region": "The Immaculate",
+    "victory": true,
     "category": [
       "Act 4 Bosses"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Clive the Firestarter (Alchemy Table)| AND |Meredith the Bright Archer (Holy Resistance Potion)| AND |Mairwyn the Elementalist (Holy Resistance Flask)| AND |Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Solarus the Immaculate (Dracula's Boots)",
@@ -1473,7 +1865,7 @@
     "category": [
       "Act 4 Bosses"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Clive the Firestarter (Alchemy Table)| AND |Meredith the Bright Archer (Holy Resistance Potion)| AND |Mairwyn the Elementalist (Holy Resistance Flask)| AND |Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Solarus the Immaculate (Lost Soul)",
@@ -1482,11 +1874,12 @@
       "Act 4 Bosses",
       "LostSouls"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Clive the Firestarter (Alchemy Table)| AND |Meredith the Bright Archer (Holy Resistance Potion)| AND |Mairwyn the Elementalist (Holy Resistance Flask)| AND |Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Talzur the Winged Horror (Pedestal of the Winged Horror)",
     "region": "Winged Horror",
+    "victory": true,
     "category": [
       "Act 4 Bosses"
     ],
@@ -1512,6 +1905,7 @@
   {
     "name": "Adam the Firstborn (Pedestal of the Monster)",
     "region": "Firstborn",
+    "victory": true,
     "category": [
       "Act 4 Bosses"
     ],
@@ -1537,6 +1931,7 @@
   {
     "name": "Megara the Serpent Queen (Pedestal of the Serpent)",
     "region": "Serpent Queen",
+    "victory": true,
     "category": [
       "Act 4 Bosses"
     ],
@@ -1562,6 +1957,7 @@
   {
     "name": "Dracula the Immortal King (Pedestal of Dracula)",
     "region": "Immortal King",
+    "victory": true,
     "category": [
       "Goal",
       "Act 5 Boss"
@@ -2811,419 +3207,5 @@
       "Knowledge - Athenaeum"
     ],
     "requires": "|Henry Blackbrew the Doctor (Athenaeum)| AND |Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
-  },
-  {
-    "name": "Blood Rage",
-    "category": [
-      "Spellbook - Blood Magic"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Blood Fountain",
-    "category": [
-      "Spellbook - Blood Magic",
-      "Act2"
-    ],
-    "requires": "|Quincey the Bandit King (Smithy)|"
-  },
-  {
-    "name": "Sanguine Coil",
-    "category": [
-      "Spellbook - Blood Magic",
-      "Act2"
-    ],
-    "requires": "|Quincey the Bandit King (Smithy)|"
-  },
-  {
-    "name": "Carrion Swarm",
-    "category": [
-      "Spellbook - Blood Magic",
-      "Act2"
-    ],
-    "requires": "|Quincey the Bandit King (Smithy)|"
-  },
-  {
-    "name": "Veil of Blood",
-    "category": [
-      "Spellbook - Blood Magic",
-      "Act2"
-    ],
-    "requires": "|Quincey the Bandit King (Smithy)|"
-  },
-  {
-    "name": "Crimson Beam",
-    "category": [
-      "Spellbook - Blood Magic",
-      "Act2"
-    ],
-    "requires": "|Quincey the Bandit King (Smithy)|"
-  },
-  {
-    "name": "Heart Strike",
-    "category": [
-      "Spellbook - Blood Magic",
-      "Act2"
-    ],
-    "requires": "|Quincey the Bandit King (Smithy)|"
-  },
-  {
-    "name": "Chaos Volley",
-    "category": [
-      "Spellbook - Chaos Magic",
-      "Tier 1 Chaos"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Power Surge",
-    "category": [
-      "Spellbook - Chaos Magic",
-      "Tier 1 Chaos"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Aftershock",
-    "category": [
-      "Spellbook - Chaos Magic",
-      "Tier 1 Chaos"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Void",
-    "category": [
-      "Spellbook - Chaos Magic"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Chaos Barrier",
-    "category": [
-      "Spellbook - Chaos Magic"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Rain of Chaos",
-    "category": [
-      "Spellbook - Chaos Magic"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Veil of Chaos",
-    "category": [
-      "Spellbook - Chaos Magic",
-      "Act2"
-    ],
-    "requires": "|Quincey the Bandit King (Smithy)|"
-  },
-  {
-    "name": "Merciless Charge",
-    "category": [
-      "Spellbook - Chaos Magic",
-      "Act2"
-    ],
-    "requires": "|Quincey the Bandit King (Smithy)|"
-  },
-  {
-    "name": "Chaos Barrage",
-    "category": [
-      "Spellbook - Chaos Magic",
-      "Act2"
-    ],
-    "requires": "|Quincey the Bandit King (Smithy)|"
-  },
-  {
-    "name": "Corrupted Skull",
-    "category": [
-      "Spellbook - Unholy Magic"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Ward of the Damned",
-    "category": [
-      "Spellbook - Unholy Magic"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Bone Explosion",
-    "category": [
-      "Spellbook - Unholy Magic"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Death Knight",
-    "category": [
-      "Spellbook - Unholy Magic",
-      "Act2"
-    ],
-    "requires": "|Quincey the Bandit King (Smithy)|"
-  },
-  {
-    "name": "Soulburn",
-    "category": [
-      "Spellbook - Unholy Magic",
-      "Act2"
-    ],
-    "requires": "|Quincey the Bandit King (Smithy)|"
-  },
-  {
-    "name": "Unholy Chains",
-    "category": [
-      "Spellbook - Unholy Magic",
-      "Act2"
-    ],
-    "requires": "|Quincey the Bandit King (Smithy)|"
-  },
-  {
-    "name": "Veil of Bones",
-    "category": [
-      "Spellbook - Unholy Magic",
-      "Act2"
-    ],
-    "requires": "|Quincey the Bandit King (Smithy)|"
-  },
-  {
-    "name": "Army of the Dead",
-    "category": [
-      "Spellbook - Unholy Magic"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Volatile Arachnid",
-    "category": [
-      "Spellbook - Unholy Magic"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Spectral Wolf",
-    "category": [
-      "Spellbook - Illusion Magic"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Phantom Aegis",
-    "category": [
-      "Spellbook - Illusion Magic"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Wraith Spear",
-    "category": [
-      "Spellbook - Illusion Magic"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Mosquito",
-    "category": [
-      "Spellbook - Illusion Magic",
-      "Act2"
-    ],
-    "requires": "|Quincey the Bandit King (Smithy)|"
-  },
-  {
-    "name": "Mist Trance",
-    "category": [
-      "Spellbook - Illusion Magic",
-      "Act2"
-    ],
-    "requires": "|Quincey the Bandit King (Smithy)|"
-  },
-  {
-    "name": "Curse",
-    "category": [
-      "Spellbook - Illusion Magic",
-      "Act2"
-    ],
-    "requires": "|Quincey the Bandit King (Smithy)|"
-  },
-  {
-    "name": "Veil of Illusion",
-    "category": [
-      "Spellbook - Illusion Magic",
-      "Act4"
-    ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)|"
-  },
-  {
-    "name": "Spectral Guardian",
-    "category": [
-      "Spellbook - Illusion Magic",
-      "Act2"
-    ],
-    "requires": "|Quincey the Bandit King (Smithy)|"
-  },
-  {
-    "name": "Wisp Dance",
-    "category": [
-      "Spellbook - Illusion Magic",
-      "Act2"
-    ],
-    "requires": "|Quincey the Bandit King (Smithy)|"
-  },
-  {
-    "name": "Frost Bat",
-    "category": [
-      "Spellbook - Frost Magic",
-      "Tier 1 Frost"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Cold Snap",
-    "category": [
-      "Spellbook - Frost Magic",
-      "Tier 1 Frost"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Ice Nova",
-    "category": [
-      "Spellbook - Frost Magic",
-      "Tier 1 Frost"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Crystal Lance",
-    "category": [
-      "Spellbook - Frost Magic",
-      "Act2"
-    ],
-    "requires": "|Quincey the Bandit King (Smithy)|"
-  },
-  {
-    "name": "Frost Barrier",
-    "category": [
-      "Spellbook - Frost Magic",
-      "Act2"
-    ],
-    "requires": "|Quincey the Bandit King (Smithy)|"
-  },
-  {
-    "name": "Arctic Storm",
-    "category": [
-      "Spellbook - Frost Magic",
-      "Act2"
-    ],
-    "requires": "|Quincey the Bandit King (Smithy)|"
-  },
-  {
-    "name": "Veil of Frost",
-    "category": [
-      "Spellbook - Frost Magic",
-      "Act2"
-    ],
-    "requires": "|Quincey the Bandit King (Smithy)|"
-  },
-  {
-    "name": "Arctic Leap",
-    "category": [
-      "Spellbook - Frost Magic",
-      "Act2"
-    ],
-    "requires": "|Quincey the Bandit King (Smithy)|"
-  },
-  {
-    "name": "Ice Block",
-    "category": [
-      "Spellbook - Frost Magic",
-      "Act2"
-    ],
-    "requires": "|Quincey the Bandit King (Smithy)|"
-  },
-  {
-    "name": "Cyclone",
-    "category": [
-      "Spellbook - Storm Magic",
-      "Act2"
-    ],
-    "requires": "|Quincey the Bandit King (Smithy)|"
-  },
-  {
-    "name": "Discharge",
-    "category": [
-      "Spellbook - Storm Magic",
-      "Act2"
-    ],
-    "requires": "|Quincey the Bandit King (Smithy)|"
-  },
-  {
-    "name": "Ball Lightning",
-    "category": [
-      "Spellbook - Storm Magic",
-      "Act2"
-    ],
-    "requires": "|Quincey the Bandit King (Smithy)|"
-  },
-  {
-    "name": "Polarity Shift",
-    "category": [
-      "Spellbook - Storm Magic",
-      "Act3"
-    ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)|"
-  },
-  {
-    "name": "Lightning Curtain",
-    "category": [
-      "Spellbook - Storm Magic",
-      "Act3"
-    ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)|"
-  },
-  {
-    "name": "Lightning Tendrils",
-    "category": [
-      "Spellbook - Storm Magic",
-      "Act3"
-    ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)|"
-  },
-  {
-    "name": "Veil of Storm",
-    "category": [
-      "Spellbook - Storm Magic",
-      "Act2"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Raging Tempest",
-    "category": [
-      "Spellbook - Storm Magic",
-      "Act3"
-    ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)|"
-  },
-  {
-    "name": "Lightning Typhoon",
-    "category": [
-      "Spellbook - Storm Magic",
-      "Act3"
-    ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)|"
-  },
-
-  {
-    "name": "Goal Achieved",
-    "region": "Goal",
-    "victory": true,
-    "category": [
-      "Goal"
-    ],
-    "requires": "|Dracula the Immortal King (Pedestal of Dracula)|"
   }
 ]
