@@ -11,7 +11,7 @@
   },
   {
     "count": "1",
-    "name": "Keely the Frost Archer (Tannery)",
+    "name": "Keely the Frost Archer (Tannery, Leather, Cloak)",
     "region": "Frost Archer",
     "category": [
       "Act 1 Bosses"
@@ -53,8 +53,7 @@
     "region": "Stonebreaker",
     "category": [
       "Act 1 Bosses"
-    ],
-    "progression": true
+    ]
   },
   {
     "count": "1",
@@ -69,7 +68,7 @@
   },
   {
     "count": "1",
-    "name": "Rufus the Foreman (Woodworking Bench)",
+    "name": "Rufus the Foreman (Woodworking Bench, Duel Flag)",
     "region": "Foreman",
     "category": [
       "Act 1 Bosses"
@@ -84,6 +83,14 @@
       "Act 1 Bosses"
     ],
     "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Rufus the Foreman (Simple Furniture)",
+    "region": "Foreman",
+    "category": [
+      "Act 1 Bosses"
+    ]
   },
   {
     "count": "1",
@@ -111,8 +118,7 @@
     "region": "Armourer",
     "category": [
       "Act 1 Bosses"
-    ],
-    "progression": true
+    ]
   },
   {
     "count": "1",
@@ -148,8 +154,7 @@
     "region": "Ravager",
     "category": [
       "Act 1 Bosses"
-    ],
-    "progression": true
+    ]
   },
   {
     "count": "1",
@@ -202,7 +207,7 @@
   },
   {
     "count": "1",
-    "name": "Lidia the Chaos Archer (Leatherworking Station)",
+    "name": "Lidia the Chaos Archer (Leatherworking Station, Devourer, Leather Bag)",
     "region": "Chaos Archer",
     "category": [
       "Act 1 Bosses"
@@ -230,7 +235,7 @@
   },
   {
     "count": "1",
-    "name": "Clive the Firestarter (Alchemy Table)",
+    "name": "Clive the Firestarter (Alchemy Table, Explosives)",
     "region": "Firestarter",
     "category": [
       "Act 1 Bosses"
@@ -281,8 +286,7 @@
     "region": "Feywalker",
     "category": [
       "Act 1 Bosses"
-    ],
-    "progression": true
+    ]
   },
   {
     "count": "1",
@@ -323,7 +327,7 @@
   },
   {
     "count": "1",
-    "name": "Kodia the Ferocious Bear (Bear Form)",
+    "name": "Kodia the Ferocious Bear (Bear Form, Trophy)",
     "region": "Ferocious Bear",
     "category": [
       "Act 1 Bosses",
@@ -337,8 +341,7 @@
     "region": "Ferocious Bear",
     "category": [
       "Act 1 Bosses"
-    ],
-    "progression": true
+    ]
   },
   {
     "count": "1",
@@ -365,8 +368,7 @@
     "region": "The Fallen",
     "category": [
       "Act 1 Bosses"
-    ],
-    "progression": true
+    ]
   },
   {
     "count": "1",
@@ -374,8 +376,7 @@
     "region": "The Fallen",
     "category": [
       "Act 1 Bosses"
-    ],
-    "progression": true
+    ]
   },
   {
     "count": "1",
@@ -398,7 +399,7 @@
   },
   {
     "count": "1",
-    "name": "Quincey the Bandit King (Smithy)",
+    "name": "Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)",
     "region": "Bandit King",
     "category": [
       "Act 1 Bosses"
@@ -435,7 +436,7 @@
   },
   {
     "count": "1",
-    "name": "Beatrice the Tailor (Loom)",
+    "name": "Beatrice the Tailor (Loom, Cloth, Cotton Yarn, Cloak)",
     "region": "Tailor",
     "category": [
       "Act 2 Bosses"
@@ -448,8 +449,7 @@
     "region": "Tailor",
     "category": [
       "Act 2 Bosses"
-    ],
-    "progression": true
+    ]
   },
   {
     "count": "1",
@@ -463,7 +463,7 @@
   },
   {
     "count": "1",
-    "name": "Vincent the Frostbringer (Prison Cell)",
+    "name": "Vincent the Frostbringer (Prison Cell, Reinforced Plank)",
     "region": "Frostbringer",
     "category": [
       "Act 2 Bosses"
@@ -476,8 +476,7 @@
     "region": "Frostbringer",
     "category": [
       "Act 2 Bosses"
-    ],
-    "progression": true
+    ]
   },
   {
     "count": "1",
@@ -495,12 +494,11 @@
     "region": "Sun Priestess",
     "category": [
       "Act 2 Bosses"
-    ],
-    "progression": true
+    ]
   },
   {
     "count": "1",
-    "name": "Christina the Sun Priestess (Wool Thread)",
+    "name": "Christina the Sun Priestess (Wool Thread, Silver Thread Bag)",
     "region": "Sun Priestess",
     "category": [
       "Act 2 Bosses"
@@ -519,7 +517,7 @@
   },
   {
     "count": "1",
-    "name": "Tristan the Vampire Hunter (Blood Hunter)",
+    "name": "Tristan the Vampire Hunter (Blood Hunter, Greater Blood Essence)",
     "region": "Tristan",
     "category": [
       "Act 2 Bosses"
@@ -560,8 +558,7 @@
     "region": "Gallant Cavalier",
     "category": [
       "Act 2 Bosses"
-    ],
-    "progression": true
+    ]
   },
   {
     "count": "1",
@@ -579,8 +576,7 @@
     "region": "Undead General",
     "category": [
       "Act 2 Bosses"
-    ],
-    "progression": true
+    ]
   },
   {
     "count": "1",
@@ -612,7 +608,7 @@
   },
   {
     "count": "1",
-    "name": "Leandra the Shadow Priestess (Scourgestone Pendant)",
+    "name": "Leandra the Shadow Priestess (Scourgestone Pendant, Scourgestone, Dusk Caller, Artisan Table)",
     "region": "Shadow Priestess",
     "category": [
       "Act 2 Bosses"
@@ -631,7 +627,7 @@
   },
   {
     "count": "1",
-    "name": "Maja the Dark Savant (Study)",
+    "name": "Maja the Dark Savant (Study, Scroll)",
     "region": "Dark Savant",
     "category": [
       "Act 2 Bosses"
@@ -644,8 +640,7 @@
     "region": "Dark Savant",
     "category": [
       "Act 2 Bosses"
-    ],
-    "progression": true
+    ]
   },
   {
     "count": "1",
@@ -653,8 +648,7 @@
     "region": "Dark Savant",
     "category": [
       "Act 2 Bosses"
-    ],
-    "progression": true
+    ]
   },
   {
     "count": "1",
@@ -662,8 +656,7 @@
     "region": "Dark Savant",
     "category": [
       "Act 2 Bosses"
-    ],
-    "progression": true
+    ]
   },
   {
     "count": "1",
@@ -709,12 +702,11 @@
     "region": "Glassblower",
     "category": [
       "Act 2 Bosses"
-    ],
-    "progression": true
+    ]
   },
   {
     "count": "1",
-    "name": "Grethel the Glassblower (Glass)",
+    "name": "Grethel the Glassblower (Glass, Blood Rose Potion)",
     "region": "Glassblower",
     "category": [
       "Act 2 Bosses"
@@ -733,7 +725,7 @@
   },
   {
     "count": "1",
-    "name": "Meredith the Bright Archer (Holy Resistance Potion)",
+    "name": "Meredith the Bright Archer (Holy Resistance Potion, Elixir of the Prowler)",
     "region": "Bright Archer",
     "category": [
       "Act 2 Bosses"
@@ -752,7 +744,7 @@
   },
   {
     "count": "1",
-    "name": "Terah the Geomancer (Gem Cutting Table)",
+    "name": "Terah the Geomancer (Gem Cutting Table, Stone Golem)",
     "region": "Geomancer",
     "category": [
       "Act 2 Bosses"
@@ -789,7 +781,7 @@
   },
   {
     "count": "1",
-    "name": "General Elena the Hollow (Altar of Stygian Awakening)",
+    "name": "General Elena the Hollow (Altar of Stygian Awakening, Elixir of the Raven)",
     "region": "The Hollow",
     "category": [
       "Act 2 Bosses"
@@ -802,8 +794,7 @@
     "region": "The Hollow",
     "category": [
       "Act 2 Bosses"
-    ],
-    "progression": true
+    ]
   },
   {
     "count": "1",
@@ -817,7 +808,7 @@
   },
   {
     "count": "1",
-    "name": "Frostmaw the Mountain Terror (Thick Leather)",
+    "name": "Frostmaw the Mountain Terror (Thick Leather, Mountain Peak Bag, Elixir of the Beast)",
     "region": "Mountain Terror",
     "category": [
       "Act 2 Bosses"
@@ -849,8 +840,7 @@
     "region": "Cursed Champion",
     "category": [
       "Act 2 Bosses"
-    ],
-    "progression": true
+    ]
   },
   {
     "count": "1",
@@ -858,8 +848,7 @@
     "region": "Cursed Champion",
     "category": [
       "Act 2 Bosses"
-    ],
-    "progression": true
+    ]
   },
   {
     "count": "1",
@@ -882,7 +871,7 @@
   },
   {
     "count": "1",
-    "name": "General Cassius the Betrayer (Stygian Summoning Circle)",
+    "name": "General Cassius the Betrayer (Stygian Summoning Circle, Elixir of the Bat)",
     "region": "The Betrayer",
     "category": [
       "Act 2 Bosses"
@@ -901,7 +890,7 @@
   },
   {
     "count": "1",
-    "name": "Jade the Vampire Hunter (Primal Blood Essence)",
+    "name": "Jade the Vampire Hunter (Primal Blood Essence, Elixir of the Crow, Advanced Blood Press)",
     "region": "Jade",
     "category": [
       "Act 2 Bosses"
@@ -943,8 +932,7 @@
     "region": "Shepherd",
     "category": [
       "Act 2 Bosses"
-    ],
-    "progression": true
+    ]
   },
   {
     "count": "1",
@@ -971,8 +959,7 @@
     "region": "Militia Captain",
     "category": [
       "Act 2 Bosses"
-    ],
-    "progression": true
+    ]
   },
   {
     "count": "1",
@@ -986,7 +973,7 @@
   {
     "count": "1",
     "name": "Octavian the Militia Captain (Lost Soul)",
-    "region": "Shepherd",
+    "region": "Militia Captain",
     "category": [
       "Act 2 Bosses",
       "LostSouls"
@@ -995,7 +982,7 @@
   },
   {
     "count": "1",
-    "name": "Ziva the Engineer (Fabricator)",
+    "name": "Ziva the Engineer (Fabricator, Radium Alloy, Sludge-Filled Canister, Yellow Castle Teleporter)",
     "region": "Engineer",
     "category": [
       "Act 3 Bosses"
@@ -1014,7 +1001,7 @@
   },
   {
     "count": "1",
-    "name": "Domina the Blade Dancer (Advanced Grinder)",
+    "name": "Domina the Blade Dancer (Advanced Grinder), Elixir of the Blasphemous, Red Castle Teleporter",
     "region": "Blade Dancer",
     "category": [
       "Act 3 Bosses"
@@ -1051,12 +1038,11 @@
   },
   {
     "count": "1",
-    "name": "Angram the Purifier (Mutated Rat)",
+    "name": "Angram the Purifier (Mutated Rat, Major Explosive Box)",
     "region": "Purifier",
     "category": [
       "Act 3 Bosses"
-    ],
-    "progression": true
+    ]
   },
   {
     "count": "1",
@@ -1079,7 +1065,7 @@
   },
   {
     "count": "1",
-    "name": "Ungora the Spider Queen (Silk)",
+    "name": "Ungora the Spider Queen (Silk, Spiderling, Spider Form)",
     "region": "Spider Queen",
     "category": [
       "Act 3 Bosses"
@@ -1098,7 +1084,7 @@
   },
   {
     "count": "1",
-    "name": "Ben the Old Wanderer (Pristine Leather)",
+    "name": "Ben the Old Wanderer (Pristine Leather, Shroud of the Forest)",
     "region": "Old Wanderer",
     "category": [
       "Act 3 Bosses"
@@ -1117,7 +1103,7 @@
   },
   {
     "count": "1",
-    "name": "Foulrot the Soultaker (Spectral Dust)",
+    "name": "Foulrot the Soultaker (Spectral Dust, Banshee)",
     "region": "Soultaker",
     "category": [
       "Act 3 Bosses"
@@ -1136,7 +1122,7 @@
   },
   {
     "count": "1",
-    "name": "Albert the Duke of Balaton (Toad Form)",
+    "name": "Albert the Duke of Balaton (Toad Form, Chess Table)",
     "region": "Duke of Balaton",
     "category": [
       "Act 3 Bosses"
@@ -1168,12 +1154,11 @@
     "region": "Werewolf Chief",
     "category": [
       "Act 3 Bosses"
-    ],
-    "progression": true
+    ]
   },
   {
     "count": "1",
-    "name": "Willfred the Werewolf Chief (Pristine Leather Bag)",
+    "name": "Willfred the Werewolf Chief (Pristine Leather Bag, Silver Resistance Potion, Elixir of the Werewolf)",
     "region": "Werewolf Chief",
     "category": [
       "Act 3 Bosses"
@@ -1192,7 +1177,7 @@
   },
   {
     "count": "1",
-    "name": "Cyril the Cursed Smith (Dark Silver Ingot)",
+    "name": "Cyril the Cursed Smith (Dark Silver Ingot, Anvil, Advanced Furnace)",
     "region": "Cursed Smith",
     "category": [
       "Act 3 Bosses"
@@ -1243,8 +1228,7 @@
     "region": "Sommelier",
     "category": [
       "Act 4 Bosses"
-    ],
-    "progression": true
+    ]
   },
   {
     "count": "1",
@@ -1308,8 +1292,7 @@
     "region": "Elementalist",
     "category": [
       "Act 4 Bosses"
-    ],
-    "progression": true
+    ]
   },
   {
     "count": "1",
@@ -1341,7 +1324,7 @@
   },
   {
     "count": "1",
-    "name": "Henry Blackbrew the Doctor (Athenaeum)",
+    "name": "Henry Blackbrew the Doctor (Athenaeum, Schematic, Redistribution Engine, Luminescent Mushroom Terrarium)",
     "region": "Doctor",
     "category": [
       "Act 4 Bosses"
@@ -1388,7 +1371,7 @@
   },
   {
     "count": "1",
-    "name": "Stavros the Carver (Advanced Sawmill)",
+    "name": "Stavros the Carver (Advanced Sawmill, Purple Castle Teleporter)",
     "region": "Carver",
     "category": [
       "Act 4 Bosses"
@@ -1416,7 +1399,7 @@
   },
   {
     "count": "1",
-    "name": "Lucile the Venom Alchemist (Blood Homogenizer)",
+    "name": "Lucile the Venom Alchemist (Blood Homogenizer, Stand with Boiling Flask and Burner)",
     "region": "Venom Alchemist",
     "category": [
       "Act 4 Bosses"
@@ -1435,7 +1418,7 @@
   },
   {
     "count": "1",
-    "name": "Matka the Curse Weaver (Advanced Loom)",
+    "name": "Matka the Curse Weaver (Advanced Loom, Ghost Yarn, Mosquito)",
     "region": "Curse Weaver",
     "category": [
       "Act 4 Bosses"
@@ -1477,8 +1460,7 @@
     "region": "Sunbringer",
     "category": [
       "Act 4 Bosses"
-    ],
-    "progression": true
+    ]
   },
   {
     "count": "1",
@@ -1501,7 +1483,7 @@
   },
   {
     "count": "1",
-    "name": "Voltatia the Power Master (Power Core)",
+    "name": "Voltatia the Power Master (Power Core, EMP, Blue Castle Teleporter)",
     "region": "Power Master",
     "category": [
       "Act 4 Bosses"
@@ -1539,7 +1521,7 @@
   },
   {
     "count": "1",
-    "name": "Dantos the Forgebinder (Fusion Forge)",
+    "name": "Dantos the Forgebinder (Fusion Forge, Emberglass)",
     "region": "Forgebinder",
     "category": [
       "Act 4 Bosses"
@@ -1558,7 +1540,7 @@
   },
   {
     "count": "1",
-    "name": "Lord Styx the Night Champion (Bat Form)",
+    "name": "Lord Styx the Night Champion (Bat Form, Onyx Tear, Blood Key)",
     "region": "Night Champion",
     "category": [
       "Act 4 Bosses"
@@ -1614,7 +1596,7 @@
   },
   {
     "count": "1",
-    "name": "Gorecrusher the Behemoth (Bat Leather)",
+    "name": "Gorecrusher the Behemoth (Bat Leather, Bat Leather Bag)",
     "region": "Behemoth",
     "category": [
       "Act 4 Bosses"
@@ -2351,15 +2333,6 @@
   },
   {
     "count": "1",
-    "name": "Sanguine Whip",
-    "category": [
-      "Weapons - Whips",
-      "Act4"
-    ],
-    "progression": true
-  },
-  {
-    "count": "1",
     "name": "Merciless Iron Slashers",
     "category": [
       "Weapons - Slashers",
@@ -2805,8 +2778,7 @@
     "category": [
       "Knowledge - Research Desk",
       "Structures"
-    ],
-    "progression": true
+    ]
   },
   {
     "count": "1",
@@ -2814,8 +2786,7 @@
     "category": [
       "Knowledge - Research Desk",
       "Structures"
-    ],
-    "progression": true
+    ]
   },
   {
     "count": "1",
@@ -2823,8 +2794,7 @@
     "category": [
       "Knowledge - Research Desk",
       "Structures"
-    ],
-    "progression": true
+    ]
   },
   {
     "count": "1",
@@ -2832,8 +2802,7 @@
     "category": [
       "Knowledge - Research Desk",
       "Structures"
-    ],
-    "progression": true
+    ]
   },
   {
     "count": "1",
@@ -2841,8 +2810,7 @@
     "category": [
       "Knowledge - Research Desk",
       "Structures"
-    ],
-    "progression": true
+    ]
   },
   {
     "count": "1",
@@ -2850,8 +2818,7 @@
     "category": [
       "Knowledge - Research Desk",
       "Structures"
-    ],
-    "progression": true
+    ]
   },
   {
     "count": "1",
@@ -2859,8 +2826,7 @@
     "category": [
       "Knowledge - Research Desk",
       "Structures"
-    ],
-    "progression": true
+    ]
   },
   {
     "count": "1",
@@ -2868,8 +2834,7 @@
     "category": [
       "Knowledge - Research Desk",
       "Structures"
-    ],
-    "progression": true
+    ]
   },
   {
     "count": "1",
@@ -2877,8 +2842,7 @@
     "category": [
       "Knowledge - Research Desk",
       "Structures"
-    ],
-    "progression": true
+    ]
   },
   {
     "count": "1",
@@ -2886,8 +2850,7 @@
     "category": [
       "Knowledge - Research Desk",
       "Structures"
-    ],
-    "progression": true
+    ]
   },
   {
     "count": "1",
@@ -3176,8 +3139,7 @@
     "category": [
       "Knowledge - Study",
       "Structures"
-    ],
-    "progression": true
+    ]
   },
   {
     "count": "1",
@@ -3185,8 +3147,7 @@
     "category": [
       "Knowledge - Study",
       "Structures"
-    ],
-    "progression": true
+    ]
   },
   {
     "count": "1",
@@ -3194,8 +3155,7 @@
     "category": [
       "Knowledge - Study",
       "Structures"
-    ],
-    "progression": true
+    ]
   },
   {
     "count": "1",
@@ -3203,8 +3163,7 @@
     "category": [
       "Knowledge - Study",
       "Structures"
-    ],
-    "progression": true
+    ]
   },
   {
     "count": "1",
@@ -3212,8 +3171,7 @@
     "category": [
       "Knowledge - Study",
       "Structures"
-    ],
-    "progression": true
+    ]
   },
   {
     "count": "1",
@@ -3221,8 +3179,7 @@
     "category": [
       "Knowledge - Study",
       "Structures"
-    ],
-    "progression": true
+    ]
   },
   {
     "count": "1",
@@ -3230,8 +3187,7 @@
     "category": [
       "Knowledge - Study",
       "Structures"
-    ],
-    "progression": true
+    ]
   },
   {
     "count": "1",
@@ -3239,8 +3195,7 @@
     "category": [
       "Knowledge - Study",
       "Structures"
-    ],
-    "progression": true
+    ]
   },
   {
     "count": "1",
@@ -3248,8 +3203,7 @@
     "category": [
       "Knowledge - Study",
       "Structures"
-    ],
-    "progression": true
+    ]
   },
   {
     "count": "1",
@@ -3257,8 +3211,7 @@
     "category": [
       "Knowledge - Study",
       "Structures"
-    ],
-    "progression": true
+    ]
   },
   {
     "count": "1",
@@ -3266,8 +3219,7 @@
     "category": [
       "Knowledge - Study",
       "Structures"
-    ],
-    "progression": true
+    ]
   },
   {
     "count": "1",
@@ -3275,8 +3227,7 @@
     "category": [
       "Knowledge - Study",
       "Structures"
-    ],
-    "progression": true
+    ]
   },
   {
     "count": "1",
@@ -3284,8 +3235,7 @@
     "category": [
       "Knowledge - Study",
       "Structures"
-    ],
-    "progression": true
+    ]
   },
   {
     "count": "1",
@@ -3293,8 +3243,7 @@
     "category": [
       "Knowledge - Study",
       "Structures"
-    ],
-    "progression": true
+    ]
   },
   {
     "count": "1",
@@ -3302,8 +3251,7 @@
     "category": [
       "Knowledge - Study",
       "Structures"
-    ],
-    "progression": true
+    ]
   },
   {
     "count": "1",
@@ -3311,8 +3259,7 @@
     "category": [
       "Knowledge - Study",
       "Structures"
-    ],
-    "progression": true
+    ]
   },
   {
     "count": "1",
@@ -3320,8 +3267,7 @@
     "category": [
       "Knowledge - Study",
       "Structures"
-    ],
-    "progression": true
+    ]
   },
   {
     "count": "1",
@@ -3329,8 +3275,7 @@
     "category": [
       "Knowledge - Study",
       "Structures"
-    ],
-    "progression": true
+    ]
   },
   {
     "count": "1",
@@ -3576,8 +3521,7 @@
     "category": [
       "Knowledge - Athenaeum",
       "Structures"
-    ],
-    "progression": true
+    ]
   },
   {
     "count": "1",
@@ -3585,8 +3529,7 @@
     "category": [
       "Knowledge - Athenaeum",
       "Structures"
-    ],
-    "progression": true
+    ]
   },
   {
     "count": "1",
@@ -3594,8 +3537,7 @@
     "category": [
       "Knowledge - Athenaeum",
       "Structures"
-    ],
-    "progression": true
+    ]
   },
   {
     "count": "1",
@@ -3603,8 +3545,7 @@
     "category": [
       "Knowledge - Athenaeum",
       "Structures"
-    ],
-    "progression": true
+    ]
   },
   {
     "count": "1",
@@ -3612,8 +3553,7 @@
     "category": [
       "Knowledge - Athenaeum",
       "Structures"
-    ],
-    "progression": true
+    ]
   },
   {
     "count": "1",
@@ -3621,8 +3561,7 @@
     "category": [
       "Knowledge - Athenaeum",
       "Structures"
-    ],
-    "progression": true
+    ]
   },
   {
     "count": "1",
@@ -3630,8 +3569,7 @@
     "category": [
       "Knowledge - Athenaeum",
       "Structures"
-    ],
-    "progression": true
+    ]
   },
   {
     "count": "1",
@@ -3639,8 +3577,7 @@
     "category": [
       "Knowledge - Athenaeum",
       "Structures"
-    ],
-    "progression": true
+    ]
   },
   {
     "count": "1",
@@ -3648,8 +3585,7 @@
     "category": [
       "Knowledge - Athenaeum",
       "Structures"
-    ],
-    "progression": true
+    ]
   },
   {
     "count": "1",
@@ -3657,8 +3593,7 @@
     "category": [
       "Knowledge - Athenaeum",
       "Structures"
-    ],
-    "progression": true
+    ]
   },
   {
     "count": "1",
@@ -3666,7 +3601,6 @@
     "category": [
       "Knowledge - Athenaeum",
       "Structures"
-    ],
-    "progression": true
+    ]
   }
 ]

@@ -19,7 +19,7 @@
     "requires": ""
   },
   {
-    "name": "Keely the Frost Archer (Tannery)",
+    "name": "Keely the Frost Archer (Tannery, Leather, Cloak)",
     "region": "Frost Archer",
     "category": [
       "Act 1 Bosses"
@@ -89,7 +89,15 @@
     "requires": ""
   },
   {
-    "name": "Rufus the Foreman (Woodworking Bench)",
+    "name": "Rufus the Foreman (Woodworking Bench, Duel Flag)",
+    "region": "Foreman",
+    "category": [
+      "Act 1 Bosses"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Rufus the Foreman (Simple Furniture)",
     "region": "Foreman",
     "category": [
       "Act 1 Bosses"
@@ -98,6 +106,14 @@
   },
   {
     "name": "Rufus the Foreman (Copper Crossbow)",
+    "region": "Foreman",
+    "category": [
+      "Act 1 Bosses"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Rufus the Foreman (Simple Furniture)",
     "region": "Foreman",
     "category": [
       "Act 1 Bosses"
@@ -235,7 +251,7 @@
     "requires": "|Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
-    "name": "Lidia the Chaos Archer (Leatherworking Station)",
+    "name": "Lidia the Chaos Archer (Leatherworking Station, Devourer, Leather Bag))",
     "region": "Chaos Archer",
     "category": [
       "Act 1 Bosses"
@@ -269,7 +285,7 @@
     "requires": "|Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
-    "name": "Clive the Firestarter (Alchemy Table)",
+    "name": "Clive the Firestarter (Alchemy Table, Explosives)",
     "region": "Firestarter",
     "category": [
       "Act 1 Bosses"
@@ -455,7 +471,7 @@
     "requires": "|Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
-    "name": "Quincey the Bandit King (Smithy)",
+    "name": "Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)",
     "region": "Bandit King",
     "victory": true,
     "category": [
@@ -499,12 +515,12 @@
     "requires": "|Goreswine the Ravager (Gravedigger Ring)| AND (|Lord Styx the Night Champion (Bat Form)| OR |Kodia the Ferocious Bear (Bear Form)| OR |Clive the Firestarter (Alchemy Table)|)"
   },
   {
-    "name": "Beatrice the Tailor (Loom)",
+    "name": "Beatrice the Tailor (Loom, Cloth, Cotton Yarn, Cloak)",
     "region": "Tailor",
     "category": [
       "Act 2 Bosses"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Beatrice the Tailor (Assortment of Curtains)",
@@ -512,7 +528,15 @@
     "category": [
       "Act 2 Bosses"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+  },
+  {
+    "name": "Beatrice the Tailor (Veil of Blood)",
+    "region": "Tailor",
+    "category": [
+      "Act 2 Bosses"
+    ],
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Beatrice the Tailor (Lost Soul)",
@@ -521,15 +545,15 @@
       "Act 2 Bosses",
       "LostSouls"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
-    "name": "Vincent the Frostbringer (Prison Cell)",
+    "name": "Vincent the Frostbringer (Prison Cell, Reinforced Plank)",
     "region": "Frostbringer",
     "category": [
       "Act 2 Bosses"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Vincent the Frostbringer (Prison Framework)",
@@ -537,7 +561,15 @@
     "category": [
       "Act 2 Bosses"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+  },
+  {
+    "name": "Vincent the Frostbringer (Veil of Frost)",
+    "region": "Frostbringer",
+    "category": [
+      "Act 2 Bosses"
+    ],
+    "requires": ""
   },
   {
     "name": "Vincent the Frostbringer (Lost Soul)",
@@ -546,7 +578,7 @@
       "Act 2 Bosses",
       "LostSouls"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Christina the Sun Priestess (Candles)",
@@ -554,15 +586,15 @@
     "category": [
       "Act 2 Bosses"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
-    "name": "Christina the Sun Priestess (Wool Thread)",
+    "name": "Christina the Sun Priestess (Wool Thread, Silver Thread Bag)",
     "region": "Sun Priestess",
     "category": [
       "Act 2 Bosses"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Christina the Sun Priestess (Illusion Tier 2)",
@@ -570,7 +602,7 @@
     "category": [
       "Act 2 Bosses"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Christina the Sun Priestess (Lost Soul)",
@@ -579,15 +611,15 @@
       "Act 2 Bosses",
       "LostSouls"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
-    "name": "Tristan the Vampire Hunter (Blood Hunter)",
+    "name": "Tristan the Vampire Hunter (Blood Hunter, Greater Blood Essence)",
     "region": "Tristan",
     "category": [
       "Act 2 Bosses"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Tristan the Vampire Hunter (Greatsword)",
@@ -595,7 +627,7 @@
     "category": [
       "Act 2 Bosses"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Tristan the Vampire Hunter (Blood Tier 3)",
@@ -603,7 +635,7 @@
     "category": [
       "Act 2 Bosses"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Tristan the Vampire Hunter (Lost Soul)",
@@ -612,7 +644,7 @@
       "Act 2 Bosses",
       "LostSouls"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Sir Erwin the Gallant Cavalier (Stables)",
@@ -620,7 +652,7 @@
     "category": [
       "Act 2 Bosses"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Sir Erwin the Gallant Cavalier (Stables Furnishing Decor)",
@@ -628,7 +660,7 @@
     "category": [
       "Act 2 Bosses"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Sir Erwin the Gallant Cavalier (Storm Tier 1)",
@@ -636,7 +668,7 @@
     "category": [
       "Act 2 Bosses"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Sir Erwin the Gallant Cavalier (Lost Soul)",
@@ -645,7 +677,7 @@
       "Act 2 Bosses",
       "LostSouls"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Kriig the Undead General (Castle Door Bells)",
@@ -653,7 +685,7 @@
     "category": [
       "Act 2 Bosses"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Kriig the Undead General (Reaper)",
@@ -661,7 +693,7 @@
     "category": [
       "Act 2 Bosses"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Kriig the Undead General (Unholy Tier 2)",
@@ -669,7 +701,7 @@
     "category": [
       "Act 2 Bosses"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Kriig the Undead General (Skeleton Priest)",
@@ -677,7 +709,7 @@
     "category": [
       "Act 2 Bosses"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Kriig the Undead General (Lost Soul)",
@@ -686,15 +718,15 @@
       "Act 2 Bosses",
       "LostSouls"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
-    "name": "Leandra the Shadow Priestess (Scourgestone Pendant)",
+    "name": "Leandra the Shadow Priestess (Scourgestone Pendant, Scourgestone, Dusk Caller, Artisan Table)",
     "region": "Shadow Priestess",
     "category": [
       "Act 2 Bosses"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Leandra the Shadow Priestess (Unholy Tier 1)",
@@ -702,7 +734,7 @@
     "category": [
       "Act 2 Bosses"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Leandra the Shadow Priestess (Lost Soul)",
@@ -711,15 +743,15 @@
       "Act 2 Bosses",
       "LostSouls"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
-    "name": "Maja the Dark Savant (Study)",
+    "name": "Maja the Dark Savant (Study, Scroll)",
     "region": "Dark Savant",
     "category": [
       "Act 2 Bosses"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Maja the Dark Savant (Verdant Garden Fencing)",
@@ -727,7 +759,7 @@
     "category": [
       "Act 2 Bosses"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Maja the Dark Savant (Illusion Tier 1)",
@@ -735,7 +767,7 @@
     "category": [
       "Act 2 Bosses"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Maja the Dark Savant (Wall Hanging Shelves)",
@@ -743,7 +775,7 @@
     "category": [
       "Act 2 Bosses"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Maja the Dark Savant (Midnight Ball Gown)",
@@ -751,7 +783,7 @@
     "category": [
       "Act 2 Bosses"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Maja the Dark Savant (Lost Soul)",
@@ -760,7 +792,7 @@
       "Act 2 Bosses",
       "LostSouls"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Bane the Shadowblade (Human Form)",
@@ -768,7 +800,7 @@
     "category": [
       "Act 2 Bosses"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Bane the Shadowblade (Daggers)",
@@ -776,7 +808,15 @@
     "category": [
       "Act 2 Bosses"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+  },
+  {
+    "name": "Bane the Shadowblade (Veil of Bones)",
+    "region": "Shadowblade",
+    "category": [
+      "Act 2 Bosses"
+    ],
+    "requires": ""
   },
   {
     "name": "Bane the Shadowblade (Lost Soul)",
@@ -785,7 +825,7 @@
       "Act 2 Bosses",
       "LostSouls"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Grethel the Glassblower (Wall Hanging Mirrors)",
@@ -793,7 +833,7 @@
     "category": [
       "Act 2 Bosses"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Grethel the Glassblower (Storm Tier 1)",
@@ -801,15 +841,15 @@
     "category": [
       "Act 2 Bosses"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
-    "name": "Grethel the Glassblower (Glass)",
+    "name": "Grethel the Glassblower (Glass, Blood Rose Potion)",
     "region": "Glassblower",
     "category": [
       "Act 2 Bosses"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Grethel the Glassblower (Lost Soul)",
@@ -818,15 +858,23 @@
       "Act 2 Bosses",
       "LostSouls"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
-    "name": "Meredith the Bright Archer (Holy Resistance Potion)",
+    "name": "Meredith the Bright Archer (Holy Resistance Potion, Elixir of the Prowler)",
     "region": "Bright Archer",
     "category": [
       "Act 2 Bosses"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+  },
+  {
+    "name": "Meredith the Bright Archer (Veil of Storm)",
+    "region": "Bright Archer",
+    "category": [
+      "Act 2 Bosses"
+    ],
+    "requires": ""
   },
   {
     "name": "Meredith the Bright Archer (Lost Soul)",
@@ -835,15 +883,15 @@
       "Act 2 Bosses",
       "LostSouls"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
-    "name": "Terah the Geomancer (Gem Cutting Table)",
+    "name": "Terah the Geomancer (Gem Cutting Table, Stone Golem)",
     "region": "Geomancer",
     "category": [
       "Act 2 Bosses"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Terah the Geomancer (Unholy Tier 3)",
@@ -851,7 +899,7 @@
     "category": [
       "Act 2 Bosses"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Terah the Geomancer (Regular Gems)",
@@ -859,7 +907,7 @@
     "category": [
       "Act 2 Bosses"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Terah the Geomancer (Obsidian)",
@@ -867,7 +915,7 @@
     "category": [
       "Act 2 Bosses"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Terah the Geomancer (Lost Soul)",
@@ -876,15 +924,15 @@
       "Act 2 Bosses",
       "LostSouls"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
-    "name": "General Elena the Hollow (Altar of Stygian Awakening)",
+    "name": "General Elena the Hollow (Altar of Stygian Awakening, Elixir of the Raven)",
     "region": "The Hollow",
     "category": [
       "Act 2 Bosses"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "General Elena the Hollow (Stately Carpets)",
@@ -892,7 +940,7 @@
     "category": [
       "Act 2 Bosses"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "General Elena the Hollow (Frost Tier 2)",
@@ -900,7 +948,7 @@
     "category": [
       "Act 2 Bosses"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "General Elena the Hollow (Lost Soul)",
@@ -909,15 +957,15 @@
       "Act 2 Bosses",
       "LostSouls"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
-    "name": "Frostmaw the Mountain Terror (Thick Leather)",
+    "name": "Frostmaw the Mountain Terror (Thick Leather, Mountain Peak Bag, Elixir of the Beast)",
     "region": "Mountain Terror",
     "category": [
       "Act 2 Bosses"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Frostmaw the Mountain Terror (Claws)",
@@ -925,7 +973,7 @@
     "category": [
       "Act 2 Bosses"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Frostmaw the Mountain Terror (Frost Tier 3)",
@@ -933,7 +981,7 @@
     "category": [
       "Act 2 Bosses"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Frostmaw the Mountain Terror (Lost Soul)",
@@ -942,7 +990,7 @@
       "Act 2 Bosses",
       "LostSouls"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Gaius the Cursed Champion (Arena Station)",
@@ -950,7 +998,7 @@
     "category": [
       "Act 2 Bosses"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Gaius the Cursed Champion (Arena Decorations)",
@@ -958,7 +1006,7 @@
     "category": [
       "Act 2 Bosses"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Gaius the Cursed Champion (Twinblades)",
@@ -966,7 +1014,7 @@
     "category": [
       "Act 2 Bosses"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Gaius the Cursed Champion (Unholy Tier 1)",
@@ -974,7 +1022,7 @@
     "category": [
       "Act 2 Bosses"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Gaius the Cursed Champion (Lost Soul)",
@@ -983,15 +1031,15 @@
       "Act 2 Bosses",
       "LostSouls"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
-    "name": "General Cassius the Betrayer (Stygian Summoning Circle)",
+    "name": "General Cassius the Betrayer (Stygian Summoning Circle, Elixir of the Bat)",
     "region": "The Betrayer",
     "category": [
       "Act 2 Bosses"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "General Cassius the Betrayer (Unholy Tier 2)",
@@ -999,7 +1047,7 @@
     "category": [
       "Act 2 Bosses"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "General Cassius the Betrayer (Lost Soul)",
@@ -1008,24 +1056,31 @@
       "Act 2 Bosses",
       "LostSouls"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
-    "name": "Jade the Vampire Hunter (Primal Blood Essence)",
+    "name": "Jade the Vampire Hunter (Primal Blood Essence, Elixir of the Crow, Advanced Blood Press)",
     "region": "Jade",
     "category": [
       "Act 2 Bosses"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
-
+  {
+    "name": "Jade the Vampire Hunter (Veil of Chaos)",
+    "region": "Jade",
+    "category": [
+      "Act 2 Bosses"
+    ],
+    "requires": ""
+  },
   {
     "name": "Jade the Vampire Hunter (Pistols)",
     "region": "Jade",
     "category": [
       "Act 2 Bosses"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Jade the Vampire Hunter (Lost Soul)",
@@ -1034,7 +1089,7 @@
       "Act 2 Bosses",
       "LostSouls"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Raziel the Shepherd (Jewelcrafting Table)",
@@ -1042,7 +1097,7 @@
     "category": [
       "Act 2 Bosses"
     ],
-    "requires": "|Clive the Firestarter (Alchemy Table)| AND |Meredith the Bright Archer (Holy Resistance Potion)| AND |Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Clive the Firestarter (Alchemy Table)| AND |Meredith the Bright Archer (Holy Resistance Potion)| AND |Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Raziel the Shepherd (Cordial Stairs & Doors)",
@@ -1050,7 +1105,7 @@
     "category": [
       "Act 2 Bosses"
     ],
-    "requires": "|Clive the Firestarter (Alchemy Table)| AND |Meredith the Bright Archer (Holy Resistance Potion)| AND |Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Clive the Firestarter (Alchemy Table)| AND |Meredith the Bright Archer (Holy Resistance Potion)| AND |Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Raziel the Shepherd (Blood Tier 2)",
@@ -1058,7 +1113,7 @@
     "category": [
       "Act 2 Bosses"
     ],
-    "requires": "|Clive the Firestarter (Alchemy Table)| AND |Meredith the Bright Archer (Holy Resistance Potion)| AND |Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Clive the Firestarter (Alchemy Table)| AND |Meredith the Bright Archer (Holy Resistance Potion)| AND |Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Raziel the Shepherd (Lost Soul)",
@@ -1067,7 +1122,7 @@
       "Act 2 Bosses",
       "LostSouls"
     ],
-    "requires": "|Clive the Firestarter (Alchemy Table)| AND |Meredith the Bright Archer (Holy Resistance Potion)| AND |Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Clive the Firestarter (Alchemy Table)| AND |Meredith the Bright Archer (Holy Resistance Potion)| AND |Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Octavian the Militia Captain (Ancestral Forge)",
@@ -1076,7 +1131,7 @@
     "category": [
       "Act 2 Bosses"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Octavian the Militia Captain (Wide Castle Entrance)",
@@ -1084,7 +1139,7 @@
     "category": [
       "Act 2 Bosses"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Octavian the Militia Captain (Equipment Storage)",
@@ -1092,7 +1147,7 @@
     "category": [
       "Act 2 Bosses"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Octavian the Militia Captain (Storm Tier 3)",
@@ -1100,24 +1155,24 @@
     "category": [
       "Act 2 Bosses"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Octavian the Militia Captain (Lost Soul)",
-    "region": "Shepherd",
+    "region": "Militia Captain",
     "category": [
       "Act 2 Bosses",
       "LostSouls"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
-    "name": "Ziva the Engineer (Fabricator)",
+    "name": "Ziva the Engineer (Fabricator, Radium Alloy, Sludge-Filled Canister, Yellow Castle Teleporter)",
     "region": "Engineer",
     "category": [
       "Act 3 Bosses"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Ziva the Engineer (Storm Tier 2)",
@@ -1125,7 +1180,7 @@
     "category": [
       "Act 3 Bosses"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Ziva the Engineer (Lost Soul)",
@@ -1134,15 +1189,15 @@
       "Act 3 Bosses",
       "LostSouls"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
-    "name": "Domina the Blade Dancer (Advanced Grinder)",
+    "name": "Domina the Blade Dancer (Advanced Grinder, Elixir of the Blasphemous, Red Castle Teleporter)",
     "region": "Blade Dancer",
     "category": [
       "Act 3 Bosses"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Domina the Blade Dancer (Iron Whip)",
@@ -1150,7 +1205,7 @@
     "category": [
       "Act 3 Bosses"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Domina the Blade Dancer (Storm Tier 2)",
@@ -1158,7 +1213,7 @@
     "category": [
       "Act 3 Bosses"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Domina the Blade Dancer (Lost Soul)",
@@ -1167,7 +1222,7 @@
       "Act 3 Bosses",
       "LostSouls"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Angram the Purifier (Dawnthorn Regalia)",
@@ -1175,15 +1230,15 @@
     "category": [
       "Act 3 Bosses"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
-    "name": "Angram the Purifier (Mutated Rat)",
+    "name": "Angram the Purifier (Mutated Rat, Major Explosive Box)",
     "region": "Purifier",
     "category": [
       "Act 3 Bosses"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Angram the Purifier (Irradiant Gruel)",
@@ -1191,7 +1246,7 @@
     "category": [
       "Act 3 Bosses"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Angram the Purifier (Chaos Tier 3)",
@@ -1199,7 +1254,7 @@
     "category": [
       "Act 3 Bosses"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Angram the Purifier (Lost Soul)",
@@ -1208,15 +1263,15 @@
       "Act 3 Bosses",
       "LostSouls"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
-    "name": "Ungora the Spider Queen (Silk)",
+    "name": "Ungora the Spider Queen (Silk, Spiderling, Spider Form)",
     "region": "Spider Queen",
     "category": [
       "Act 3 Bosses"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Ungora the Spider Queen (Unholy Tier 3)",
@@ -1224,7 +1279,7 @@
     "category": [
       "Act 3 Bosses"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Ungora the Spider Queen (Lost Soul)",
@@ -1233,15 +1288,15 @@
       "Act 3 Bosses",
       "LostSouls"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
-    "name": "Ben the Old Wanderer (Pristine Leather)",
+    "name": "Ben the Old Wanderer (Pristine Leather, Shroud of the Forest)",
     "region": "Old Wanderer",
     "category": [
       "Act 3 Bosses"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Ben the Old Wanderer (Frost Tier 1)",
@@ -1249,7 +1304,7 @@
     "category": [
       "Act 3 Bosses"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Ben the Old Wanderer (Lost Soul)",
@@ -1258,15 +1313,15 @@
       "Act 3 Bosses",
       "LostSouls"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
-    "name": "Foulrot the Soultaker (Spectral Dust)",
+    "name": "Foulrot the Soultaker (Spectral Dust, Banshee)",
     "region": "Soultaker",
     "category": [
       "Act 3 Bosses"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Foulrot the Soultaker (Unholy Tier 2)",
@@ -1274,7 +1329,7 @@
     "category": [
       "Act 3 Bosses"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Foulrot the Soultaker (Lost Soul)",
@@ -1283,15 +1338,15 @@
       "Act 3 Bosses",
       "LostSouls"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
-    "name": "Albert the Duke of Balaton (Toad Form)",
+    "name": "Albert the Duke of Balaton (Toad Form, Chess Table)",
     "region": "Duke of Balaton",
     "category": [
       "Act 3 Bosses"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Albert the Duke of Balaton (Coining)",
@@ -1299,7 +1354,7 @@
     "category": [
       "Act 3 Bosses"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Albert the Duke of Balaton (Lost Soul)",
@@ -1308,7 +1363,7 @@
       "Act 3 Bosses",
       "LostSouls"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Willfred the Werewolf Chief (Longcase Clocks)",
@@ -1316,15 +1371,15 @@
     "category": [
       "Act 3 Bosses"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
-    "name": "Willfred the Werewolf Chief (Pristine Leather Bag)",
+    "name": "Willfred the Werewolf Chief (Pristine Leather Bag, Silver Resistance Potion, Elixir of the Werewolf)",
     "region": "Werewolf Chief",
     "category": [
       "Act 3 Bosses"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Willfred the Werewolf Chief (Blood Tier 3)",
@@ -1332,7 +1387,7 @@
     "category": [
       "Act 3 Bosses"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Willfred the Werewolf Chief (Lost Soul)",
@@ -1341,16 +1396,24 @@
       "Act 3 Bosses",
       "LostSouls"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
-    "name": "Cyril the Cursed Smith (Dark Silver Ingot)",
+    "name": "Cyril the Cursed Smith (Dark Silver Ingot, Anvil, Advanced Furnace)",
     "region": "Cursed Smith",
     "victory": true,
     "category": [
       "Act 3 Bosses"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+  },
+  {
+    "name": "Cyril the Cursed Smith (Veil of Illusion)",
+    "region": "Cursed Smith",
+    "category": [
+      "Act 3 Bosses"
+    ],
+    "requires": ""
   },
   {
     "name": "Cyril the Cursed Smith (Lost Soul)",
@@ -1359,7 +1422,7 @@
       "Act 3 Bosses",
       "LostSouls"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Sir Magnus the Overseer (Assortment of Wide Storage Shelves)",
@@ -1367,7 +1430,7 @@
     "category": [
       "Act 4 Bosses"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Cyril the Cursed Smith (Dark Silver Ingot, Anvil, Advanced Furnace)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Sir Magnus the Overseer (Phantom's Veil)",
@@ -1375,7 +1438,7 @@
     "category": [
       "Act 4 Bosses"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Cyril the Cursed Smith (Dark Silver Ingot, Anvil, Advanced Furnace)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Sir Magnus the Overseer (Frost Tier 1)",
@@ -1383,7 +1446,7 @@
     "category": [
       "Act 4 Bosses"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Cyril the Cursed Smith (Dark Silver Ingot, Anvil, Advanced Furnace)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Sir Magnus the Overseer (Lost Soul)",
@@ -1392,7 +1455,7 @@
       "Act 4 Bosses",
       "LostSouls"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Cyril the Cursed Smith (Dark Silver Ingot, Anvil, Advanced Furnace)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Baron du Bouchon the Sommelier (Rural Garden Fencing)",
@@ -1400,7 +1463,7 @@
     "category": [
       "Act 4 Bosses"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Cyril the Cursed Smith (Dark Silver Ingot, Anvil, Advanced Furnace)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Baron du Bouchon the Sommelier (Barrel Disguise)",
@@ -1408,7 +1471,7 @@
     "category": [
       "Act 4 Bosses"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Cyril the Cursed Smith (Dark Silver Ingot, Anvil, Advanced Furnace)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Baron du Bouchon the Sommelier (Blood Merlot)",
@@ -1416,7 +1479,7 @@
     "category": [
       "Act 4 Bosses"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Cyril the Cursed Smith (Dark Silver Ingot, Anvil, Advanced Furnace)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Baron du Bouchon the Sommelier (Blood Merlot Amulet)",
@@ -1424,7 +1487,7 @@
     "category": [
       "Act 4 Bosses"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Cyril the Cursed Smith (Dark Silver Ingot, Anvil, Advanced Furnace)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Baron du Bouchon the Sommelier (Blood Tier 2)",
@@ -1432,7 +1495,7 @@
     "category": [
       "Act 4 Bosses"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Cyril the Cursed Smith (Dark Silver Ingot, Anvil, Advanced Furnace)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Baron du Bouchon the Sommelier (Lost Soul)",
@@ -1441,7 +1504,7 @@
       "Act 4 Bosses",
       "LostSouls"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Cyril the Cursed Smith (Dark Silver Ingot, Anvil, Advanced Furnace)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Morian the Stormwing Matriarch (Flawless Gems)",
@@ -1449,7 +1512,7 @@
     "category": [
       "Act 4 Bosses"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Cyril the Cursed Smith (Dark Silver Ingot, Anvil, Advanced Furnace)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Morian the Stormwing Matriarch (Chaos Tier 1)",
@@ -1457,7 +1520,7 @@
     "category": [
       "Act 4 Bosses"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Cyril the Cursed Smith (Dark Silver Ingot, Anvil, Advanced Furnace)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Morian the Stormwing Matriarch (Lost Soul)",
@@ -1466,7 +1529,7 @@
       "Act 4 Bosses",
       "LostSouls"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Cyril the Cursed Smith (Dark Silver Ingot, Anvil, Advanced Furnace)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Mairwyn the Elementalist (Crystal Light)",
@@ -1474,7 +1537,7 @@
     "category": [
       "Act 4 Bosses"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Cyril the Cursed Smith (Dark Silver Ingot, Anvil, Advanced Furnace)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Mairwyn the Elementalist (Holy Resistance Flask)",
@@ -1482,7 +1545,7 @@
     "category": [
       "Act 4 Bosses"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Cyril the Cursed Smith (Dark Silver Ingot, Anvil, Advanced Furnace)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Mairwyn the Elementalist (Greater Jewels)",
@@ -1490,7 +1553,7 @@
     "category": [
       "Act 4 Bosses"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Cyril the Cursed Smith (Dark Silver Ingot, Anvil, Advanced Furnace)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Mairwyn the Elementalist (Storm Tier 1)",
@@ -1498,7 +1561,7 @@
     "category": [
       "Act 4 Bosses"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Cyril the Cursed Smith (Dark Silver Ingot, Anvil, Advanced Furnace)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Mairwyn the Elementalist (Lost Soul)",
@@ -1507,15 +1570,15 @@
       "Act 4 Bosses",
       "LostSouls"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Cyril the Cursed Smith (Dark Silver Ingot, Anvil, Advanced Furnace)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
-    "name": "Henry Blackbrew the Doctor (Athenaeum)",
+    "name": "Henry Blackbrew the Doctor (Athenaeum, Schematic, Redistribution Engine, Luminescent Mushroom Terrarium)",
     "region": "Doctor",
     "category": [
       "Act 4 Bosses"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Cyril the Cursed Smith (Dark Silver Ingot, Anvil, Advanced Furnace)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Henry Blackbrew the Doctor (Storm Tier 3)",
@@ -1523,7 +1586,7 @@
     "category": [
       "Act 4 Bosses"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Cyril the Cursed Smith (Dark Silver Ingot, Anvil, Advanced Furnace)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Henry Blackbrew the Doctor (Lost Soul)",
@@ -1532,7 +1595,7 @@
       "Act 4 Bosses",
       "LostSouls"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Cyril the Cursed Smith (Dark Silver Ingot, Anvil, Advanced Furnace)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Jakira the Shadow Huntress (Elixir of the Twisted)",
@@ -1540,7 +1603,7 @@
     "category": [
       "Act 4 Bosses"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Cyril the Cursed Smith (Dark Silver Ingot, Anvil, Advanced Furnace)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Jakira the Shadow Huntress (Slashers)",
@@ -1548,7 +1611,7 @@
     "category": [
       "Act 4 Bosses"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Cyril the Cursed Smith (Dark Silver Ingot, Anvil, Advanced Furnace)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Jakira the Shadow Huntress (Illusion Tier 2)",
@@ -1556,7 +1619,7 @@
     "category": [
       "Act 4 Bosses"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Cyril the Cursed Smith (Dark Silver Ingot, Anvil, Advanced Furnace)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Jakira the Shadow Huntress (Lost Soul)",
@@ -1565,15 +1628,15 @@
       "Act 4 Bosses",
       "LostSouls"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Cyril the Cursed Smith (Dark Silver Ingot, Anvil, Advanced Furnace)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
-    "name": "Stavros the Carver (Advanced Sawmill)",
+    "name": "Stavros the Carver (Advanced Sawmill, Purple Castle Teleporter)",
     "region": "Carver",
     "category": [
       "Act 4 Bosses"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Cyril the Cursed Smith (Dark Silver Ingot, Anvil, Advanced Furnace)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Stavros the Carver (Weapon Coatings)",
@@ -1581,7 +1644,7 @@
     "category": [
       "Act 4 Bosses"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Cyril the Cursed Smith (Dark Silver Ingot, Anvil, Advanced Furnace)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Stavros the Carver (Chaos Tier 2)",
@@ -1589,7 +1652,7 @@
     "category": [
       "Act 4 Bosses"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Cyril the Cursed Smith (Dark Silver Ingot, Anvil, Advanced Furnace)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Stavros the Carver (Lost Soul)",
@@ -1598,15 +1661,15 @@
       "Act 4 Bosses",
       "LostSouls"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Cyril the Cursed Smith (Dark Silver Ingot, Anvil, Advanced Furnace)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
-    "name": "Lucile the Venom Alchemist (Blood Homogenizer)",
+    "name": "Lucile the Venom Alchemist (Blood Homogenizer, Stand with Boiling Flask and Burner)",
     "region": "Venom Alchemist",
     "category": [
       "Act 4 Bosses"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Cyril the Cursed Smith (Dark Silver Ingot, Anvil, Advanced Furnace)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Lucile the Venom Alchemist (Blood Tier 2)",
@@ -1614,7 +1677,7 @@
     "category": [
       "Act 4 Bosses"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Cyril the Cursed Smith (Dark Silver Ingot, Anvil, Advanced Furnace)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Lucile the Venom Alchemist (Lost Soul)",
@@ -1623,15 +1686,15 @@
       "Act 4 Bosses",
       "LostSouls"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Cyril the Cursed Smith (Dark Silver Ingot, Anvil, Advanced Furnace)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
-    "name": "Matka the Curse Weaver (Advanced Loom)",
+    "name": "Matka the Curse Weaver (Advanced Loom, Ghost Yarn, Mosquito)",
     "region": "Curse Weaver",
     "category": [
       "Act 4 Bosses"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Cyril the Cursed Smith (Dark Silver Ingot, Anvil, Advanced Furnace)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Matka the Curse Weaver (Illusion Tier 2)",
@@ -1639,7 +1702,7 @@
     "category": [
       "Act 4 Bosses"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Cyril the Cursed Smith (Dark Silver Ingot, Anvil, Advanced Furnace)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Matka the Curse Weaver (Lost Soul)",
@@ -1648,7 +1711,7 @@
       "Act 4 Bosses",
       "LostSouls"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Cyril the Cursed Smith (Dark Silver Ingot, Anvil, Advanced Furnace)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Terrorclaw the Ogre (Advanced Tannery)",
@@ -1656,7 +1719,7 @@
     "category": [
       "Act 4 Bosses"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Cyril the Cursed Smith (Dark Silver Ingot, Anvil, Advanced Furnace)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Terrorclaw the Ogre (Frost Tier 3)",
@@ -1664,7 +1727,7 @@
     "category": [
       "Act 4 Bosses"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Cyril the Cursed Smith (Dark Silver Ingot, Anvil, Advanced Furnace)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Terrorclaw the Ogre (Lost Soul)",
@@ -1673,7 +1736,7 @@
       "Act 4 Bosses",
       "LostSouls"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Cyril the Cursed Smith (Dark Silver Ingot, Anvil, Advanced Furnace)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Azariel the Sunbringer (Ostentatious Carpets)",
@@ -1681,7 +1744,7 @@
     "category": [
       "Act 4 Bosses"
     ],
-    "requires": "|Clive the Firestarter (Alchemy Table)| AND |Meredith the Bright Archer (Holy Resistance Potion)| AND |Mairwyn the Elementalist (Holy Resistance Flask)| AND |Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Clive the Firestarter (Alchemy Table)| AND |Meredith the Bright Archer (Holy Resistance Potion)| AND |Mairwyn the Elementalist (Holy Resistance Flask)| AND |Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Cyril the Cursed Smith (Dark Silver Ingot, Anvil, Advanced Furnace)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Azariel the Sunbringer (Gold Ingot)",
@@ -1689,7 +1752,7 @@
     "category": [
       "Act 4 Bosses"
     ],
-    "requires": "|Clive the Firestarter (Alchemy Table)| AND |Meredith the Bright Archer (Holy Resistance Potion)| AND |Mairwyn the Elementalist (Holy Resistance Flask)| AND |Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Clive the Firestarter (Alchemy Table)| AND |Meredith the Bright Archer (Holy Resistance Potion)| AND |Mairwyn the Elementalist (Holy Resistance Flask)| AND |Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Cyril the Cursed Smith (Dark Silver Ingot, Anvil, Advanced Furnace)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Azariel the Sunbringer (Chaos Tier 3)",
@@ -1697,7 +1760,7 @@
     "category": [
       "Act 4 Bosses"
     ],
-    "requires": "|Clive the Firestarter (Alchemy Table)| AND |Meredith the Bright Archer (Holy Resistance Potion)| AND |Mairwyn the Elementalist (Holy Resistance Flask)| AND |Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Clive the Firestarter (Alchemy Table)| AND |Meredith the Bright Archer (Holy Resistance Potion)| AND |Mairwyn the Elementalist (Holy Resistance Flask)| AND |Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Cyril the Cursed Smith (Dark Silver Ingot, Anvil, Advanced Furnace)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Azariel the Sunbringer (Lost Soul)",
@@ -1706,15 +1769,15 @@
       "Act 4 Bosses",
       "LostSouls"
     ],
-    "requires": "|Clive the Firestarter (Alchemy Table)| AND |Meredith the Bright Archer (Holy Resistance Potion)| AND |Mairwyn the Elementalist (Holy Resistance Flask)| AND |Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Clive the Firestarter (Alchemy Table)| AND |Meredith the Bright Archer (Holy Resistance Potion)| AND |Mairwyn the Elementalist (Holy Resistance Flask)| AND |Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Cyril the Cursed Smith (Dark Silver Ingot, Anvil, Advanced Furnace)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
-    "name": "Voltatia the Power Master (Power Core)",
+    "name": "Voltatia the Power Master (Power Core, EMP, Blue Castle Teleporter)",
     "region": "Power Master",
     "category": [
       "Act 4 Bosses"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Cyril the Cursed Smith (Dark Silver Ingot, Anvil, Advanced Furnace)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Voltatia the Power Master (Storm Tier 2)",
@@ -1722,7 +1785,7 @@
     "category": [
       "Act 4 Bosses"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Cyril the Cursed Smith (Dark Silver Ingot, Anvil, Advanced Furnace)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Voltatia the Power Master (Lost Soul)",
@@ -1731,7 +1794,7 @@
       "Act 4 Bosses",
       "LostSouls"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Cyril the Cursed Smith (Dark Silver Ingot, Anvil, Advanced Furnace)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Simon Belmont the Vampire Hunter (Sanguine Whip)",
@@ -1739,7 +1802,7 @@
     "category": [
       "Act 4 Bosses"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Cyril the Cursed Smith (Dark Silver Ingot, Anvil, Advanced Furnace)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Simon Belmont the Vampire Hunter (Lost Soul)",
@@ -1748,15 +1811,15 @@
       "Act 4 Bosses",
       "LostSouls"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Cyril the Cursed Smith (Dark Silver Ingot, Anvil, Advanced Furnace)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
-    "name": "Dantos the Forgebinder (Fusion Forge)",
+    "name": "Dantos the Forgebinder (Fusion Forge, Emberglass)",
     "region": "Forgebinder",
     "category": [
       "Act 4 Bosses"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Cyril the Cursed Smith (Dark Silver Ingot, Anvil, Advanced Furnace)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Dantos the Forgebinder (Frost Tier 2)",
@@ -1764,7 +1827,7 @@
     "category": [
       "Act 4 Bosses"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Cyril the Cursed Smith (Dark Silver Ingot, Anvil, Advanced Furnace)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Dantos the Forgebinder (Lost Soul)",
@@ -1773,15 +1836,15 @@
       "Act 4 Bosses",
       "LostSouls"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Cyril the Cursed Smith (Dark Silver Ingot, Anvil, Advanced Furnace)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
-    "name": "Lord Styx the Night Champion (Bat Form)",
+    "name": "Lord Styx the Night Champion (Bat Form, Onyx Tear, Blood Key)",
     "region": "Night Champion",
     "category": [
       "Act 4 Bosses"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Cyril the Cursed Smith (Dark Silver Ingot, Anvil, Advanced Furnace)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Lord Styx the Night Champion (Lost Soul)",
@@ -1790,7 +1853,7 @@
       "Act 4 Bosses",
       "LostSouls"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Cyril the Cursed Smith (Dark Silver Ingot, Anvil, Advanced Furnace)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "General Valencia the Depraved (Coat of Arms)",
@@ -1798,7 +1861,7 @@
     "category": [
       "Act 4 Bosses"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Cyril the Cursed Smith (Dark Silver Ingot, Anvil, Advanced Furnace)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "General Valencia the Depraved (Shadow Weave)",
@@ -1806,7 +1869,7 @@
     "category": [
       "Act 4 Bosses"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Cyril the Cursed Smith (Dark Silver Ingot, Anvil, Advanced Furnace)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "General Valencia the Depraved (Primal Jewels)",
@@ -1814,7 +1877,7 @@
     "category": [
       "Act 4 Bosses"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Cyril the Cursed Smith (Dark Silver Ingot, Anvil, Advanced Furnace)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "General Valencia the Depraved (Lost Soul)",
@@ -1823,15 +1886,15 @@
       "Act 4 Bosses",
       "LostSouls"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Cyril the Cursed Smith (Dark Silver Ingot, Anvil, Advanced Furnace)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
-    "name": "Gorecrusher the Behemoth (Bat Leather)",
+    "name": "Gorecrusher the Behemoth (Bat Leather, Bat Leather Bag)",
     "region": "Behemoth",
     "category": [
       "Act 4 Bosses"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Cyril the Cursed Smith (Dark Silver Ingot, Anvil, Advanced Furnace)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Gorecrusher the Behemoth (Illusion Tier 3)",
@@ -1839,7 +1902,7 @@
     "category": [
       "Act 4 Bosses"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Cyril the Cursed Smith (Dark Silver Ingot, Anvil, Advanced Furnace)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Gorecrusher the Behemoth (Lost Soul)",
@@ -1848,7 +1911,7 @@
       "Act 4 Bosses",
       "LostSouls"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Cyril the Cursed Smith (Dark Silver Ingot, Anvil, Advanced Furnace)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Solarus the Immaculate (Pedestal of Solarus)",
@@ -1857,7 +1920,7 @@
     "category": [
       "Act 4 Bosses"
     ],
-    "requires": "|Clive the Firestarter (Alchemy Table)| AND |Meredith the Bright Archer (Holy Resistance Potion)| AND |Mairwyn the Elementalist (Holy Resistance Flask)| AND |Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Clive the Firestarter (Alchemy Table)| AND |Meredith the Bright Archer (Holy Resistance Potion)| AND |Mairwyn the Elementalist (Holy Resistance Flask)| AND |Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Cyril the Cursed Smith (Dark Silver Ingot, Anvil, Advanced Furnace)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Solarus the Immaculate (Dracula's Boots)",
@@ -1865,7 +1928,7 @@
     "category": [
       "Act 4 Bosses"
     ],
-    "requires": "|Clive the Firestarter (Alchemy Table)| AND |Meredith the Bright Archer (Holy Resistance Potion)| AND |Mairwyn the Elementalist (Holy Resistance Flask)| AND |Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Clive the Firestarter (Alchemy Table)| AND |Meredith the Bright Archer (Holy Resistance Potion)| AND |Mairwyn the Elementalist (Holy Resistance Flask)| AND |Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Cyril the Cursed Smith (Dark Silver Ingot, Anvil, Advanced Furnace)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Solarus the Immaculate (Lost Soul)",
@@ -1874,7 +1937,7 @@
       "Act 4 Bosses",
       "LostSouls"
     ],
-    "requires": "|Clive the Firestarter (Alchemy Table)| AND |Meredith the Bright Archer (Holy Resistance Potion)| AND |Mairwyn the Elementalist (Holy Resistance Flask)| AND |Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Clive the Firestarter (Alchemy Table)| AND |Meredith the Bright Archer (Holy Resistance Potion)| AND |Mairwyn the Elementalist (Holy Resistance Flask)| AND |Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Cyril the Cursed Smith (Dark Silver Ingot, Anvil, Advanced Furnace)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Talzur the Winged Horror (Pedestal of the Winged Horror)",
@@ -1883,7 +1946,7 @@
     "category": [
       "Act 4 Bosses"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Cyril the Cursed Smith (Dark Silver Ingot, Anvil, Advanced Furnace)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Talzur the Winged Horror (Dracula's Gloves)",
@@ -1891,7 +1954,7 @@
     "category": [
       "Act 4 Bosses"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Cyril the Cursed Smith (Dark Silver Ingot, Anvil, Advanced Furnace)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Talzur the Winged Horror (Lost Soul)",
@@ -1900,7 +1963,7 @@
       "Act 4 Bosses",
       "LostSouls"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Cyril the Cursed Smith (Dark Silver Ingot, Anvil, Advanced Furnace)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Adam the Firstborn (Pedestal of the Monster)",
@@ -1909,7 +1972,7 @@
     "category": [
       "Act 4 Bosses"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Cyril the Cursed Smith (Dark Silver Ingot, Anvil, Advanced Furnace)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Adam the Firstborn (Dracula's Chestguard)",
@@ -1917,7 +1980,7 @@
     "category": [
       "Act 4 Bosses"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Cyril the Cursed Smith (Dark Silver Ingot, Anvil, Advanced Furnace)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Adam the Firstborn (Lost Soul)",
@@ -1926,7 +1989,7 @@
       "Act 4 Bosses",
       "LostSouls"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Cyril the Cursed Smith (Dark Silver Ingot, Anvil, Advanced Furnace)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Megara the Serpent Queen (Pedestal of the Serpent)",
@@ -1935,7 +1998,7 @@
     "category": [
       "Act 4 Bosses"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Cyril the Cursed Smith (Dark Silver Ingot, Anvil, Advanced Furnace)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Megara the Serpent Queen (Dracula's Leggings)",
@@ -1943,7 +2006,7 @@
     "category": [
       "Act 4 Bosses"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Cyril the Cursed Smith (Dark Silver Ingot, Anvil, Advanced Furnace)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Megara the Serpent Queen (Lost Soul)",
@@ -1952,7 +2015,7 @@
       "Act 4 Bosses",
       "LostSouls"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Cyril the Cursed Smith (Dark Silver Ingot, Anvil, Advanced Furnace)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Dracula the Immortal King (Pedestal of Dracula)",
@@ -1962,7 +2025,7 @@
       "Goal",
       "Act 5 Boss"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Cyril the Cursed Smith (Dark Silver Ingot, Anvil, Advanced Furnace)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Dracula the Immortal King (Lost Soul)",
@@ -1971,7 +2034,7 @@
       "Act 4 Bosses",
       "LostSouls"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Cyril the Cursed Smith (Dark Silver Ingot, Anvil, Advanced Furnace)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Research Desk - Learn Brew of Ferocity",
@@ -2354,25 +2417,28 @@
     "name": "Study - Learn Fire Resistance Brew",
     "region": "Study",
     "category": [
-      "Knowledge - Study"
+      "Knowledge - Study",
+      "MoreKnowledge"
     ],
-    "requires": "|Maja the Dark Savant (Study)| AND |Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Maja the Dark Savant (Study, Scroll)| AND |Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Study - Learn Wrangler's Potion",
     "region": "Study",
     "category": [
-      "Knowledge - Study"
+      "Knowledge - Study",
+      "MoreKnowledge"
     ],
-    "requires": "|Maja the Dark Savant (Study)| AND |Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Maja the Dark Savant (Study, Scroll)| AND |Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Study - Learn Garlic Resistance Potion",
     "region": "Study",
     "category": [
-      "Knowledge - Study"
+      "Knowledge - Study",
+      "MoreKnowledge"
     ],
-    "requires": "|Maja the Dark Savant (Study)| AND |Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Maja the Dark Savant (Study, Scroll)| AND |Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Study - Learn Pendant of the Warrior",
@@ -2380,7 +2446,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Maja the Dark Savant (Study)| AND |Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Maja the Dark Savant (Study, Scroll)| AND |Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Study - Learn Pendant of the Sorcerer",
@@ -2388,7 +2454,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Maja the Dark Savant (Study)| AND |Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Maja the Dark Savant (Study, Scroll)| AND |Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Study - Learn Pendant of the Dawnrunner",
@@ -2396,7 +2462,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Maja the Dark Savant (Study)| AND |Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Maja the Dark Savant (Study, Scroll)| AND |Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Study - Learn Pendant of the Spellweaver",
@@ -2404,7 +2470,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Maja the Dark Savant (Study)| AND |Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Maja the Dark Savant (Study, Scroll)| AND |Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Study - Learn Pendant of the Warlock",
@@ -2412,7 +2478,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Maja the Dark Savant (Study)| AND |Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Maja the Dark Savant (Study, Scroll)| AND |Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Study - Learn Pendant of the Duskwatcher",
@@ -2420,7 +2486,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Maja the Dark Savant (Study)| AND |Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Maja the Dark Savant (Study, Scroll)| AND |Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Study - Learn Merciless Iron Sword",
@@ -2428,7 +2494,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Maja the Dark Savant (Study)| AND |Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Maja the Dark Savant (Study, Scroll)| AND |Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Study - Learn Merciless Iron Axes",
@@ -2436,7 +2502,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Maja the Dark Savant (Study)| AND |Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Maja the Dark Savant (Study, Scroll)| AND |Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Study - Learn Merciless Iron Mace",
@@ -2444,7 +2510,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Maja the Dark Savant (Study)| AND |Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Maja the Dark Savant (Study, Scroll)| AND |Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Study - Learn Merciless Iron Spear",
@@ -2452,7 +2518,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Maja the Dark Savant (Study)| AND |Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Maja the Dark Savant (Study, Scroll)| AND |Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Study - Learn Merciless Iron Reaper",
@@ -2460,7 +2526,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Maja the Dark Savant (Study)| AND |Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Maja the Dark Savant (Study, Scroll)| AND |Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Study - Learn Merciless Iron Crossbow",
@@ -2468,7 +2534,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Maja the Dark Savant (Study)| AND |Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Maja the Dark Savant (Study, Scroll)| AND |Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Study - Learn Merciless Iron Longbow",
@@ -2476,7 +2542,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Maja the Dark Savant (Study)| AND |Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Maja the Dark Savant (Study, Scroll)| AND |Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Study - Learn Merciless Iron Greatsword",
@@ -2484,7 +2550,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Maja the Dark Savant (Study)| AND |Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Maja the Dark Savant (Study, Scroll)| AND |Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Study - Learn Merciless Iron Daggers",
@@ -2492,7 +2558,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Maja the Dark Savant (Study)| AND |Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Maja the Dark Savant (Study, Scroll)| AND |Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Study - Learn Merciless Iron Twinblade",
@@ -2500,7 +2566,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Maja the Dark Savant (Study)| AND |Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Maja the Dark Savant (Study, Scroll)| AND |Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Study - Learn Merciless Iron Claws",
@@ -2508,7 +2574,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Maja the Dark Savant (Study)| AND |Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Maja the Dark Savant (Study, Scroll)| AND |Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Study - Learn Merciless Iron Pistols",
@@ -2516,7 +2582,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Maja the Dark Savant (Study)| AND |Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Maja the Dark Savant (Study, Scroll)| AND |Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Study - Learn Merciless Iron Slashers",
@@ -2525,7 +2591,7 @@
       "Knowledge - Study",
       "Act4"
     ],
-    "requires": "|Maja the Dark Savant (Study)| AND |Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Maja the Dark Savant (Study, Scroll)| AND |Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Study - Learn Merciless Iron Whip",
@@ -2534,7 +2600,7 @@
       "Knowledge - Study",
       "Act3"
     ],
-    "requires": "|Maja the Dark Savant (Study)| AND |Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Maja the Dark Savant (Study, Scroll)| AND |Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Study - Learn Duskwatcher Chestguard",
@@ -2542,7 +2608,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Maja the Dark Savant (Study)| AND |Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Maja the Dark Savant (Study, Scroll)| AND |Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Study - Learn Duskwatcher Leggings",
@@ -2550,7 +2616,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Maja the Dark Savant (Study)| AND |Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Maja the Dark Savant (Study, Scroll)| AND |Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Study - Learn Duskwatcher Boots",
@@ -2558,7 +2624,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Maja the Dark Savant (Study)| AND |Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Maja the Dark Savant (Study, Scroll)| AND |Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Study - Learn Duskwatcher Gloves",
@@ -2566,7 +2632,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Maja the Dark Savant (Study)| AND |Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Maja the Dark Savant (Study, Scroll)| AND |Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Study - Learn Crimson Templar Chestguard",
@@ -2574,7 +2640,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Maja the Dark Savant (Study)| AND |Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Maja the Dark Savant (Study, Scroll)| AND |Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Study - Learn Crimson Templar Leggings",
@@ -2582,7 +2648,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Maja the Dark Savant (Study)| AND |Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Maja the Dark Savant (Study, Scroll)| AND |Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Study - Learn Crimson Templar Boots",
@@ -2590,7 +2656,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Maja the Dark Savant (Study)| AND |Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Maja the Dark Savant (Study, Scroll)| AND |Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Study - Learn Crimson Templar Gloves",
@@ -2598,7 +2664,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Maja the Dark Savant (Study)| AND |Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Maja the Dark Savant (Study, Scroll)| AND |Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Study - Learn Blood Hunter Chestguard",
@@ -2606,7 +2672,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Maja the Dark Savant (Study)| AND |Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Maja the Dark Savant (Study, Scroll)| AND |Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Study - Learn Blood Hunter Leggings",
@@ -2614,7 +2680,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Maja the Dark Savant (Study)| AND |Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Maja the Dark Savant (Study, Scroll)| AND |Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Study - Learn Blood Hunter Boots",
@@ -2622,7 +2688,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Maja the Dark Savant (Study)| AND |Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Maja the Dark Savant (Study, Scroll)| AND |Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Study - Learn Blood Hunter Gloves",
@@ -2630,7 +2696,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Maja the Dark Savant (Study)| AND |Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Maja the Dark Savant (Study, Scroll)| AND |Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Study - Learn Dark Magus Chestguard",
@@ -2638,7 +2704,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Maja the Dark Savant (Study)| AND |Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Maja the Dark Savant (Study, Scroll)| AND |Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Study - Learn Dark Magus Leggings",
@@ -2646,7 +2712,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Maja the Dark Savant (Study)| AND |Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Maja the Dark Savant (Study, Scroll)| AND |Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Study - Learn Dark Magus Boots",
@@ -2654,7 +2720,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Maja the Dark Savant (Study)| AND |Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Maja the Dark Savant (Study, Scroll)| AND |Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Study - Learn Dark Magus Gloves",
@@ -2662,183 +2728,205 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Maja the Dark Savant (Study)| AND |Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Maja the Dark Savant (Study, Scroll)| AND |Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Study - Learn Tailor's Flooring",
     "region": "Study",
     "category": [
-      "Knowledge - Study"
+      "Knowledge - Study",
+      "MoreKnowledge"
     ],
-    "requires": "|Maja the Dark Savant (Study)| AND |Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Maja the Dark Savant (Study, Scroll)| AND |Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Study - Learn Library Flooring",
     "region": "Study",
     "category": [
-      "Knowledge - Study"
+      "Knowledge - Study",
+      "MoreKnowledge"
     ],
-    "requires": "|Maja the Dark Savant (Study)| AND |Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Maja the Dark Savant (Study, Scroll)| AND |Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Study - Learn Assortment of Storage Lockers",
     "region": "Study",
     "category": [
-      "Knowledge - Study"
+      "Knowledge - Study",
+      "MoreKnowledge"
     ],
-    "requires": "|Maja the Dark Savant (Study)| AND |Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Maja the Dark Savant (Study, Scroll)| AND |Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Study - Learn Assortment of Fine Braziers",
     "region": "Study",
     "category": [
-      "Knowledge - Study"
+      "Knowledge - Study",
+      "MoreKnowledge"
     ],
-    "requires": "|Maja the Dark Savant (Study)| AND |Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Maja the Dark Savant (Study, Scroll)| AND |Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Study - Learn Assortment of Fine Candle Stands",
     "region": "Study",
     "category": [
-      "Knowledge - Study"
+      "Knowledge - Study",
+      "MoreKnowledge"
     ],
-    "requires": "|Maja the Dark Savant (Study)| AND |Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Maja the Dark Savant (Study, Scroll)| AND |Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Study - Learn Assortment of Castle Chairs",
     "region": "Study",
     "category": [
-      "Knowledge - Study"
+      "Knowledge - Study",
+      "MoreKnowledge"
     ],
-    "requires": "|Maja the Dark Savant (Study)| AND |Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Maja the Dark Savant (Study, Scroll)| AND |Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Study - Learn Fireplaces",
     "region": "Study",
     "category": [
-      "Knowledge - Study"
+      "Knowledge - Study",
+      "MoreKnowledge"
     ],
-    "requires": "|Maja the Dark Savant (Study)| AND |Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Maja the Dark Savant (Study, Scroll)| AND |Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Study - Learn Cobblestone Paths",
     "region": "Study",
     "category": [
-      "Knowledge - Study"
+      "Knowledge - Study",
+      "MoreKnowledge"
     ],
-    "requires": "|Maja the Dark Savant (Study)| AND |Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Maja the Dark Savant (Study, Scroll)| AND |Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Study - Learn Dux Carpet Collection",
     "region": "Study",
     "category": [
-      "Knowledge - Study"
+      "Knowledge - Study",
+      "MoreKnowledge"
     ],
-    "requires": "|Maja the Dark Savant (Study)| AND |Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Maja the Dark Savant (Study, Scroll)| AND |Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Study - Learn Noble Fences & Fountains",
     "region": "Study",
     "category": [
-      "Knowledge - Study"
+      "Knowledge - Study",
+      "MoreKnowledge"
     ],
-    "requires": "|Maja the Dark Savant (Study)| AND |Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Maja the Dark Savant (Study, Scroll)| AND |Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Study - Learn Fine Dining Table Collection",
     "region": "Study",
     "category": [
-      "Knowledge - Study"
+      "Knowledge - Study",
+      "MoreKnowledge"
     ],
-    "requires": "|Maja the Dark Savant (Study)| AND |Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Maja the Dark Savant (Study, Scroll)| AND |Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Study - Learn Hanging Lanterns",
     "region": "Study",
     "category": [
-      "Knowledge - Study"
+      "Knowledge - Study",
+      "MoreKnowledge"
     ],
-    "requires": "|Maja the Dark Savant (Study)| AND |Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Maja the Dark Savant (Study, Scroll)| AND |Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Study - Learn Banners",
     "region": "Study",
     "category": [
-      "Knowledge - Study"
+      "Knowledge - Study",
+      "MoreKnowledge"
     ],
-    "requires": "|Maja the Dark Savant (Study)| AND |Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Maja the Dark Savant (Study, Scroll)| AND |Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Study - Learn Modest Garden Planters",
     "region": "Study",
     "category": [
-      "Knowledge - Study"
+      "Knowledge - Study",
+      "MoreKnowledge"
     ],
-    "requires": "|Maja the Dark Savant (Study)| AND |Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Maja the Dark Savant (Study, Scroll)| AND |Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Study - Learn Garden Furniture and Lanterns",
     "region": "Study",
     "category": [
-      "Knowledge - Study"
+      "Knowledge - Study",
+      "MoreKnowledge"
     ],
-    "requires": "|Maja the Dark Savant (Study)| AND |Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Maja the Dark Savant (Study, Scroll)| AND |Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Study - Learn Prison Walls",
     "region": "Study",
     "category": [
-      "Knowledge - Study"
+      "Knowledge - Study",
+      "MoreKnowledge"
     ],
-    "requires": "|Maja the Dark Savant (Study)| AND |Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Maja the Dark Savant (Study, Scroll)| AND |Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Study - Learn Cordial Wall Panels",
     "region": "Study",
     "category": [
-      "Knowledge - Study"
+      "Knowledge - Study",
+      "MoreKnowledge"
     ],
-    "requires": "|Maja the Dark Savant (Study)| AND |Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Maja the Dark Savant (Study, Scroll)| AND |Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Study - Learn Assortment of Workshop Decorations",
     "region": "Study",
     "category": [
-      "Knowledge - Study"
+      "Knowledge - Study",
+      "MoreKnowledge"
     ],
-    "requires": "|Maja the Dark Savant (Study)| AND |Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Maja the Dark Savant (Study, Scroll)| AND |Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Study - Learn Assortment of Desks",
     "region": "Study",
     "category": [
-      "Knowledge - Study"
+      "Knowledge - Study",
+      "MoreKnowledge"
     ],
-    "requires": "|Maja the Dark Savant (Study)| AND |Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Maja the Dark Savant (Study, Scroll)| AND |Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Study - Learn Assortment of Desk Chairs",
     "region": "Study",
     "category": [
-      "Knowledge - Study"
+      "Knowledge - Study",
+      "MoreKnowledge"
     ],
-    "requires": "|Maja the Dark Savant (Study)| AND |Quincey the Bandit King (Smithy)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Maja the Dark Savant (Study, Scroll)| AND |Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Athenaeum - Learn Potion of Rage",
     "region": "Athenaeum",
     "category": [
-      "Knowledge - Athenaeum"
+      "Knowledge - Athenaeum",
+      "MoreKnowledge"
     ],
-    "requires": "|Henry Blackbrew the Doctor (Athenaeum)| AND |Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Henry Blackbrew the Doctor (Athenaeum, Schematic, Redistribution Engine, Luminescent Mushroom Terrarium)| AND |Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Cyril the Cursed Smith (Dark Silver Ingot, Anvil, Advanced Furnace)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Athenaeum - Learn Witch Potion",
     "region": "Athenaeum",
     "category": [
-      "Knowledge - Athenaeum"
+      "Knowledge - Athenaeum",
+      "MoreKnowledge"
     ],
-    "requires": "|Henry Blackbrew the Doctor (Athenaeum)| AND |Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Henry Blackbrew the Doctor (Athenaeum, Schematic, Redistribution Engine, Luminescent Mushroom Terrarium)| AND |Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Cyril the Cursed Smith (Dark Silver Ingot, Anvil, Advanced Furnace)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Athenaeum - Learn Amulet of the Crimson Commander",
@@ -2846,7 +2934,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Henry Blackbrew the Doctor (Athenaeum)| AND |Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Henry Blackbrew the Doctor (Athenaeum, Schematic, Redistribution Engine, Luminescent Mushroom Terrarium)| AND |Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Cyril the Cursed Smith (Dark Silver Ingot, Anvil, Advanced Furnace)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Athenaeum - Learn Amulet of the Wicked Prophet",
@@ -2854,7 +2942,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Henry Blackbrew the Doctor (Athenaeum)| AND |Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Henry Blackbrew the Doctor (Athenaeum, Schematic, Redistribution Engine, Luminescent Mushroom Terrarium)| AND |Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Cyril the Cursed Smith (Dark Silver Ingot, Anvil, Advanced Furnace)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Athenaeum - Learn Amulet of the Unyielding Charger",
@@ -2862,7 +2950,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Henry Blackbrew the Doctor (Athenaeum)| AND |Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Henry Blackbrew the Doctor (Athenaeum, Schematic, Redistribution Engine, Luminescent Mushroom Terrarium)| AND |Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Cyril the Cursed Smith (Dark Silver Ingot, Anvil, Advanced Furnace)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Athenaeum - Learn Amulet of the Master Spellweaver",
@@ -2870,7 +2958,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Henry Blackbrew the Doctor (Athenaeum)| AND |Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Henry Blackbrew the Doctor (Athenaeum, Schematic, Redistribution Engine, Luminescent Mushroom Terrarium)| AND |Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Cyril the Cursed Smith (Dark Silver Ingot, Anvil, Advanced Furnace)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Athenaeum - Learn Amulet of the Arch-Warlock",
@@ -2878,7 +2966,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Henry Blackbrew the Doctor (Athenaeum)| AND |Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Henry Blackbrew the Doctor (Athenaeum, Schematic, Redistribution Engine, Luminescent Mushroom Terrarium)| AND |Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Cyril the Cursed Smith (Dark Silver Ingot, Anvil, Advanced Furnace)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Athenaeum - Learn Amulet of the Blademaster",
@@ -2886,7 +2974,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Henry Blackbrew the Doctor (Athenaeum)| AND |Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Henry Blackbrew the Doctor (Athenaeum, Schematic, Redistribution Engine, Luminescent Mushroom Terrarium)| AND |Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Cyril the Cursed Smith (Dark Silver Ingot, Anvil, Advanced Furnace)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Athenaeum - Learn Sanguine Sword",
@@ -2894,7 +2982,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Henry Blackbrew the Doctor (Athenaeum)| AND |Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Henry Blackbrew the Doctor (Athenaeum, Schematic, Redistribution Engine, Luminescent Mushroom Terrarium)| AND |Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Cyril the Cursed Smith (Dark Silver Ingot, Anvil, Advanced Furnace)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Athenaeum - Learn Sanguine Axes",
@@ -2902,7 +2990,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Henry Blackbrew the Doctor (Athenaeum)| AND |Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Henry Blackbrew the Doctor (Athenaeum, Schematic, Redistribution Engine, Luminescent Mushroom Terrarium)| AND |Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Cyril the Cursed Smith (Dark Silver Ingot, Anvil, Advanced Furnace)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Athenaeum - Learn Sanguine Mace",
@@ -2910,7 +2998,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Henry Blackbrew the Doctor (Athenaeum)| AND |Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Henry Blackbrew the Doctor (Athenaeum, Schematic, Redistribution Engine, Luminescent Mushroom Terrarium)| AND |Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Cyril the Cursed Smith (Dark Silver Ingot, Anvil, Advanced Furnace)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Athenaeum - Learn Sanguine Spear",
@@ -2918,7 +3006,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Henry Blackbrew the Doctor (Athenaeum)| AND |Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Henry Blackbrew the Doctor (Athenaeum, Schematic, Redistribution Engine, Luminescent Mushroom Terrarium)| AND |Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Cyril the Cursed Smith (Dark Silver Ingot, Anvil, Advanced Furnace)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Athenaeum - Learn Sanguine Crossbow",
@@ -2926,7 +3014,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Henry Blackbrew the Doctor (Athenaeum)| AND |Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Henry Blackbrew the Doctor (Athenaeum, Schematic, Redistribution Engine, Luminescent Mushroom Terrarium)| AND |Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Cyril the Cursed Smith (Dark Silver Ingot, Anvil, Advanced Furnace)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Athenaeum - Learn Sanguine Longbow",
@@ -2934,7 +3022,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Henry Blackbrew the Doctor (Athenaeum)| AND |Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Henry Blackbrew the Doctor (Athenaeum, Schematic, Redistribution Engine, Luminescent Mushroom Terrarium)| AND |Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Cyril the Cursed Smith (Dark Silver Ingot, Anvil, Advanced Furnace)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Athenaeum - Learn Sanguine Reaper",
@@ -2942,7 +3030,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Henry Blackbrew the Doctor (Athenaeum)| AND |Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Henry Blackbrew the Doctor (Athenaeum, Schematic, Redistribution Engine, Luminescent Mushroom Terrarium)| AND |Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Cyril the Cursed Smith (Dark Silver Ingot, Anvil, Advanced Furnace)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Athenaeum - Learn Sanguine Greatsword",
@@ -2950,7 +3038,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Henry Blackbrew the Doctor (Athenaeum)| AND |Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Henry Blackbrew the Doctor (Athenaeum, Schematic, Redistribution Engine, Luminescent Mushroom Terrarium)| AND |Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Cyril the Cursed Smith (Dark Silver Ingot, Anvil, Advanced Furnace)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Athenaeum - Learn Sanguine Daggers",
@@ -2958,7 +3046,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Henry Blackbrew the Doctor (Athenaeum)| AND |Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Henry Blackbrew the Doctor (Athenaeum, Schematic, Redistribution Engine, Luminescent Mushroom Terrarium)| AND |Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Cyril the Cursed Smith (Dark Silver Ingot, Anvil, Advanced Furnace)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Athenaeum - Learn Sanguine Twinblade",
@@ -2966,7 +3054,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Henry Blackbrew the Doctor (Athenaeum)| AND |Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Henry Blackbrew the Doctor (Athenaeum, Schematic, Redistribution Engine, Luminescent Mushroom Terrarium)| AND |Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Cyril the Cursed Smith (Dark Silver Ingot, Anvil, Advanced Furnace)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Athenaeum - Learn Sanguine Claws",
@@ -2974,7 +3062,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Henry Blackbrew the Doctor (Athenaeum)| AND |Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Henry Blackbrew the Doctor (Athenaeum, Schematic, Redistribution Engine, Luminescent Mushroom Terrarium)| AND |Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Cyril the Cursed Smith (Dark Silver Ingot, Anvil, Advanced Furnace)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Athenaeum - Learn Sanguine Pistols",
@@ -2982,7 +3070,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Henry Blackbrew the Doctor (Athenaeum)| AND |Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Henry Blackbrew the Doctor (Athenaeum, Schematic, Redistribution Engine, Luminescent Mushroom Terrarium)| AND |Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Cyril the Cursed Smith (Dark Silver Ingot, Anvil, Advanced Furnace)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Athenaeum - Learn Sanguine Slashers",
@@ -2990,7 +3078,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Henry Blackbrew the Doctor (Athenaeum)| AND |Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Henry Blackbrew the Doctor (Athenaeum, Schematic, Redistribution Engine, Luminescent Mushroom Terrarium)| AND |Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Cyril the Cursed Smith (Dark Silver Ingot, Anvil, Advanced Furnace)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Athenaeum - Learn Shadowmoon Chestguard",
@@ -2998,7 +3086,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Henry Blackbrew the Doctor (Athenaeum)| AND |Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Henry Blackbrew the Doctor (Athenaeum, Schematic, Redistribution Engine, Luminescent Mushroom Terrarium)| AND |Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Cyril the Cursed Smith (Dark Silver Ingot, Anvil, Advanced Furnace)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Athenaeum - Learn Shadowmoon Leggings",
@@ -3006,7 +3094,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Henry Blackbrew the Doctor (Athenaeum)| AND |Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Henry Blackbrew the Doctor (Athenaeum, Schematic, Redistribution Engine, Luminescent Mushroom Terrarium)| AND |Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Cyril the Cursed Smith (Dark Silver Ingot, Anvil, Advanced Furnace)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Athenaeum - Learn Shadowmoon Gloves",
@@ -3014,7 +3102,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Henry Blackbrew the Doctor (Athenaeum)| AND |Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Henry Blackbrew the Doctor (Athenaeum, Schematic, Redistribution Engine, Luminescent Mushroom Terrarium)| AND |Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Cyril the Cursed Smith (Dark Silver Ingot, Anvil, Advanced Furnace)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Athenaeum - Learn Shadowmoon Boots",
@@ -3022,7 +3110,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Henry Blackbrew the Doctor (Athenaeum)| AND |Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Henry Blackbrew the Doctor (Athenaeum, Schematic, Redistribution Engine, Luminescent Mushroom Terrarium)| AND |Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Cyril the Cursed Smith (Dark Silver Ingot, Anvil, Advanced Furnace)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Athenaeum - Learn Grim Knight Chestguard",
@@ -3030,7 +3118,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Henry Blackbrew the Doctor (Athenaeum)| AND |Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Henry Blackbrew the Doctor (Athenaeum, Schematic, Redistribution Engine, Luminescent Mushroom Terrarium)| AND |Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Cyril the Cursed Smith (Dark Silver Ingot, Anvil, Advanced Furnace)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Athenaeum - Learn Grim Knight Leggings",
@@ -3038,7 +3126,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Henry Blackbrew the Doctor (Athenaeum)| AND |Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Henry Blackbrew the Doctor (Athenaeum, Schematic, Redistribution Engine, Luminescent Mushroom Terrarium)| AND |Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Cyril the Cursed Smith (Dark Silver Ingot, Anvil, Advanced Furnace)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Athenaeum - Learn Grim Knight Gloves",
@@ -3046,7 +3134,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Henry Blackbrew the Doctor (Athenaeum)| AND |Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Henry Blackbrew the Doctor (Athenaeum, Schematic, Redistribution Engine, Luminescent Mushroom Terrarium)| AND |Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Cyril the Cursed Smith (Dark Silver Ingot, Anvil, Advanced Furnace)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Athenaeum - Learn Grim Knight Boots",
@@ -3054,7 +3142,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Henry Blackbrew the Doctor (Athenaeum)| AND |Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Henry Blackbrew the Doctor (Athenaeum, Schematic, Redistribution Engine, Luminescent Mushroom Terrarium)| AND |Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Cyril the Cursed Smith (Dark Silver Ingot, Anvil, Advanced Furnace)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Athenaeum - Learn Dread Plate Chestguard",
@@ -3062,7 +3150,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Henry Blackbrew the Doctor (Athenaeum)| AND |Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Henry Blackbrew the Doctor (Athenaeum, Schematic, Redistribution Engine, Luminescent Mushroom Terrarium)| AND |Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Cyril the Cursed Smith (Dark Silver Ingot, Anvil, Advanced Furnace)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Athenaeum - Learn Dread Plate Leggings",
@@ -3070,7 +3158,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Henry Blackbrew the Doctor (Athenaeum)| AND |Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Henry Blackbrew the Doctor (Athenaeum, Schematic, Redistribution Engine, Luminescent Mushroom Terrarium)| AND |Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Cyril the Cursed Smith (Dark Silver Ingot, Anvil, Advanced Furnace)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Athenaeum - Learn Dread Plate Gloves",
@@ -3078,7 +3166,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Henry Blackbrew the Doctor (Athenaeum)| AND |Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Henry Blackbrew the Doctor (Athenaeum, Schematic, Redistribution Engine, Luminescent Mushroom Terrarium)| AND |Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Cyril the Cursed Smith (Dark Silver Ingot, Anvil, Advanced Furnace)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Athenaeum - Learn Dread Plate Boots",
@@ -3086,7 +3174,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Henry Blackbrew the Doctor (Athenaeum)| AND |Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Henry Blackbrew the Doctor (Athenaeum, Schematic, Redistribution Engine, Luminescent Mushroom Terrarium)| AND |Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Cyril the Cursed Smith (Dark Silver Ingot, Anvil, Advanced Furnace)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Athenaeum - Learn Maleficer Scholar Chestguard",
@@ -3094,7 +3182,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Henry Blackbrew the Doctor (Athenaeum)| AND |Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Henry Blackbrew the Doctor (Athenaeum, Schematic, Redistribution Engine, Luminescent Mushroom Terrarium)| AND |Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Cyril the Cursed Smith (Dark Silver Ingot, Anvil, Advanced Furnace)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Athenaeum - Learn Maleficer Scholar Leggings",
@@ -3102,7 +3190,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Henry Blackbrew the Doctor (Athenaeum)| AND |Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Henry Blackbrew the Doctor (Athenaeum, Schematic, Redistribution Engine, Luminescent Mushroom Terrarium)| AND |Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Cyril the Cursed Smith (Dark Silver Ingot, Anvil, Advanced Furnace)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Athenaeum - Learn Maleficer Scholar Gloves",
@@ -3110,7 +3198,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Henry Blackbrew the Doctor (Athenaeum)| AND |Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Henry Blackbrew the Doctor (Athenaeum, Schematic, Redistribution Engine, Luminescent Mushroom Terrarium)| AND |Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Cyril the Cursed Smith (Dark Silver Ingot, Anvil, Advanced Furnace)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Athenaeum - Learn Maleficer Scholar Boots",
@@ -3118,94 +3206,105 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Henry Blackbrew the Doctor (Athenaeum)| AND |Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Henry Blackbrew the Doctor (Athenaeum, Schematic, Redistribution Engine, Luminescent Mushroom Terrarium)| AND |Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Cyril the Cursed Smith (Dark Silver Ingot, Anvil, Advanced Furnace)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Athenaeum - Learn Assortment of Cabinets",
     "region": "Athenaeum",
     "category": [
-      "Knowledge - Athenaeum"
+      "Knowledge - Athenaeum",
+      "MoreKnowledge"
     ],
-    "requires": "|Henry Blackbrew the Doctor (Athenaeum)| AND |Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Henry Blackbrew the Doctor (Athenaeum, Schematic, Redistribution Engine, Luminescent Mushroom Terrarium)| AND |Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Cyril the Cursed Smith (Dark Silver Ingot, Anvil, Advanced Furnace)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Athenaeum - Learn Assortment of Great Braziers",
     "region": "Athenaeum",
     "category": [
-      "Knowledge - Athenaeum"
+      "Knowledge - Athenaeum",
+      "MoreKnowledge"
     ],
-    "requires": "|Henry Blackbrew the Doctor (Athenaeum)| AND |Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Henry Blackbrew the Doctor (Athenaeum, Schematic, Redistribution Engine, Luminescent Mushroom Terrarium)| AND |Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Cyril the Cursed Smith (Dark Silver Ingot, Anvil, Advanced Furnace)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Athenaeum - Learn Distinguished Carpet Collection",
     "region": "Athenaeum",
     "category": [
-      "Knowledge - Athenaeum"
+      "Knowledge - Athenaeum",
+      "MoreKnowledge"
     ],
-    "requires": "|Henry Blackbrew the Doctor (Athenaeum)| AND |Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Henry Blackbrew the Doctor (Athenaeum, Schematic, Redistribution Engine, Luminescent Mushroom Terrarium)| AND |Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Cyril the Cursed Smith (Dark Silver Ingot, Anvil, Advanced Furnace)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Athenaeum - Learn Assortment of Royal Curtains",
     "region": "Athenaeum",
     "category": [
-      "Knowledge - Athenaeum"
+      "Knowledge - Athenaeum",
+      "MoreKnowledge"
     ],
-    "requires": "|Henry Blackbrew the Doctor (Athenaeum)| AND |Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Henry Blackbrew the Doctor (Athenaeum, Schematic, Redistribution Engine, Luminescent Mushroom Terrarium)| AND |Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Cyril the Cursed Smith (Dark Silver Ingot, Anvil, Advanced Furnace)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Athenaeum - Learn Sofa & Divan Collection",
     "region": "Athenaeum",
     "category": [
-      "Knowledge - Athenaeum"
+      "Knowledge - Athenaeum",
+      "MoreKnowledge"
     ],
-    "requires": "|Henry Blackbrew the Doctor (Athenaeum)| AND |Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Henry Blackbrew the Doctor (Athenaeum, Schematic, Redistribution Engine, Luminescent Mushroom Terrarium)| AND |Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Cyril the Cursed Smith (Dark Silver Ingot, Anvil, Advanced Furnace)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Athenaeum - Learn Dressing Tables & Folding Walls",
     "region": "Athenaeum",
     "category": [
-      "Knowledge - Athenaeum"
+      "Knowledge - Athenaeum",
+      "MoreKnowledge"
     ],
-    "requires": "|Henry Blackbrew the Doctor (Athenaeum)| AND |Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Henry Blackbrew the Doctor (Athenaeum, Schematic, Redistribution Engine, Luminescent Mushroom Terrarium)| AND |Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Cyril the Cursed Smith (Dark Silver Ingot, Anvil, Advanced Furnace)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Athenaeum - Learn Lamp Posts",
     "region": "Athenaeum",
     "category": [
-      "Knowledge - Athenaeum"
+      "Knowledge - Athenaeum",
+      "MoreKnowledge"
     ],
-    "requires": "|Henry Blackbrew the Doctor (Athenaeum)| AND |Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Henry Blackbrew the Doctor (Athenaeum, Schematic, Redistribution Engine, Luminescent Mushroom Terrarium)| AND |Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Cyril the Cursed Smith (Dark Silver Ingot, Anvil, Advanced Furnace)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Athenaeum - Learn Flying Lights",
     "region": "Athenaeum",
     "category": [
-      "Knowledge - Athenaeum"
+      "Knowledge - Athenaeum",
+      "MoreKnowledge"
     ],
-    "requires": "|Henry Blackbrew the Doctor (Athenaeum)| AND |Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Henry Blackbrew the Doctor (Athenaeum, Schematic, Redistribution Engine, Luminescent Mushroom Terrarium)| AND |Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Cyril the Cursed Smith (Dark Silver Ingot, Anvil, Advanced Furnace)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Athenaeum - Learn Garden Archways & Pergolas",
     "region": "Athenaeum",
     "category": [
-      "Knowledge - Athenaeum"
+      "Knowledge - Athenaeum",
+      "MoreKnowledge"
     ],
-    "requires": "|Henry Blackbrew the Doctor (Athenaeum)| AND |Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Henry Blackbrew the Doctor (Athenaeum, Schematic, Redistribution Engine, Luminescent Mushroom Terrarium)| AND |Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Cyril the Cursed Smith (Dark Silver Ingot, Anvil, Advanced Furnace)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Athenaeum - Learn Large Fountain",
     "region": "Athenaeum",
     "category": [
-      "Knowledge - Athenaeum"
+      "Knowledge - Athenaeum",
+      "MoreKnowledge"
     ],
-    "requires": "|Henry Blackbrew the Doctor (Athenaeum)| AND |Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Henry Blackbrew the Doctor (Athenaeum, Schematic, Redistribution Engine, Luminescent Mushroom Terrarium)| AND |Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Cyril the Cursed Smith (Dark Silver Ingot, Anvil, Advanced Furnace)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Athenaeum - Learn Stately Stone Walls",
     "region": "Athenaeum",
     "category": [
-      "Knowledge - Athenaeum"
+      "Knowledge - Athenaeum",
+      "MoreKnowledge"
     ],
-    "requires": "|Henry Blackbrew the Doctor (Athenaeum)| AND |Quincey the Bandit King (Smithy)| AND |Cyril the Cursed Smith (Dark Silver Ingot)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Henry Blackbrew the Doctor (Athenaeum, Schematic, Redistribution Engine, Luminescent Mushroom Terrarium)| AND |Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Cyril the Cursed Smith (Dark Silver Ingot, Anvil, Advanced Furnace)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   }
 ]
