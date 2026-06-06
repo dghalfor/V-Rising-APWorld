@@ -97,14 +97,6 @@
     "requires": ""
   },
   {
-    "name": "Rufus the Foreman (Simple Furniture)",
-    "region": "Foreman",
-    "category": [
-      "Act 1 Bosses"
-    ],
-    "requires": ""
-  },
-  {
     "name": "Rufus the Foreman (Copper Crossbow)",
     "region": "Foreman",
     "category": [
@@ -182,7 +174,7 @@
     "requires": ""
   },
   {
-    "name": "Goreswine the Ravager (Tomb)",
+    "name": "Goreswine the Ravager (Tomb, Grave Dust)",
     "region": "Ravager",
     "category": [
       "Act 1 Bosses"
@@ -395,7 +387,7 @@
     "requires": "|Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
-    "name": "Kodia the Ferocious Bear (Bear Form)",
+    "name": "Kodia the Ferocious Bear (Bear Form, Trophy)",
     "region": "Ferocious Bear",
     "category": [
       "Act 1 Bosses",
@@ -478,7 +470,7 @@
       "Goal",
       "Act 1 Bosses"
     ],
-    "requires": "|Goreswine the Ravager (Gravedigger Ring)| AND (|Lord Styx the Night Champion (Bat Form)| OR |Kodia the Ferocious Bear (Bear Form)| OR |Clive the Firestarter (Alchemy Table)|)"
+    "requires": "|Goreswine the Ravager (Gravedigger Ring)| AND (|Lord Styx the Night Champion (Bat Form, Onyx Tear, Blood Key)| OR |Kodia the Ferocious Bear (Bear Form, Trophy)| OR |Clive the Firestarter (Alchemy Table, Explosives)|)"
   },
   {
     "name": "Quincey the Bandit King (Chaos Tier 3)",
@@ -487,7 +479,7 @@
       "Act 1 Bosses",
       "Act1Bosse"
     ],
-    "requires": "|Goreswine the Ravager (Gravedigger Ring)| AND (|Lord Styx the Night Champion (Bat Form)| OR |Kodia the Ferocious Bear (Bear Form)| OR |Clive the Firestarter (Alchemy Table)|)"
+    "requires": "|Goreswine the Ravager (Gravedigger Ring)| AND (|Lord Styx the Night Champion (Bat Form, Onyx Tear, Blood Key)| OR |Kodia the Ferocious Bear (Bear Form, Trophy)| OR |Clive the Firestarter (Alchemy Table, Explosives)|)"
   },
   {
     "name": "Quincey the Bandit King (Ebonite Stairs & Doors)",
@@ -495,7 +487,7 @@
     "category": [
       "Act 1 Bosses"
     ],
-    "requires": "|Goreswine the Ravager (Gravedigger Ring)| AND (|Lord Styx the Night Champion (Bat Form)| OR |Kodia the Ferocious Bear (Bear Form)| OR |Clive the Firestarter (Alchemy Table)|)"
+    "requires": "|Goreswine the Ravager (Gravedigger Ring)| AND (|Lord Styx the Night Champion (Bat Form, Onyx Tear, Blood Key)| OR |Kodia the Ferocious Bear (Bear Form, Trophy)| OR |Clive the Firestarter (Alchemy Table, Explosives)|)"
   },
   {
     "name": "Quincey the Bandit King (Hollowfang Battlegear)",
@@ -503,7 +495,7 @@
     "category": [
       "Act 1 Bosses"
     ],
-    "requires": "|Goreswine the Ravager (Gravedigger Ring)| AND (|Lord Styx the Night Champion (Bat Form)| OR |Kodia the Ferocious Bear (Bear Form)| OR |Clive the Firestarter (Alchemy Table)|)"
+    "requires": "|Goreswine the Ravager (Gravedigger Ring)| AND (|Lord Styx the Night Champion (Bat Form, Onyx Tear, Blood Key)| OR |Kodia the Ferocious Bear (Bear Form, Trophy)| OR |Clive the Firestarter (Alchemy Table, Explosives)|)"
   },
   {
     "name": "Quincey the Bandit King (Lost Soul)",
@@ -512,7 +504,7 @@
       "Act 1 Bosses",
       "LostSouls"
     ],
-    "requires": "|Goreswine the Ravager (Gravedigger Ring)| AND (|Lord Styx the Night Champion (Bat Form)| OR |Kodia the Ferocious Bear (Bear Form)| OR |Clive the Firestarter (Alchemy Table)|)"
+    "requires": "|Goreswine the Ravager (Gravedigger Ring)| AND (|Lord Styx the Night Champion (Bat Form, Onyx Tear, Blood Key)| OR |Kodia the Ferocious Bear (Bear Form, Trophy)| OR |Clive the Firestarter (Alchemy Table, Explosives)|)"
   },
   {
     "name": "Beatrice the Tailor (Loom, Cloth, Cotton Yarn, Cloak)",
@@ -1097,7 +1089,7 @@
     "category": [
       "Act 2 Bosses"
     ],
-    "requires": "|Clive the Firestarter (Alchemy Table)| AND |Meredith the Bright Archer (Holy Resistance Potion)| AND |Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Clive the Firestarter (Alchemy Table, Explosives)| AND |Meredith the Bright Archer (Holy Resistance Potion, Elixir of the Prowler)| AND |Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Raziel the Shepherd (Cordial Stairs & Doors)",
@@ -1105,7 +1097,7 @@
     "category": [
       "Act 2 Bosses"
     ],
-    "requires": "|Clive the Firestarter (Alchemy Table)| AND |Meredith the Bright Archer (Holy Resistance Potion)| AND |Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Clive the Firestarter (Alchemy Table, Explosives)| AND |Meredith the Bright Archer (Holy Resistance Potion, Elixir of the Prowler)| AND |Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Raziel the Shepherd (Blood Tier 2)",
@@ -1113,7 +1105,7 @@
     "category": [
       "Act 2 Bosses"
     ],
-    "requires": "|Clive the Firestarter (Alchemy Table)| AND |Meredith the Bright Archer (Holy Resistance Potion)| AND |Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Clive the Firestarter (Alchemy Table, Explosives)| AND |Meredith the Bright Archer (Holy Resistance Potion, Elixir of the Prowler)| AND |Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Raziel the Shepherd (Lost Soul)",
@@ -1122,7 +1114,7 @@
       "Act 2 Bosses",
       "LostSouls"
     ],
-    "requires": "|Clive the Firestarter (Alchemy Table)| AND |Meredith the Bright Archer (Holy Resistance Potion)| AND |Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Clive the Firestarter (Alchemy Table, Explosives)| AND |Meredith the Bright Archer (Holy Resistance Potion, Elixir of the Prowler)| AND |Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Octavian the Militia Captain (Ancestral Forge)",
@@ -1744,7 +1736,7 @@
     "category": [
       "Act 4 Bosses"
     ],
-    "requires": "|Clive the Firestarter (Alchemy Table)| AND |Meredith the Bright Archer (Holy Resistance Potion)| AND |Mairwyn the Elementalist (Holy Resistance Flask)| AND |Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Cyril the Cursed Smith (Dark Silver Ingot, Anvil, Advanced Furnace)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Clive the Firestarter (Alchemy Table, Explosives)| AND |Meredith the Bright Archer (Holy Resistance Potion, Elixir of the Prowler)| AND |Mairwyn the Elementalist (Holy Resistance Flask)| AND |Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Cyril the Cursed Smith (Dark Silver Ingot, Anvil, Advanced Furnace)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Azariel the Sunbringer (Gold Ingot)",
@@ -1752,7 +1744,7 @@
     "category": [
       "Act 4 Bosses"
     ],
-    "requires": "|Clive the Firestarter (Alchemy Table)| AND |Meredith the Bright Archer (Holy Resistance Potion)| AND |Mairwyn the Elementalist (Holy Resistance Flask)| AND |Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Cyril the Cursed Smith (Dark Silver Ingot, Anvil, Advanced Furnace)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Clive the Firestarter (Alchemy Table, Explosives)| AND |Meredith the Bright Archer (Holy Resistance Potion, Elixir of the Prowler)| AND |Mairwyn the Elementalist (Holy Resistance Flask)| AND |Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Cyril the Cursed Smith (Dark Silver Ingot, Anvil, Advanced Furnace)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Azariel the Sunbringer (Chaos Tier 3)",
@@ -1760,7 +1752,7 @@
     "category": [
       "Act 4 Bosses"
     ],
-    "requires": "|Clive the Firestarter (Alchemy Table)| AND |Meredith the Bright Archer (Holy Resistance Potion)| AND |Mairwyn the Elementalist (Holy Resistance Flask)| AND |Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Cyril the Cursed Smith (Dark Silver Ingot, Anvil, Advanced Furnace)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Clive the Firestarter (Alchemy Table, Explosives)| AND |Meredith the Bright Archer (Holy Resistance Potion, Elixir of the Prowler)| AND |Mairwyn the Elementalist (Holy Resistance Flask)| AND |Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Cyril the Cursed Smith (Dark Silver Ingot, Anvil, Advanced Furnace)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Azariel the Sunbringer (Lost Soul)",
@@ -1769,7 +1761,7 @@
       "Act 4 Bosses",
       "LostSouls"
     ],
-    "requires": "|Clive the Firestarter (Alchemy Table)| AND |Meredith the Bright Archer (Holy Resistance Potion)| AND |Mairwyn the Elementalist (Holy Resistance Flask)| AND |Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Cyril the Cursed Smith (Dark Silver Ingot, Anvil, Advanced Furnace)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Clive the Firestarter (Alchemy Table, Explosives)| AND |Meredith the Bright Archer (Holy Resistance Potion, Elixir of the Prowler)| AND |Mairwyn the Elementalist (Holy Resistance Flask)| AND |Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Cyril the Cursed Smith (Dark Silver Ingot, Anvil, Advanced Furnace)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Voltatia the Power Master (Power Core, EMP, Blue Castle Teleporter)",
@@ -1920,7 +1912,7 @@
     "category": [
       "Act 4 Bosses"
     ],
-    "requires": "|Clive the Firestarter (Alchemy Table)| AND |Meredith the Bright Archer (Holy Resistance Potion)| AND |Mairwyn the Elementalist (Holy Resistance Flask)| AND |Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Cyril the Cursed Smith (Dark Silver Ingot, Anvil, Advanced Furnace)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Clive the Firestarter (Alchemy Table, Explosives)| AND |Meredith the Bright Archer (Holy Resistance Potion, Elixir of the Prowler)| AND |Mairwyn the Elementalist (Holy Resistance Flask)| AND |Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Cyril the Cursed Smith (Dark Silver Ingot, Anvil, Advanced Furnace)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Solarus the Immaculate (Dracula's Boots)",
@@ -1928,7 +1920,7 @@
     "category": [
       "Act 4 Bosses"
     ],
-    "requires": "|Clive the Firestarter (Alchemy Table)| AND |Meredith the Bright Archer (Holy Resistance Potion)| AND |Mairwyn the Elementalist (Holy Resistance Flask)| AND |Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Cyril the Cursed Smith (Dark Silver Ingot, Anvil, Advanced Furnace)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Clive the Firestarter (Alchemy Table, Explosives)| AND |Meredith the Bright Archer (Holy Resistance Potion, Elixir of the Prowler)| AND |Mairwyn the Elementalist (Holy Resistance Flask)| AND |Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Cyril the Cursed Smith (Dark Silver Ingot, Anvil, Advanced Furnace)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Solarus the Immaculate (Lost Soul)",
@@ -1937,7 +1929,7 @@
       "Act 4 Bosses",
       "LostSouls"
     ],
-    "requires": "|Clive the Firestarter (Alchemy Table)| AND |Meredith the Bright Archer (Holy Resistance Potion)| AND |Mairwyn the Elementalist (Holy Resistance Flask)| AND |Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Cyril the Cursed Smith (Dark Silver Ingot, Anvil, Advanced Furnace)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
+    "requires": "|Clive the Firestarter (Alchemy Table, Explosives)| AND |Meredith the Bright Archer (Holy Resistance Potion, Elixir of the Prowler)| AND |Mairwyn the Elementalist (Holy Resistance Flask)| AND |Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Cyril the Cursed Smith (Dark Silver Ingot, Anvil, Advanced Furnace)| AND |Angram the Purifier (Dawnthorn Regalia)| AND |Goreswine the Ravager (Gravedigger Ring)|"
   },
   {
     "name": "Talzur the Winged Horror (Pedestal of the Winged Horror)",

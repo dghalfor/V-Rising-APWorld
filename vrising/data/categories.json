@@ -113,15 +113,6 @@
     "EarlyBloodType": {
         "hidden": true
     },
-    "Spell School Mastery": {
-        "yaml_option": [ "Limit_Spell_School_Mastery" ]
-    },
-    "Fishing Locations": {
-        "yaml_option": [ "Fishsanity" ]
-    },
-    "Fishes": {
-        "yaml_option": [ "Fishsanity" ]
-    },
     "Structures": {
         "yaml_option": [ "More_Knowledge" ]
     },
@@ -130,19 +121,6 @@
     },
     "MoreKnowledge": {
         "yaml_option": [ "More_Knowledge" ],
-        "hidden": true
-    },
-    "Player Progression": {
-        "yaml_option": [ "Master_Elements" ]
-    },
-    "Shopping": {
-        "yaml_option": [ "Shopping" ]
-    },
-    "Steam Achievements": {
-        "yaml_option": [ "Steam_Achievements" ]
-    },
-    "LostSouls": {
-        "yaml_option": [ "Lost_Souls_Goal" ],
         "hidden": true
     },
     "Act 2 - V Bloods": {

@@ -22,51 +22,6 @@
         }
     },
     "user": {
-        "Dracula_Goal": {
-            "description": [
-                "Vanilla Goal",
-                "Defeat Dracula and complete the whole main questline."
-            ],
-            "type": "Toggle",
-            "default": true,
-            "group": "Goal Options"
-        },
-        "Act1_Goal": {
-            "description": [
-                "For a Shorter Game",
-                "Defeat the Bandit King in Act 1 to win!"
-            ],
-            "type": "Toggle",
-            "default": false,
-            "group": "Goal Options"
-        },
-        "Act2_Goal": {
-            "description": [
-                "For a Medium-long Game",
-                "Defeat the Militia Captain in Act 2 to win!"
-            ],
-            "type": "Toggle",
-            "default": false,
-            "group": "Goal Options"
-        },
-        "Act3_Goal": {
-            "description": [
-                "For a somewhat long Game",
-                "Defeat the Cursed Smith in Act 3 to win!"
-            ],
-            "type": "Toggle",
-            "default": false,
-            "group": "Goal Options"
-        },
-        "DefeatThemAll_Goal": {
-            "description": [
-                "For a long game",
-                "You don't need to complete the main quest, just defeat all the V Bloods to goal."
-            ],
-            "type": "Toggle",
-            "default": false,
-            "group": "Goal Options"
-        },
         "Act_2": {
             "description": [
                 "When enabled Act 2 Items, V-Bloods and Spells will be included in the Multiworld."
@@ -93,34 +48,6 @@
             "default": true,
             "group": "Act Options"
         },
-        "Progressive_Bosses": {
-            "description": [
-                "This option will make the logic force you to defeat every V Blood in their row before you're able to tackle the next.",
-                "Expect a lot of Exploration to be in logic!"
-            ],
-            "type": "Toggle",
-            "default": false,
-            "group": "Additional Options"
-        },
-        "Limit_Spell_School_Mastery": {
-            "description": [
-                "This option adds 6 extra progression items called 'Blood Magic', 'Chaos Magic', 'Unholy Magic', 'Illusion Magic', 'Frost Magic' and 'Storm Magic'.",
-                "You're not allowed to use magic from that particular school until you obtain these.",
-                "When this option is enabled, you are required to receive at least one of these before tackling Quincey the Bandit King."
-            ],
-            "type": "Toggle",
-            "default": false,
-            "group": "Additional Options"
-        },
-        "Fishsanity": {
-            "description": [
-                "Adds the various fish as extra locations and as filler items.",
-                "You'll require to have defeated 'Finn the Fisherman' before any of the checks are in logic."
-            ],
-            "type": "Toggle",
-            "default": false,
-            "group": "Extra Locations"
-        },
         "More_Knowledge": {
             "description": [
                 "Adds all the Items you receive from a Knowledge Stations into the pool of items and as extra checks.",
@@ -129,39 +56,6 @@
             "type": "Toggle",
             "default": false,
             "group": "Extra Locations"
-        },
-        "Master_Elements": {
-            "description": [
-                "Adds extra checks for learning all of the spells in the same Spell School."
-            ],
-            "type": "Toggle",
-            "default": false,
-            "group": "Extra Locations"
-        },
-        "Shopping": {
-            "description": [
-                "Adds a few extra locations as shopping locations."
-            ],
-            "type": "Toggle",
-            "default": false,
-            "group": "Extra Locations"
-        },
-        "Steam_Achievements": {
-            "description": [
-                "Adds all of the Steam Achievements excluding Brutal Difficulty as extra locations."
-            ],
-            "type": "Toggle",
-            "default": false,
-            "group": "Extra Locations"
-        },
-        "Lost_Souls_Goal": {
-            "description": [
-                "Adds multiple items called 'Lost Souls' into the multiworld, you have to gather them all to goal.",
-                "An extra location will be added to each V-Blood called their soul slot to accommodate the added items."
-            ],
-            "type": "Toggle",
-            "default": false,
-            "group": "Goal Options"
         }
     }
 

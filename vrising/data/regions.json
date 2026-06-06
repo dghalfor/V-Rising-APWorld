@@ -207,7 +207,7 @@
       "Sun Priestess",
       "Tristan"
     ],
-    "requires": "|Quincey the Bandit King (Smithy)|"
+    "requires": "|Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)|"
   },
   "Act 2-2": {
     "connects_to": [
@@ -226,7 +226,7 @@
       "Glassblower",
       "Bright Archer"
     ],
-    "requires": "|Maja the Dark Savant (Study)|"
+    "requires": "|Maja the Dark Savant (Study, Scroll)|"
   },
   "Act 2-4": {
     "connects_to": [
@@ -528,7 +528,7 @@
       "Overseer",
       "Silverlight Hills"
     ],
-    "requires": "|Cyril the Cursed Smith (Dark Silver Ingot)|"
+    "requires": "|Cyril the Cursed Smith (Dark Silver Ingot, Anvil, Advanced Furnace)|"
   },
   "Act 4-1": {
     "connects_to": [
@@ -559,7 +559,7 @@
       "Sunbringer",
       "Power Master"
     ],
-    "requires": "|Henry Blackbrew the Doctor (Athenaeum)|"
+    "requires": "|Henry Blackbrew the Doctor (Athenaeum, Schematic, Redistribution Engine, Luminescent Mushroom Terrarium)|"
   },
   "Act 4-4": {
     "connects_to": [
