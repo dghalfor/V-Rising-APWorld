@@ -21,42 +21,51 @@
             }
         }
     },
-    "user": {
-        "Act_2": {
-            "description": [
-                "When enabled Act 2 Items, V-Bloods and Spells will be included in the Multiworld."
-            ],
-            "type": "Toggle",
-            "default": true,
-            "group": "Act Options"
-        },
-        "Act_3": {
-            "description": [
-                "When enabled Act 3 Items, V-Bloods and Spells will be included in the Multiworld.",
-                "Requires Act 2 to be enabled."
-            ],
-            "type": "Toggle",
-            "default": true,
-            "group": "Act Options"
-        },
-        "Act_4": {
-            "description": [
-                "When enabled Act 4 Items, V-Bloods and Spells will be included in the Multiworld.",
-                "Requires Act 3 to be enabled."
-            ],
-            "type": "Toggle",
-            "default": true,
-            "group": "Act Options"
-        },
-        "More_Knowledge": {
-            "description": [
-                "Adds all the Items you receive from a Knowledge Stations into the pool of items and as extra checks.",
-                "These Items which are labeled as 'Structures' and 'Consumables' ingame."
-            ],
-            "type": "Toggle",
-            "default": false,
-            "group": "Extra Locations"
-        }
+  "user": {
+    "Act_2": {
+      "description": [
+        "When enabled Act 2 Items, V-Bloods and Spells will be included in the Multiworld."
+      ],
+      "type": "Toggle",
+      "default": true,
+      "group": "Act Options"
+    },
+    "Act_3": {
+      "description": [
+        "When enabled Act 3 Items, V-Bloods and Spells will be included in the Multiworld.",
+        "Requires Act 2 to be enabled."
+      ],
+      "type": "Toggle",
+      "default": true,
+      "group": "Act Options"
+    },
+    "Act_4": {
+      "description": [
+        "When enabled Act 4 Items, V-Bloods and Spells will be included in the Multiworld.",
+        "Requires Act 3 to be enabled."
+      ],
+      "type": "Toggle",
+      "default": true,
+      "group": "Act Options"
+    },
+    "More_Knowledge": {
+      "description": [
+        "Adds all the Items you receive from a Knowledge Stations into the pool of items and as extra checks.",
+        "These Items which are labeled as 'Structures' and 'Consumables' ingame."
+      ],
+      "type": "Toggle",
+      "default": false,
+      "group": "Extra Locations"
+    },
+    "Lost_Souls_Goal": {
+      "description": [
+        "Adds multiple items called 'Lost Souls' into the multiworld, you have to gather them all to goal.",
+        "An extra location will be added to each V-Blood called their soul slot to accommodate the added items."
+      ],
+      "type": "Toggle",
+      "default": false,
+      "group": "Goal Options"
     }
+  }
 
 }

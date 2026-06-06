@@ -1,198 +1,202 @@
 {
-    "Act1Boss": {
-        "hidden": true
-    },
-    "Act1Bosse": {
-        "hidden": true
-    },
-    "Act2Boss": {
-        "hidden": true
-    },
-    "Act3Boss": {
-        "hidden": true
-    },
-    "Act4Boss": {
-        "hidden": true
-    },
-    "Act5Boss": {
-        "hidden": true
-    },
-    "VBloods": {
-        "hidden": true
-    },
-    "DracBoss": {
-        "hidden": true
-    },
-    "Tier 1 Frost": {
-        "hidden": true
-    },
-    "Tier 1 Chaos": {
-        "hidden": true
-    },
-    "Amulets": {
-        "hidden": true
-    },
-    "Blood Hunter Set": {
-        "hidden": true
-    },
-    "Crimson Templar Set": {
-        "hidden": true
-    },
-    "Dark Magus Set": {
-        "hidden": true
-    },
-    "Dread Plate Set": {
-        "hidden": true
-    },
-    "Duskwatcher Set": {
-        "hidden": true
-    },
-    "Grim Knight Set": {
-        "hidden": true
-    },
-    "Grim Ranger Set": {
-        "hidden": true
-    },
-    "Maleficer Scholar Set": {
-        "hidden": true
-    },
-    "Marauder Set": {
-        "hidden": true
-    },
-    "Shadowmoon Set": {
-        "hidden": true
-    },
-    "Pendants": {
-        "hidden": true
-    },
-    "Rings": {
-        "hidden": true
-    },
-    "Shadewalker Set": {
-        "hidden": true
-    },
-    "Warlock Set": {
-        "hidden": true
-    },
-    "Tier 1 Body": {
-        "hidden": true
-    },
-    "Tier 1 Legs": {
-        "hidden": true
-    },
-    "Tier 1 Boots": {
-        "hidden": true
-    },
-    "Tier 1 Gloves": {
-        "hidden": true
-    },
-    "Tier 2 Body": {
-        "hidden": true
-    },
-    "Tier 2 Legs": {
-        "hidden": true
-    },
-    "Tier 2 Boots": {
-        "hidden": true
-    },
-    "Tier 2 Gloves": {
-        "hidden": true
-    },
-    "Tier 3 Body": {
-        "hidden": true
-    },
-    "Tier 3 Legs": {
-        "hidden": true
-    },
-    "Tier 3 Boots": {
-        "hidden": true
-    },
-    "Tier 3 Gloves": {
-        "hidden": true
-    },
-    "EarlyBloodType": {
-        "hidden": true
-    },
-    "Structures": {
-        "yaml_option": [ "More_Knowledge" ]
-    },
-    "Consumables": {
-        "yaml_option": [ "More_Knowledge" ]
-    },
-    "MoreKnowledge": {
-        "yaml_option": [ "More_Knowledge" ],
-        "hidden": true
-    },
-    "Act 2 - V Bloods": {
-        "yaml_option": [ "Act_2" ]
-    },
-    "Act 3 - V Bloods": {
-        "yaml_option": [ "Act_2", "Act_3" ]
-    },
-    "Act 4 - V Bloods": {
-        "yaml_option": [ "Act_2", "Act_3", "Act_4" ]
-    },
-    "Act 5 - V Blood": {
-        "yaml_option": [ "Act_2", "Act_3", "Act_4" ]
-    },
-    "Knowledge - Study": {
-        "yaml_option": [ "Act_2" ]
-    },
-    "Knowledge - Athenaeum": {
-        "yaml_option": [ "Act_2", "Act_3", "Act_4" ]
-    },
-    "Armour - Tier 2": {
-        "yaml_option": [ "Act_2" ]
-    },
-    "Armour - Tier 3": {
-        "yaml_option": [ "Act_2", "Act_3", "Act_4" ]
-    },
-    "Act 2 Bosses": {
-        "yaml_option": [ "Act_2" ]
-    },
-    "Act 3 Bosses": {
-        "yaml_option": [ "Act_2", "Act_3" ]
-    },
-    "Act 4 Bosses": {
-        "yaml_option": [ "Act_2", "Act_3", "Act_4" ]
-    },
-    "Act 5 Boss": {
-        "yaml_option": [ "Act_2", "Act_3", "Act_4" ]
-    },
-    "Exploration - Dunley Farmlands": {
-        "yaml_option": [ "Act_2" ]
-    },
-    "Exploration - Hallowed Mountains": {
-        "yaml_option": [ "Act_2" ]
-    },
-    "Exploration - Ruins of Mortium": {
-        "yaml_option": [ "Act_2" ]
-    },
-    "Exploration - Cursed Forest": {
-        "yaml_option": [ "Act_2", "Act_3" ]
-    },
-    "Exploration - Gloomrot South": {
-        "yaml_option": [ "Act_2", "Act_3" ]
-    },
-    "Exploration - Silverlight Hills": {
-        "yaml_option": [ "Act_2", "Act_3", "Act_4" ]
-    },
-    "Exploration - Gloomrot North": {
-        "yaml_option": [ "Act_2", "Act_3", "Act_4" ]
-    },
-    "Exploration - Oakveil Woodlands": {
-        "yaml_option": [ "Act_2", "Act_3", "Act_4" ]
-    },
-    "Act2": {
-        "yaml_option": [ "Act_2" ],
-        "hidden": true
-    },
-    "Act3": {
-        "yaml_option": [ "Act_2", "Act_3" ],
-        "hidden": true
-    },
-    "Act4": {
-        "yaml_option": [ "Act_2", "Act_3", "Act_4" ],
-        "hidden": true
-    }
+  "Act1Boss": {
+    "hidden": true
+  },
+  "Act1Bosse": {
+    "hidden": true
+  },
+  "Act2Boss": {
+    "hidden": true
+  },
+  "Act3Boss": {
+    "hidden": true
+  },
+  "Act4Boss": {
+    "hidden": true
+  },
+  "Act5Boss": {
+    "hidden": true
+  },
+  "VBloods": {
+    "hidden": true
+  },
+  "DracBoss": {
+    "hidden": true
+  },
+  "Tier 1 Frost": {
+    "hidden": true
+  },
+  "Tier 1 Chaos": {
+    "hidden": true
+  },
+  "Amulets": {
+    "hidden": true
+  },
+  "Blood Hunter Set": {
+    "hidden": true
+  },
+  "Crimson Templar Set": {
+    "hidden": true
+  },
+  "Dark Magus Set": {
+    "hidden": true
+  },
+  "Dread Plate Set": {
+    "hidden": true
+  },
+  "Duskwatcher Set": {
+    "hidden": true
+  },
+  "Grim Knight Set": {
+    "hidden": true
+  },
+  "Grim Ranger Set": {
+    "hidden": true
+  },
+  "Maleficer Scholar Set": {
+    "hidden": true
+  },
+  "Marauder Set": {
+    "hidden": true
+  },
+  "Shadowmoon Set": {
+    "hidden": true
+  },
+  "Pendants": {
+    "hidden": true
+  },
+  "Rings": {
+    "hidden": true
+  },
+  "Shadewalker Set": {
+    "hidden": true
+  },
+  "Warlock Set": {
+    "hidden": true
+  },
+  "Tier 1 Body": {
+    "hidden": true
+  },
+  "Tier 1 Legs": {
+    "hidden": true
+  },
+  "Tier 1 Boots": {
+    "hidden": true
+  },
+  "Tier 1 Gloves": {
+    "hidden": true
+  },
+  "Tier 2 Body": {
+    "hidden": true
+  },
+  "Tier 2 Legs": {
+    "hidden": true
+  },
+  "Tier 2 Boots": {
+    "hidden": true
+  },
+  "Tier 2 Gloves": {
+    "hidden": true
+  },
+  "Tier 3 Body": {
+    "hidden": true
+  },
+  "Tier 3 Legs": {
+    "hidden": true
+  },
+  "Tier 3 Boots": {
+    "hidden": true
+  },
+  "Tier 3 Gloves": {
+    "hidden": true
+  },
+  "EarlyBloodType": {
+    "hidden": true
+  },
+  "Structures": {
+    "yaml_option": [ "More_Knowledge" ]
+  },
+  "Consumables": {
+    "yaml_option": [ "More_Knowledge" ]
+  },
+  "MoreKnowledge": {
+    "yaml_option": [ "More_Knowledge" ],
+    "hidden": true
+  },
+  "Act 2 - V Bloods": {
+    "yaml_option": [ "Act_2" ]
+  },
+  "Act 3 - V Bloods": {
+    "yaml_option": [ "Act_2", "Act_3" ]
+  },
+  "Act 4 - V Bloods": {
+    "yaml_option": [ "Act_2", "Act_3", "Act_4" ]
+  },
+  "Act 5 - V Blood": {
+    "yaml_option": [ "Act_2", "Act_3", "Act_4" ]
+  },
+  "Knowledge - Study": {
+    "yaml_option": [ "Act_2" ]
+  },
+  "Knowledge - Athenaeum": {
+    "yaml_option": [ "Act_2", "Act_3", "Act_4" ]
+  },
+  "Armour - Tier 2": {
+    "yaml_option": [ "Act_2" ]
+  },
+  "Armour - Tier 3": {
+    "yaml_option": [ "Act_2", "Act_3", "Act_4" ]
+  },
+  "Act 2 Bosses": {
+    "yaml_option": [ "Act_2" ]
+  },
+  "Act 3 Bosses": {
+    "yaml_option": [ "Act_2", "Act_3" ]
+  },
+  "Act 4 Bosses": {
+    "yaml_option": [ "Act_2", "Act_3", "Act_4" ]
+  },
+  "Act 5 Boss": {
+    "yaml_option": [ "Act_2", "Act_3", "Act_4" ]
+  },
+  "Exploration - Dunley Farmlands": {
+    "yaml_option": [ "Act_2" ]
+  },
+  "Exploration - Hallowed Mountains": {
+    "yaml_option": [ "Act_2" ]
+  },
+  "Exploration - Ruins of Mortium": {
+    "yaml_option": [ "Act_2" ]
+  },
+  "Exploration - Cursed Forest": {
+    "yaml_option": [ "Act_2", "Act_3" ]
+  },
+  "Exploration - Gloomrot South": {
+    "yaml_option": [ "Act_2", "Act_3" ]
+  },
+  "Exploration - Silverlight Hills": {
+    "yaml_option": [ "Act_2", "Act_3", "Act_4" ]
+  },
+  "Exploration - Gloomrot North": {
+    "yaml_option": [ "Act_2", "Act_3", "Act_4" ]
+  },
+  "Exploration - Oakveil Woodlands": {
+    "yaml_option": [ "Act_2", "Act_3", "Act_4" ]
+  },
+  "Act2": {
+    "yaml_option": [ "Act_2" ],
+    "hidden": true
+  },
+  "Act3": {
+    "yaml_option": [ "Act_2", "Act_3" ],
+    "hidden": true
+  },
+  "Act4": {
+    "yaml_option": [ "Act_2", "Act_3", "Act_4" ],
+    "hidden": true
+  },
+  "LostSouls": {
+    "yaml_option": [ "Lost_Souls_Goal" ],
+    "hidden": true
+  }
 }
