@@ -2290,6 +2290,15 @@
   },
   {
     "count": "1",
+    "name": "Sanguine Spear",
+    "category": [
+      "Weapons - Spears",
+      "Act4"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
     "name": "Merciless Iron Reaper",
     "category": [
       "Weapons - Reapers",

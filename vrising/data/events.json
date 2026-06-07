@@ -1,6 +1,334 @@
 {
 	"$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.events.schema.json",
-    "data": [
-    ]
+  "data": [
+    {
+      "name": "Tier 1 Ring",
+      "requires": "|Goreswine the Ravager (Gravedigger Ring)|"
+    },
+    {
+      "name": "Tier 1.5 Ring",
+      "requires": "|Tier 1 Ring| AND (|Ring of the Warrior| OR |Ring of the Warlock| OR |Ring of the Sorcerer| OR |Ring of the Dawnrunner| OR |Ring of the Spellweaver| OR |Ring of the Duskwatcher|"
+    },
+    {
+      "name": "Tier 1.5 Crossbow",
+      "requires": "|Rufus the Foreman (Copper Crossbow)| AND |Merciless Copper Crossbow|"
+    },
+    {
+      "name": "Tier 1.5 Longbow",
+      "requires": "|Merciless Copper Longbow| AND |Lidia the Chaos Archer (Longbow)|"
+    },
+    {
+      "name": "Tier 1.5 Weapon",
+      "requires": "|Merciless Copper Sword| OR |Merciless Copper Axes| OR |Merciless Copper Mace| OR |Merciless Copper Spear| OR |Tier 1.5 Crossbow| OR |Tier 1.5 Longbow|"
+    },
+    {
+      "name": "Shadewalker Set",
+      "requires": "|Shadewalker Vest| AND |Shadewalker Leggings| AND |Shadewalker Gloves| AND |Shadewalker Boots|"
+    },
+    {
+      "name": "Marauder Set",
+      "requires": "|Marauder Vest| AND |Marauder Leggings| AND |Marauder Gloves| AND |Marauder Boots|"
+    },
+    {
+      "name": "Grim Ranger Set",
+      "requires": "|Grim Ranger Vest| AND |Grim Ranger Leggings| AND |Grim Ranger Gloves| AND |Grim Ranger Boots|"
+    },
+    {
+      "name": "Warlock Set",
+      "requires": "|Warlock Vest| AND |Warlock Leggings| AND |Warlock Gloves| AND |Warlock Boots|"
+    },
+    {
+      "name": "Tier 1.5 Armor Set",
+      "requires": "|Shadewalker Set| OR |Marauder Set| OR |Grim Ranger Set| OR |Warlock Set|"
+    },
+    {
+      "name": "Level 33-35",
+      "requires": "|Tier 1.5 Armor Set| OR |Tier 1.5 Ring| OR |Tier 1.5 Weapon|"
+    },
+    {
+      "name": "Level 41",
+      "requires": "|Tier 1.5 Armor Set| AND |Tier 1.5 Weapon| AND |Tier 1.5 Ring|"
+    },
+    {
+      "name": "Can Mine Iron",
+      "requires": "|Tier 1.5 Weapon|"
+    },
+    {
+      "name": "Tier 2 Weapon and Iron Ingot",
+      "requires": "|Can Mine Iron| AND |Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)|"
+    },
+    {
+      "name": "Tier 2 Armor",
+      "requires": "|Beatrice the Tailor (Loom, Cloth, Cotton Yarn, Cloak)| AND |Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)|"
+    },
+    {
+      "name": "Tier 2 Pendant",
+      "requires": "|Leandra the Shadow Priestess (Scourgestone Pendant, Scourgestone, Dusk Caller, Artisan Table)|"
+    },
+    {
+      "name": "Tier 2.5 Crossbow",
+      "requires": "|Rufus the Foreman (Copper Crossbow)| AND |Merciless Iron Crossbow|"
+    },
+    {
+      "name": "Tier 2.5 Greatsword",
+      "requires": "|Merciless Iron Greatsword| AND |Tristan the Vampire Hunter (Greatsword)|"
+    },
+    {
+      "name": "Tier 2.5 Reaper",
+      "requires": "|Kriig the Undead General (Reaper)| AND |Merciless Iron Reaper|"
+    },
+    {
+      "name": "Tier 2.5 Longbow",
+      "requires": "|Merciless Iron Longbow| AND |Lidia the Chaos Archer (Longbow)|"
+    },
+    {
+      "name": "Tier 2.5 Claws",
+      "requires": "|Frostmaw the Mountain Terror (Claws)| AND |Merciless Iron Claws|"
+    },
+    {
+      "name": "Tier 2.5 Daggers",
+      "requires": "|Bane the Shadowblade (Daggers)| AND |Merciless Iron Daggers|"
+    },
+    {
+      "name": "Tier 2.5 Twinblade",
+      "requires": "|Merciless Iron Twinblade| AND |Gaius the Cursed Champion (Twinblades)|"
+    },
+    {
+      "name": "Tier 2.5 Pistols",
+      "requires": "|Jade the Vampire Hunter (Pistols)| AND |Merciless Iron Pistols|"
+    },
+    {
+      "name": "Tier 2.5 Whip",
+      "requires": "|Domina the Blade Dancer (Iron Whip)| AND |Merciless Iron Whip|"
+    },
+    {
+      "name": "Tier 2.5 Slashers",
+      "requires": "|Jakira the Shadow Huntress (Slashers)| AND |Merciless Iron Slashers|"
+    },
+    {
+      "name": "Tier 2.5 Weapon",
+      "requires": "|Tier 2 Weapon and Iron Ingot| AND |Vincent the Frostbringer (Prison Cell, Reinforced Plank)| AND |Tristan the Vampire Hunter (Blood Hunter, Greater Blood Essence)| AND (|Merciless Iron Sword| OR |Merciless Iron Axes| OR |Merciless Iron Mace| OR |Merciless Iron Spear| OR |Tier 2.5 Reaper| OR |Tier 2.5 Greatsword| OR |Tier 2.5 Whip| OR |Tier 2.5 Claws| OR |Tier 2.5 Twinblade| OR |Tier 2.5 Crossbow| OR |Tier 2.5 Longbow| OR |Tier 2.5 Daggers| OR |Tier 2.5 Pistols| OR |Tier 2.5 Slashers|)"
+    },
+    {
+      "name": "Thick Leather",
+      "requires": "|Keely the Frost Archer (Tannery, Leather, Cloak)| AND |Frostmaw the Mountain Terror (Thick Leather, Mountain Peak Bag, Elixir of the Beast)|"
+    },
+    {
+      "name": "Duskwatcher Set",
+      "requires": "|Tier 2 Armor| AND |Tier 2 Weapon and Iron Ingot| AND |Thick Leather| AND |Duskwatcher Chestguard| AND |Duskwatcher Leggings| AND |Duskwatcher Gloves| AND |Duskwatcher Boots|"
+    },
+    {
+      "name": "Crimson Templar Set",
+      "requires": "|Tier 2 Armor| AND |Tier 2 Weapon and Iron Ingot| AND |Thick Leather| AND |Crimson Templar Chestguard| AND |Crimson Templar Leggings| AND |Crimson Templar Gloves| AND |Crimson Templar Boots|"
+    },
+    {
+      "name": "Blood Hunter Set",
+      "requires": "|Tier 2 Armor| AND |Tier 2 Weapon and Iron Ingot| AND |Thick Leather|  AND |Blood Hunter Chestguard| AND |Blood Hunter Leggings| AND |Blood Hunter Gloves| AND |Blood Hunter Boots|"
+    },
+    {
+      "name": "Dark Magus Set",
+      "requires": "|Tier 2 Armor| AND |Tier 2 Weapon and Iron Ingot| AND |Thick Leather|  AND |Dark Magus Chestguard| AND |Dark Magus Leggings| AND |Dark Magus Gloves| AND |Dark Magus Boots|"
+    },
+    {
+      "name": "Tier 2.5 Armor Set",
+      "requires": "|Duskwatcher Set| OR |Crimson Templar Set| OR |Blood Hunter Set| OR |Dark Magus Set|"
+    },
+    {
+      "name": "Tier 2.5 Pendant",
+      "requires": "|Tier 2 Pendant| AND (|Pendant of the Warrior| OR |Pendant of the Sorcerer| OR |Pendant of the Dawnrunner| OR |Pendant of the Spellweaver| OR |Pendant of the Warlock| OR |Pendant of the Duskwatcher|)"
+    },
+    {
+      "name": "Level 44",
+      "requires": "|Level 41| AND (|Tier 2 Armor| OR |Tier 2 Weapon and Iron Ingot| OR |Tier 2 Pendant|)"
+    },
+    {
+      "name": "Level 47",
+      "requires": "|Level 41| AND ((|Tier 2 Armor| AND |Tier 2 Weapon and Iron Ingot|) OR (|Tier 2 Armor| AND |Tier 2 Pendant|) OR (|Tier 2 Weapon and Iron Ingot| AND |Tier 2 Pendant|))"
+    },
+    {
+      "name": "Level 50",
+      "requires": "|Level 41| AND |Tier 2 Armor| AND |Tier 2 Weapon and Iron Ingot| AND |Tier 2 Pendant|"
+    },
+    {
+      "name": "Level 53-55",
+      "requires": "|Level 50| AND (|Tier 2.5 Armor Set| OR |Tier 2.5 Pendant| OR |Tier 2.5 Weapon|)"
+    },
+    {
+      "name": "Level 56-59",
+      "requires": "|Level 50| AND ((|Tier 2.5 Armor Set| AND |Tier 2.5 Weapon|) OR (|Tier 2.5 Armor Set| AND |Tier 2.5 Pendant|) OR (|Tier 2.5 Weapon| AND |Tier 2.5 Pendant|))"
+    },
+    {
+      "name": "Level 61",
+      "requires": "|Level 50| AND |Tier 2.5 Armor Set| AND |Tier 2.5 Weapon| AND |Tier 2.5 Pendant|"
+    },
+    {
+      "name": "Radium Alloy",
+      "rqeuires": "|Ziva the Engineer (Fabricator, Radium Alloy, Sludge-Filled Canister, Yellow Castle Teleporter)|"
+    },
+    {
+      "name": "Can Mine Silver",
+      "requires": "|Level 61| AND |Willfred the Werewolf Chief (Pristine Leather Bag, Silver Resistance Potion, Elixir of the Werewolf)|"
+    },
+    {
+      "name": "Tier 3 Weapon and Dark Silver Ingot",
+      "requires": "|Can Mine Silver| AND |Cyril the Cursed Smith (Dark Silver Ingot, Anvil, Advanced Furnace)| AND |Domina the Blade Dancer (Advanced Grinder), Elixir of the Blasphemous, Red Castle Teleporter| AND |Foulrot the Soultaker (Spectral Dust, Banshee)|"
+    },
+    {
+      "name": "Pristine Leather",
+      "requires": "|Keely the Frost Archer (Tannery, Leather, Cloak)| AND |Ben the Old Wanderer (Pristine Leather, Shroud of the Forest)|"
+    },
+    {
+      "name": "Level 64",
+      "requires": "|Level 61| AND (|Tier 3 Weapon and Dark Silver Ingot| OR |Tier 3 Armor| OR |Tier 3 Amulet|)"
+    },
+    {
+      "name": "Level 67",
+      "requires": "|Level 61| AND ((|Tier 3 Armor| AND |Tier 3 Weapon and Dark Silver Ingot|) OR (|Tier 3 Armor| AND |Tier 3 Amulet|) OR (|Tier 3 Weapon and Dark Silver Ingot| AND |Tier 3 Amulet|))"
+    },
+    {
+      "name": "Level 70",
+      "requires": "|Level 61| AND |Tier 3 Armor| AND |Tier 3 Weapon and Dark Silver Ingot| AND |Tier 3 Amulet|"
+    },
+    {
+      "name": "Level 73-75",
+      "requires": "|Level 70| AND (|Tier 3.5 Armor Set| OR |Tier 3.5 Amulet| OR |Tier 3.5 Weapon|)"
+    },
+    {
+      "name": "Level 76-79",
+      "requires": "|Level 70| AND ((|Tier 3.5 Armor Set| AND |Tier 3.5 Weapon|) OR (|Tier 3.5 Armor Set| AND |Tier 3.5 Amulet|) OR (|Tier 3.5 Weapon| AND |Tier 3.5 Amulet|))"
+    },
+    {
+      "name": "Level 81",
+      "requires": "|Level 70| AND |Tier 3.5 Armor Set| AND |Tier 3.5 Weapon| AND |Tier 3.5 Amulet|"
+    },
+    {
+      "name": "Level 83",
+      "requires": "|Level 81| AND |Octavian the Militia Captain (Ancestral Forge)| AND |Tristan the Vampire Hunter (Blood Hunter, Greater Blood Essence)| AND |Radium Alloy|"
+    },
+    {
+      "name": "Level 85",
+      "requires": "|Level 81| AND |Octavian the Militia Captain (Ancestral Forge)| AND |Primal Blood Essence| AND |Radium Alloy| AND |Onyx Tear|"
+    },
+    {
+      "name": "Tier 3 Armor",
+      "requires": "|Angram the Purifier (Dawnthorn Regalia)| AND |Ungora the Spider Queen (Silk, Spiderling, Spider Form)| AND |Pristine Leather|"
+    },
+    {
+      "name": "Tier 3 Amulet",
+      "requires": "|Baron du Bouchon the Sommelier (Blood Merlot Amulet)| AND |Baron du Bouchon the Sommelier (Blood Merlot)| AND |Vincent the Frostbringer (Prison Cell, Reinforced Plank)| AND |Tier 3 Weapon and Dark Silver Ingot| AND |Radium Alloy| AND |Grethel the Glassblower (Glass, Blood Rose Potion)|"
+    },
+    {
+      "name": "Tier 3.5 Crossbow",
+      "requires": "|Rufus the Foreman (Copper Crossbow)| AND |Sanguine Crossbow|"
+    },
+    {
+      "name": "Tier 3.5 Greatsword",
+      "requires": "|Sanguine Greatsword| AND |Tristan the Vampire Hunter (Greatsword)|"
+    },
+    {
+      "name": "Tier 3.5 Reaper",
+      "requires": "|Kriig the Undead General (Reaper)| AND |Sanguine Reaper|"
+    },
+    {
+      "name": "Tier 3.5 Longbow",
+      "requires": "|Sanguine Longbow| AND |Lidia the Chaos Archer (Longbow)|"
+    },
+    {
+      "name": "Tier 3.5 Claws",
+      "requires": "|Frostmaw the Mountain Terror (Claws)| AND |Sanguine Claws|"
+    },
+    {
+      "name": "Tier 3.5 Daggers",
+      "requires": "|Bane the Shadowblade (Daggers)| AND |Sanguine Daggers|"
+    },
+    {
+      "name": "Tier 3.5 Twinblade",
+      "requires": "|Sanguine Twinblade| AND |Gaius the Cursed Champion (Twinblades)|"
+    },
+    {
+      "name": "Tier 3.5 Pistols",
+      "requires": "|Jade the Vampire Hunter (Pistols)| AND |Sanguine Pistols|"
+    },
+    {
+      "name": "Tier 3.5 Whip",
+      "requires": "|Domina the Blade Dancer (Iron Whip)| AND |Simon Belmont the Vampire Hunter (Sanguine Whip)|"
+    },
+    {
+      "name": "Tier 3.5 Slashers",
+      "requires": "|Jakira the Shadow Huntress (Slashers)| AND |Sanguine Slashers|"
+    },
+    {
+      "name": "Tier 3.5 Weapon",
+      "requires": "|Tier 3 Weapon and Dark Silver Ingot| AND (|Sanguine Sword| OR |Sanguine Axes| OR |Sanguine Mace| OR |Sanguine Spear| OR |Tier 3.5 Reaper| OR |Tier 3.5 Greatsword| OR |Tier 3.5 Whip| OR |Tier 3.5 Claws| OR |Tier 3.5 Twinblade| OR |Tier 3.5 Crossbow| OR |Tier 3.5 Longbow| OR |Tier 3.5 Daggers| OR |Tier 3.5 Pistols| OR |Tier 3.5 Slashers|)"
+    },
+    {
+      "name": "Primal Blood Essence",
+      "req;uires": "Jade the Vampire Hunter (Primal Blood Essence, Elixir of the Crow, Advanced Blood Press)"
+    },
+    {
+      "name": "Ghost Yarn",
+      "requires": "|Domina the Blade Dancer (Advanced Grinder), Elixir of the Blasphemous, Red Castle Teleporter| AND |Matka the Curse Weaver (Advanced Loom, Ghost Yarn, Mosquito)| AND |Beatrice the Tailor (Loom, Cloth, Cotton Yarn, Cloak)|"
+    },
+    {
+      "name": "Shadowmoon Set",
+      "requires": "|Tier 3 Armor| AND |Ghost Yarn| AND |Shadowmoon Chestguard| AND |Shadowmoon Leggings| AND |Shadowmoon Gloves| AND |Shadowmoon Boots|"
+    },
+    {
+      "name": "Grim Knight Set",
+      "requires": "|Tier 3 Armor| AND |Ghost Yarn| AND |Grim Knight Chestguard| AND |Grim Knight Leggings| AND |Grim Knight Gloves| AND |Grim Knight Boots|"
+    },
+    {
+      "name": "Dread Plate Set",
+      "requires": "|Tier 3 Armor| AND |Ghost Yarn| AND |Dread Plate Chestguard| AND |Dread Plate Leggings| AND |Dread Plate Gloves| AND |Dread Plate Boots|"
+    },
+    {
+      "name": "Maleficer Scholar Set",
+      "requires": "|Tier 3 Armor| AND |Ghost Yarn| AND |Maleficer Scholar Chestguard| AND |Maleficer Scholar Leggings| AND |Maleficer Scholar Gloves| AND |Maleficer Scholar Boots|"
+    },
+    {
+      "name": "Tier 3.5 Armor Set",
+      "requires": "|Shadowmoon Set| OR |Grim Knight Set| OR |Dread Plate Set| OR |Maleficer Scholar Set|"
+    },
+    {
+      "name": "Power Core",
+      "requires": "|Voltatia the Power Master (Power Core, EMP, Blue Castle Teleporter)| AND |Radium Alloy|"
+    },
+    {
+      "name": "Tier 3.5 Amulet",
+      "requires": "|Tier 3 Amulet| AND |Power Core| AND (|Amulet of the Crimson Commander| OR |Amulet of the Wicked Prophet| OR |Amulet of the Unyielding Charger| OR |Amulet of the Master Spellweaver| OR |Amulet of the Arch-Warlock| OR |Amulet of the Blademaster|)"
+    },
+    {
+      "name": "Shadow Weave",
+      "requires": "|Ungora the Spider Queen (Silk, Spiderling, Spider Form)| AND |Ghost Yarn|"
+    },
+    {
+      "name": "Bat Leather",
+      "requires": "|Terrorclaw the Ogre (Advanced Tannery)| AND |Pristine Leather| AND |Gorecrusher the Behemoth (Bat Leather, Bat Leather Bag)|"
+    },
+    {
+      "name": "Dracula Tier 1",
+      "requires": "|Talzur the Winged Horror (Dracula's Gloves)| AND |Solarus the Immaculate (Dracula's Boots)| AND |Tier 3.5 Armor Set| AND |Shadow Weave| AND |Bat Leather|"
+    },
+    {
+      "name": "Dracula Tier 2",
+      "requires": "|Adam the Firstborn (Dracula's Chestguard)| AND |Megara the Serpent Queen (Dracula's Leggings)| AND |Tier 3.5 Armor Set| AND |Shadow Weave| AND |Bat Leather|"
+    },
+    {
+      "name": "Onyx Tear",
+      "requires": "|Azariel the Sunbringer (Gold Ingot)| AND |Power Core| AND |Dantos the Forgebinder (Fusion Forge, Emberglass)| AND |Lord Styx the Night Champion (Bat Form, Onyx Tear, Blood Key)| AND |Cyril the Cursed Smith (Dark Silver Ingot, Anvil, Advanced Furnace)| AND |Primal Blood Essence|"
+    },
+    {
+      "name": "Blood Key",
+      "requires": "|Azariel the Sunbringer (Gold Ingot)| AND |Power Core| AND |Dantos the Forgebinder (Fusion Forge, Emberglass)| AND |Lord Styx the Night Champion (Bat Form, Onyx Tear, Blood Key)| AND |Cyril the Cursed Smith (Dark Silver Ingot, Anvil, Advanced Furnace)| AND |Primal Blood Essence|"
+    },
+    {
+      "name": "Holy Resistance Potion",
+      "requires": "|Clive the Firestarter (Alchemy Table, Explosives)| AND |Meredith the Bright Archer (Holy Resistance Potion, Elixir of the Prowler)|"
+    },
+    {
+      "name": "Holy Resistance Flask",
+      "requires": "|Holy Resistance Potion| AND |Mairwyn the Elementalist (Holy Resistance Flask)|"
+    }
+  ]
 }
 
