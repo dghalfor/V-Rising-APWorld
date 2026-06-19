@@ -8,10 +8,7 @@
             "https://github.com/ArchipelagoMW/Archipelago/blob/main/docs/world%20api.md#webworld-class"
         ],
         "apworld_description": [
-            "Manual games allow you to set custom check locations and custom item names that will be rolled into a multiworld.",
-            "This allows any variety of game -- PC, console, board games, Microsoft Word memes... really anything -- to be part of a multiworld randomizer.",
-            "The key component to including these games is some level of manual restriction. Since the items are not actually withheld from the player,",
-            "the player must manually refrain from using these gathered items until the tracker shows that they have been acquired or sent."
+            "Adapted from manual world, utilizing the json structure provided there for easier implementtion."
         ],
         "web": {
             "_comment": "for more info check github https://github.com/ArchipelagoMW/Archipelago/blob/main/docs/world%20api.md#webworld-class",
@@ -20,7 +17,7 @@
             "tutorials": [
                 {
                     "name": "Multiworld Setup Guide",
-                    "description": "A guide to setting up manual game integration for Archipelago multiworld games.",
+                    "description": "A guide to setting up game integration for Archipelago multiworld games.",
                     "language": "English",
                     "file_name": "setup_en.md",
                     "link": "setup/en",
