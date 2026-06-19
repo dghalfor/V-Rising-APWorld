@@ -17,7 +17,7 @@ from ..Helpers import is_option_enabled, get_option_value, format_state_prog_ite
 
 # calling logging.info("message") anywhere below in this file will output the message to both console and log file
 import logging
-
+import random
 ########################################################################################
 ## Order of method calls when the world generates:
 ##    1. create_regions - Creates regions and locations
@@ -35,7 +35,49 @@ import logging
 # Use this function to change the valid filler items to be created to replace item links or starting items.
 # Default value is the `filler_item_name` from game.json
 def hook_get_filler_item_name(world: World, multiworld: MultiWorld, player: int) -> str | bool:
-    return False
+    from collections import defaultdict
+    # Pull all items with a filler-indicating category, filtered by act options
+    filler_items = []
+    act_gate_categories = {
+    "Act2": "Act_2",
+    "Act3": "Act_3",
+    "Act4": "Act_4",
+    }
+
+    for item in world.item_table:
+        categories = item.get("category", [])
+        if "Filler" not in categories:
+            continue
+        gated = False
+        for cat in categories:
+            if cat in act_gate_categories:
+                option = getattr(world.options, act_gate_categories[cat], None)
+                if option is not None and not option.value:
+                    gated = True
+                    break
+        if not gated:
+            filler_items.append(item)
+
+    # Group by category for weighting (excluding meta-categories)
+    meta_categories = {"Filler"}
+    pools = defaultdict(list)
+    for item in filler_items:
+        for cat in item.get("category", []):
+            if cat not in meta_categories:
+                pools[cat].append(item["name"])
+                break  # use first non-meta category as the weight group
+
+    # Weight by category option, default 1
+    weighted_categories = []
+    weights = []
+    for category, names in pools.items():
+        option = getattr(world.options, category, None)
+        weight = option.value if option is not None else 1
+        weighted_categories.append(names)
+        weights.append(weight)
+
+    chosen_pool = random.choices(weighted_categories, weights=weights, k=1)[0]
+    return random.choice(chosen_pool)
 
 def before_generate_early(world: World, multiworld: MultiWorld, player: int) -> None:
     """

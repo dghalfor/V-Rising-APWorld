@@ -24,7 +24,7 @@
   "user": {
     "Act_2": {
       "description": [
-        "When enabled Act 2 Items, V-Bloods and Spells will be included in the Multiworld."
+        "When enabled Act 2 Items, V-Bloods will be included in the Multiworld."
       ],
       "type": "Toggle",
       "default": true,
@@ -32,7 +32,7 @@
     },
     "Act_3": {
       "description": [
-        "When enabled Act 3 Items, V-Bloods and Spells will be included in the Multiworld.",
+        "When enabled Act 3 Items and V-Bloods will be included in the Multiworld.",
         "Requires Act 2 to be enabled."
       ],
       "type": "Toggle",
@@ -41,8 +41,32 @@
     },
     "Act_4": {
       "description": [
-        "When enabled Act 4 Items, V-Bloods and Spells will be included in the Multiworld.",
+        "When enabled Act 4 Items and V-Bloods will be included in the Multiworld.",
         "Requires Act 3 to be enabled."
+      ],
+      "type": "Toggle",
+      "default": true,
+      "group": "Act Options"
+    },
+    "Act_2_Spells": {
+      "description": [
+        "When enabled Act 2 Spells will be included in the Multiworld, independent of goal or other act selections."
+      ],
+      "type": "Toggle",
+      "default": true,
+      "group": "Act Options"
+    },
+    "Act_3_Spells": {
+      "description": [
+        "When enabled Act 3 Spells will be included in the Multiworld, independent of goal or other act selections."
+      ],
+      "type": "Toggle",
+      "default": true,
+      "group": "Act Options"
+    },
+    "Act_4_Spells": {
+      "description": [
+        "When enabled Act 4 Spells will be included in the Multiworld, independent of goal or other act selections."
       ],
       "type": "Toggle",
       "default": true,
@@ -57,15 +81,58 @@
       "default": false,
       "group": "Extra Locations"
     },
-    "Lost_Souls_Goal": {
+    "Boss_Bonus": {
       "description": [
-        "Adds multiple items called 'Lost Souls' into the multiworld, you have to gather them all to goal.",
-        "An extra location will be added to each V-Blood called their soul slot to accommodate the added items."
+        "Bosses that fewer than 3 locations will receive additional locations."
       ],
       "type": "Toggle",
       "default": false,
-      "group": "Goal Options"
+      "group": "Extra Locations"
+    },
+    "JournalSanity": {
+      "description": [
+        "Adds all journals to the location pool, progression granted by journals will not be added to the item pool.",
+        "This will primarily add filler."
+      ],
+      "type": "Toggle",
+      "default": false,
+      "group": "Extra Locations"
+    },
+    "ConstructionMaterials": {
+      "description": [
+        "Frequency for Construction Items such as Planks, Wood, Stone, and Stone Bricks to appear as filler"
+      ],
+      "type": "Range",
+      "range_start": 0,
+      "range_end": 100,
+      "group": "Filler Weights"
+    },
+    "StygianShards": {
+      "description": [
+        "Frequency for Stygian Shard Filler Items to appear as filler."
+      ],
+      "type": "Range",
+      "range_start": 0,
+      "range_end": 100,
+      "group": "Filler Weights"
+    },
+    "Coins": {
+      "description": [
+        "Frequency for Coin Filler Items to appear as filler."
+      ],
+      "type": "Range",
+      "range_start": 0,
+      "range_end": 100,
+      "group": "Filler Weights"
+    },
+    "Seeds": {
+      "description": [
+        "Frequency for Seed Filler Items to appear as filler."
+      ],
+      "type": "Range",
+      "range_start": 0,
+      "range_end": 100,
+      "group": "Filler Weights"
     }
   }
-
 }

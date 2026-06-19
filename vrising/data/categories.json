@@ -123,6 +123,14 @@
     "yaml_option": [ "More_Knowledge" ],
     "hidden": true
   },
+  "BossBonus": {
+    "yaml_option": [ "Boss_Bonus" ],
+    "hidden": true
+  },
+  "JournalSanity": {
+    "yaml_option": [ "JournalSanity" ],
+    "hidden": true
+  },
   "Act 2 - V Bloods": {
     "yaml_option": [ "Act_2" ]
   },
@@ -195,8 +203,16 @@
     "yaml_option": [ "Act_2", "Act_3", "Act_4" ],
     "hidden": true
   },
-  "LostSouls": {
-    "yaml_option": [ "Lost_Souls_Goal" ],
+  "Act2Spells": {
+    "yaml_option": [ "Act_2_Spells" ],
+    "hidden": true
+  },
+  "Act3Spells": {
+    "yaml_option": [ "Act_3_Spells" ],
+    "hidden": true
+  },
+  "Act4Spells": {
+    "yaml_option": [ "Act_4_Spells" ],
     "hidden": true
   }
 }

@@ -59,7 +59,7 @@
     },
     {
       "name": "Tier 2 Armor",
-      "requires": "|Beatrice the Tailor (Loom, Cloth, Cotton Yarn, Cloak)| AND |Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)|"
+      "requires": "|Beatrice the Tailor (Loom, Cloth, Cotton Yarn, Cloak)| AND |Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)| AND |Quincey the Bandit King (Hollowfang Battlegear)|"
     },
     {
       "name": "Tier 2 Pendant",
@@ -163,7 +163,7 @@
     },
     {
       "name": "Radium Alloy",
-      "rqeuires": "|Ziva the Engineer (Fabricator, Radium Alloy, Sludge-Filled Canister, Yellow Castle Teleporter)|"
+      "requires": "|Ziva the Engineer (Fabricator, Radium Alloy, Sludge-Filled Canister, Yellow Castle Teleporter)|"
     },
     {
       "name": "Can Mine Silver",
@@ -263,7 +263,7 @@
     },
     {
       "name": "Primal Blood Essence",
-      "req;uires": "Jade the Vampire Hunter (Primal Blood Essence, Elixir of the Crow, Advanced Blood Press)"
+      "requires": "|Jade the Vampire Hunter (Primal Blood Essence, Elixir of the Crow, Advanced Blood Press)|"
     },
     {
       "name": "Ghost Yarn",
@@ -324,6 +324,18 @@
     {
       "name": "Holy Resistance Potion",
       "requires": "|Clive the Firestarter (Alchemy Table, Explosives)| AND |Meredith the Bright Archer (Holy Resistance Potion, Elixir of the Prowler)|"
+    },
+    {
+      "name": "Paper Press",
+      "requires": "|Nicholaus the Fallen (Paper Press)|"
+    },
+    {
+      "name": "Study",
+      "requires": "|Paper Press| AND |Maja the Dark Savant (Study, Scroll)| AND |Level 53-55|"
+    },
+    {
+      "name": "Athenaeum",
+      "requires": "|Paper Press| AND |Henry Blackbrew the Doctor (Athenaeum, Schematic, Redistribution Engine, Luminescent Mushroom Terrarium)| AND |Level 70|"
     },
     {
       "name": "Holy Resistance Flask",

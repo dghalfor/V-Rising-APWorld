@@ -9,16 +9,6 @@
     "requires": ""
   },
   {
-    "name": "Alpha the White Wolf (Lost Soul)",
-    "region": "White Wolf",
-    "category": [
-      "Act 1 Bosses",
-      "Act1Bosse",
-      "LostSouls"
-    ],
-    "requires": ""
-  },
-  {
     "name": "Keely the Frost Archer (Tannery, Leather, Cloak)",
     "region": "Frost Archer",
     "category": [
@@ -44,16 +34,6 @@
     "requires": ""
   },
   {
-    "name": "Keely the Frost Archer (Lost Soul)",
-    "region": "Frost Archer",
-    "category": [
-      "Act 1 Bosses",
-      "Act1Bosse",
-      "LostSouls"
-    ],
-    "requires": ""
-  },
-  {
     "name": "Errol the Stonebreaker (Material and Gem Storage)",
     "region": "Stonebreaker",
     "category": [
@@ -75,16 +55,6 @@
     "category": [
       "Act 1 Bosses",
       "Act1Bosse"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Errol the Stonebreaker (Lost Soul)",
-    "region": "Stonebreaker",
-    "category": [
-      "Act 1 Bosses",
-      "Act1Bosse",
-      "LostSouls"
     ],
     "requires": ""
   },
@@ -122,16 +92,6 @@
     "requires": ""
   },
   {
-    "name": "Rufus the Foreman (Lost Soul)",
-    "region": "Foreman",
-    "category": [
-      "Act 1 Bosses",
-      "Act1Bosse",
-      "LostSouls"
-    ],
-    "requires": ""
-  },
-  {
     "name": "Grayson the Armourer (Workshop Flooring)",
     "region": "Armourer",
     "category": [
@@ -161,15 +121,6 @@
     "region": "Armourer",
     "category": [
       "Act 1 Bosses"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Grayson the Armourer (Lost Soul)",
-    "region": "Armourer",
-    "category": [
-      "Act 1 Bosses",
-      "LostSouls"
     ],
     "requires": ""
   },
@@ -215,30 +166,11 @@
     "requires": ""
   },
   {
-    "name": "Goreswine the Ravager (Lost Souls)",
-    "region": "Ravager",
-    "category": [
-      "Act 1 Bosses",
-      "LostSouls"
-    ],
-    "requires": ""
-  },
-  {
     "name": "Nibbles the Putrid Rat (Rat Form)",
     "region": "Putrid Rat",
     "category": [
       "Act 1 Bosses",
       "Act1Bosse"
-    ],
-    "requires": "|Tier 1 Ring|"
-  },
-  {
-    "name": "Nibbles the Putrid Rat (Lost Soul)",
-    "region": "Putrid Rat",
-    "category": [
-      "Act 1 Bosses",
-      "Act1Bosse",
-      "LostSouls"
     ],
     "requires": "|Tier 1 Ring|"
   },
@@ -268,15 +200,6 @@
     "requires": "|Tier 1 Ring|"
   },
   {
-    "name": "Lidia the Chaos Archer (Lost Soul)",
-    "region": "Chaos Archer",
-    "category": [
-      "Act 1 Bosses",
-      "LostSouls"
-    ],
-    "requires": "|Tier 1 Ring|"
-  },
-  {
     "name": "Clive the Firestarter (Alchemy Table, Explosives)",
     "region": "Firestarter",
     "category": [
@@ -294,15 +217,6 @@
     "requires": "|Tier 1 Ring|"
   },
   {
-    "name": "Clive the Firestarter (Lost Soul)",
-    "region": "Firestarter",
-    "category": [
-      "Act 1 Bosses",
-      "LostSouls"
-    ],
-    "requires": "|Tier 1 Ring|"
-  },
-  {
     "name": "Finn the Fisherman (Fishing Pole)",
     "region": "Fisherman",
     "category": [
@@ -316,15 +230,6 @@
     "category": [
       "Act 1 Bosses",
       "Act1Bosse"
-    ],
-    "requires": "|Level 33-35|"
-  },
-  {
-    "name": "Finn the Fisherman (Lost Soul)",
-    "region": "Fisherman",
-    "category": [
-      "Act 1 Bosses",
-      "LostSouls"
     ],
     "requires": "|Level 33-35|"
   },
@@ -378,15 +283,6 @@
     "requires": "|Level 33-35|"
   },
   {
-    "name": "Polora the Feywalker (Lost Soul)",
-    "region": "Feywalker",
-    "category": [
-      "Act 1 Bosses",
-      "LostSouls"
-    ],
-    "requires": "|Level 33-35|"
-  },
-  {
     "name": "Kodia the Ferocious Bear (Bear Form, Trophy)",
     "region": "Ferocious Bear",
     "category": [
@@ -400,15 +296,6 @@
     "region": "Ferocious Bear",
     "category": [
       "Act 1 Bosses"
-    ],
-    "requires": "|Level 33-35|"
-  },
-  {
-    "name": "Kodia the Ferocious Bear (Lost Soul)",
-    "region": "Ferocious Bear",
-    "category": [
-      "Act 1 Bosses",
-      "LostSouls"
     ],
     "requires": "|Level 33-35|"
   },
@@ -454,15 +341,6 @@
     "requires": "|Level 33-35|"
   },
   {
-    "name": "Nicholaus the Fallen (Lost Soul)",
-    "region": "The Fallen",
-    "category": [
-      "Act 1 Bosses",
-      "LostSouls"
-    ],
-    "requires": "|Level 33-35|"
-  },
-  {
     "name": "Quincey the Bandit King (Smithy, Iron Bar, Tailoring Bench)",
     "region": "Bandit King",
     "victory": true,
@@ -498,15 +376,6 @@
     "requires": "|Level 41| AND (|Lord Styx the Night Champion (Bat Form, Onyx Tear, Blood Key)| OR |Kodia the Ferocious Bear (Bear Form, Trophy)| OR |Clive the Firestarter (Alchemy Table, Explosives)|)"
   },
   {
-    "name": "Quincey the Bandit King (Lost Soul)",
-    "region": "Bandit King",
-    "category": [
-      "Act 1 Bosses",
-      "LostSouls"
-    ],
-    "requires": "|Level 41| AND (|Lord Styx the Night Champion (Bat Form, Onyx Tear, Blood Key)| OR |Kodia the Ferocious Bear (Bear Form, Trophy)| OR |Clive the Firestarter (Alchemy Table, Explosives)|)"
-  },
-  {
     "name": "Beatrice the Tailor (Loom, Cloth, Cotton Yarn, Cloak)",
     "region": "Tailor",
     "category": [
@@ -527,15 +396,6 @@
     "region": "Tailor",
     "category": [
       "Act 2 Bosses"
-    ],
-    "requires": "|Level 41|"
-  },
-  {
-    "name": "Beatrice the Tailor (Lost Soul)",
-    "region": "Tailor",
-    "category": [
-      "Act 2 Bosses",
-      "LostSouls"
     ],
     "requires": "|Level 41|"
   },
@@ -564,15 +424,6 @@
     "requires": "|Level 44|"
   },
   {
-    "name": "Vincent the Frostbringer (Lost Soul)",
-    "region": "Frostbringer",
-    "category": [
-      "Act 2 Bosses",
-      "LostSouls"
-    ],
-    "requires": "|Level 44|"
-  },
-  {
     "name": "Christina the Sun Priestess (Candles)",
     "region": "Sun Priestess",
     "category": [
@@ -593,15 +444,6 @@
     "region": "Sun Priestess",
     "category": [
       "Act 2 Bosses"
-    ],
-    "requires": "|Level 44|"
-  },
-  {
-    "name": "Christina the Sun Priestess (Lost Soul)",
-    "region": "Sun Priestess",
-    "category": [
-      "Act 2 Bosses",
-      "LostSouls"
     ],
     "requires": "|Level 44|"
   },
@@ -630,15 +472,6 @@
     "requires": "|Level 44|"
   },
   {
-    "name": "Tristan the Vampire Hunter (Lost Soul)",
-    "region": "Tristan",
-    "category": [
-      "Act 2 Bosses",
-      "LostSouls"
-    ],
-    "requires": "|Level 44|"
-  },
-  {
     "name": "Sir Erwin the Gallant Cavalier (Stables)",
     "region": "Gallant Cavalier",
     "category": [
@@ -659,15 +492,6 @@
     "region": "Gallant Cavalier",
     "category": [
       "Act 2 Bosses"
-    ],
-    "requires": "|Level 47|"
-  },
-  {
-    "name": "Sir Erwin the Gallant Cavalier (Lost Soul)",
-    "region": "Gallant Cavalier",
-    "category": [
-      "Act 2 Bosses",
-      "LostSouls"
     ],
     "requires": "|Level 47|"
   },
@@ -704,15 +528,6 @@
     "requires": "|Level 47|"
   },
   {
-    "name": "Kriig the Undead General (Lost Soul)",
-    "region": "Undead General",
-    "category": [
-      "Act 2 Bosses",
-      "LostSouls"
-    ],
-    "requires": "|Level 47|"
-  },
-  {
     "name": "Leandra the Shadow Priestess (Scourgestone Pendant, Scourgestone, Dusk Caller, Artisan Table)",
     "region": "Shadow Priestess",
     "category": [
@@ -725,15 +540,6 @@
     "region": "Shadow Priestess",
     "category": [
       "Act 2 Bosses"
-    ],
-    "requires": "|Level 47|"
-  },
-  {
-    "name": "Leandra the Shadow Priestess (Lost Soul)",
-    "region": "Shadow Priestess",
-    "category": [
-      "Act 2 Bosses",
-      "LostSouls"
     ],
     "requires": "|Level 47|"
   },
@@ -778,15 +584,6 @@
     "requires": "|Level 47|"
   },
   {
-    "name": "Maja the Dark Savant (Lost Soul)",
-    "region": "Dark Savant",
-    "category": [
-      "Act 2 Bosses",
-      "LostSouls"
-    ],
-    "requires": "|Level 47|"
-  },
-  {
     "name": "Bane the Shadowblade (Human Form)",
     "region": "Shadowblade",
     "category": [
@@ -807,15 +604,6 @@
     "region": "Shadowblade",
     "category": [
       "Act 2 Bosses"
-    ],
-    "requires": "|Level 50|"
-  },
-  {
-    "name": "Bane the Shadowblade (Lost Soul)",
-    "region": "Shadowblade",
-    "category": [
-      "Act 2 Bosses",
-      "LostSouls"
     ],
     "requires": "|Level 50|"
   },
@@ -844,15 +632,6 @@
     "requires": "|Level 50|"
   },
   {
-    "name": "Grethel the Glassblower (Lost Soul)",
-    "region": "Glassblower",
-    "category": [
-      "Act 2 Bosses",
-      "LostSouls"
-    ],
-    "requires": "|Level 50|"
-  },
-  {
     "name": "Meredith the Bright Archer (Holy Resistance Potion, Elixir of the Prowler)",
     "region": "Bright Archer",
     "category": [
@@ -865,15 +644,6 @@
     "region": "Bright Archer",
     "category": [
       "Act 2 Bosses"
-    ],
-    "requires": "|Level 53-55|"
-  },
-  {
-    "name": "Meredith the Bright Archer (Lost Soul)",
-    "region": "Bright Archer",
-    "category": [
-      "Act 2 Bosses",
-      "LostSouls"
     ],
     "requires": "|Level 53-55|"
   },
@@ -910,15 +680,6 @@
     "requires": "|Level 53-55|"
   },
   {
-    "name": "Terah the Geomancer (Lost Soul)",
-    "region": "Geomancer",
-    "category": [
-      "Act 2 Bosses",
-      "LostSouls"
-    ],
-    "requires": "|Level 53-55|"
-  },
-  {
     "name": "General Elena the Hollow (Altar of Stygian Awakening, Elixir of the Raven)",
     "region": "The Hollow",
     "category": [
@@ -943,15 +704,6 @@
     "requires": "|Level 53-55|"
   },
   {
-    "name": "General Elena the Hollow (Lost Soul)",
-    "region": "The Hollow",
-    "category": [
-      "Act 2 Bosses",
-      "LostSouls"
-    ],
-    "requires": "|Level 53-55|"
-  },
-  {
     "name": "Frostmaw the Mountain Terror (Thick Leather, Mountain Peak Bag, Elixir of the Beast)",
     "region": "Mountain Terror",
     "category": [
@@ -972,15 +724,6 @@
     "region": "Mountain Terror",
     "category": [
       "Act 2 Bosses"
-    ],
-    "requires": "|Level 53-55|"
-  },
-  {
-    "name": "Frostmaw the Mountain Terror (Lost Soul)",
-    "region": "Mountain Terror",
-    "category": [
-      "Act 2 Bosses",
-      "LostSouls"
     ],
     "requires": "|Level 53-55|"
   },
@@ -1017,15 +760,6 @@
     "requires": "|Level 53-55|"
   },
   {
-    "name": "Gaius the Cursed Champion (Lost Soul)",
-    "region": "Cursed Champion",
-    "category": [
-      "Act 2 Bosses",
-      "LostSouls"
-    ],
-    "requires": "|Level 53-55|"
-  },
-  {
     "name": "General Cassius the Betrayer (Stygian Summoning Circle, Elixir of the Bat)",
     "region": "The Betrayer",
     "category": [
@@ -1038,15 +772,6 @@
     "region": "The Betrayer",
     "category": [
       "Act 2 Bosses"
-    ],
-    "requires": "|Level 56-59|"
-  },
-  {
-    "name": "General Cassius the Betrayer (Lost Soul)",
-    "region": "The Betrayer",
-    "category": [
-      "Act 2 Bosses",
-      "LostSouls"
     ],
     "requires": "|Level 56-59|"
   },
@@ -1075,15 +800,6 @@
     "requires": "|Level 56-59|"
   },
   {
-    "name": "Jade the Vampire Hunter (Lost Soul)",
-    "region": "Jade",
-    "category": [
-      "Act 2 Bosses",
-      "LostSouls"
-    ],
-    "requires": "|Level 56-59|"
-  },
-  {
     "name": "Raziel the Shepherd (Jewelcrafting Table)",
     "region": "Shepherd",
     "category": [
@@ -1104,15 +820,6 @@
     "region": "Shepherd",
     "category": [
       "Act 2 Bosses"
-    ],
-    "requires": "|Level 56-59| AND |Holy Resistance Potion|"
-  },
-  {
-    "name": "Raziel the Shepherd (Lost Soul)",
-    "region": "Shepherd",
-    "category": [
-      "Act 2 Bosses",
-      "LostSouls"
     ],
     "requires": "|Level 56-59| AND |Holy Resistance Potion|"
   },
@@ -1150,15 +857,6 @@
     "requires": "|Level 61|"
   },
   {
-    "name": "Octavian the Militia Captain (Lost Soul)",
-    "region": "Militia Captain",
-    "category": [
-      "Act 2 Bosses",
-      "LostSouls"
-    ],
-    "requires": "|Level 61|"
-  },
-  {
     "name": "Ziva the Engineer (Fabricator, Radium Alloy, Sludge-Filled Canister, Yellow Castle Teleporter)",
     "region": "Engineer",
     "category": [
@@ -1171,15 +869,6 @@
     "region": "Engineer",
     "category": [
       "Act 3 Bosses"
-    ],
-    "requires": "|Level 61|"
-  },
-  {
-    "name": "Ziva the Engineer (Lost Soul)",
-    "region": "Engineer",
-    "category": [
-      "Act 3 Bosses",
-      "LostSouls"
     ],
     "requires": "|Level 61|"
   },
@@ -1204,15 +893,6 @@
     "region": "Blade Dancer",
     "category": [
       "Act 3 Bosses"
-    ],
-    "requires": "|Level 61|"
-  },
-  {
-    "name": "Domina the Blade Dancer (Lost Soul)",
-    "region": "Blade Dancer",
-    "category": [
-      "Act 3 Bosses",
-      "LostSouls"
     ],
     "requires": "|Level 61|"
   },
@@ -1249,15 +929,6 @@
     "requires": "|Level 64|"
   },
   {
-    "name": "Angram the Purifier (Lost Soul)",
-    "region": "Purifier",
-    "category": [
-      "Act 3 Bosses",
-      "LostSouls"
-    ],
-    "requires": "|Level 64|"
-  },
-  {
     "name": "Ungora the Spider Queen (Silk, Spiderling, Spider Form)",
     "region": "Spider Queen",
     "category": [
@@ -1270,15 +941,6 @@
     "region": "Spider Queen",
     "category": [
       "Act 3 Bosses"
-    ],
-    "requires": "|Level 64|"
-  },
-  {
-    "name": "Ungora the Spider Queen (Lost Soul)",
-    "region": "Spider Queen",
-    "category": [
-      "Act 3 Bosses",
-      "LostSouls"
     ],
     "requires": "|Level 64|"
   },
@@ -1299,15 +961,6 @@
     "requires": "|Level 64|"
   },
   {
-    "name": "Ben the Old Wanderer (Lost Soul)",
-    "region": "Old Wanderer",
-    "category": [
-      "Act 3 Bosses",
-      "LostSouls"
-    ],
-    "requires": "|Level 64|"
-  },
-  {
     "name": "Foulrot the Soultaker (Spectral Dust, Banshee)",
     "region": "Soultaker",
     "category": [
@@ -1324,15 +977,6 @@
     "requires": "|Level 64|"
   },
   {
-    "name": "Foulrot the Soultaker (Lost Soul)",
-    "region": "Soultaker",
-    "category": [
-      "Act 3 Bosses",
-      "LostSouls"
-    ],
-    "requires": "|Level 64|"
-  },
-  {
     "name": "Albert the Duke of Balaton (Toad Form, Chess Table)",
     "region": "Duke of Balaton",
     "category": [
@@ -1345,15 +989,6 @@
     "region": "Duke of Balaton",
     "category": [
       "Act 3 Bosses"
-    ],
-    "requires": "|Level 67|"
-  },
-  {
-    "name": "Albert the Duke of Balaton (Lost Soul)",
-    "region": "Duke of Balaton",
-    "category": [
-      "Act 3 Bosses",
-      "LostSouls"
     ],
     "requires": "|Level 67|"
   },
@@ -1382,15 +1017,6 @@
     "requires": "|Level 67|"
   },
   {
-    "name": "Willfred the Werewolf Chief (Lost Soul)",
-    "region": "Werewolf Chief",
-    "category": [
-      "Act 3 Bosses",
-      "LostSouls"
-    ],
-    "requires": "|Level 67|"
-  },
-  {
     "name": "Cyril the Cursed Smith (Dark Silver Ingot, Anvil, Advanced Furnace)",
     "region": "Cursed Smith",
     "victory": true,
@@ -1404,15 +1030,6 @@
     "region": "Cursed Smith",
     "category": [
       "Act 3 Bosses"
-    ],
-    "requires": "|Level 67|"
-  },
-  {
-    "name": "Cyril the Cursed Smith (Lost Soul)",
-    "region": "Cursed Smith",
-    "category": [
-      "Act 3 Bosses",
-      "LostSouls"
     ],
     "requires": "|Level 67|"
   },
@@ -1437,15 +1054,6 @@
     "region": "Overseer",
     "category": [
       "Act 4 Bosses"
-    ],
-    "requires": "|Level 67|"
-  },
-  {
-    "name": "Sir Magnus the Overseer (Lost Soul)",
-    "region": "Overseer",
-    "category": [
-      "Act 4 Bosses",
-      "LostSouls"
     ],
     "requires": "|Level 67|"
   },
@@ -1490,15 +1098,6 @@
     "requires": "|Level 70|"
   },
   {
-    "name": "Baron du Bouchon the Sommelier (Lost Soul)",
-    "region": "Sommelier",
-    "category": [
-      "Act 4 Bosses",
-      "LostSouls"
-    ],
-    "requires": "|Level 70|"
-  },
-  {
     "name": "Morian the Stormwing Matriarch (Flawless Gems)",
     "region": "Stormwing Matriarch",
     "category": [
@@ -1511,15 +1110,6 @@
     "region": "Stormwing Matriarch",
     "category": [
       "Act 4 Bosses"
-    ],
-    "requires": "|Level 70|"
-  },
-  {
-    "name": "Morian the Stormwing Matriarch (Lost Soul)",
-    "region": "Stormwing Matriarch",
-    "category": [
-      "Act 4 Bosses",
-      "LostSouls"
     ],
     "requires": "|Level 70|"
   },
@@ -1556,15 +1146,6 @@
     "requires": "|Level 70|"
   },
   {
-    "name": "Mairwyn the Elementalist (Lost Soul)",
-    "region": "Elementalist",
-    "category": [
-      "Act 4 Bosses",
-      "LostSouls"
-    ],
-    "requires": "|Level 70|"
-  },
-  {
     "name": "Henry Blackbrew the Doctor (Athenaeum, Schematic, Redistribution Engine, Luminescent Mushroom Terrarium)",
     "region": "Doctor",
     "category": [
@@ -1577,15 +1158,6 @@
     "region": "Doctor",
     "category": [
       "Act 4 Bosses"
-    ],
-    "requires": "|Level 73-75|"
-  },
-  {
-    "name": "Henry Blackbrew the Doctor (Lost Soul)",
-    "region": "Doctor",
-    "category": [
-      "Act 4 Bosses",
-      "LostSouls"
     ],
     "requires": "|Level 73-75|"
   },
@@ -1614,15 +1186,6 @@
     "requires": "|Level 76-79|"
   },
   {
-    "name": "Jakira the Shadow Huntress (Lost Soul)",
-    "region": "Shadow Huntress",
-    "category": [
-      "Act 4 Bosses",
-      "LostSouls"
-    ],
-    "requires": "|Level 76-79|"
-  },
-  {
     "name": "Stavros the Carver (Advanced Sawmill, Purple Castle Teleporter)",
     "region": "Carver",
     "category": [
@@ -1647,15 +1210,6 @@
     "requires": "|Level 76-79|"
   },
   {
-    "name": "Stavros the Carver (Lost Soul)",
-    "region": "Carver",
-    "category": [
-      "Act 4 Bosses",
-      "LostSouls"
-    ],
-    "requires": "|Level 76-79|"
-  },
-  {
     "name": "Lucile the Venom Alchemist (Blood Homogenizer, Stand with Boiling Flask and Burner)",
     "region": "Venom Alchemist",
     "category": [
@@ -1668,15 +1222,6 @@
     "region": "Venom Alchemist",
     "category": [
       "Act 4 Bosses"
-    ],
-    "requires": "|Level 76-79|"
-  },
-  {
-    "name": "Lucile the Venom Alchemist (Lost Soul)",
-    "region": "Venom Alchemist",
-    "category": [
-      "Act 4 Bosses",
-      "LostSouls"
     ],
     "requires": "|Level 76-79|"
   },
@@ -1697,15 +1242,6 @@
     "requires": "|Level 76-79|"
   },
   {
-    "name": "Matka the Curse Weaver (Lost Soul)",
-    "region": "Curse Weaver",
-    "category": [
-      "Act 4 Bosses",
-      "LostSouls"
-    ],
-    "requires": "|Level 76-79|"
-  },
-  {
     "name": "Terrorclaw the Ogre (Advanced Tannery)",
     "region": "Ogre",
     "category": [
@@ -1718,15 +1254,6 @@
     "region": "Ogre",
     "category": [
       "Act 4 Bosses"
-    ],
-    "requires": "|Level 76-79|"
-  },
-  {
-    "name": "Terrorclaw the Ogre (Lost Soul)",
-    "region": "Ogre",
-    "category": [
-      "Act 4 Bosses",
-      "LostSouls"
     ],
     "requires": "|Level 76-79|"
   },
@@ -1755,15 +1282,6 @@
     "requires": "|Level 81| AND |Holy Resistance Flask|"
   },
   {
-    "name": "Azariel the Sunbringer (Lost Soul)",
-    "region": "Sunbringer",
-    "category": [
-      "Act 4 Bosses",
-      "LostSouls"
-    ],
-    "requires": "|Level 81| AND |Holy Resistance Flask|"
-  },
-  {
     "name": "Voltatia the Power Master (Power Core, EMP, Blue Castle Teleporter)",
     "region": "Power Master",
     "category": [
@@ -1780,28 +1298,10 @@
     "requires": "|Level 81|"
   },
   {
-    "name": "Voltatia the Power Master (Lost Soul)",
-    "region": "Power Master",
-    "category": [
-      "Act 4 Bosses",
-      "LostSouls"
-    ],
-    "requires": "|Level 81|"
-  },
-  {
     "name": "Simon Belmont the Vampire Hunter (Sanguine Whip)",
     "region": "Simon Belmont",
     "category": [
       "Act 4 Bosses"
-    ],
-    "requires": "|Level 81|"
-  },
-  {
-    "name": "Simon Belmont the Vampire Hunter (Lost Soul)",
-    "region": "Simon Belmont",
-    "category": [
-      "Act 4 Bosses",
-      "LostSouls"
     ],
     "requires": "|Level 81|"
   },
@@ -1822,28 +1322,10 @@
     "requires": "|Level 83|"
   },
   {
-    "name": "Dantos the Forgebinder (Lost Soul)",
-    "region": "Forgebinder",
-    "category": [
-      "Act 4 Bosses",
-      "LostSouls"
-    ],
-    "requires": "|Level 83|"
-  },
-  {
     "name": "Lord Styx the Night Champion (Bat Form, Onyx Tear, Blood Key)",
     "region": "Night Champion",
     "category": [
       "Act 4 Bosses"
-    ],
-    "requires": "|Level 83|"
-  },
-  {
-    "name": "Lord Styx the Night Champion (Lost Soul)",
-    "region": "Night Champion",
-    "category": [
-      "Act 4 Bosses",
-      "LostSouls"
     ],
     "requires": "|Level 83|"
   },
@@ -1872,15 +1354,6 @@
     "requires": "|Level 85|"
   },
   {
-    "name": "General Valencia the Depraved (Lost Soul)",
-    "region": "The Depraved",
-    "category": [
-      "Act 4 Bosses",
-      "LostSouls"
-    ],
-    "requires": "|Level 85|"
-  },
-  {
     "name": "Gorecrusher the Behemoth (Bat Leather, Bat Leather Bag)",
     "region": "Behemoth",
     "category": [
@@ -1893,15 +1366,6 @@
     "region": "Behemoth",
     "category": [
       "Act 4 Bosses"
-    ],
-    "requires": "|Level 85|"
-  },
-  {
-    "name": "Gorecrusher the Behemoth (Lost Soul)",
-    "region": "Behemoth",
-    "category": [
-      "Act 4 Bosses",
-      "LostSouls"
     ],
     "requires": "|Level 85|"
   },
@@ -1923,15 +1387,6 @@
     "requires": "|Holy Resistance Flask| AND |Level 85|"
   },
   {
-    "name": "Solarus the Immaculate (Lost Soul)",
-    "region": "The Immaculate",
-    "category": [
-      "Act 4 Bosses",
-      "LostSouls"
-    ],
-    "requires": "|Holy Resistance Flask| AND |Level 85|"
-  },
-  {
     "name": "Talzur the Winged Horror (Pedestal of the Winged Horror)",
     "region": "Winged Horror",
     "victory": true,
@@ -1945,15 +1400,6 @@
     "region": "Winged Horror",
     "category": [
       "Act 4 Bosses"
-    ],
-    "requires": "|Level 85|"
-  },
-  {
-    "name": "Talzur the Winged Horror (Lost Soul)",
-    "region": "Winged Horror",
-    "category": [
-      "Act 4 Bosses",
-      "LostSouls"
     ],
     "requires": "|Level 85|"
   },
@@ -1975,15 +1421,6 @@
     "requires": "|Level 85| AND (|Dracula Tier 1| OR |Dracula Tier 2|)"
   },
   {
-    "name": "Adam the Firstborn (Lost Soul)",
-    "region": "Firstborn",
-    "category": [
-      "Act 4 Bosses",
-      "LostSouls"
-    ],
-    "requires": "|Level 85| AND (|Dracula Tier 1| OR |Dracula Tier 2|)"
-  },
-  {
     "name": "Megara the Serpent Queen (Pedestal of the Serpent)",
     "region": "Serpent Queen",
     "victory": true,
@@ -2001,15 +1438,6 @@
     "requires": "|Level 85| AND (|Dracula Tier 1| OR |Dracula Tier 2|)"
   },
   {
-    "name": "Megara the Serpent Queen (Lost Soul)",
-    "region": "Serpent Queen",
-    "category": [
-      "Act 4 Bosses",
-      "LostSouls"
-    ],
-    "requires": "|Level 85| AND (|Dracula Tier 1| OR |Dracula Tier 2|)"
-  },
-  {
     "name": "Dracula the Immortal King (Pedestal of Dracula)",
     "region": "Immortal King",
     "victory": true,
@@ -2020,22 +1448,13 @@
     "requires": "|Blood Key| AND |Dracula Tier 1| AND |Dracula Tier 2| AND |Level 85|"
   },
   {
-    "name": "Dracula the Immortal King (Lost Soul)",
-    "region": "Immortal King",
-    "category": [
-      "Act 4 Bosses",
-      "LostSouls"
-    ],
-    "requires": "|Blood Key| AND |Dracula Tier 1| AND |Dracula Tier 2|"
-  },
-  {
     "name": "Research Desk - Learn Brew of Ferocity",
     "region": "Research Desk",
     "category": [
       "Knowledge - Research Desk",
       "MoreKnowledge"
     ],
-    "requires": ""
+    "requires": "|Paper Press|"
   },
   {
     "name": "Research Desk - Learn Enchanted Brew",
@@ -2044,7 +1463,7 @@
       "Knowledge - Research Desk",
       "MoreKnowledge"
     ],
-    "requires": ""
+    "requires": "|Paper Press|"
   },
   {
     "name": "Research Desk - Learn Blood Rose Brew",
@@ -2053,7 +1472,7 @@
       "Knowledge - Research Desk",
       "MoreKnowledge"
     ],
-    "requires": ""
+    "requires": "|Paper Press|"
   },
   {
     "name": "Research Desk - Learn Minor Sun Resistance Brew",
@@ -2062,7 +1481,7 @@
       "Knowledge - Research Desk",
       "MoreKnowledge"
     ],
-    "requires": ""
+    "requires": "|Paper Press|"
   },
   {
     "name": "Research Desk - Learn Silver Resistance Brew",
@@ -2071,7 +1490,7 @@
       "Knowledge - Research Desk",
       "MoreKnowledge"
     ],
-    "requires": ""
+    "requires": "|Paper Press|"
   },
   {
     "name": "Research Desk - Learn Ring of the Warrior",
@@ -2079,7 +1498,7 @@
     "category": [
       "Knowledge - Research Desk"
     ],
-    "requires": ""
+    "requires": "|Paper Press|"
   },
   {
     "name": "Research Desk - Learn Ring of the Warlock",
@@ -2087,7 +1506,7 @@
     "category": [
       "Knowledge - Research Desk"
     ],
-    "requires": ""
+    "requires": "|Paper Press|"
   },
   {
     "name": "Research Desk - Learn Ring of the Sorcerer",
@@ -2095,7 +1514,7 @@
     "category": [
       "Knowledge - Research Desk"
     ],
-    "requires": ""
+    "requires": "|Paper Press|"
   },
   {
     "name": "Research Desk - Learn Ring of the Dawnrunner",
@@ -2103,7 +1522,7 @@
     "category": [
       "Knowledge - Research Desk"
     ],
-    "requires": ""
+    "requires": "|Paper Press|"
   },
   {
     "name": "Research Desk - Learn Ring of the Spellweaver",
@@ -2111,7 +1530,7 @@
     "category": [
       "Knowledge - Research Desk"
     ],
-    "requires": ""
+    "requires": "|Paper Press|"
   },
   {
     "name": "Research Desk - Learn Ring of the Duskwatcher",
@@ -2119,7 +1538,7 @@
     "category": [
       "Knowledge - Research Desk"
     ],
-    "requires": ""
+    "requires": "|Paper Press|"
   },
   {
     "name": "Research Desk - Learn Merciless Copper Sword",
@@ -2127,7 +1546,7 @@
     "category": [
       "Knowledge - Research Desk"
     ],
-    "requires": ""
+    "requires": "|Paper Press|"
   },
   {
     "name": "Research Desk - Learn Merciless Copper Axes",
@@ -2135,7 +1554,7 @@
     "category": [
       "Knowledge - Research Desk"
     ],
-    "requires": ""
+    "requires": "|Paper Press|"
   },
   {
     "name": "Research Desk - Learn Merciless Copper Mace",
@@ -2143,7 +1562,7 @@
     "category": [
       "Knowledge - Research Desk"
     ],
-    "requires": ""
+    "requires": "|Paper Press|"
   },
   {
     "name": "Research Desk - Learn Merciless Copper Spear",
@@ -2151,7 +1570,7 @@
     "category": [
       "Knowledge - Research Desk"
     ],
-    "requires": ""
+    "requires": "|Paper Press|"
   },
   {
     "name": "Research Desk - Learn Merciless Copper Crossbow",
@@ -2159,7 +1578,7 @@
     "category": [
       "Knowledge - Research Desk"
     ],
-    "requires": ""
+    "requires": "|Paper Press|"
   },
   {
     "name": "Research Desk - Learn Merciless Copper Longbow",
@@ -2167,7 +1586,7 @@
     "category": [
       "Knowledge - Research Desk"
     ],
-    "requires": ""
+    "requires": "|Paper Press|"
   },
   {
     "name": "Research Desk - Learn Shadewalker Vest",
@@ -2175,7 +1594,7 @@
     "category": [
       "Knowledge - Research Desk"
     ],
-    "requires": ""
+    "requires": "|Paper Press|"
   },
   {
     "name": "Research Desk - Learn Shadewalker Leggings",
@@ -2183,7 +1602,7 @@
     "category": [
       "Knowledge - Research Desk"
     ],
-    "requires": ""
+    "requires": "|Paper Press|"
   },
   {
     "name": "Research Desk - Learn Shadewalker Gloves",
@@ -2191,7 +1610,7 @@
     "category": [
       "Knowledge - Research Desk"
     ],
-    "requires": ""
+    "requires": "|Paper Press|"
   },
   {
     "name": "Research Desk - Learn Shadewalker Boots",
@@ -2199,7 +1618,7 @@
     "category": [
       "Knowledge - Research Desk"
     ],
-    "requires": ""
+    "requires": "|Paper Press|"
   },
   {
     "name": "Research Desk - Learn Marauder Vest",
@@ -2207,7 +1626,7 @@
     "category": [
       "Knowledge - Research Desk"
     ],
-    "requires": ""
+    "requires": "|Paper Press|"
   },
   {
     "name": "Research Desk - Learn Marauder Leggings",
@@ -2215,7 +1634,7 @@
     "category": [
       "Knowledge - Research Desk"
     ],
-    "requires": ""
+    "requires": "|Paper Press|"
   },
   {
     "name": "Research Desk - Learn Marauder Gloves",
@@ -2223,7 +1642,7 @@
     "category": [
       "Knowledge - Research Desk"
     ],
-    "requires": ""
+    "requires": "|Paper Press|"
   },
   {
     "name": "Research Desk - Learn Marauder Boots",
@@ -2231,7 +1650,7 @@
     "category": [
       "Knowledge - Research Desk"
     ],
-    "requires": ""
+    "requires": "|Paper Press|"
   },
   {
     "name": "Research Desk - Learn Grim Ranger Vest",
@@ -2239,7 +1658,7 @@
     "category": [
       "Knowledge - Research Desk"
     ],
-    "requires": ""
+    "requires": "|Paper Press|"
   },
   {
     "name": "Research Desk - Learn Grim Ranger Leggings",
@@ -2247,7 +1666,7 @@
     "category": [
       "Knowledge - Research Desk"
     ],
-    "requires": ""
+    "requires": "|Paper Press|"
   },
   {
     "name": "Research Desk - Learn Grim Ranger Gloves",
@@ -2255,7 +1674,7 @@
     "category": [
       "Knowledge - Research Desk"
     ],
-    "requires": ""
+    "requires": "|Paper Press|"
   },
   {
     "name": "Research Desk - Learn Grim Ranger Boots",
@@ -2263,7 +1682,7 @@
     "category": [
       "Knowledge - Research Desk"
     ],
-    "requires": ""
+    "requires": "|Paper Press|"
   },
   {
     "name": "Research Desk - Learn Warlock Vest",
@@ -2271,7 +1690,7 @@
     "category": [
       "Knowledge - Research Desk"
     ],
-    "requires": ""
+    "requires": "|Paper Press|"
   },
   {
     "name": "Research Desk - Learn Warlock Leggings",
@@ -2279,7 +1698,7 @@
     "category": [
       "Knowledge - Research Desk"
     ],
-    "requires": ""
+    "requires": "|Paper Press|"
   },
   {
     "name": "Research Desk - Learn Warlock Gloves",
@@ -2287,7 +1706,7 @@
     "category": [
       "Knowledge - Research Desk"
     ],
-    "requires": ""
+    "requires": "|Paper Press|"
   },
   {
     "name": "Research Desk - Learn Warlock Boots",
@@ -2295,7 +1714,7 @@
     "category": [
       "Knowledge - Research Desk"
     ],
-    "requires": ""
+    "requires": "|Paper Press|"
   },
   {
     "name": "Research Desk - Learn Forge Flooring",
@@ -2304,7 +1723,7 @@
       "Knowledge - Research Desk",
       "MoreKnowledge"
     ],
-    "requires": ""
+    "requires": "|Paper Press|"
   },
   {
     "name": "Research Desk - Learn Alchemy Lab Flooring",
@@ -2313,7 +1732,7 @@
       "Knowledge - Research Desk",
       "MoreKnowledge"
     ],
-    "requires": ""
+    "requires": "|Paper Press|"
   },
   {
     "name": "Research Desk - Learn Water Well",
@@ -2322,7 +1741,7 @@
       "Knowledge - Research Desk",
       "MoreKnowledge"
     ],
-    "requires": ""
+    "requires": "|Paper Press|"
   },
   {
     "name": "Research Desk - Learn Gravel Paths",
@@ -2331,7 +1750,7 @@
       "Knowledge - Research Desk",
       "MoreKnowledge"
     ],
-    "requires": ""
+    "requires": "|Paper Press|"
   },
   {
     "name": "Research Desk - Learn Assortment of fine Paintings",
@@ -2340,7 +1759,7 @@
       "Knowledge - Research Desk",
       "MoreKnowledge"
     ],
-    "requires": ""
+    "requires": "|Paper Press|"
   },
   {
     "name": "Research Desk - Learn Vases and Plants",
@@ -2349,7 +1768,7 @@
       "Knowledge - Research Desk",
       "MoreKnowledge"
     ],
-    "requires": ""
+    "requires": "|Paper Press|"
   },
   {
     "name": "Research Desk - Learn Stone Ornaments",
@@ -2358,7 +1777,7 @@
       "Knowledge - Research Desk",
       "MoreKnowledge"
     ],
-    "requires": ""
+    "requires": "|Paper Press|"
   },
   {
     "name": "Research Desk - Learn Assortment of Windows",
@@ -2367,7 +1786,7 @@
       "Knowledge - Research Desk",
       "MoreKnowledge"
     ],
-    "requires": ""
+    "requires": "|Paper Press|"
   },
   {
     "name": "Research Desk - Learn Simple Garden Planters",
@@ -2376,7 +1795,7 @@
       "Knowledge - Research Desk",
       "MoreKnowledge"
     ],
-    "requires": ""
+    "requires": "|Paper Press|"
   },
   {
     "name": "Research Desk - Learn Simple Carpets",
@@ -2385,7 +1804,7 @@
       "Knowledge - Research Desk",
       "MoreKnowledge"
     ],
-    "requires": ""
+    "requires": "|Paper Press|"
   },
   {
     "name": "Research Desk - Learn Hearth Wall Panels",
@@ -2394,7 +1813,7 @@
       "Knowledge - Research Desk",
       "MoreKnowledge"
     ],
-    "requires": ""
+    "requires": "|Paper Press|"
   },
   {
     "name": "Research Desk - Learn Decorative Stone Walls",
@@ -2403,7 +1822,7 @@
       "Knowledge - Research Desk",
       "MoreKnowledge"
     ],
-    "requires": ""
+    "requires": "|Paper Press|"
   },
   {
     "name": "Study - Learn Fire Resistance Brew",
@@ -2412,7 +1831,7 @@
       "Knowledge - Study",
       "MoreKnowledge"
     ],
-    "requires": "|Maja the Dark Savant (Study, Scroll)| AND |Level 53-55|"
+    "requires": "|Study|"
   },
   {
     "name": "Study - Learn Wrangler's Potion",
@@ -2421,7 +1840,7 @@
       "Knowledge - Study",
       "MoreKnowledge"
     ],
-    "requires": "|Maja the Dark Savant (Study, Scroll)| AND |Level 53-55|"
+    "requires": "|Study|"
   },
   {
     "name": "Study - Learn Garlic Resistance Potion",
@@ -2430,7 +1849,7 @@
       "Knowledge - Study",
       "MoreKnowledge"
     ],
-    "requires": "|Maja the Dark Savant (Study, Scroll)| AND |Level 53-55|"
+    "requires": "|Study|"
   },
   {
     "name": "Study - Learn Pendant of the Warrior",
@@ -2438,7 +1857,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Maja the Dark Savant (Study, Scroll)| AND |Level 53-55|"
+    "requires": "|Study|"
   },
   {
     "name": "Study - Learn Pendant of the Sorcerer",
@@ -2446,7 +1865,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Maja the Dark Savant (Study, Scroll)| AND |Level 53-55|"
+    "requires": "|Study|"
   },
   {
     "name": "Study - Learn Pendant of the Dawnrunner",
@@ -2454,7 +1873,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Maja the Dark Savant (Study, Scroll)| AND |Level 53-55|"
+    "requires": "|Study|"
   },
   {
     "name": "Study - Learn Pendant of the Spellweaver",
@@ -2462,7 +1881,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Maja the Dark Savant (Study, Scroll)| AND |Level 53-55|"
+    "requires": "|Study|"
   },
   {
     "name": "Study - Learn Pendant of the Warlock",
@@ -2470,7 +1889,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Maja the Dark Savant (Study, Scroll)| AND |Level 53-55|"
+    "requires": "|Study|"
   },
   {
     "name": "Study - Learn Pendant of the Duskwatcher",
@@ -2478,7 +1897,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Maja the Dark Savant (Study, Scroll)| AND |Level 53-55|"
+    "requires": "|Study|"
   },
   {
     "name": "Study - Learn Merciless Iron Sword",
@@ -2486,7 +1905,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Maja the Dark Savant (Study, Scroll)| AND |Level 53-55|"
+    "requires": "|Study|"
   },
   {
     "name": "Study - Learn Merciless Iron Axes",
@@ -2494,7 +1913,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Maja the Dark Savant (Study, Scroll)| AND |Level 53-55|"
+    "requires": "|Study|"
   },
   {
     "name": "Study - Learn Merciless Iron Mace",
@@ -2502,7 +1921,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Maja the Dark Savant (Study, Scroll)| AND |Level 53-55|"
+    "requires": "|Study|"
   },
   {
     "name": "Study - Learn Merciless Iron Spear",
@@ -2510,7 +1929,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Maja the Dark Savant (Study, Scroll)| AND |Level 53-55|"
+    "requires": "|Study|"
   },
   {
     "name": "Study - Learn Merciless Iron Reaper",
@@ -2518,7 +1937,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Maja the Dark Savant (Study, Scroll)| AND |Level 53-55|"
+    "requires": "|Study|"
   },
   {
     "name": "Study - Learn Merciless Iron Crossbow",
@@ -2526,7 +1945,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Maja the Dark Savant (Study, Scroll)| AND |Level 53-55|"
+    "requires": "|Study|"
   },
   {
     "name": "Study - Learn Merciless Iron Longbow",
@@ -2534,7 +1953,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Maja the Dark Savant (Study, Scroll)| AND |Level 53-55|"
+    "requires": "|Study|"
   },
   {
     "name": "Study - Learn Merciless Iron Greatsword",
@@ -2542,7 +1961,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Maja the Dark Savant (Study, Scroll)| AND |Level 53-55|"
+    "requires": "|Study|"
   },
   {
     "name": "Study - Learn Merciless Iron Daggers",
@@ -2550,7 +1969,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Maja the Dark Savant (Study, Scroll)| AND |Level 53-55|"
+    "requires": "|Study|"
   },
   {
     "name": "Study - Learn Merciless Iron Twinblade",
@@ -2558,7 +1977,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Maja the Dark Savant (Study, Scroll)| AND |Level 53-55|"
+    "requires": "|Study|"
   },
   {
     "name": "Study - Learn Merciless Iron Claws",
@@ -2566,7 +1985,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Maja the Dark Savant (Study, Scroll)| AND |Level 53-55|"
+    "requires": "|Study|"
   },
   {
     "name": "Study - Learn Merciless Iron Pistols",
@@ -2574,7 +1993,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Maja the Dark Savant (Study, Scroll)| AND |Level 53-55|"
+    "requires": "|Study|"
   },
   {
     "name": "Study - Learn Merciless Iron Slashers",
@@ -2583,7 +2002,7 @@
       "Knowledge - Study",
       "Act4"
     ],
-    "requires": "|Maja the Dark Savant (Study, Scroll)| AND |Level 53-55|"
+    "requires": "|Study|"
   },
   {
     "name": "Study - Learn Merciless Iron Whip",
@@ -2592,7 +2011,7 @@
       "Knowledge - Study",
       "Act3"
     ],
-    "requires": "|Maja the Dark Savant (Study, Scroll)| AND |Level 53-55|"
+    "requires": "|Study|"
   },
   {
     "name": "Study - Learn Duskwatcher Chestguard",
@@ -2600,7 +2019,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Maja the Dark Savant (Study, Scroll)| AND |Level 53-55|"
+    "requires": "|Study|"
   },
   {
     "name": "Study - Learn Duskwatcher Leggings",
@@ -2608,7 +2027,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Maja the Dark Savant (Study, Scroll)| AND |Level 53-55|"
+    "requires": "|Study|"
   },
   {
     "name": "Study - Learn Duskwatcher Boots",
@@ -2616,7 +2035,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Maja the Dark Savant (Study, Scroll)| AND |Level 53-55|"
+    "requires": "|Study|"
   },
   {
     "name": "Study - Learn Duskwatcher Gloves",
@@ -2624,7 +2043,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Maja the Dark Savant (Study, Scroll)| AND |Level 53-55|"
+    "requires": "|Study|"
   },
   {
     "name": "Study - Learn Crimson Templar Chestguard",
@@ -2632,7 +2051,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Maja the Dark Savant (Study, Scroll)| AND |Level 53-55|"
+    "requires": "|Study|"
   },
   {
     "name": "Study - Learn Crimson Templar Leggings",
@@ -2640,7 +2059,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Maja the Dark Savant (Study, Scroll)| AND |Level 53-55|"
+    "requires": "|Study|"
   },
   {
     "name": "Study - Learn Crimson Templar Boots",
@@ -2648,7 +2067,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Maja the Dark Savant (Study, Scroll)| AND |Level 53-55|"
+    "requires": "|Study|"
   },
   {
     "name": "Study - Learn Crimson Templar Gloves",
@@ -2656,7 +2075,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Maja the Dark Savant (Study, Scroll)| AND |Level 53-55|"
+    "requires": "|Study|"
   },
   {
     "name": "Study - Learn Blood Hunter Chestguard",
@@ -2664,7 +2083,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Maja the Dark Savant (Study, Scroll)| AND |Level 53-55|"
+    "requires": "|Study|"
   },
   {
     "name": "Study - Learn Blood Hunter Leggings",
@@ -2672,7 +2091,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Maja the Dark Savant (Study, Scroll)| AND |Level 53-55|"
+    "requires": "|Study|"
   },
   {
     "name": "Study - Learn Blood Hunter Boots",
@@ -2680,7 +2099,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Maja the Dark Savant (Study, Scroll)| AND |Level 53-55|"
+    "requires": "|Study|"
   },
   {
     "name": "Study - Learn Blood Hunter Gloves",
@@ -2688,7 +2107,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Maja the Dark Savant (Study, Scroll)| AND |Level 53-55|"
+    "requires": "|Study|"
   },
   {
     "name": "Study - Learn Dark Magus Chestguard",
@@ -2696,7 +2115,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Maja the Dark Savant (Study, Scroll)| AND |Level 53-55|"
+    "requires": "|Study|"
   },
   {
     "name": "Study - Learn Dark Magus Leggings",
@@ -2704,7 +2123,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Maja the Dark Savant (Study, Scroll)| AND |Level 53-55|"
+    "requires": "|Study|"
   },
   {
     "name": "Study - Learn Dark Magus Boots",
@@ -2712,7 +2131,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Maja the Dark Savant (Study, Scroll)| AND |Level 53-55|"
+    "requires": "|Study|"
   },
   {
     "name": "Study - Learn Dark Magus Gloves",
@@ -2720,7 +2139,7 @@
     "category": [
       "Knowledge - Study"
     ],
-    "requires": "|Maja the Dark Savant (Study, Scroll)| AND |Level 53-55|"
+    "requires": "|Study|"
   },
   {
     "name": "Study - Learn Tailor's Flooring",
@@ -2729,7 +2148,7 @@
       "Knowledge - Study",
       "MoreKnowledge"
     ],
-    "requires": "|Maja the Dark Savant (Study, Scroll)| AND |Level 53-55|"
+    "requires": "|Study|"
   },
   {
     "name": "Study - Learn Library Flooring",
@@ -2738,7 +2157,7 @@
       "Knowledge - Study",
       "MoreKnowledge"
     ],
-    "requires": "|Maja the Dark Savant (Study, Scroll)| AND |Level 53-55|"
+    "requires": "|Study|"
   },
   {
     "name": "Study - Learn Assortment of Storage Lockers",
@@ -2747,7 +2166,7 @@
       "Knowledge - Study",
       "MoreKnowledge"
     ],
-    "requires": "|Maja the Dark Savant (Study, Scroll)| AND |Level 53-55|"
+    "requires": "|Study|"
   },
   {
     "name": "Study - Learn Assortment of Fine Braziers",
@@ -2756,7 +2175,7 @@
       "Knowledge - Study",
       "MoreKnowledge"
     ],
-    "requires": "|Maja the Dark Savant (Study, Scroll)| AND |Level 53-55|"
+    "requires": "|Study|"
   },
   {
     "name": "Study - Learn Assortment of Fine Candle Stands",
@@ -2765,7 +2184,7 @@
       "Knowledge - Study",
       "MoreKnowledge"
     ],
-    "requires": "|Maja the Dark Savant (Study, Scroll)| AND |Level 53-55|"
+    "requires": "|Study|"
   },
   {
     "name": "Study - Learn Assortment of Castle Chairs",
@@ -2774,7 +2193,7 @@
       "Knowledge - Study",
       "MoreKnowledge"
     ],
-    "requires": "|Maja the Dark Savant (Study, Scroll)| AND |Level 53-55|"
+    "requires": "|Study|"
   },
   {
     "name": "Study - Learn Fireplaces",
@@ -2783,7 +2202,7 @@
       "Knowledge - Study",
       "MoreKnowledge"
     ],
-    "requires": "|Maja the Dark Savant (Study, Scroll)| AND |Level 53-55|"
+    "requires": "|Study|"
   },
   {
     "name": "Study - Learn Cobblestone Paths",
@@ -2792,7 +2211,7 @@
       "Knowledge - Study",
       "MoreKnowledge"
     ],
-    "requires": "|Maja the Dark Savant (Study, Scroll)| AND |Level 53-55|"
+    "requires": "|Study|"
   },
   {
     "name": "Study - Learn Dux Carpet Collection",
@@ -2801,7 +2220,7 @@
       "Knowledge - Study",
       "MoreKnowledge"
     ],
-    "requires": "|Maja the Dark Savant (Study, Scroll)| AND |Level 53-55|"
+    "requires": "|Study|"
   },
   {
     "name": "Study - Learn Noble Fences & Fountains",
@@ -2810,7 +2229,7 @@
       "Knowledge - Study",
       "MoreKnowledge"
     ],
-    "requires": "|Maja the Dark Savant (Study, Scroll)| AND |Level 53-55|"
+    "requires": "|Study|"
   },
   {
     "name": "Study - Learn Fine Dining Table Collection",
@@ -2819,7 +2238,7 @@
       "Knowledge - Study",
       "MoreKnowledge"
     ],
-    "requires": "|Maja the Dark Savant (Study, Scroll)| AND |Level 53-55|"
+    "requires": "|Study|"
   },
   {
     "name": "Study - Learn Hanging Lanterns",
@@ -2828,7 +2247,7 @@
       "Knowledge - Study",
       "MoreKnowledge"
     ],
-    "requires": "|Maja the Dark Savant (Study, Scroll)| AND |Level 53-55|"
+    "requires": "|Study|"
   },
   {
     "name": "Study - Learn Banners",
@@ -2837,7 +2256,7 @@
       "Knowledge - Study",
       "MoreKnowledge"
     ],
-    "requires": "|Maja the Dark Savant (Study, Scroll)| AND |Level 53-55|"
+    "requires": "|Study|"
   },
   {
     "name": "Study - Learn Modest Garden Planters",
@@ -2846,7 +2265,7 @@
       "Knowledge - Study",
       "MoreKnowledge"
     ],
-    "requires": "|Maja the Dark Savant (Study, Scroll)| AND |Level 53-55|"
+    "requires": "|Study|"
   },
   {
     "name": "Study - Learn Garden Furniture and Lanterns",
@@ -2855,7 +2274,7 @@
       "Knowledge - Study",
       "MoreKnowledge"
     ],
-    "requires": "|Maja the Dark Savant (Study, Scroll)| AND |Level 53-55|"
+    "requires": "|Study|"
   },
   {
     "name": "Study - Learn Prison Walls",
@@ -2864,7 +2283,7 @@
       "Knowledge - Study",
       "MoreKnowledge"
     ],
-    "requires": "|Maja the Dark Savant (Study, Scroll)| AND |Level 53-55|"
+    "requires": "|Study|"
   },
   {
     "name": "Study - Learn Cordial Wall Panels",
@@ -2873,7 +2292,7 @@
       "Knowledge - Study",
       "MoreKnowledge"
     ],
-    "requires": "|Maja the Dark Savant (Study, Scroll)| AND |Level 53-55|"
+    "requires": "|Study|"
   },
   {
     "name": "Study - Learn Assortment of Workshop Decorations",
@@ -2882,7 +2301,7 @@
       "Knowledge - Study",
       "MoreKnowledge"
     ],
-    "requires": "|Maja the Dark Savant (Study, Scroll)| AND |Level 53-55|"
+    "requires": "|Study|"
   },
   {
     "name": "Study - Learn Assortment of Desks",
@@ -2891,7 +2310,7 @@
       "Knowledge - Study",
       "MoreKnowledge"
     ],
-    "requires": "|Maja the Dark Savant (Study, Scroll)| AND |Level 53-55|"
+    "requires": "|Study|"
   },
   {
     "name": "Study - Learn Assortment of Desk Chairs",
@@ -2900,7 +2319,7 @@
       "Knowledge - Study",
       "MoreKnowledge"
     ],
-    "requires": "|Maja the Dark Savant (Study, Scroll)| AND |Level 53-55|"
+    "requires": "|Study|"
   },
   {
     "name": "Athenaeum - Learn Potion of Rage",
@@ -2909,7 +2328,7 @@
       "Knowledge - Athenaeum",
       "MoreKnowledge"
     ],
-    "requires": "|Henry Blackbrew the Doctor (Athenaeum, Schematic, Redistribution Engine, Luminescent Mushroom Terrarium)| AND |Level 70|"
+    "requires": "|Athenaeum|"
   },
   {
     "name": "Athenaeum - Learn Witch Potion",
@@ -2918,7 +2337,7 @@
       "Knowledge - Athenaeum",
       "MoreKnowledge"
     ],
-    "requires": "|Henry Blackbrew the Doctor (Athenaeum, Schematic, Redistribution Engine, Luminescent Mushroom Terrarium)| AND |Level 70|"
+    "requires": "|Athenaeum|"
   },
   {
     "name": "Athenaeum - Learn Amulet of the Crimson Commander",
@@ -2926,7 +2345,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Henry Blackbrew the Doctor (Athenaeum, Schematic, Redistribution Engine, Luminescent Mushroom Terrarium)| AND |Level 70|"
+    "requires": "|Athenaeum|"
   },
   {
     "name": "Athenaeum - Learn Amulet of the Wicked Prophet",
@@ -2934,7 +2353,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Henry Blackbrew the Doctor (Athenaeum, Schematic, Redistribution Engine, Luminescent Mushroom Terrarium)| AND |Level 70|"
+    "requires": "|Athenaeum|"
   },
   {
     "name": "Athenaeum - Learn Amulet of the Unyielding Charger",
@@ -2942,7 +2361,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Henry Blackbrew the Doctor (Athenaeum, Schematic, Redistribution Engine, Luminescent Mushroom Terrarium)| AND |Level 70|"
+    "requires": "|Athenaeum|"
   },
   {
     "name": "Athenaeum - Learn Amulet of the Master Spellweaver",
@@ -2950,7 +2369,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Henry Blackbrew the Doctor (Athenaeum, Schematic, Redistribution Engine, Luminescent Mushroom Terrarium)| AND |Level 70|"
+    "requires": "|Athenaeum|"
   },
   {
     "name": "Athenaeum - Learn Amulet of the Arch-Warlock",
@@ -2958,7 +2377,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Henry Blackbrew the Doctor (Athenaeum, Schematic, Redistribution Engine, Luminescent Mushroom Terrarium)| AND |Level 70|"
+    "requires": "|Athenaeum|"
   },
   {
     "name": "Athenaeum - Learn Amulet of the Blademaster",
@@ -2966,7 +2385,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Henry Blackbrew the Doctor (Athenaeum, Schematic, Redistribution Engine, Luminescent Mushroom Terrarium)| AND |Level 70|"
+    "requires": "|Athenaeum|"
   },
   {
     "name": "Athenaeum - Learn Sanguine Sword",
@@ -2974,7 +2393,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Henry Blackbrew the Doctor (Athenaeum, Schematic, Redistribution Engine, Luminescent Mushroom Terrarium)| AND |Level 70|"
+    "requires": "|Athenaeum|"
   },
   {
     "name": "Athenaeum - Learn Sanguine Axes",
@@ -2982,7 +2401,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Henry Blackbrew the Doctor (Athenaeum, Schematic, Redistribution Engine, Luminescent Mushroom Terrarium)| AND |Level 70|"
+    "requires": "|Athenaeum|"
   },
   {
     "name": "Athenaeum - Learn Sanguine Mace",
@@ -2990,7 +2409,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Henry Blackbrew the Doctor (Athenaeum, Schematic, Redistribution Engine, Luminescent Mushroom Terrarium)| AND |Level 70|"
+    "requires": "|Athenaeum|"
   },
   {
     "name": "Athenaeum - Learn Sanguine Spear",
@@ -2998,7 +2417,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Henry Blackbrew the Doctor (Athenaeum, Schematic, Redistribution Engine, Luminescent Mushroom Terrarium)| AND |Level 70|"
+    "requires": "|Athenaeum|"
   },
   {
     "name": "Athenaeum - Learn Sanguine Crossbow",
@@ -3006,7 +2425,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Henry Blackbrew the Doctor (Athenaeum, Schematic, Redistribution Engine, Luminescent Mushroom Terrarium)| AND |Level 70|"
+    "requires": "|Athenaeum|"
   },
   {
     "name": "Athenaeum - Learn Sanguine Longbow",
@@ -3014,7 +2433,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Henry Blackbrew the Doctor (Athenaeum, Schematic, Redistribution Engine, Luminescent Mushroom Terrarium)| AND |Level 70|"
+    "requires": "|Athenaeum|"
   },
   {
     "name": "Athenaeum - Learn Sanguine Reaper",
@@ -3022,7 +2441,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Henry Blackbrew the Doctor (Athenaeum, Schematic, Redistribution Engine, Luminescent Mushroom Terrarium)| AND |Level 70|"
+    "requires": "|Athenaeum|"
   },
   {
     "name": "Athenaeum - Learn Sanguine Greatsword",
@@ -3030,7 +2449,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Henry Blackbrew the Doctor (Athenaeum, Schematic, Redistribution Engine, Luminescent Mushroom Terrarium)| AND |Level 70|"
+    "requires": "|Athenaeum|"
   },
   {
     "name": "Athenaeum - Learn Sanguine Daggers",
@@ -3038,7 +2457,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Henry Blackbrew the Doctor (Athenaeum, Schematic, Redistribution Engine, Luminescent Mushroom Terrarium)| AND |Level 70|"
+    "requires": "|Athenaeum|"
   },
   {
     "name": "Athenaeum - Learn Sanguine Twinblade",
@@ -3046,7 +2465,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Henry Blackbrew the Doctor (Athenaeum, Schematic, Redistribution Engine, Luminescent Mushroom Terrarium)| AND |Level 70|"
+    "requires": "|Athenaeum|"
   },
   {
     "name": "Athenaeum - Learn Sanguine Claws",
@@ -3054,7 +2473,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Henry Blackbrew the Doctor (Athenaeum, Schematic, Redistribution Engine, Luminescent Mushroom Terrarium)| AND |Level 70|"
+    "requires": "|Athenaeum|"
   },
   {
     "name": "Athenaeum - Learn Sanguine Pistols",
@@ -3062,7 +2481,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Henry Blackbrew the Doctor (Athenaeum, Schematic, Redistribution Engine, Luminescent Mushroom Terrarium)| AND |Level 70|"
+    "requires": "|Athenaeum|"
   },
   {
     "name": "Athenaeum - Learn Sanguine Slashers",
@@ -3070,7 +2489,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Henry Blackbrew the Doctor (Athenaeum, Schematic, Redistribution Engine, Luminescent Mushroom Terrarium)| AND |Level 70|"
+    "requires": "|Athenaeum|"
   },
   {
     "name": "Athenaeum - Learn Shadowmoon Chestguard",
@@ -3078,7 +2497,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Henry Blackbrew the Doctor (Athenaeum, Schematic, Redistribution Engine, Luminescent Mushroom Terrarium)| AND |Level 70|"
+    "requires": "|Athenaeum|"
   },
   {
     "name": "Athenaeum - Learn Shadowmoon Leggings",
@@ -3086,7 +2505,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Henry Blackbrew the Doctor (Athenaeum, Schematic, Redistribution Engine, Luminescent Mushroom Terrarium)| AND |Level 70|"
+    "requires": "|Athenaeum|"
   },
   {
     "name": "Athenaeum - Learn Shadowmoon Gloves",
@@ -3094,7 +2513,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Henry Blackbrew the Doctor (Athenaeum, Schematic, Redistribution Engine, Luminescent Mushroom Terrarium)| AND |Level 70|"
+    "requires": "|Athenaeum|"
   },
   {
     "name": "Athenaeum - Learn Shadowmoon Boots",
@@ -3102,7 +2521,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Henry Blackbrew the Doctor (Athenaeum, Schematic, Redistribution Engine, Luminescent Mushroom Terrarium)| AND |Level 70|"
+    "requires": "|Athenaeum|"
   },
   {
     "name": "Athenaeum - Learn Grim Knight Chestguard",
@@ -3110,7 +2529,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Henry Blackbrew the Doctor (Athenaeum, Schematic, Redistribution Engine, Luminescent Mushroom Terrarium)| AND |Level 70|"
+    "requires": "|Athenaeum|"
   },
   {
     "name": "Athenaeum - Learn Grim Knight Leggings",
@@ -3118,7 +2537,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Henry Blackbrew the Doctor (Athenaeum, Schematic, Redistribution Engine, Luminescent Mushroom Terrarium)| AND |Level 70|"
+    "requires": "|Athenaeum|"
   },
   {
     "name": "Athenaeum - Learn Grim Knight Gloves",
@@ -3126,7 +2545,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Henry Blackbrew the Doctor (Athenaeum, Schematic, Redistribution Engine, Luminescent Mushroom Terrarium)| AND |Level 70|"
+    "requires": "|Athenaeum|"
   },
   {
     "name": "Athenaeum - Learn Grim Knight Boots",
@@ -3134,7 +2553,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Henry Blackbrew the Doctor (Athenaeum, Schematic, Redistribution Engine, Luminescent Mushroom Terrarium)| AND |Level 70|"
+    "requires": "|Athenaeum|"
   },
   {
     "name": "Athenaeum - Learn Dread Plate Chestguard",
@@ -3142,7 +2561,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Henry Blackbrew the Doctor (Athenaeum, Schematic, Redistribution Engine, Luminescent Mushroom Terrarium)| AND |Level 70|"
+    "requires": "|Athenaeum|"
   },
   {
     "name": "Athenaeum - Learn Dread Plate Leggings",
@@ -3150,7 +2569,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Henry Blackbrew the Doctor (Athenaeum, Schematic, Redistribution Engine, Luminescent Mushroom Terrarium)| AND |Level 70|"
+    "requires": "|Athenaeum|"
   },
   {
     "name": "Athenaeum - Learn Dread Plate Gloves",
@@ -3158,7 +2577,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Henry Blackbrew the Doctor (Athenaeum, Schematic, Redistribution Engine, Luminescent Mushroom Terrarium)| AND |Level 70|"
+    "requires": "|Athenaeum|"
   },
   {
     "name": "Athenaeum - Learn Dread Plate Boots",
@@ -3166,7 +2585,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Henry Blackbrew the Doctor (Athenaeum, Schematic, Redistribution Engine, Luminescent Mushroom Terrarium)| AND |Level 70|"
+    "requires": "|Athenaeum|"
   },
   {
     "name": "Athenaeum - Learn Maleficer Scholar Chestguard",
@@ -3174,7 +2593,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Henry Blackbrew the Doctor (Athenaeum, Schematic, Redistribution Engine, Luminescent Mushroom Terrarium)| AND |Level 70|"
+    "requires": "|Athenaeum|"
   },
   {
     "name": "Athenaeum - Learn Maleficer Scholar Leggings",
@@ -3182,7 +2601,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Henry Blackbrew the Doctor (Athenaeum, Schematic, Redistribution Engine, Luminescent Mushroom Terrarium)| AND |Level 70|"
+    "requires": "|Athenaeum|"
   },
   {
     "name": "Athenaeum - Learn Maleficer Scholar Gloves",
@@ -3190,7 +2609,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Henry Blackbrew the Doctor (Athenaeum, Schematic, Redistribution Engine, Luminescent Mushroom Terrarium)| AND |Level 70|"
+    "requires": "|Athenaeum|"
   },
   {
     "name": "Athenaeum - Learn Maleficer Scholar Boots",
@@ -3198,7 +2617,7 @@
     "category": [
       "Knowledge - Athenaeum"
     ],
-    "requires": "|Henry Blackbrew the Doctor (Athenaeum, Schematic, Redistribution Engine, Luminescent Mushroom Terrarium)| AND |Level 70|"
+    "requires": "|Athenaeum|"
   },
   {
     "name": "Athenaeum - Learn Assortment of Cabinets",
@@ -3207,7 +2626,7 @@
       "Knowledge - Athenaeum",
       "MoreKnowledge"
     ],
-    "requires": "|Henry Blackbrew the Doctor (Athenaeum, Schematic, Redistribution Engine, Luminescent Mushroom Terrarium)| AND |Level 70|"
+    "requires": "|Athenaeum|"
   },
   {
     "name": "Athenaeum - Learn Assortment of Great Braziers",
@@ -3216,7 +2635,7 @@
       "Knowledge - Athenaeum",
       "MoreKnowledge"
     ],
-    "requires": "|Henry Blackbrew the Doctor (Athenaeum, Schematic, Redistribution Engine, Luminescent Mushroom Terrarium)| AND |Level 70|"
+    "requires": "|Athenaeum|"
   },
   {
     "name": "Athenaeum - Learn Distinguished Carpet Collection",
@@ -3225,7 +2644,7 @@
       "Knowledge - Athenaeum",
       "MoreKnowledge"
     ],
-    "requires": "|Henry Blackbrew the Doctor (Athenaeum, Schematic, Redistribution Engine, Luminescent Mushroom Terrarium)| AND |Level 70|"
+    "requires": "|Athenaeum|"
   },
   {
     "name": "Athenaeum - Learn Assortment of Royal Curtains",
@@ -3234,7 +2653,7 @@
       "Knowledge - Athenaeum",
       "MoreKnowledge"
     ],
-    "requires": "|Henry Blackbrew the Doctor (Athenaeum, Schematic, Redistribution Engine, Luminescent Mushroom Terrarium)| AND |Level 70|"
+    "requires": "|Athenaeum|"
   },
   {
     "name": "Athenaeum - Learn Sofa & Divan Collection",
@@ -3243,7 +2662,7 @@
       "Knowledge - Athenaeum",
       "MoreKnowledge"
     ],
-    "requires": "|Henry Blackbrew the Doctor (Athenaeum, Schematic, Redistribution Engine, Luminescent Mushroom Terrarium)| AND |Level 70|"
+    "requires": "|Athenaeum|"
   },
   {
     "name": "Athenaeum - Learn Dressing Tables & Folding Walls",
@@ -3252,7 +2671,7 @@
       "Knowledge - Athenaeum",
       "MoreKnowledge"
     ],
-    "requires": "|Henry Blackbrew the Doctor (Athenaeum, Schematic, Redistribution Engine, Luminescent Mushroom Terrarium)| AND |Level 70|"
+    "requires": "|Athenaeum|"
   },
   {
     "name": "Athenaeum - Learn Lamp Posts",
@@ -3261,7 +2680,7 @@
       "Knowledge - Athenaeum",
       "MoreKnowledge"
     ],
-    "requires": "|Henry Blackbrew the Doctor (Athenaeum, Schematic, Redistribution Engine, Luminescent Mushroom Terrarium)| AND |Level 70|"
+    "requires": "|Athenaeum|"
   },
   {
     "name": "Athenaeum - Learn Flying Lights",
@@ -3270,7 +2689,7 @@
       "Knowledge - Athenaeum",
       "MoreKnowledge"
     ],
-    "requires": "|Henry Blackbrew the Doctor (Athenaeum, Schematic, Redistribution Engine, Luminescent Mushroom Terrarium)| AND |Level 70|"
+    "requires": "|Athenaeum|"
   },
   {
     "name": "Athenaeum - Learn Garden Archways & Pergolas",
@@ -3279,7 +2698,7 @@
       "Knowledge - Athenaeum",
       "MoreKnowledge"
     ],
-    "requires": "|Henry Blackbrew the Doctor (Athenaeum, Schematic, Redistribution Engine, Luminescent Mushroom Terrarium)| AND |Level 70|"
+    "requires": "|Athenaeum|"
   },
   {
     "name": "Athenaeum - Learn Large Fountain",
@@ -3288,7 +2707,7 @@
       "Knowledge - Athenaeum",
       "MoreKnowledge"
     ],
-    "requires": "|Henry Blackbrew the Doctor (Athenaeum, Schematic, Redistribution Engine, Luminescent Mushroom Terrarium)| AND |Level 70|"
+    "requires": "|Athenaeum|"
   },
   {
     "name": "Athenaeum - Learn Stately Stone Walls",
@@ -3297,6 +2716,618 @@
       "Knowledge - Athenaeum",
       "MoreKnowledge"
     ],
-    "requires": "|Henry Blackbrew the Doctor (Athenaeum, Schematic, Redistribution Engine, Luminescent Mushroom Terrarium)| AND |Level 70|"
+    "requires": "|Athenaeum|"
+  },
+  {
+    "name": "Alpha the White Wolf (Bonus 1)",
+    "region": "White Wolf",
+    "category": [ "Act 1 Bosses", "Act1Bosse", "BossBonus" ],
+    "requires": ""
+  },
+  {
+    "name": "Alpha the White Wolf (Bonus 2)",
+    "region": "White Wolf",
+    "category": [ "Act 1 Bosses", "Act1Bosse", "BossBonus" ],
+    "requires": ""
+  },
+  {
+    "name": "Keely the Frost Archer (Bonus 1)",
+    "region": "Frost Archer",
+    "category": [ "Act 1 Bosses", "Act1Bosse", "BossBonus" ],
+    "requires": ""
+  },
+  {
+    "name": "Lidia the Chaos Archer (Bonus 1)",
+    "region": "Chaos Archer",
+    "category": [ "Act 1 Bosses", "Act1Bosse", "BossBonus" ],
+    "requires": "|Tier 1 Ring|"
+  },
+  {
+    "name": "Errol the Stonebreaker (Bonus 1)",
+    "region": "Stonebreaker",
+    "category": [ "Act 1 Bosses", "Act1Bosse", "BossBonus" ],
+    "requires": ""
+  },
+  {
+    "name": "Finn the Fisherman (Bonus 1)",
+    "region": "Fisherman",
+    "category": [ "Act 1 Bosses", "Act1Bosse", "BossBonus" ],
+    "requires": "|Level 33-35|"
+  },
+  {
+    "name": "Finn the Fisherman (Bonus 2)",
+    "region": "Fisherman",
+    "category": [ "Act 1 Bosses", "Act1Bosse", "BossBonus" ],
+    "requires": "|Level 33-35|"
+  },
+  {
+    "name": "Nibbles the Putrid Rat (Bonus 1)",
+    "region": "Putrid Rat",
+    "category": [ "Act 1 Bosses", "Act1Bosse", "BossBonus" ],
+    "requires": "|Tier 1 Ring|"
+  },
+  {
+    "name": "Nibbles the Putrid Rat (Bonus 2)",
+    "region": "Putrid Rat",
+    "category": [ "Act 1 Bosses", "Act1Bosse", "BossBonus" ],
+    "requires": "|Tier 1 Ring|"
+  },
+  {
+    "name": "Clive the Firestarter (Bonus 1)",
+    "region": "Firestarter",
+    "category": [ "Act 1 Bosses", "Act1Bosse", "BossBonus" ],
+    "requires": "|Tier 1 Ring|"
+  },
+  {
+    "name": "Clive the Firestarter (Bonus 2)",
+    "region": "Firestarter",
+    "category": [ "Act 1 Bosses", "Act1Bosse", "BossBonus" ],
+    "requires": "|Tier 1 Ring|"
+  },
+  {
+    "name": "Vincent the Frostbringer (Bonus 1)",
+    "region": "Frostbringer",
+    "category": [ "Act 2 Bosses", "BossBonus" ],
+    "requires": "|Level 44|"
+  },
+  {
+    "name": "Beatrice the Tailor (Bonus 1)",
+    "region": "Tailor",
+    "category": [ "Act 2 Bosses", "BossBonus" ],
+    "requires": "|Level 41|"
+  },
+  {
+    "name": "Tristan the Vampire Hunter (Bonus 1)",
+    "region": "Tristan",
+    "category": [ "Act 2 Bosses", "BossBonus" ],
+    "requires": "|Level 44|"
+  },
+  {
+    "name": "Frostmaw the Mountain Terror (Bonus 1)",
+    "region": "Mountain Terror",
+    "category": [ "Act 2 Bosses", "BossBonus" ],
+    "requires": "|Level 53-55|"
+  },
+  {
+    "name": "Leandra the Shadow Priestess (Bonus 1)",
+    "region": "Shadow Priestess",
+    "category": [ "Act 2 Bosses", "BossBonus" ],
+    "requires": "|Level 47|"
+  },
+  {
+    "name": "Leandra the Shadow Priestess (Bonus 2)",
+    "region": "Shadow Priestess",
+    "category": [ "Act 2 Bosses", "BossBonus" ],
+    "requires": "|Level 47|"
+  },
+  {
+    "name": "Sir Erwin the Gallant Cavalier (Bonus 1)",
+    "region": "Gallant Cavalier",
+    "category": [ "Act 2 Bosses", "BossBonus" ],
+    "requires": "|Level 47|"
+  },
+  {
+    "name": "Kodia the Ferocious Bear (Bonus 1)",
+    "region": "Ferocious Bear",
+    "category": [ "Act 1 Bosses", "Act1Bosse", "BossBonus" ],
+    "requires": "|Level 33-35|"
+  },
+  {
+    "name": "Grethel the Glassblower (Bonus 1)",
+    "region": "Glassblower",
+    "category": [ "Act 2 Bosses", "BossBonus" ],
+    "requires": "|Level 50|"
+  },
+  {
+    "name": "Christina the Sun Priestess (Bonus 1)",
+    "region": "Sun Priestess",
+    "category": [ "Act 2 Bosses", "BossBonus" ],
+    "requires": "|Level 44|"
+  },
+  {
+    "name": "General Elena the Hollow (Bonus 1)",
+    "region": "The Hollow",
+    "category": [ "Act 2 Bosses", "BossBonus" ],
+    "requires": "|Level 53-55|"
+  },
+  {
+    "name": "Bane the Shadowblade (Bonus 1)",
+    "region": "Shadowblade",
+    "category": [ "Act 2 Bosses", "BossBonus" ],
+    "requires": "|Level 50|"
+  },
+  {
+    "name": "Meredith the Bright Archer (Bonus 1)",
+    "region": "Bright Archer",
+    "category": [ "Act 2 Bosses", "BossBonus" ],
+    "requires": "|Level 53-55|"
+  },
+  {
+    "name": "Meredith the Bright Archer (Bonus 2)",
+    "region": "Bright Archer",
+    "category": [ "Act 2 Bosses", "BossBonus" ],
+    "requires": "|Level 53-55|"
+  },
+  {
+    "name": "General Cassius the Betrayer (Bonus 1)",
+    "region": "The Betrayer",
+    "category": [ "Act 2 Bosses", "BossBonus" ],
+    "requires": "|Level 56-59|"
+  },
+  {
+    "name": "General Cassius the Betrayer (Bonus 2)",
+    "region": "The Betrayer",
+    "category": [ "Act 2 Bosses", "BossBonus" ],
+    "requires": "|Level 56-59|"
+  },
+  {
+    "name": "Jade the Vampire Hunter (Bonus 1)",
+    "region": "Jade",
+    "category": [ "Act 2 Bosses", "BossBonus" ],
+    "requires": "|Level 56-59|"
+  },
+  {
+    "name": "Raziel the Shepherd (Bonus 1)",
+    "region": "Shepherd",
+    "category": [ "Act 2 Bosses", "BossBonus" ],
+    "requires": "|Level 56-59| AND |Holy Resistance Potion|"
+  },
+  {
+    "name": "Ziva the Engineer (Bonus 1)",
+    "region": "Engineer",
+    "category": [ "Act 3 Bosses", "BossBonus" ],
+    "requires": "|Level 61|"
+  },
+  {
+    "name": "Ziva the Engineer (Bonus 2)",
+    "region": "Engineer",
+    "category": [ "Act 3 Bosses", "BossBonus" ],
+    "requires": "|Level 61|"
+  },
+  {
+    "name": "Domina the Blade Dancer (Bonus 1)",
+    "region": "Blade Dancer",
+    "category": [ "Act 3 Bosses", "BossBonus" ],
+    "requires": "|Level 61|"
+  },
+  {
+    "name": "Ungora the Spider Queen (Bonus 1)",
+    "region": "Spider Queen",
+    "category": [ "Act 3 Bosses", "BossBonus" ],
+    "requires": "|Level 64|"
+  },
+  {
+    "name": "Ungora the Spider Queen (Bonus 2)",
+    "region": "Spider Queen",
+    "category": [ "Act 3 Bosses", "BossBonus" ],
+    "requires": "|Level 64|"
+  },
+  {
+    "name": "Ben the Old Wanderer (Bonus 1)",
+    "region": "Old Wanderer",
+    "category": [ "Act 3 Bosses", "BossBonus" ],
+    "requires": "|Level 64|"
+  },
+  {
+    "name": "Ben the Old Wanderer (Bonus 2)",
+    "region": "Old Wanderer",
+    "category": [ "Act 3 Bosses", "BossBonus" ],
+    "requires": "|Level 64|"
+  },
+  {
+    "name": "Foulrot the Soultaker (Bonus 1)",
+    "region": "Soultaker",
+    "category": [ "Act 3 Bosses", "BossBonus" ],
+    "requires": "|Level 64|"
+  },
+  {
+    "name": "Foulrot the Soultaker (Bonus 2)",
+    "region": "Soultaker",
+    "category": [ "Act 3 Bosses", "BossBonus" ],
+    "requires": "|Level 64|"
+  },
+  {
+    "name": "Albert the Duke of Balaton (Bonus 1)",
+    "region": "Duke of Balaton",
+    "category": [ "Act 3 Bosses", "BossBonus" ],
+    "requires": "|Level 67|"
+  },
+  {
+    "name": "Willfred the Werewolf Chief (Bonus 1)",
+    "region": "Werewolf Chief",
+    "category": [ "Act 3 Bosses", "BossBonus" ],
+    "requires": "|Level 67|"
+  },
+  {
+    "name": "Cyril the Cursed Smith (Bonus 1)",
+    "region": "Cursed Smith",
+    "category": [ "Act 3 Bosses", "BossBonus" ],
+    "requires": "|Level 67|"
+  },
+  {
+    "name": "Cyril the Cursed Smith (Bonus 2)",
+    "region": "Cursed Smith",
+    "category": [ "Act 3 Bosses", "BossBonus" ],
+    "requires": "|Level 67|"
+  },
+  {
+    "name": "Sir Magnus the Overseer (Bonus 1)",
+    "region": "Overseer",
+    "category": [ "Act 4 Bosses", "BossBonus" ],
+    "requires": "|Level 67|"
+  },
+  {
+    "name": "Morian the Stormwing Matriarch (Bonus 1)",
+    "region": "Stormwing Matriarch",
+    "category": [ "Act 4 Bosses", "BossBonus" ],
+    "requires": "|Level 70|"
+  },
+  {
+    "name": "Morian the Stormwing Matriarch (Bonus 2)",
+    "region": "Stormwing Matriarch",
+    "category": [ "Act 4 Bosses", "BossBonus" ],
+    "requires": "|Level 70|"
+  },
+  {
+    "name": "Mairwyn the Elementalist (Bonus 1)",
+    "region": "Elementalist",
+    "category": [ "Act 4 Bosses", "BossBonus" ],
+    "requires": "|Level 70|"
+  },
+  {
+    "name": "Henry Blackbrew the Doctor (Bonus 1)",
+    "region": "Doctor",
+    "category": [ "Act 4 Bosses", "BossBonus" ],
+    "requires": "|Level 73-75|"
+  },
+  {
+    "name": "Henry Blackbrew the Doctor (Bonus 2)",
+    "region": "Doctor",
+    "category": [ "Act 4 Bosses", "BossBonus" ],
+    "requires": "|Level 73-75|"
+  },
+  {
+    "name": "Jakira the Shadow Huntress (Bonus 1)",
+    "region": "Shadow Huntress",
+    "category": [ "Act 4 Bosses", "BossBonus" ],
+    "requires": "|Level 76-79|"
+  },
+  {
+    "name": "Stavros the Carver (Bonus 1)",
+    "region": "Carver",
+    "category": [ "Act 4 Bosses", "BossBonus" ],
+    "requires": "|Level 76-79|"
+  },
+  {
+    "name": "Lucile the Venom Alchemist (Bonus 1)",
+    "region": "Venom Alchemist",
+    "category": [ "Act 4 Bosses", "BossBonus" ],
+    "requires": "|Level 76-79|"
+  },
+  {
+    "name": "Lucile the Venom Alchemist (Bonus 2)",
+    "region": "Venom Alchemist",
+    "category": [ "Act 4 Bosses", "BossBonus" ],
+    "requires": "|Level 76-79|"
+  },
+  {
+    "name": "Matka the Curse Weaver (Bonus 1)",
+    "region": "Curse Weaver",
+    "category": [ "Act 4 Bosses", "BossBonus" ],
+    "requires": "|Level 76-79|"
+  },
+  {
+    "name": "Matka the Curse Weaver (Bonus 2)",
+    "region": "Curse Weaver",
+    "category": [ "Act 4 Bosses", "BossBonus" ],
+    "requires": "|Level 76-79|"
+  },
+  {
+    "name": "Terrorclaw the Ogre (Bonus 1)",
+    "region": "Ogre",
+    "category": [ "Act 4 Bosses", "BossBonus" ],
+    "requires": "|Level 76-79|"
+  },
+  {
+    "name": "Terrorclaw the Ogre (Bonus 2)",
+    "region": "Ogre",
+    "category": [ "Act 4 Bosses", "BossBonus" ],
+    "requires": "|Level 76-79|"
+  },
+  {
+    "name": "Azariel the Sunbringer (Bonus 1)",
+    "region": "Sunbringer",
+    "category": [ "Act 4 Bosses", "BossBonus" ],
+    "requires": "|Level 81| AND |Holy Resistance Flask|"
+  },
+  {
+    "name": "Voltatia the Power Master (Bonus 1)",
+    "region": "Power Master",
+    "category": [ "Act 4 Bosses", "BossBonus" ],
+    "requires": "|Level 81|"
+  },
+  {
+    "name": "Voltatia the Power Master (Bonus 2)",
+    "region": "Power Master",
+    "category": [ "Act 4 Bosses", "BossBonus" ],
+    "requires": "|Level 81|"
+  },
+  {
+    "name": "Simon Belmont the Vampire Hunter (Bonus 1)",
+    "region": "Simon Belmont",
+    "category": [ "Act 4 Bosses", "BossBonus" ],
+    "requires": "|Level 81|"
+  },
+  {
+    "name": "Simon Belmont the Vampire Hunter (Bonus 2)",
+    "region": "Simon Belmont",
+    "category": [ "Act 4 Bosses", "BossBonus" ],
+    "requires": "|Level 81|"
+  },
+  {
+    "name": "Dantos the Forgebinder (Bonus 1)",
+    "region": "Forgebinder",
+    "category": [ "Act 4 Bosses", "BossBonus" ],
+    "requires": "|Level 83|"
+  },
+  {
+    "name": "Dantos the Forgebinder (Bonus 2)",
+    "region": "Forgebinder",
+    "category": [ "Act 4 Bosses", "BossBonus" ],
+    "requires": "|Level 83|"
+  },
+  {
+    "name": "Lord Styx the Night Champion (Bonus 1)",
+    "region": "Night Champion",
+    "category": [ "Act 4 Bosses", "BossBonus" ],
+    "requires": "|Level 83|"
+  },
+  {
+    "name": "Lord Styx the Night Champion (Bonus 2)",
+    "region": "Night Champion",
+    "category": [ "Act 4 Bosses", "BossBonus" ],
+    "requires": "|Level 83|"
+  },
+  {
+    "name": "General Valencia the Depraved (Bonus 1)",
+    "region": "The Depraved",
+    "category": [ "Act 4 Bosses", "BossBonus" ],
+    "requires": "|Level 85|"
+  },
+  {
+    "name": "Gorecrusher the Behemoth (Bonus 1)",
+    "region": "Behemoth",
+    "category": [ "Act 4 Bosses", "BossBonus" ],
+    "requires": "|Level 85|"
+  },
+  {
+    "name": "Gorecrusher the Behemoth (Bonus 2)",
+    "region": "Behemoth",
+    "category": [ "Act 4 Bosses", "BossBonus" ],
+    "requires": "|Level 85|"
+  },
+  {
+    "name": "Talzur the Winged Horror (Bonus 1)",
+    "region": "Winged Horror",
+    "category": [ "Act 4 Bosses", "BossBonus" ],
+    "requires": "|Level 85|"
+  },
+  {
+    "name": "Adam the Firstborn (Bonus 1)",
+    "region": "Firstborn",
+    "category": [ "Act 4 Bosses", "BossBonus" ],
+    "requires": "|Level 85| AND (|Dracula Tier 1| OR |Dracula Tier 2|)"
+  },
+  {
+    "name": "Megara the Serpent Queen (Bonus 1)",
+    "region": "Serpent Queen",
+    "category": [ "Act 4 Bosses", "BossBonus" ],
+    "requires": "|Level 85| AND (|Dracula Tier 1| OR |Dracula Tier 2|)"
+  },
+  {
+    "name": "Solarus the Immaculate (Bonus 1)",
+    "region": "The Immaculate",
+    "category": [ "Act 4 Bosses", "BossBonus" ],
+    "requires": "|Holy Resistance Flask| AND |Level 85|"
+  },
+  {
+    "name": "Collecting the Remains",
+    "region": "Journal",
+    "category": [ "JournalSanity" ],
+    "requires": ""
+  },
+  {
+    "name": "Wielding the Sword",
+    "region": "Journal",
+    "category": [ "JournalSanity" ],
+    "requires": ""
+  },
+  {
+    "name": "Mastering Magic",
+    "region": "Journal",
+    "category": [ "JournalSanity" ],
+    "requires": ""
+  },
+  {
+    "name": "Defensive Measures",
+    "region": "Journal",
+    "category": [ "JournalSanity" ],
+    "requires": ""
+  },
+  {
+    "name": "Hides of the Wild",
+    "region": "Journal",
+    "category": [ "JournalSanity" ],
+    "requires": ""
+  },
+  {
+    "name": "Into the Woods",
+    "region": "Journal",
+    "category": [ "JournalSanity" ],
+    "requires": ""
+  },
+  {
+    "name": "Gathering",
+    "region": "Journal",
+    "category": [ "JournalSanity" ],
+    "requires": ""
+  },
+  {
+    "name": "Lord of Shadows",
+    "region": "Journal",
+    "category": [ "JournalSanity" ],
+    "requires": ""
+  },
+  {
+    "name": "Fortify",
+    "region": "Journal",
+    "category": [ "JournalSanity" ],
+    "requires": ""
+  },
+  {
+    "name": "Shelter",
+    "region": "Journal",
+    "category": [ "JournalSanity" ],
+    "requires": ""
+  },
+  {
+    "name": "Getting Ready for the Hunt",
+    "region": "Journal",
+    "category": [ "JournalSanity" ],
+    "requires": ""
+  },
+  {
+    "name": "Blood Hunt",
+    "region": "Journal",
+    "category": [ "JournalSanity" ],
+    "requires": ""
+  },
+  {
+    "name": "Thirst for Power",
+    "region": "Journal",
+    "category": [ "JournalSanity" ],
+    "requires": ""
+  },
+  {
+    "name": "The First Book in the Library",
+    "region": "Journal",
+    "category": [ "JournalSanity" ],
+    "requires": ""
+  },
+  {
+    "name": "Expanding my Domain",
+    "region": "Journal",
+    "category": [ "JournalSanity" ],
+    "requires": ""
+  },
+  {
+    "name": "Building a Castle",
+    "region": "Journal",
+    "category": [ "JournalSanity" ],
+    "requires": ""
+  },
+  {
+    "name": "Waygate",
+    "region": "Journal",
+    "category": [ "JournalSanity" ],
+    "requires": ""
+  },
+  {
+    "name": "Lord of the Manor",
+    "region": "Journal",
+    "category": [ "JournalSanity" ],
+    "requires": ""
+  },
+  {
+    "name": "Servants",
+    "region": "Journal",
+    "category": [ "JournalSanity" ],
+    "requires": ""
+  },
+  {
+    "name": "Army of Darkness",
+    "region": "Journal",
+    "category": [ "JournalSanity" ],
+    "requires": ""
+  },
+  {
+    "name": "Broaden Horizons",
+    "region": "Journal",
+    "category": [ "JournalSanity" ],
+    "requires": ""
+  },
+  {
+    "name": "Blood on Tap",
+    "region": "Journal",
+    "category": [ "JournalSanity" ],
+    "requires": "|Vincent the Frostbringer (Prison Cell, Reinforced Plank)|"
+  },
+  {
+    "name": "Throne of Command",
+    "region": "Journal",
+    "category": [ "JournalSanity" ],
+    "requires": ""
+  },
+  {
+    "name": "Treasure Chamber",
+    "region": "Journal",
+    "category": [ "JournalSanity" ],
+    "requires": "|Level 33-35| AND |Nicholaus the Fallen (Treasury Flooring)|"
+  },
+  {
+    "name": "Reign Supreme",
+    "region": "Journal",
+    "category": [ "JournalSanity" ],
+    "requires": "|Can Mine Iron| AND |Vincent the Frostbringer (Prison Cell, Reinforced Plank)| AND |Grethel the Glassblower (Glass, Blood Rose Potion)| AND |Tristan the Vampire Hunter (Blood Hunter, Greater Blood Essence)|"
+  },
+  {
+    "name": "An Eye into Mortium",
+    "region": "Journal",
+    "category": [ "JournalSanity" ],
+    "requires": "|Can Mine Iron| AND |Vincent the Frostbringer (Prison Cell, Reinforced Plank)| AND |Grethel the Glassblower (Glass, Blood Rose Potion)| AND |Tristan the Vampire Hunter (Blood Hunter, Greater Blood Essence)|"
+  },
+  {
+    "name": "A Castle reaching the Sky",
+    "region": "Journal",
+    "category": [ "JournalSanity" ],
+    "requires": "|Level 61| AND |Primal Blood Essence| AND |Radium Alloy|"
+  },
+  {
+    "name": "Nightfall Steed",
+    "region": "Journal",
+    "category": [ "JournalSanity" ],
+    "requires": "|Level 61| AND |Primal Blood Essence| AND |Radium Alloy|"
+  },
+  {
+    "name": "Vampire Empire",
+    "region": "Journal",
+    "category": [ "JournalSanity" ],
+    "requires": "|Level 70| AND |Power Core| AND |Tier 3 Weapon and Dark Silver Ingot| AND |Primal Blood Essence|"
+  },
+  {
+    "name": "Soul Stones",
+    "region": "Journal",
+    "category": [ "JournalSanity" ],
+    "requires": "|Level 70| AND |Tier 3 Weapon and Dark Silver Ingot| AND |Primal Blood Essence| AND |Azariel the Sunbringer (Gold Ingot)| AND |Power Core|"
   }
 ]
