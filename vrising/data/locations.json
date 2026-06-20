@@ -3274,13 +3274,13 @@
     "name": "Broaden Horizons",
     "region": "Journal",
     "category": [ "JournalSanity" ],
-    "requires": ""
+    "requires": "|Level 41|"
   },
   {
     "name": "Blood on Tap",
     "region": "Journal",
     "category": [ "JournalSanity" ],
-    "requires": "|Vincent the Frostbringer (Prison Cell, Reinforced Plank)|"
+    "requires": "|Level 41| AND |Can Mine Iron| AND |Vincent the Frostbringer (Prison Cell, Reinforced Plank)|"
   },
   {
     "name": "Throne of Command",
@@ -3297,37 +3297,37 @@
   {
     "name": "Reign Supreme",
     "region": "Journal",
-    "category": [ "JournalSanity" ],
+    "category": [ "JournalSanity", "Act 2 Journal" ],
     "requires": "|Can Mine Iron| AND |Vincent the Frostbringer (Prison Cell, Reinforced Plank)| AND |Grethel the Glassblower (Glass, Blood Rose Potion)| AND |Tristan the Vampire Hunter (Blood Hunter, Greater Blood Essence)|"
   },
   {
     "name": "An Eye into Mortium",
     "region": "Journal",
-    "category": [ "JournalSanity" ],
+    "category": [ "JournalSanity", "Act 2 Journal" ],
     "requires": "|Can Mine Iron| AND |Vincent the Frostbringer (Prison Cell, Reinforced Plank)| AND |Grethel the Glassblower (Glass, Blood Rose Potion)| AND |Tristan the Vampire Hunter (Blood Hunter, Greater Blood Essence)|"
   },
   {
     "name": "A Castle reaching the Sky",
     "region": "Journal",
-    "category": [ "JournalSanity" ],
+    "category": [ "JournalSanity", "Act 3 Journal" ],
     "requires": "|Level 61| AND |Primal Blood Essence| AND |Radium Alloy|"
   },
   {
     "name": "Nightfall Steed",
     "region": "Journal",
-    "category": [ "JournalSanity" ],
+    "category": [ "JournalSanity", "Act 3 Journal" ],
     "requires": "|Level 61| AND |Primal Blood Essence| AND |Radium Alloy|"
   },
   {
     "name": "Vampire Empire",
     "region": "Journal",
-    "category": [ "JournalSanity" ],
+    "category": [ "JournalSanity", "Act 4 Journal" ],
     "requires": "|Level 70| AND |Power Core| AND |Tier 3 Weapon and Dark Silver Ingot| AND |Primal Blood Essence|"
   },
   {
     "name": "Soul Stones",
     "region": "Journal",
-    "category": [ "JournalSanity" ],
+    "category": [ "JournalSanity", "Act 4 Journal" ],
     "requires": "|Level 70| AND |Tier 3 Weapon and Dark Silver Ingot| AND |Primal Blood Essence| AND |Azariel the Sunbringer (Gold Ingot)| AND |Power Core|"
   }
 ]

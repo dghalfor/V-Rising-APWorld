@@ -131,6 +131,18 @@
     "yaml_option": [ "JournalSanity" ],
     "hidden": true
   },
+  "Act 2 Journal": {
+    "yaml_option": [ "Act_2" ],
+    "hidden": true
+  },
+  "Act 3 Journal": {
+    "yaml_option": [ "Act_3" ],
+    "hidden": true
+  },
+  "Act 4 Journal": {
+    "yaml_option": [ "Act_4" ],
+    "hidden": true
+  },
   "Act 2 - V Bloods": {
     "yaml_option": [ "Act_2" ]
   },
