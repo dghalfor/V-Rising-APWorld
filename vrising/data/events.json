@@ -7,7 +7,7 @@
     },
     {
       "name": "Tier 1.5 Ring",
-      "requires": "|Tier 1 Ring| AND (|Ring of the Warrior| OR |Ring of the Warlock| OR |Ring of the Sorcerer| OR |Ring of the Dawnrunner| OR |Ring of the Spellweaver| OR |Ring of the Duskwatcher|"
+      "requires": "|Tier 1 Ring| AND (|Ring of the Warrior| OR |Ring of the Warlock| OR |Ring of the Sorcerer| OR |Ring of the Dawnrunner| OR |Ring of the Spellweaver| OR |Ring of the Duskwatcher|)"
     },
     {
       "name": "Tier 1.5 Crossbow",
