@@ -2989,12 +2989,6 @@
     "requires": "|Level 70|"
   },
   {
-    "name": "Mairwyn the Elementalist (Bonus 1)",
-    "region": "Elementalist",
-    "category": [ "Act 4 Bosses", "BossBonus" ],
-    "requires": "|Level 70|"
-  },
-  {
     "name": "Henry Blackbrew the Doctor (Bonus 1)",
     "region": "Doctor",
     "category": [ "Act 4 Bosses", "BossBonus" ],
