@@ -1393,7 +1393,7 @@
     "category": [
       "Act 4 Bosses"
     ],
-    "requires": "|Level 85|"
+    "requires": "|Level 85| AND |Lord Styx the Night Champion (Bat Form, Onyx Tear, Blood Key)|"
   },
   {
     "name": "Talzur the Winged Horror (Dracula's Gloves)",
@@ -1401,7 +1401,7 @@
     "category": [
       "Act 4 Bosses"
     ],
-    "requires": "|Level 85|"
+    "requires": "|Level 85| AND |Lord Styx the Night Champion (Bat Form, Onyx Tear, Blood Key)|"
   },
   {
     "name": "Adam the Firstborn (Pedestal of the Monster)",
@@ -3124,7 +3124,7 @@
     "name": "Talzur the Winged Horror (Bonus 1)",
     "region": "Winged Horror",
     "category": [ "Act 4 Bosses", "BossBonus" ],
-    "requires": "|Level 85|"
+    "requires": "|Level 85| AND |Lord Styx the Night Champion (Bat Form, Onyx Tear, Blood Key)|"
   },
   {
     "name": "Adam the Firstborn (Bonus 1)",

@@ -171,7 +171,7 @@
     },
     {
       "name": "Tier 3 Weapon and Dark Silver Ingot",
-      "requires": "|Can Mine Silver| AND |Cyril the Cursed Smith (Dark Silver Ingot, Anvil, Advanced Furnace)| AND |Domina the Blade Dancer (Advanced Grinder), Elixir of the Blasphemous, Red Castle Teleporter| AND |Foulrot the Soultaker (Spectral Dust, Banshee)|"
+      "requires": "|Can Mine Silver| AND |Cyril the Cursed Smith (Dark Silver Ingot, Anvil, Advanced Furnace)| AND |Domina the Blade Dancer (Advanced Grinder, Elixir of the Blasphemous, Red Castle Teleporter| AND |Foulrot the Soultaker (Spectral Dust, Banshee)| AND |Primal Blood Essence|"
     },
     {
       "name": "Pristine Leather",
@@ -271,19 +271,19 @@
     },
     {
       "name": "Shadowmoon Set",
-      "requires": "|Tier 3 Armor| AND |Ghost Yarn| AND |Shadowmoon Chestguard| AND |Shadowmoon Leggings| AND |Shadowmoon Gloves| AND |Shadowmoon Boots|"
+      "requires": "|Tier 3 Armor| AND |Ghost Yarn| AND |Shadowmoon Chestguard| AND |Shadowmoon Leggings| AND |Shadowmoon Gloves| AND |Shadowmoon Boots| AND |Primal Blood Essence|"
     },
     {
       "name": "Grim Knight Set",
-      "requires": "|Tier 3 Armor| AND |Ghost Yarn| AND |Grim Knight Chestguard| AND |Grim Knight Leggings| AND |Grim Knight Gloves| AND |Grim Knight Boots|"
+      "requires": "|Tier 3 Armor| AND |Ghost Yarn| AND |Grim Knight Chestguard| AND |Grim Knight Leggings| AND |Grim Knight Gloves| AND |Grim Knight Boots| AND |Primal Blood Essence|"
     },
     {
       "name": "Dread Plate Set",
-      "requires": "|Tier 3 Armor| AND |Ghost Yarn| AND |Dread Plate Chestguard| AND |Dread Plate Leggings| AND |Dread Plate Gloves| AND |Dread Plate Boots|"
+      "requires": "|Tier 3 Armor| AND |Ghost Yarn| AND |Dread Plate Chestguard| AND |Dread Plate Leggings| AND |Dread Plate Gloves| AND |Dread Plate Boots| AND |Primal Blood Essence|"
     },
     {
       "name": "Maleficer Scholar Set",
-      "requires": "|Tier 3 Armor| AND |Ghost Yarn| AND |Maleficer Scholar Chestguard| AND |Maleficer Scholar Leggings| AND |Maleficer Scholar Gloves| AND |Maleficer Scholar Boots|"
+      "requires": "|Tier 3 Armor| AND |Ghost Yarn| AND |Maleficer Scholar Chestguard| AND |Maleficer Scholar Leggings| AND |Maleficer Scholar Gloves| AND |Maleficer Scholar Boots| AND |Primal Blood Essence|"
     },
     {
       "name": "Tier 3.5 Armor Set",
